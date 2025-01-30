@@ -52,4 +52,10 @@ Topic  11
 
 [STDS_topics.html](STDS_topics.html)
 
-Just download this file and double click on it to open in browser
+Click on link
+
+Click **Download** raw file
+ 
+![dl_hint.png](dl_hint.png)
+
+Double-click HTML in your explorer to render in browser.
