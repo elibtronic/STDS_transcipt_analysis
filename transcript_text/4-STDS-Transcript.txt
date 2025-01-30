@@ -1,0 +1,403 @@
+ep4
+===
+
+Tim Ribaric: Welcome to episode four of Steering The Digital Scholarship. This week we are going to work it through our discussion of workshops that are upcoming. But before we get into that, what I want to do is introduce our brand new co-op student.
+
+She's in the room, I promise. 
+
+Erin Daily: Yeah, no, I just, I smiled, but then I forgot that we're recording so you can't actually see it. So that's generally what I do. People point me out, just smile and wave, but they can't see me. 
+
+Tim Ribaric: The headstones would be proud. Yeah. Okay. So Erin, how don't you just mention a little bit about yourself, if you can what brought you here and why you're here and what you're working on.
+
+Erin Daily: I am, my name's Erin. I'm from, I'm coming here from Western. I'm a little more than halfway through my M L I S degree, masters of Library and Information Science. In the short time that I've been here, this is my first day of my second week or second day of my second. . I've taken on a couple different projects.
+
+I'm mostly working in the dsl, so I've been helping to develop workshop ideas and familiarizing myself with the programs and all the technologies that are gonna be covered in that workshop. So I've been doing that. I've been, I'm working on a project with the digital repository, just working on improving Brock's digital repository.
+
+So I'm working on that. I am working on, bettering my knowledge of visualization. So things like Power BI and Tableau, and playing around there and seeing what I can do and seeing what I can learn. and I also have a blog series going. I only have one entry so far, but just about my time in the DSL day in the life of a DSL intern.
+
+So bit of shameless self-promotion there. 
+
+Tim Ribaric: But yeah, what I really enjoy is that this is a podcast and someone just used the word blog. Oh, and I didn't think this would be the case when I got into the profession. So we're really breaking new ground here. Before I get to any further, I want to ask you specifically, what do you think of the DSL space?
+
+Erin Daily: Looks great so far. It's really coming along. I think once it's finally done, it's gonna be great. You have to send me a 
+
+Tim Ribaric: picture now. Alicia, do you remember back in December when we were interviewing Erin over the phone and we said, oh yeah, for sure there would be a space by the. You join us.
+
+Alicia Floyd: Absolutely. I remember promising that 
+
+Tim Ribaric: we're really eating our words on that one. Eh? 
+
+Erin Daily: Definitely. It's all right. I'm 
+
+Tim Ribaric: flexible. That's the great thing. Thank you Aaron, for being so patient with our, let's just say creative deadlines for when the space is gonna open. So now I'm gonna ask you a question about a compact disc.
+
+That sound familiar? Do you know what a CD is? I do know what a CD is. Okay. So if you were stuck for the millennials listening that missed episode one, a CD is Spotify on a piece of plastic. Okay. If you were on a desert island and you were only allowed to bring one CD with you, what CD would that be?
+
+Erin Daily: I feel like my answer to this question would change a lot depending on when you ask it. If you ask me this next week, my answer would be totally different, just cuz I change what I listen to so often. But right now, If I was stranded right this second on a desert island with one tv, it would probably be the Greatest Showman soundtrack.
+
+So good. It's like the best movie. And like all the music, like it just gets me fired up. I listen to it on my way here every day. So I love 
+
+Tim Ribaric: it. For the listener at home, Daniel and Aaron just did an ear High Five cause Daniel is all about the Greatest Showman right now. Aren't you so good? It is extremely.
+
+I 
+
+Erin Daily: love it. Good. The movie itself didn't get very good reviews though. And I was like, really? Like why? Due 
+
+Daniel Brett: to political things about the character that it was based on? 
+
+Erin Daily: No, I'm not here for politics. I'm here for the music and the music is great. So 
+
+Tim Ribaric: that's what we should write on the door of the dsl. We're not here for the politics, we're here for the music.
+
+I must say my eight and six year old also loved the greatest human. 
+
+Erin Daily: It's so good. I don't understand how anybody could not love it unless you're focusing on the politics, 
+
+Daniel Brett: but, or like the. 
+
+Yeah, . 
+
+Erin Daily: It's not really a concern of 
+
+Tim Ribaric: mine. All right. So the second important question here, who is your favorite superhero?
+
+Erin Daily: I, I don't know. I'm, right now I'm working through getting all, watching all of the Marvel movies. So right now I would say it's probably Thor, just cuz of all the Marvel movies that I've seen. All of the ones that I enjoy the most are the ones with Thor in them, and not necessarily because of Chris Hemsworth.
+
+That is a bonus. 
+
+Tim Ribaric: I'm sorry, but the incorrect answer is your mom. Your mom is your 
+
+Erin Daily: favorite superhero . I actually thought about that, but if we're talking comic books, then it's Thor, but 
+
+Tim Ribaric: yeah, see guys I, both Alicia and Daniel are laughing historically. Historically, pardon me, because this is the second time I've used that joke.
+
+Daniel Brett: I like laugh, laughing. Historically
+
+Tim Ribaric: that's also pretty cool. I don't know what you, that's much better what you think about something that's happened and then start laughing or you just laugh the way people used to laugh. , I guess that's a research topic we should undertake in the DSL on it. So Aaron, you mentioned the term visualizations.
+
+, can you expand upon what that means to you or what work you've done in that so far? So 
+
+Erin Daily: I've been, visualizations to me, taking data and kind of making it more interesting and making it, like telling a story through data and making it easier for somebody to interpret and easier to see where the patterns are and what the story is, so I've been working a bit mostly with Power bi but a bit with Tableau as well. Mainly just because I personally find Power BI a little more user friendly. Especially for somebody who coming from an English background, cause that's what my undergrad is in, I haven't worked with a ton of numbers and I don't work with spreadsheets and all that kind of stuff super often.
+
+So I find Power BI is a lot easier to jump into. Whereas Tableau, I find I have to jump back and forth between the tutorial and what I'm doing to figure out what's going on. Yeah, it's been especially interesting with this Aha Christie thing that I've been working with you're still in the beans.
+
+I know. I know. We're gonna get into that later, so I won't say too much right now, but 
+
+Tim Ribaric: Yep, that's right. Dear listener. And we'll be bringing up the Aha Christie story. Once again, that's where our bread and butters, or. Butter is breaded or no bread is buttered without story.
+
+Yep. Yep. We're a little little punchy here. Whatcha gonna call it Mr. The Right. Honorable Justin Trudeau is gonna be on campus today, so we're all just giddy with excitement and just laughing and kicking around like little school children. So we're all excited for that. So we're gonna transition a little bit now to discussion about our workshops and what workshops we'll be having.
+
+So last Friday we took some time, or last week I should say, we took some time sort of sitting around, coming up with a slate of workshops that we could. put together for the semester to keep ourselves in the community eye make sure our skills are up to snuff and generally just to keep the name DSL on people's lips.
+
+So we came up with some interesting stuff and I think we have a pretty good plan for what this semester is gonna look like. What do you think, Alicia, what do you think about how the semester's gonna roll out with all our workshops as you're the sort of logistical support for our workshop settings and you're deeply involved in running some.
+
+Alicia Floyd: So far, I think it's great. We have a great plan. I'm really happy that we're planning out the entire semester, and I think we'll probably do that moving forward. We actually have one workshop being offered, one workshop, minimum being offered every single week of the entire semester. There's some great things going on and all of it's available.
+
+All the workshops that are available for you to look at experience. and you can also just email us if you're interested. But it's great to have a plan and it's great for people to see all of the different things that we offer rather than one workshop at a time. So I'm excited about it. 
+
+Tim Ribaric: And you will be running some workshops too, right?
+
+Is that correct? 
+
+Alicia Floyd: Yes. I will be starting with the Zotero workshop, which is the citation management. I'm really excited about that one and kind of wish I could travel back in time to when I was a student and be able to use the Zotero instead of, scratching out my references on pieces of paper. I sent out some social media posts today to see where other people are tracking their citations right now and got some response.
+
+There's some different options out there, but in passing, some people in the hallways have mentioned that they're definitely. Note keepers on little pieces of paper all over the place. So hopefully this will offer some better solutions. And then Erin and I are gonna be working together on a coup on developing a couple.
+
+One is the Open Refine workshop, which is also part of the library carpentry, so some people may be familiar with Open or final Ready. And as Erin mentioned, we're going to be doing a Power BI workshop. and through our planning of these workshops, we're going to develop, hopefully for next semester an introduction to data visualization workshop.
+
+So just getting out there and letting all of the people in the broad community know of different ways they can use these tools to create data visualizations for their research or projects or present. 
+
+Tim Ribaric: Very cool. Now, Daniel, what are you on the hook for? What are you looking forward to doing this semester with workshops?
+
+Daniel Brett: This semester I have two DSL level workshops, which is the level one Python which will then be followed up by level two Python, which you're doing. And that's gonna be exciting for me just because. I'm still a very fresh beginner with Python. I was actually just running through tutorials again today as I've been doing almost daily, just so I have it in my head.
+
+I can answer questions when people ask. So I'm excited about the Python one, and the other one that I'm doing is R. So I have never used R before, ever, so luckily I've got a few weeks to. To figure out how it works in order to teach it to others. It'll be very exciting. And a fun learning experience.
+
+And then on top of that we have our software carpentry two day bonanza coming up. We still have yet to split up who's doing what in there, but I'm looking forward to running some things as an official instructor, assuming I pass my instructor training cuz it's. I think one week before is the last piece of my instructor training checkout, and I have to make sure I put up a good show and pass it.
+
+Otherwise, the next week I'm gonna be a helper instead of an 
+
+Tim Ribaric: instructor. this broadcast brought to you by the Software Carpentry Foundation, This, along with every other episode record, we record is sponsored in part by the software Carpent. Your woodworking based library or technology instruction, platform of choice software, carpentry, when you have everything hammered.
+
+Everything looks like a nail. That's where I'll stop. , that was 
+
+Daniel Brett: a little bit passive 
+
+Erin Daily: aggressive. Should hire you for their marketing. Yeah, that was great 
+
+Tim Ribaric: actually. I, I. Correct check myself because I'm indebted to what software carpentry has done and we borrow I'll say the word borrow as opposed to something else.
+
+We borrow heavily from the curriculum they develop, and we love hosting sessions sanctioned, fully sanctioned carpentry sessions, and we're looking forward to doing those quite often. So anyways, I'll now pass the mic to Aaron. Aaron, do you have any other workshops that you're working on that you'd love to talk about or chat?
+
+Erin Daily: Alicia mentioned power BI and Open Refine. I'm definitely looking forward to those. The the intro to data visualization is also gonna be cool. I may not be here when it happens, but it'll be cool for me to develop that. And I've really been working a lot with data visualization and familiarizing myself, so I feel like I'm getting to a point where I could imagine myself teaching it, to somebody.
+
+I also will probably take on a Zotero workshop at some point. I don't know, I don't know the date off the top of my head that's gonna be, but again, like Alicia said, I feel if I had known that Zotero was a thing, even just in my first two semesters of grad school, it would've been really helpful because I'm one of the people that jots everything down on a piece of paper, but I go by nicknames that make no sense.
+
+So when I'm trying to find my citations later, I'm like, what is that? I have no idea what that is. Zara is one of those things that I definitely would've wanted to have during my undergrad and also the first two semesters of grad school. So I'd like to run a workshop about that as well. 
+
+Tim Ribaric: You bring up an interesting point, Aaron, that I hope maybe the four of us can talk about a little bit, is the idea of not knowing the stuff and whose responsibility was it in the first place to tell you what these things were So like, , I've always been, let's say, like self-directed with learning about technology, and I always think, oh, technology is easy.
+
+Why would you fret about trying to teach it or learn it, or, Try to figure out exactly how something works, you just go out and do it. What do you guys think of that approach? Would you let me see if I can restate that. Instead of being like, like waiting on someone to tell you like, Python is something you should do you just go out and say today I'm gonna learn about a programming language and I'm gonna pick Python for the sake of it.
+
+Is that sort of distinction track with you guys? Or am I just barking up the wrong tree? I have 
+
+Daniel Brett: to say that proactive attitude. To go out and find things is not an attitude I myself, I've ever experienced until this job, of course that has, has encouraged that and built that attitude in me.
+
+Just I, at no point in my schooling did I feel like I needed to go out and learn anything that wasn't being taught to me. But now, from the top looking down, I see all the things that it would've been great to have, and it would've been nice if I hadn't missed. So I feel like in part it's on the teachers to really foster that attitude more than feed you all of the pieces.
+
+But it's also on the learners. So you really have to want to learn. And I think that the issue is that we're just not being taught to learn. We're being taught specific things. 
+
+Tim Ribaric: That's a very interesting pro. on account of the fact that the old chestnut of you go to university to learn, but you go to college to learn stuff.
+
+So are you saying that this university or universities in general have let people down in that regard? Not even universities. 
+
+Daniel Brett: Even like grade schools and high schools where your formative years, where you're learning how to learn, you're not being taught how to learn. You're being taught specific things that have been decided by some council somewhere that this is.
+
+You need to know, instead of going out and finding what you want to know or what you think would be helpful for you and then by the time you reach university, in order to even get into university, you have to have some sort of idea. You need a little bit of a proactive attitude in order to even pick a vein.
+
+So what are you going to university for? So just by, by taking that step and getting into university itself, I feel like you've already made the first step towards that proactive. So I'm thinking more pre university is where you really need that attitude to be fostered. Because by the time you get to university, like yes, you're proactive enough that you picked a course that you will likely be interested in and therefore be more motivated in learning about it.
+
+But if you haven't had that attitude fostered in you, then you're not gonna be as successful, 
+
+Tim Ribaric: I don't think. Interesting. What's your take on this, Alicia? I'm of two minds 
+
+Alicia Floyd: about this question. My first is maybe from the perspective of a student and I guess that old, if a tree falls in the forest, can you hear it?
+
+Thing is coming to mind is as a student you ha you have to think back to when you're a student, you are completely swamped. You're so busy, you're trying your hardest, you're probably working a part-time job. There's a lot of pressure and you're I feel like you're at the mercy of your.
+
+and you've chosen, at the age that people are asked to pick what they wanna do for the rest of their life. Making that decision is big enough in itself. So trying to get in that door and working towards your future is a big step. So thinking outside the box and thinking, okay, what else can I learn that they're not already showing me?
+
+I don't think it's as easy as it might seem from our perspectives now as adults. We're in the field and we're working and I've been in roles where I was so excited about the work that I was doing, that I was very motivated to learn new technologies and new methods of doing a task or what other people are doing and going to other organizations and let's see what they're doing.
+
+Cause I wanna do something new and different. So I think when you transition from being a student to an adult, you have that Hindsight's 2020. . Things are different now too. There's just so many ways of getting information. So I think as a student now, it might be easier. They're being bombarded, if they're following us on any one of our social media platforms, you're gonna see all of these different things available.
+
+But are you following the right things? And are you attuned to everything that's going on campus? I'm not sure. So I'm, like I said, I'm of two minds, but I can see where students are coming from that it's hard. , think outside of what your professors are showing you and telling you have to learn.
+
+And as adults, I think that we're probably more motivated to, to learn extra things. I know when I was a student, the extra things that I was seeking out, the extra information I was seeking out was typically related to my personal interests or hobbies. So Erin, you might relate because you are, your undergrad is in the same thing as me, but.
+
+Interested in learning more about creative writing and arts related things. And those were the things that I was seeking out rather than the technology that was actually gonna help me earn my degree, 
+
+Erin Daily: unfortunately. 
+
+Tim Ribaric: Interesting. See, the, before I ask you the same question, Aaron, I'll just jump in and say I enrolled in a program here.
+
+At Brock as an employee and taking it part-time. And when I went to school, again, I love the idea of structure. You get a syllabus at the start of the year and you look at the professor and say, that's all I have to do is hand you four assignments and write two tests, and that's all I need to be assessed on for this four months.
+
+By all means, bring. I guess what I'm trying to say is I love the structure of school and the top to bottom, beginning to end. It's all articulated very nicely for you. , which is my way of saying I wish I was back in school still. , but like this sort of old man in the room because the first few times I went through school I had a wallet with a chain on it and I was very grumpy and I smoked cigarettes and things.
+
+So I don't wanna be that guy going through school again. I want to be like the a attentive senior or attentive returning to school adult ed person who's really wants to learn the. So that's what I'll say 
+
+Alicia Floyd: anyways. I don't think you should bring back the 
+
+Erin Daily: wallet chain. . Yeah, . 
+
+Daniel Brett: My 
+
+Tim Ribaric: wallet has a chain over there.
+
+Yeah. But it doesn't dangle down to your 
+
+Erin Daily: knees. Exactly, 
+
+Tim Ribaric: that's true. It was it was the late nineties early aughts. So that's how I'll explain my behavior. It's cuz it was that era for the listener at home. I'm shaking my head back and forth, anyways. Aaron, what's your take on it?
+
+I think it's, 
+
+Erin Daily: I think when you think. High school and grade school and kind of leading into university. I think it's hard to take responsibility for your learning because there's so much handholding that kind of goes on in high school. If you don't hand something in on the due date, you know your teachers, they hound you.
+
+It's you haven't handed this in yet. I still don't see this from you. They're very on top of you, and then you go to university and all of a sudden it's, you're on your. , so I think when you grow up having teachers and educators really hold your hand through everything, be like, Hey, this is what you're learning.
+
+This is how you're gonna learn it, and this is how everybody does it, so this is how you're gonna do it. And a lot of it is, it's memory, like it's really an exercise in memory than it is in learning. You learn the Quadri formula, you remember it long enough to be tested on it, and then, forget and you never think about it again for the rest of your life.
+
+At least that's what I did, . Me too. You 
+
+Tim Ribaric: still remember what it was called, which I can't say that I know I 
+
+Erin Daily: could not tell you the quadratic formula if my life depended on it, but that's the point, and I think going back to what Alicia said about interest, it didn't interest me.
+
+So I didn't really care to learn beyond what I needed to do in school. And I. now that I like moving on to my undergrad and even onto grad school where it's more my interest. There were times when I would look into things that I had learned in school that I maybe wanted to learn more about and then bring it to my professors and say, this is what I found and what are your thoughts because you have a PhD in this and I want to know what you think.
+
+So I think the responsibility lies on both. I. professors and teachers should have faith in their students and treat them more give them more responsibility. Don't take as much of the learning into their own hands and don't make the learning their responsibility. It's cuz it is on the student.
+
+And yeah, I think students, they have an easier time taking their learning into their own hands if it's something that interests them. Cuz I know that's how my experience. 
+
+Tim Ribaric: I think what one, the only thing I could possibly add to this, I think back about my life in school and when I excelled at it, when I didn't, when I could care less about going into class in the morning.
+
+But I think this this is not gonna sound soft or correct, but when I went to grad school, that's when I finally realized that, school is interesting because you just have to get to a point. You're looking at something that's very interesting to you. So like I've, went through four years of my undergrad.
+
+I went through library school and then ever since high school, one of my bucket list things was get a master's degree in computer science. And I guess when you embark upon something with that in mind, it's a different experience because my supervisor very. A bright, amazingly smart lady gave me free reign to determine what my thesis project would be, and she didn't really push me in any direction and allowed me to really experiment with stuff.
+
+And lo and behold, after 16, 18, 20 months I think it was, I finally wrote a thesis and it was quite the experiment and quite the experience. It's it was such a narrow research topic that probably only I will. Remember I'm not even re, I don't even remember the specifics of it and I just know it'll be lost to the ages.
+
+But it was a very fun endeavor that I'm very happy for having done and had the opportunity to do even though it's not gonna, get anywhere or change any lives, wow. Okay. So I wanna circle back around to something you said, Daniel, about. . Now, what is r is like a pirate language, right?
+
+Where you can commande your ships and steal plunder. 
+
+Daniel Brett: That's my understanding as well. It's mostly just learning how to speak to the people that sail around in those big big, massive ships with the skull, CrossBoss and all that, the. It's, but they all use computers now, so you have to learn the language of how to talk to the pirates.
+
+Tim Ribaric: So I imagine Daniel, everyone has to wear like very silk, like ornate silk costumes with big hats. And plus if you have a pirate on your, or a parrot on your shoulder and a eye patch, stuff like that, it 
+
+Daniel Brett: doesn't actually have to be a par. Traditionally, pirates have just a small animal on their shoulder. It could be anything.
+
+Like for me, I monkey 
+
+Erin Daily: I was gonna say Jack 
+
+Daniel Brett: Sparrow had a monkey. Exactly. Exactly. Monkeys. They're traditionally, there've been actual pirates with. On their shoulders, although not like cute ones like my lizard, but big, like monitor lizards and then of course parrots and seagulls and various other birds.
+
+There's pirates that are known for falconry. 
+
+Tim Ribaric: Do you want to give a shout out to your lizard? Absolutely. 
+
+Daniel Brett: My adorable baby. You can see him on Mastodon. He's my pride and joy . His name's Calper. He's a bearded dragon. 
+
+Tim Ribaric: He's. Yeah. Alicia and Erin we're gonna have to take a look at the pool, but whoever had 26 minutes into the podcast before Daniel brings up his lizard, wins the when's the money
+
+But to get back to what you were mentioning about r and figuring it out before you give the workshop, what's your feeling on that? Do you feel like you have to become like a top to bottom master or just enough to stay one step ahead of the people in. 
+
+Daniel Brett: One step ahead is usually how I go, i r is to my understanding, just a super calculator.
+
+So it's it's a programming language preferred by business types, so that should tell you what kind of, of language it is based on. So it's a lot of numbers and letters and can do mathematical things a lot more powerfully than some other languages. Therefore, I am going to be very unfamiliar with it, and I will likely not enjoy it , but I will definitely master it to a point that I can teach it and be responsible enough to get other people to where we want them to be by 
+
+the 
+
+Tim Ribaric: end of the workshop.
+
+Now going through this process or doing this, does it fill you with any amount of anxiety or stress to just know enough to get by? Oh, 
+
+Daniel Brett: not at all. I. Thoroughly enjoy learning new things. And I'm always very confident once I learn it, and if I make a mistake, I'm more than happy to admit my mistake and move on.
+
+So public speaking has never been something I'm anxious about and this is just another form of 
+
+Tim Ribaric: public speaking. Interesting. Now I'm gonna ask you the same question, Alicia, but I have a feeling that you'll have a very different 
+
+Erin Daily: response. 
+
+Alicia Floyd: I have a totally different response. I don't have any anxiety about public speak.
+
+But I like to be the master of something before I teach it. And totally the master. I need to know every single thing about it. And if I don't, then that's when I have the anxiety about it. And the way I become a master of it is to have to use it in my everyday tasks. So the tricky thing with some of the things that we're teaching is that in our day-to-day work, we aren't necessarily, I personally am not necess.
+
+Using Python in my day-to-day work. So for me to learn that and teach it would be very difficult. I've taught workshops in the past where it's something that I developed for our workplace and I'm completely knowledgeable about it front to back and that's no problem. But yeah, as soon as it comes to something that I've had to learn specifically to teach, it's a little bit nerve wr.
+
+Tim Ribaric: All right, so Aaron, same question. Do you fall in the Daniel camp, the Alicia camp or somewhere in the middle? 
+
+Erin Daily: I think I'm middle, but leaning towards Alicia. I totally agree with the sentiment of not really panicking if I make a mistake. And I think being in a teaching role, it's a good way. To learn from the people that you're teaching, if that makes any sense.
+
+I don't like being the smartest person in the room. That makes me really uncomfortable because that makes it feel like I can be dismantled in an instant. Somebody asks one question that I don't have an answer to, and all of a sudden I come crashing down. But on the other hand, I do also like to be familiar.
+
+Something that before I attempt to teach it I wouldn't say I, I like when you said one step ahead of the people that you're teaching. I would say I prefer to be maybe three or four steps ahead. Maybe not know everything, but be ahead enough of the people that I'm trying to teach that I can feel more confident.
+
+And I also don't really have an issue with public speaking. I did, I always used to hate speech season when I was in elementary school, but, I've moved past it, I've done enough presentations through school where I can just keep my head down, get through the presentation, and I'm good. 
+
+Tim Ribaric: One of the to answer this question, I think one of the the ways that I really enjoy the anxiety, I don't know, I like the stress of needing to perform or being put on the spot.
+
+That's a good way to describe it, being put on the spot. So last year, and about for a year and a half I was doing workshops for our makerspace here. Similarly about the Python programming language. And I would just put in a brief description into our event booking platform. Come on down, learn a bit about Python.
+
+Here's some stuff we might cover. And I literally had a page of. And some stuff that I wanted to make sure that I would cover. Then I would just get to the front of the room and ask everyone in the class what they know about programming and their familiarity with Python. And then I would just do jazz.
+
+I would just improvise for an hour. . And sometimes it went well, sometimes it went really bad, but it was such an experience and I really enjoyed that. That's good for me to say and I enjoyed it, but I don't know the people that took time out of their day to sit down and learn about Python.
+
+But instead, were hearing me talking about why screen scraping is, where you should put all your eggs in that basket kind of thing. . I guess I come down squarely in the side of Daniel's camp of the challenge is good and putting a little bit of a fire underneath you is okay to motivate you.
+
+And then if you're wrong, it's okay to say you're wrong or to seek help in the crowd too. That's another useful path or useful way to divert attention, is to ask everyone in the classroom if they know what the answer to the question is. Okay. I'm gonna ask, we're gonna play a game here guys.
+
+I'm going to give you a phrase and you give me one word response to it. Okay? So this is like a roshak test. Instead of like a painting, you get a phrase. Okay? Aaron, I'm gonna say fake it till you bake it. It's like my life philosophy. Sorry. That's more than one more. I was gonna say 
+
+Erin Daily: one more lifestyle.
+
+Tim Ribaric: Very nice, Alicia. Fake it till you make it
+
+panic. Daniel, what is the fifth number of pie? One. All right. Second question. You're in the bonus round. Fake it till you make it.
+
+One
+
+That was the correct answer. Oh, I gotta sit down now. Wow, that was impressive. Okay. All right. I'm flummoxed. I don't know where to go from that one. So what's your one word? Oh, thank you, Alicia for ing that let's see. I didn't anticipate this fake it till you make it. Let's say. Let's say I'm vamping for time here.
+
+I don't want dead air on the recording. Fake it till you make it, and I will go with the next word outta my mouth will be my response to that. And what I will say is my answer, which is coming up just next . And I will say, 
+
+Alicia Floyd: you're clouding your thought process. Am 
+
+Tim Ribaric: I? Yes. I should just, I should zen out.
+
+Yeah. And then the answer would come right to me. Fake it till you make it.
+
+Authenticity. That's a good one. 
+
+Daniel Brett: What is in fact, a 
+
+Tim Ribaric: single word? It is. I finally accomplished the assignment. I'm gonna hand it in now and see what kind of marks I get for it. B minus . That's a pass. I'll take it. All right, so we've deliberated on our workshops and workshop planning and stuff.
+
+Is there any last words you guys want to. Throw out there before you move along. I'm thinking particularly what are your thoughts on, workshops as a way of imparting knowledge? Do they actually do what they're supposed to, or I guess, let me put it this way. I always think workshop pretty much just introduces people in the room to the topic.
+
+They don't necessarily leave with knowledge of it, just the idea of what it. Or what the idea is behind the thing you're talking about? When I run a thing on Python, I don't expect anyone to leave the room and suddenly fire up an interpreter and start typing in Python. I think I just leave the seed of an idea that Python might be something they'll wanna look at in the future.
+
+what are your thoughts, Daniel, on that kind of approach? Or do you think the workshop has more of an intrinsic value that people actually walk away fully engrossed and knowledgeable about what it is you're teaching? 
+
+Daniel Brett: I think that when somebody walks through that door, they are going to learn what they want to learn, so they come to that workshop either because they have a preexisting interest in that and they want to deepen that.
+
+because they're curious and they just want to know more. Or because they were forced to for some reason or other. And each of those three different people is gonna get a completely different experience and they're gonna walk out with something completely different than each other. So somebody who's coming in expecting to learn a new technology is going to learn a new technology.
+
+Somebody who's coming in because they were forced to be. They are going to likely just blank out for a good chunk of it. They're going to now know a word that represents a program and they'll become part of their vocabulary. And that's probably the best we can hope for. And then there's the people who already understand it and they're coming in to maybe glean something.
+
+and they'll pay very close attention and they might learn something, some little new tidbit, and at the very least they'll re solidify the basics of that program. So I feel like my answer in short is people will get what they came for when they come to a workshop. 
+
+Tim Ribaric: Yeah. I was gonna characterize your statement as whatever expectations they have in their mind will inform what they.
+
+It. What about you, Erin? What's your take on the discussion of workshops as a way of learning? 
+
+Erin Daily: I think it really depends on the instructor and how they approach teaching of a workshop. I think if you go into it with the mentality of, I am the genius and you're all the peasants who know nothing, like I'm here to impart my wisdom on you.
+
+I think that can set up a scenario where it feels like, like you don't wanna set up the people who take your workshop to feel inferior because they don't know this technology. They're there to learn and they're there because they're interested. And I think if you if you appeal to their interest and appeal to the fact that they're there to learn and they're there to increase their knowledge about something, Put yourself on the same level as them.
+
+I think workshops can be really effective, but I think it really depends on the instructor, because I've been to great workshops where I've learned a lot, and I've been to workshops where I leave and I'm like, I have no idea what I just learned. I have no idea why I even did this. So yeah, those are my thoughts.
+
+Tim Ribaric: Very cool. What about you, Alicia? 
+
+Alicia Floyd: I think that of, when I think of a workshop, I think. It something hands on and specific and quick. That idea of going to a workshop for a limited amount of time and leaving with something to take home with me. So whether, like you said, whether it's a seed of knowledge where it's, I'm either gonna wanna grow it or leave it behind, I'm not sure.
+
+But I think workshops in general are useful personally. . It's a quick, easy way to learn something new and to have some experience that you might not have had before. And what I like about the workshops that say we offer in the Digital Scholarship lab, or what the library offers or maybe other departments is that it's not exactly a course that someone signs up for, but we talked about this earlier in the podcast of whose responsibility is it to find something new to learn?
+
+What I like about our work. is that we're saying, Hey, here's something new that you might not have thought about and we're just gonna give you the intro level right now and maybe it'll pique some curiosity. So most of the workshops I've been to in the past, that's what it was. It was because I was curious and I wanted to see if it was something that I could pursue and it sometimes you do and sometimes you don't.
+
+But what I like is that you leave with something. It's not a long-term learning experience, but you always leave with . 
+
+Tim Ribaric: Very good. All right,
+
+so now we're up to our next section, our official section of the podcast, and that's upcoming events. So I took a look and we have far too many each name. and particularly if we want this podcast to be timeless and shot into a capsule, into space, that's probably best. We don't fixate too much about time and when things happened, particularly when the ancients will be listening to this hundreds of years from now.
+
+The only thing I will do with respect to actually bragging about something is encourage you all to check out experience bu to have a look at what we have listed there, but then also encourage you if you're listening to drop us a line at dsl@brocku.ca or through our various other means of social media to let us know if there's a gap, if there's something we should be doing that we're not doing, I would really love to hear from you.
+
+So with that, let's drop the.
+
+And oh, before we sign off for the day, let me just ask one more round of questions. 2019 promises to be an interesting year. Daniel, what's your what are you looking forward to the most in 2019? 
+
+Daniel Brett: I'm looking forward to seeing the digital scholarship lab. That is something I'm very excited.
+
+That's my work goal, personal goal. I want to become a magic, the gathering master and take over the world . 
+
+Alicia Floyd: So by 2020 you'll have taken over the world. Got 
+
+Tim Ribaric: it. Yeah. Remember your friends in the dsl when you become, I don't know, I would imagine really rich as a magic master. ? No, not even a little bit
+
+Erin Daily: You'll have all that pirate gold. Oh 
+
+Daniel Brett: yes. For my R 
+
+Tim Ribaric: workshop? Yes. Will you be able to buy us a pizza at least, potentially. Oh, free pizza from Daniel. Everyone. You heard it here. 2020 . Alicia, same question. 2019. What are you looking forward to this year? 
+
+I 
+
+Alicia Floyd: am looking forward to everything new. This is still a new position for me here at.
+
+Like Daniel said, I cannot wait for the space to open. Everything is going to be changing for all of us. New offices, new computers, new tasks, new projects, and I just can't wait to see everything that we're going to do. I'm really excited about it. 
+
+Tim Ribaric: Very cool. And now Erin, what is your favorite pie? 
+
+Erin Daily: My favorite pie?
+
+When I listened to the episode where you guys talked about it, it seemed like the general consensus was. . But for the sake of being controversial, I'll say that my favorite pie is strawberry rhubarb. Oh 
+
+Tim Ribaric: gosh. All right. Listener at home, we're gonna have to shut off this podcast now because there's just a hanging chill in the air we can't possibly continue on.
+
+But in any case, thank you for listening and we'll see you in episode five or of why.
+

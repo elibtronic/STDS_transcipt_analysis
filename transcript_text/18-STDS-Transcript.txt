@@ -1,0 +1,423 @@
+Ep18
+===
+
+Daniel Brett: Hello and welcome to episode number 18 of Steering the Digital Scholarship. I'm Daniel, and I will be the acting captain for today. So today we will be delving deep into each of our personal histories, but that doesn't mean we should skip the classic icebreaker question. So today's question is, What is your favorite drink, like liquid that you consume?
+
+Tim Ribaric: Water. It goes with everything, and you can drink it any time of the day if people don't look at you. Funny. I would've 
+
+Daniel Brett: expected more, but I'm happy that somebody said water, Alicia. 
+
+Alicia Floyd: Okay, so my answer is just as boring, but it's carbonated water. But if you want something better, And you guys know the story, but our listeners don't.
+
+I really like making homemade, unsweetened iced tea. Oh yeah. It's very good. And friends of ours, I served it to them once and they called it Blackwater of Death cuz it tasted so bad with no sugar. So now we call it Blackwater of Death. So that's my favorite. I'll go with that. 
+
+Tim Ribaric: Actually, I need to Rene on my answer.
+
+Oh I am particularly fussy with the way I produce coffee at home. So it's not just like a drip coffee maker an off you go. I have no less than eight different ways of making coffee at home, and all of them are like manual. They're not like powered, or there's no keur eggs in my house. A cure egg is a four letter word in our house.
+
+So I have an arrow, press a French, press, a mocha pot, a Turkish coffee. And I'm sure others, but that's what comes to mind. So I'll have to say coffee is my favorite drink because I can fuss over it and turn it into a big ceremony when I make it and drink it at home. Nice. That's 
+
+Alicia Floyd: fair. So you have coffee and Blackwater of death?
+
+Daniel Brett: Mine is and has been for a very long time, a drink called Iron Brew. Ah, yep. I know what Iron 
+
+Alicia Floyd: Brew is. I don't 
+
+Daniel Brett: know what that is. I served mostly in the UK and some parts of Europe. It's. It's it's just like a local pop from uk. You can find it in all the pop machines and everything or soda or whatever they call it.
+
+And it's flavor is unique and I love it. And would you 
+
+Alicia Floyd: compare it to something here? Is it close to a Coke or, it 
+
+Tim Ribaric: is iridescent orange, but it does not taste orange. 
+
+Daniel Brett: Yeah, that is a very good way to describe it. Yeah, it is. See through. Orange. So it's like, it looks like something toxic. The flavor is I don't know, it tastes like a brown pop mixed with cream soda uhhuh.
+
+Tim Ribaric: Interesting. Yeah, I would agree with 
+
+Daniel Brett: that. Yeah it just a generic brown pop flavor, but mixed with cream soda and then it's clear orange. But either way, I every holiday we go to the Scottish and Irish store and we buy a case of Iron Brew and no one's allowed to touch it cuz it's mine. You may have to 
+
+Alicia Floyd: bring us in a sample.
+
+I 
+
+Tim Ribaric: might do that. And Brew is spelled b r u. Really? I r n Drive it home? Yeah. 
+
+Alicia Floyd: Oh. So now you're really messing with 
+
+Daniel Brett: me Here. It's spelled I R N B R U. Wow. It's like Aaron Brew Arbr. Yeah. It's like I'm watching an 
+
+Tim Ribaric: episode of the Dairy Girls. I don't know what that is. Oh, that's a deep north Ireland where everyone has accents and say things weird.
+
+Daniel Brett: Oh that is my favorite drink. Interesting. All right. As far as icebreakers close, I feel like that was successful. Moving on now, as I'm sure you all know by now, the Barack University Digital Scholarship Plan is the place to go when you are looking for technology to help you with your projects and in your research.
+
+Today I would like us to think a bit about the steps a researcher takes that lead them to the DSL and where they go after they leave.
+
+So the word research generally holds a lot of weight around a university. It's a big deal when I hear somebody talking about their research, I'm doing air quotes. I find myself instinctively treating it as a big. But not all research is world changing studies backed by massive grants. Our good friend Wikipedia, defines research as creative and systematic work undertaken to increase the stock of knowledge and the use of this stock of knowledge to devise new applications.
+
+So in a nutshell, acquiring existing information to help discover new information or. To show how not all research needs to be big time consuming and heavily funded. Today, we are going to go through the entire research process from start to finish in the span of this episode. So let's get going. The first step in research is to have a question that you need answered.
+
+So our research today will be focused on answering the question of who among us has had the most pets? But most research is a bit more in depth than that. Often having multiple related research questions that all combine to make a educated new knowledge pool. So we are also going to include who had the most different types of animals as pets and who loves animals the most.
+
+Tim Ribaric: That's a subjective quality. I don't know how you're gonna measure that using science. Oh, that's 
+
+just, 
+
+Daniel Brett: I'm looking forward to this. Okay. That's the idea of research is that's something that we don't know. And now we are going to go through the steps of research to discover the answer to these questions.
+
+So now that we have our research questions, we need to collect all of the relevant data. This leads to the second stage of research, which is planning. And data collection. So to start with, we need to figure out what data we think we will need and how we're going to collect it. So this is the discussion portion.
+
+I want you two to think what data would be required to answer these three questions 
+
+Tim Ribaric: of, okay. I guess my first question is, who's involved? Have you? Your research ethics board of approval on this whole process? First? No. That's a step 
+
+Daniel Brett: that comes later. That is Jess. We are the research ethics board of approval for this subject.
+
+Tim Ribaric: We get to play God here. I'm looking forward to this. So my first guest, Daniel, would be to identify our population of people that we're willing or hoping to ask of their pet history. Okay. And then once we devise that, Contact those people. Provide them informed consent to let them know that we'll be collecting information about them, and then ask them their pets and quantity of pets and like heart scale for maybe how much they love their pets.
+
+If we're looking at who loves their pets the most, a like heart scale, that's the one to five, strong, neutral, strongly agree, agree, strongly disagree, 
+
+Daniel Brett: disagree. Alicia, do you have anything to add about. 
+
+Alicia Floyd: Sounds pretty good. Sounds pretty good. I guess another way to see who loves their pets the most is you could potentially take a page out of Tim's book and try to do some sort of sentiment analysis on interesting, maybe social media posts about their pets, which you would probably not be allowed to do because maybe it's unethical to get access to people's personal.
+
+Accountants, but you could ask them to write something, write a blurb, do some text analysis. No, 
+
+Daniel Brett: I don't know. Interesting. Okay. So by the sounds of it, we're looking at something along the lines of a survey effectively that we would send out to people. We'd be asking probably total number of pets that they have had in their life.
+
+The number of different types of pets, cuz these are the questions and then the love value on some sort of. What sort of scale makes sense? Like you, you said that there's this like heart scale. Would it be better to do like a one to 10, one to a hundred, one to a thousand? I don't know. 
+
+Alicia Floyd: That love value is a little concerning for me because, I feel like your love level would vary based on pet or species.
+
+For some people, for example, I. My beta fish that we flushed way less than I love my dog. You know what I mean? So I feel like we'd have to assess our love of each different type of pet. 
+
+Tim Ribaric: This is a real philoso philosophy of science argument here, because you're in effect needing an objective quantitative scale.
+
+That might not exist to compare love of a, as Alicia's alluding to love of a dog versus love of a fish. And say for example, someone has not had the opportunity to have a dog and express that level of love, yet they've had multiple beta fish. It's not necessarily. The strict magnitude of the love they're expressing might not be as high as a owner of a dog.
+
+However, they've never had an opportunity to express that level of love. So I think this measure would need to be indexed in some respect, much like the inflation rate or consumer price index, where it's aggregated in the score and then divided by certain values so that it comes down between two different values that are predictable.
+
+I would love to draw a diagram of what I mean, you, y'all are listening at home. I can't. 
+
+Daniel Brett: So you're correct in the assertion that this is in fact a complicated Yes. A very complex aspect. So something that we could do is we could broaden it and make it on a scale of one to a hundred, do you feel more love in your life when you have a pet versus the time that you don't have a.
+
+Tim Ribaric: I don't know how you control for that cuz having a pet back to the philosophy of science here, if you have a pet, it's difficult. It's back to the old. It's better to have loved and lost than never to have loved at all. So if you have never had the experience of owning a pet, you can't speak knowledgeably about life before a pet.
+
+And similarly, if you've had a pet and no longer have a pet, your experience is tainted by the fact you've had a. I arrest my case, your 
+
+Daniel Brett: Honor. 
+
+Alicia Floyd: He's our resident philosopher on Love and Pets. 
+
+Daniel Brett: So this leads us to another fun part of the design process when it comes to research. And that is sometimes you gotta cut things out if you don't think it's proper.
+
+So we could either A, leave this as a very subjective question. Give us a value between one and a hundred of your love that you feel within yourself. So you would look in yourself, you'd come up with a number and you'd provide it. Whether your knee jerk is just yep, I love them a hundred percent.
+
+There you go. Just say a hundred. But leaving it very broad to each in individual. Is an option or you just remove that that question from the 
+
+Alicia Floyd: research. And what if what if you consider changing the question like yes or no. Do you feel that owning a pet makes humans happier? And then you could just give a percentage Absolutely.
+
+At. I know we're not talking love, but happiness comes along with 
+
+Tim Ribaric: love. Interesting. How can I try to explain this? I think yeah people's emotions are also subjective. So how are you to square the circle of someone's idea of love might be a firm nod and handshake to their father while someone else's.
+
+A, a large amount of love would be hugs and kisses to that same person. I don't know, love is a subjective value, but I think if you look and ask a person constantly, let's say over the course of six months the same question every week. You can at least get an interval to see how love varies over time of their pet, and you can get a, like a velocity or a rate of change measurement.
+
+So the absolute value of love is meaningless because it doesn't. Apples to apples kind of thing. But if you notice, like particularly with my dog who decides to wake up at two in the morning and want to go outside every day for the past week, that level is gonna go down. But then after she stops doing that and sleeps through the night a bit, the level will go up and then at least you can chart people's variability with love of their pets, which might be a more interesting that's brilliant.
+
+Alicia Floyd: Might be a more interesting, like when they go in the house, it's like a zero. And then when they're cuddling you, it's like a 10. 
+
+Tim Ribaric: So what we need to do is stop this podcast and write up this grant proposal and send it off to the tri councils to get some money because we're, we are really delving into 
+
+Daniel Brett: some stuff here.
+
+The whole point of this is that we don't need to be heavily funded. Oh, okay. Sorry. We still do research. 
+
+Tim Ribaric: Ab let's see. A b G always be granting, oh, like Glen Gary, gillion Ross. But I'm not closing. I'm always granting, I'm always looking for, Fair 
+
+Daniel Brett: enough. So for the sake of this example, we'll just say knee jerk reactions, either a yes no, or a one to a hundred.
+
+What seems more useful? 
+
+Tim Ribaric: I think the the research design will work with any of those depending on what kind of question you want to answer, but I. A magnitude of zero to 100 works out well. All right, 
+
+Daniel Brett: so what 
+
+Tim Ribaric: are your thoughts, Alicia? Don't let my pompous take on 
+
+Daniel Brett: this over. Want to fight Tim on 
+
+Alicia Floyd: No I'm gonna go with our pet philosopher here.
+
+All right. 
+
+Daniel Brett: Zero to a hundred. 
+
+Tim Ribaric: So we're going to, am I a philosopher that's a pet, or I'm a philosopher. You 
+
+Alicia Floyd: philosophies about pets. 
+
+Daniel Brett: Gotcha. Okay. So our survey currently looks like how many pets have you. How many different types of pets have you had, and how much do you love pets in general on a scale of one to a hundred?
+
+Good. All right. We figured out what we're going to do and for the delivery method to have we decided on a survey. Does that seem like the best method? 
+
+Tim Ribaric: I suppose it depends on how many people we need to ask. Three. Three? Yeah. Let's do a survey. I think that's a good. 
+
+Daniel Brett: All right, so we know what data we need now we need to collect that data.
+
+So let's go ahead and do a survey with the people in this room. Presently interactive research. This is great. Let's sorry, my clicking pen for people who like Yeah. 
+
+Tim Ribaric: The ASMR audience. 
+
+Daniel Brett: Yes. That's the term. So let's just jump right into it. We'll go around and we'll collect some data, and I'm gonna track it all over here.
+
+How many pets have you had, Alicia? How 
+
+Alicia Floyd: many pets have you had? Alicia? That's not an easy question. I should have tallied them up before we met. Tim, you go first cuz I need to count my pets. 
+
+Tim Ribaric: My list is substantially shorter and I can give you an anecdote about it too. When I was younger, my parents said no pets whatsoever.
+
+So it wasn't until I was a grownup and able to buy my own dog that I got one and extracted revenge upon my parents for not letting me. To sum it up, when I was a youngster, I had one budgie. So that's one, one dog. When I grew up, and since my kids have been born in the past couple years, we've owned three beta fish, or actually two beta fish and one goldfish.
+
+But three fish, one dog, one bird. So five, five total. Yeah. 
+
+Daniel Brett: All right. 
+
+Alicia Floyd: Okay. I'm finally ready. Okay. So I will also give a little anecdote cause this is gonna make me sound like a crazy person. I also didn't really have pets growing up. So I think I went to the extreme when I moved out. Oh boy.
+
+And this is not all at the same time, but in total I have had 66. Whoa. Do you want an explanation for this? Go for it. Alright. So I have had, do you want names? Six? Six names? No, I don't have This makes for some pretty good content. Yeah, this is good. So I've had three dogs Kujo, manga, and Tessa.
+
+I've had two cats. Tucker and Will. Four hamsters, Herbie Hammy, mean Hammy, and my current hamster who is named Lloyd Hampton, who's glorious little fur. So hammy 
+
+Daniel Brett: and mean hammy. 
+
+Alicia Floyd: Yeah. So we had, Herbie was actually a hamster that I did have when I was young, but he stayed at my grandparents' house. And then when my son wanted his first hamster, we called him hammy.
+
+And then when that hamster died, we got another hamster. But it was just mean, so he was mean hammy. And now we have Lloyd Hampton, who's quite friendly and round. I had one beta fish, the beta fish that I spoke of earlier who met his fate in our toilet bowl. I had two black Molly fish and two Oscar fish.
+
+None of which I liked. I'm actually afraid of fish and fish tanks. That's a whole nother story. And. One Oscar ate the other Oscar, so technically I only had one Oscar fish. And then I had two love birds, four bunnies. The bunnies names were spaghetti Leo, dust Bunny, and Pippa. That's cute. And lastly, I've had about 45 pigeons.
+
+That's. Show pigeons, not street pigeons. Show pigeons. Yes. And that's a whole story for another day that you probably don't want to hear. Goodness. 
+
+Tim Ribaric: No. We're gonna put a pin in that we're coming back to the pigeons at some point. Show pigeons. I think episode 20 will all be about, will be about pigeons 
+
+Daniel Brett: here.
+
+Okay, so a 66 for Alicia, five for Tim, and I win. You sure. Do we have 
+
+Tim Ribaric: something in that data called an outlier? Yeah. 
+
+Daniel Brett: And I personally have had seven pets that were pets. So I'm, for me, I am excluding when I lived on the. And there was the band of 30 odd roaming cats that would come and go. And then all of the farm animals, of which we had many hundreds.
+
+So 
+
+Alicia Floyd: see if you counted those, you'd beat my pigeon population. I 
+
+Daniel Brett: sure would by a few hundred. But I will not, because those were not actual pets. I have a lizard named Calci. I've been privy to five dogs. And then I personally had my one cat Robbie, who was my best bud and he lived very old and got really sneezy.
+
+But yeah, I miss him. That is also a story for another day, is what you're telling us. No, he was a good cat. He used to bring me bat wings and flying squirrel tails Nice. And leave them all bloody mess in front of my door. It was beautiful. He was just the best. Alright, so we now. The answer to the first question.
+
+All right, so the answer to question two, which is how many different types of animal have we each owned? So we'll start with Tim. 
+
+Tim Ribaric: Oh, that one. Three different animals. Three. One a, one Mammal, a bird 
+
+Daniel Brett: and a fish. Three different types. Three. Alicia Fishies. 
+
+Alicia Floyd: Yeah. Looks like I have six different types, 
+
+Daniel Brett: six different types.
+
+And then I also. Three types. Okay. And then the last question on our survey is, on a scale of one to a hundred, how much do you love pets? And we'll start with Tim. 
+
+Tim Ribaric: Oh, see this is a difficult question to answer because I know when our current dog passes away, we're not gonna get another one, though. I love that dog.
+
+It's just impractical to have a busy house with needing to travel or leave. Without a dog. On a straight up one to 100, I like my dog. 80. Oof. 
+
+Daniel Brett: That's quite high. So I personally love having animals around all the time. I would probably be way higher up if I had a Fuzzy, although I do love my lizard.
+
+He's mostly Lydia's lizard, my fiance. So I'm going to say 73. That's 73. There we go. 73. All right, Alicia. Yeah, 
+
+Alicia Floyd: this is a hard question for me too, because there's pets that I've had that I really don't like, like I really do not like having fish. Honestly, birds in the house really freaked me out.
+
+And, but at the same time my dog who actually recently passed away was like literally my best little buddy, and it's been horrible without her. And so I needed to have something, which is why I went out and bought Lloyd Hampton because I just could not have a home without something fuzzy. So I think, The love I have for animals and the need to have one in my world is probably a ridiculous high.
+
+So probably I'm gonna go with a 95. 95. Yeah. I don't think I can not have a pet, 
+
+Daniel Brett: honestly. I thought it would be higher. 
+
+Alicia Floyd: I was gonna go a hundred, but that's a little ridiculous. I did go for about two months with nothing. Oh, that was alright. 
+
+Daniel Brett: And that represents 5% of your love. Yeah. Fair enough.
+
+Alright, we have collected our data. We put out the survey, we collected our data based on the questions and information that we were thought that we will need. So now we have our data, we can move on to the third stage of our research. All right, and that is data analysis and visualization. So this is the stage where your local digital scholarship lab can really help you out.
+
+They have all sorts of tools and resources that you can that can aid you in better understanding your data and solving your research questions. Wink. Now let's work our way through our research questions and we will answer each of them using our data. So the first question was, who among us has had the most pets?
+
+So based on. Our data that we've collected, we will take a look and I'm sure our viewers at home are yelling out the answer already. But let's see. Tim had five, I had seven. Alicia had 66. So I think the answer to that is probably Alicia. Woo. So that is the answer. To that question, but how would we best visualize this?
+
+Because you have to remember that at some point we're gonna have to show the results of our data. So how would we look at this data in a most visually compelling way? 
+
+Alicia Floyd: That's a very good question, Daniel. 
+
+Tim Ribaric: I think an overcomplicated New York Times inspired visualization would be the solution here. That's not the 
+
+Daniel Brett: correct answer.
+
+Like a political cartoon. Yeah. 
+
+Tim Ribaric: Actually, what I would, I don't know, I that's a good question because what, I guess the answer or question is what dimension of the data are you hoping to communicate through your visualization? If you want to just show the sheer magnitude of the number of pets Alicia has, there would be a bar graph.
+
+Be so large, we wouldn't be able to see yours or my data points because it would just be so big. So it's an interesting question, Daniel, can you elaborate more perhaps on what you're hoping to demonst 
+
+Daniel Brett: straight purpose of a good visualization? Wow, that's a hard word for me. Visualization is to express the answer to your research question as clearly and easily observable as possible.
+
+So when somebody looks at this, they should instantly see the. To your research question. 
+
+Alicia Floyd: I think if I were doing this research project and it was on a bigger scale, which I actually think this would be really cool, so say you surveyed 500 people, I would wanna actually relate the data so that I could see, do the people who have had more pets in their lifetime have more love for animals?
+
+So I would wanna make that connection from question one to. Three. Or if that's too difficult because the numbers get too high in number one, we could just look at the species they've had. And then maybe there's a fourth question in there about the different species of animals that they've had in relationship to something other than lover happiness.
+
+You're, this is outside of what you wanna know, but what I think I would say is that my, 
+
+Daniel Brett: you can get into the last part of the research process here. Sorry. I will stop answering. No, continue. Please 
+
+Alicia Floyd: do. Yeah. I guess if I was gonna do a visualization. I would want to show the relationship between the quantity of pets versus the scale on which a person loves the.
+
+So if it were a bar graph, or whatever kind of graph or chart or whatever we're doing, or maybe we map it, maybe we collect more information where. We also collect the address. So is it people in the city have less pets or do they have more pets than the people on the outskirts? And then do the people on the outskirts, say it's a farm, love their animals left because it's a farming situation compared to the whatever.
+
+Okay. Sorry. So in this instance, my mind is just going 
+
+Daniel Brett: a lot of here, excellent steps, and that is going to be the part after this is tying it all together. But for right now we're looking at the results. We got three people. And just for this question, okay. How do you represent just the answer to who among us has the most pets?
+
+Alicia Floyd: Okay. Let's do a pie. A pie graph. They're fun and colorful. 
+
+Daniel Brett: Yes. I, when I was planning this, then I was expecting somebody to jump out and say, pie graph. Okay. Pie graph. But I wanted you to get there naturally, and I'm glad you did. So naturally with quotate marks, please stop 
+
+Alicia Floyd: jumping ahead and say pie graph.
+
+Daniel Brett: No. No. It's quite good. So yes I feel that, I also feel that a pie chart would easily show, it would represent all three of us. You could clearly see Tim, myself as labeled little slits, like little slices. And then the majority of the pie is Alicia Pie. I hope it's 
+
+Alicia Floyd: pumpkin then. 
+
+Daniel Brett: Alright. It's a deep cut.
+
+That is a callback to like episode one or two. You're. So second question, who has had the most different types of animals as pets? We need to first answer this question, so we take a look at our data. And surprise, the answer is Alicia, once more. Tim with three. Alicia with six, myself with three as well.
+
+So the answer to our research question is Alicia. And how would we best show who has the most different types of animals as pets? So we could do another pie chart but I don't think we want to have all pie charts in here. Let's just pick another one. And again, this is just for three people.
+
+Specifically the data that we've acquired. We have three data points. How would we want to represen. 
+
+Tim Ribaric: What if you wanted to get clever, what you could do is draw an outline of each of the three different types of animals scale to the size based on how often they occur in the data. So if a dog shows up seven times or however many times, that's how times 
+
+Daniel Brett: works.
+
+That is not answering our research question. No, that's not answering the question. Our answer, our question is who? Which person? Ah, okay. Had the most different types of animals as. 
+
+Tim Ribaric: Oh, okay. 
+
+Daniel Brett: Apologies. No, no worries. These ideas are all excellent. Who had, sorry, 
+
+Tim Ribaric: can you 
+
+Daniel Brett: repeat that please? Who among us of the three of us had the most different types of animals as pets?
+
+What is a simple visualization that we could use to show this? You could always say pie chart. You could just do another 
+
+Tim Ribaric: pie chart. Another pie. Pie chart. I, what I would do is like a. A, a histogram, but like the whole thing is the total number of pets and then it's broken into three different colors based on the three different things.
+
+So if you look at the thing that's one bar wide, you could see the different proportions to the different people. That might be one way to do it, to avoid doing another pie. That's, I just suggested a flattened out pie graph, so nevermind. 
+
+Alicia Floyd: Just go with a bar graph. 
+
+Daniel Brett: Yes. So again, my, my, my expected, the expected answer here that I assumed we would come too quickly was a bar chart.
+
+Just keeping it dead simple. We're not going terribly terribly in depth here. These are very simple questions. They require very simple answers. We don't want to confuse the data by making it overly complicated yet. The last representation, who loves animals the most? Based on our data we've collected, again, big surprise to nobody.
+
+Tim with 80, Alicia with 95, myself at 73. Alicia just takes the cake when it comes to pets, and
+
+because of the nature of this question, we could represent this in a very hard and fast way. We could use a bar chart again, we could use a pie chart. It's certainly reasonable to do that and it would express the data very clearly. But something to consider is when you're doing a subjective type question, then maybe a less numerical representation as your visualization might make more sense.
+
+So my suggestion here would be, instead of putting numbers and charts on a graph, we could simply just have little heart. With each person's name that are different sizes based on your loved quotient that we discovered. And what this does is it expresses the answer, but it also expresses that the nature of the question is subjective.
+
+It's not a hard and fast thing. So sometimes when. When you're looking at numbers, you're only thinking about numbers. It's important when you're working with your data to keep in mind what you want to elicit an emotional reaction from versus what you want just to be raw information for people. So we've acquired the answers to our questions.
+
+We have some ideas for visualizations, and now it's time for the fourth step in the research process. That is presenting your findings. So there's many different ways to present the results of your research, but how should we present ours? Some suggestions, we have the option of just doing a paper about this.
+
+We could do a journal article, we could do some sort of presentation, or you could go completely off the wall and do. A 3D model of each of us where our heights represent the answer to the first question. Our position on the model represents number two, and each of us has a little heart whose size represents the third.
+
+What do you think would be the best representation of this data? 
+
+Tim Ribaric: The only thing that counts in the academic world is citations. So you wanna write at least two or 3, 4, 5 papers out of this research. Fair enough. And then, a presentation at a conference as well. You gotta get your money's worth out of doing all this data collection and analysis.
+
+Alicia Floyd: I'm gonna stick with my earlier. Comments when I jump too far ahead. 
+
+Daniel Brett: Nothing wrong with 
+
+Alicia Floyd: jumping ahead. I'd wanna compare and dig a little deeper, I think. And I think I like the idea of doing some sort of comparison graphic. And then I also like the idea of mapping the love levels in. In an area that 
+
+Daniel Brett: is in fact step five.
+
+Oh, 
+
+Alicia Floyd: dang. I jumped out 
+
+Daniel Brett: again. You jumped away. I hope 
+
+Alicia Floyd: I'm done. This podcast. 
+
+Daniel Brett: I'm going for coffee. No worries. So we don't actually have to settle upon an answers. So step four is where many times that's the end of the research process. You've reached step four, you've collected, you've accumulated, you've created, and now you've presented it in whatever way you desire.
+
+But the next step after. Is reiteration. So what happens after you're done, your research is you put it out there and somebody else, or you, again, takes the results of your research and expands upon it. So what we could do is we could then go and do, as Alicia suggested, and delve deeper, take that data, manipulate it, and get more information about it.
+
+Just take the answers to our three individual. And use them to answer larger questions or make bigger visualizations that can represent a larger hole. Or we can use what we learned from this and then go out and do a follow up research project with a larger scale, with different criteria. And that's a very important step in the research process that is often overlooked, is you want to make sure that once you are done your research, it's available to then be built.
+
+Because the whole idea of research is to accumulate knowledge, using existing knowledge, and then create new knowledge if possible. And then once you've created that knowledge, good for you. You created a piece of knowledge. But if it's not being used for anything, then there's no real point aside from kudos for yourself.
+
+So a very important step is that sharing and reiteration, and making sure that your knowledge has. And that is the last. In the research process. To me at least, 
+
+Alicia Floyd: I think this is a good time too, to give a quick shout out to something we're not talking about today, which is research data management, which is yes, part of this entire process from beginning to end.
+
+And if you're interested, check out our website. 
+
+Tim Ribaric: Oh, another one. Nice. Ring the 
+
+Daniel Brett: bell. Double. Double. Shameless 
+
+plug. 
+
+Tim Ribaric: I love it. As we've been talking here, I've devised a metric that I think will, we can use in our subsequent publishings of, or subs subsequent analysis of this. So I've come up with something called the Pet Love Index, abbreviated to pli.
+
+And what that is a calculation that's the number of pets divided by the type times, the percentage score of. The score of one to 100 of loving the pet represented as a percentage, and then I run that through a logarithmic function to compress the values a bit so they're not all over the place.
+
+Performing this analysis, I've discovered that my pet Love index is at a 0.11. Daniel's Pet Love Index is at a 0.23. And Alicia, I'm sorry, you're an outlier. Your pet love index is 0.0. Or 0.02. So we have to disregard your results from the collection of data. I'm just so sorry. It 
+
+Daniel Brett: it didn't work out. I'm pretty sure that says 1.02.
+
+What did I say? You said 0.0200, sorry. It was, you forgot the very important part where she's so far, how about above us that there's a one. A full whole number 
+
+Tim Ribaric: there. There we go. So 1.02. My apologies. I have to check my, it'll be corrected in the final publishing of the paper, but I have a, unfortunately it's just an outlier.
+
+We can't use it in the data set. Oh, fair enough. Sorry, 
+
+Daniel Brett: Alicia. 
+
+Alicia Floyd: That's brilliant. I like that. Pli. That's why they pay you the big bucks, Tim. Yep. 
+
+Daniel Brett: Pet love index. You heard it here first. Copyright. Also, 
+
+Alicia Floyd: I feel like we should just go ahead with this. Hey, and just start, let's re-contact the ethics. 
+
+Daniel Brett: Coming soon to the dsl, the Pet Love Index.
+
+How much do you love your pet? Come in and find out. 
+
+Tim Ribaric: I'm sure some funding body will give us thousands of dollars to 
+
+Alicia Floyd: investigate this, but then there will be people who are gonna be angry about it too. 
+
+Daniel Brett: Oh I swear I love my pet more than you say. I love my pet. Oh yeah. The science here. But math clearly says you hate animals.
+
+All right. I feel like that has been very informative. We have gone through the entire research process from start to finish. We learned a bit about ourselves and all in a single episode, so I hope we all have a better understanding that research processes are not just for big, heavily funded ideas, although small ideas can become heavily funded ideas but also for answering the little questions too, and big or small, the DSL can help you achieve your research.
+
+So on that note, I think it's time to drop Anchor for the day. And if you have any questions, feel free to contact us@dslbrocku.ca, or any of our social media platforms. As always, thank you for joining us on our voyage through the world of Digital Scholarship.
+

@@ -1,0 +1,287 @@
+ep11
+===
+
+Alicia Floyd: Hello devoted listeners and welcome to episode 11 of Steering the Digital Scholarship. I am Alicia Floyd, and I will be your acting captain today. Here with me are Tim and Daniel, my digital scholarship lab sidekicks that you have all come to know quite well. Let's start our discussion today with our traditional round table icebreaker.
+
+Get to know us Wie, DSL folks. Question.
+
+All right, Tim and Daniel, can you both share a moment from your childhood where you specifically remember having to share something with someone? What was the situation? What was the thing you had to share, and how did it make you feel? Who wants to go first? Daniel? He's ready. Oh, boy. 
+
+Daniel Brett: Good. Yeah, this was pretty easy question for me.
+
+When I saw it on the notes, the first thing that popped into my head was I have three siblings. Sister and two brothers we're all avid readers, but we were not wealthy . When, and it was always the same series when the latest Harry Potter book came out, , oh. Our mother would buy us one copy and we lived too far away from any town to go to a library and get other copies.
+
+And it was like the. the day of release for every Harry Potter book. We had it and then we all had to fight over who got to read it at what time. And I say fight, but share . So we developed a system where if you caught somebody doing something other than reading the book, you are allowed to go into their room and find where they hit it and take it.
+
+And we each had our own book. That we all kept track of where we were in the book, and so long as you were reading it, no one else could interrupt you. But right when you put it down, like to go to the bathroom or for any reason then it was fair game. And that was our unspoken agreement. It just ended up that way.
+
+It's not like we planned out who could do what, but that's how it ended up was just savage free for all. Yeah. 
+
+Alicia Floyd: I love that you were fighting over books and not like Nerf. Or slime 
+
+Daniel Brett: or something weird. We had neither of those things. We lived on a farm. 
+
+Tim Ribaric: I think slime existed in that era too. Isn't That's only five, six years 
+
+Daniel Brett: old.
+
+I think we made ble ones. Ooh. By accident. Neat. 
+
+Alicia Floyd: So I don't know what that is. It's like slime. 
+
+Daniel Brett: It's like corn, starch, and water. Okay. Yes. Yes. And it feels really cool. . And you throw it at your siblings and it goes splat really hard, but then it's like liquid after it hits them, it's great. 
+
+Tim Ribaric: Yeah.
+
+Yeah. It changes shape or a state of matter. It changes really fast. , you can walk on it, but if you put your fingers through it slowly, it sucks. Oh, I know what our next workshop is gonna be. It's gonna be an bl. Sounds good. , 
+
+Alicia Floyd: how about 
+
+Tim Ribaric: you, Tim? Oh, boy. I was stalling as much as I can, but I guess I finally have to answer the question.
+
+So I'm a younger sibling. My, my older brother is nine years older than me, so there's not a lot of stuff that was in common that we would share that he would, take from me because he was already reading comic books while I was still playing with Legos or whatever it was. Really stands out in my mind though, is the TV on Sunday afternoons.
+
+So Sunday afternoons we'd have two rooms in the house. My parents would go in the living room and listen to a radio show they were from a different country, and the country had a radio show on and the Sunday afternoon. So they would go sit and listen to that. And my brother would always wanna watch sports on the TV in the basement and the TV in the basement.
+
+There was like no remote control for it, and you had to smack it on the side to get it to work. And it was a. fun experience, but he would always control the tv and I'd always ask him, can we watch cartoons? And he said, no. After the football game is done, and I don't know if you guys know, football goes until 11:00 PM on Sunday, so I never, ever got to watch cartoons on Sunday afternoons because my brother was watching sports.
+
+Thanks, Rob . Oh, and I suppose you can understand how it made me feel. I'm not bitter about it whatsoever. I'm a little bitter. I'm shaking. A little 
+
+Alicia Floyd: bitter. Yeah. I guess it's not the same now I remember the same experience fighting over the TV with whoever. We had one, the one TV with the tube that you hit at the side.
+
+The exact same thing. . And now of course everyone has their device with Netflix or whatever they're watching. So I guess, I don't know. Do your, you have kids, do they fight over watching 
+
+Tim Ribaric: shows? Oh no they, they're good sharing the Netflix, which is good. On Sunday mornings they wake up, like as soon as the roosters wake up, they're up at the kraka dawn and they tiptoe downstairs and start watching Netflix together.
+
+And from what I can tell they're in agreement on what they watch. So that's good. That's very good. But yeah, in the evenings we don't. tend to watch TV until the kids are in bed. So Sunday mornings they can collaborate and they do, which is good. So that is very good. They're better than my brother and me, 
+
+Alicia Floyd: I guess I'll share mine. When I was growing up, I grew up as an only child. I do have a brother, but he's 15 years younger than me, so I feel like my childhood was an only child type experience, and my mother may disagree if she's listening to this, but I feel like I remember being a very mild mannered child where I shared quite easily with people, but I can't be certain if that's, a fabricated memory.
+
+I did have a lot of cousins I grew up with that we shared well, and if we didn't, we fought. But there is this one memory that stands out in my mind, which was for a gift for Christmas. I got one year was every single craft supply that you could possibly imagine in a basket, and it was. Like heaven on earth.
+
+I loved this gift. It was amazing. And I spent all this time arranging every single pompom and pipe cleaner to be just the way I wanted it and so that I can make my perfect crafts. And my parents had a couple of friends over one night and I told one of the kids of these people that they could go up and play in my room.
+
+I went upstairs and one of the little girls. Disorganized all of my craft supplies and made a whole bunch of stuff, and there was glue everywhere, and I had this total epic meltdown. And I'll always remember, and to this day, I was probably like seven or eight years old, and to this day I have guilt for freaking out about this poor girl making something out of my felt and pom-poms.
+
+But I realized at that point that I'm really, I really like to organize things and nobody better touch it . So watch 
+
+Tim Ribaric: out. Those are all consumable things too. A once you share them they're used 
+
+Alicia Floyd: up. That's it. That's right. So good. That's, it was the end of it. No more craft pipe 
+
+Tim Ribaric: cleaners are like currency when you're, a youngster, you can trade 'em for stuff.
+
+Yeah. 
+
+Alicia Floyd: And googly eyes. Googly eyes. Were not easy to come by as a kid. Oh boy. Thank you both for that great discussion about sharing and the life lessons that, those early experiences can bring to our lives. As children, we begin learning how to share by being forced into it. We are forced to share our toys with our friends, our.
+
+Bedroom, washroom, clothes, food, and as Daniel May have alluded to, basically our entire existence with our siblings. We have to share our crayons with our classmates and our snacks, with basically anyone who asks. The list of traumatic sharing experiences in childhood really does seem endless, which brings me to the classic childhood statement.
+
+It's mine and the inevitable question, can't what is mine ever? Just be mine without people questioning or asking for it, or even worse taking. , as most people discover as part of the adulting process. This is my new favorite word, by the way, from the Twitterverse adulting. I've come across it for the first time.
+
+Being on Twitter and I've using it quite frequently lately. 
+
+Tim Ribaric: People are so proud of themselves when they do adulting, don't they 
+
+Alicia Floyd: adulting or finding adulting difficult, , somebody on Twitter today said is feeling like my house is always dirty. Part of adulting. And the answer is yes, , even if it's spotless.
+
+So as part of our adulting process, words are never just as simple as you think they are or as you thought they were as a kid. For example, my initial understanding of the word share was give your thing to that kid or, now in my adult world and hopefully in your adult worlds. There are a few other meanings for the word share and I'm going to share them with you.
+
+Thank you, Miriam Webster. To partake of you's experience occupy or enjoy with others to have in common to distribute on the internet, to post on a social media platform, to grant or give a share in, to tell thoughts, feelings, experiences, et cetera, to others, and to divide and distribute in shares. What is the point of this conversation you ask?
+
+In an academic environment, sharing can mean many different things to different people. So I'd like to have a conversation today about all the different types of sharing that happen in a scholarly or academic context. So Daniel, one of your many strengths is your ability to network. You've shown that you easily form and maintain relationships with people across campus and build on those relationships to successfully collaborate on projects and initiatives.
+
+I was hoping you could share with us some of your techniques for networking in this academic environment and how sharing and networking are closely related. 
+
+Daniel Brett: Sharing is, in essence, part of networking. . When I think about it as for my top secret skills for networking, I actually have my list here of my three top secret skills for being an effective 
+
+Alicia Floyd: network.
+
+Excellent. Top three. So you're gonna share these skills with the world? Yes. I'll share 
+
+Daniel Brett: them with the world. Number one le leave your pride. Ooh, , you cannot be a proud person and effectively network with somebody else. Because if you walk through that door thinking your project is more important than what's going on with the person you're trying to work with, then you're not gonna get far and you'll always have that edge that most people can pick up on in a conversation.
+
+So no pride. Just leave it behind. So 
+
+Alicia Floyd: just be open to what others are. Oh, absolutely. Just treat it, 
+
+Daniel Brett: not like you're trying to get something from them, but like you're going to have a conversation. 
+
+Tim Ribaric: Everyone's on the same level kind of deal, right? Yes, absolutely. 
+
+Daniel Brett: Gotcha. Nice. Number two leads right into that which is keep a broader focus.
+
+Don't just look at what they can do for you. So be creative. What can you do for them? You. to be doing things together, which leads into number three, do it with them capital, with your networking with somebody. You want to go and you want to work with somebody. You're not using them, you are working with them.
+
+So the big width is, one of the things I like to think about when I'm like, I want this person to help us with this, is you're not using that person. You are doing it with that person. , it's a collaboration. I know we talked about collaboration a while back, but that is the key of networking is doing it with them and not for them, or taking 
+
+Tim Ribaric: from them.
+
+Can I ask you a question? When is your book coming out and are you doing a lecture series in part of it? The, that sounds well thought out is what I mean. 
+
+Daniel Brett: I took some time, yeah. To think about it. I it really struck. and I like hearing that people think I'm good at networking. That makes me very, a little big-headed feeding that pride that I need to leave behind
+
+But but as for why is networking so important to the process of developing a digital scholarship lab, which. Psychically No. Is the follow up. . 
+
+Intro: Thank you.
+
+Daniel Brett: I don't wanna Go ahead. You can go ahead and jump. I don't wanna slow the roll there, so I'm just jumping right in. Our 
+
+Tim Ribaric: at-home viewers must really enjoy this. This is 
+
+great. 
+
+Daniel Brett: Yes, definitely not scripted. Great banter. Great banter. Not scripted at all. But yeah I don't mean to cut you off there, but again, digital scholarship lab, what we're planning to do.
+
+effectively be a networking hub. So people will come to us, they are going to be working with us, and the bottom line is we are having a whole bunch of tools and there's no point at all in having a pile of tools if you have nobody to use them. Otherwise, they're just, we have tools. Look, , great . 
+
+Tim Ribaric: The other, or what I strive to keep in mind when I'm networking as much as I hate that as a phrase is that I think I have a touch of like social anxiety and if it were up to me, I'd just stay in a cocoon and read books and interact with my direct family.
+
+That would be it. So the I guess it's a. Or it's a way of having empathy in the processes. You never know what it took for that person to come up to talk to you. They could have, it could be retching them emotionally or physically or they, spiritually even they, they just is, it's such a hard thing for them to reach out to a stranger and begin a conversation.
+
+And I always keep that in mind. You never know what a person had to go through to get them to the point where they're even capable of talking with you. So I. . I'm, I always probably make sure that the way I respond to someone who's reached out to me is always in a way that's probably very accommodating because I don't want to
+
+I don't wanna discourage someone from speaking with someone else in, in a lot of ways that's hard for a lot of people to do and I get that and I like to help make sure people don't feel that 
+
+Alicia Floyd: I am so happy that you mentioned that. I feel the exact same way. I've could totally live in the cocoon as soon as I've met a person.
+
+One time I feel comfortable with going up and talking to them, but it is that initial step sometimes. Like you absolutely can't go and talk to that person, even if it's just a quick thing like, Hey, did you register for this? Please sign in Can feel really difficult when you're in an uncomfortable situation.
+
+So I'm glad that you touched on that and I think that lends itself well to when we talk about our open door policy in the digital scholarship lab when it opens, is to hopefully break down those barriers of intimidation and allow people to come in and network with us and to use all of the tools that Daniel was.
+
+That's great. Another type of sharing in an academic environment is sharing knowledge. The open access movement is gaining momentum. And Tim, I was hoping you could talk a little bit about open access information and open source software and what it means, here at Brock and when we're planning this whole digital scholarship lab.
+
+Tim Ribaric: Lovely question. One of my favorite things is giving away everything that you make. What, to answer the first question about open access I think it's implicit in librarianship that nothing is really Charged money for. So all the things that I've ever written that are for the profession have always been made free, or I've always put a copy of them in our digital repository.
+
+And it's a, it's as much of a exercise or state of mind as well as, as much as it is, as a, as an outcome. So I always make sure that open access is a thing that I participate in. But having said that, there's this activity going around on campus right now and. To a larger extent across the university environment is this development of open access policies by different universities to certain levels, to a certain level of open access or a commitment to open access.
+
+Some schools, like particularly in Harvard in the us I don't know, you guys might have heard of hardware, Harvard, right? Yeah. I think so. Okay. I think I saw the movie once. Yeah. If you Google. Yeah I'm sure they have a website. If you Google them, you'll probably be able to find it. So they came up with this mandate that everything that was produced by a faculty member at Harvard will implicitly the university retains a non-exclusive distribution for all that content. And effectively, it's like a back. To allow all of the content to be available through open access, whether a publisher scoops it up from the the content creator without an informed conversation or negotiation about the copyright. I have real trouble with these types of policies because they're Mandating open access.
+
+But having said that, I love the idea of open access and I always make sure everything that I do is available through open access. Here's the parable that I'll draw. So like the A C L U, you guys have heard of the A C L U? Yes. Okay. So they're an organization in the United States called the American Civil Liberties union.
+
+And they. sue people for breaching freedom free speech violations and various other activities, but that's one of the big things they're known for. So there's a faction within the A C L U that says, no matter. who the person is or what kind of speech it is. We have a duty to support that because our idea and our goal is to support free speech and advocate for it and not have it hindered through it anyway.
+
+But then someone like an alt-right group or someone silly uses their free speech to admonish someone else and it becomes a real clear case of you're using free speech. s to harass and harm someone else, and you really shouldn't advocate for support of that. But there's what it comes down to in the A C L U has two camps, one sort of group of people that say, no, we're never gonna defend people that do that kind of stuff on purpose because that's, they're abusing the idea of free speech.
+
+And then there's the other camp of people that says you have to defend free speech even if it's the free speech that you don't like. So I draw this parallel to the open access stuff where There's speech you don't like and speech you do so the open access mandate to me is a version of advocating for open access that forces you to do it with.
+
+So it's that first A C L U group, and then the second group where it's, up to you or free speech is supported, but only to because that's what you have to do. So that's my take on the open access landscape. I'm all for open access, but you can't make people do open access. It's more of like the carrot versus the stick.
+
+You wanna use a carrot, not a stick, not make people do open access, but any case, Quickly devolving here. If our colleague, Elizabeth, were in the room, she'd probably have a hardy conversation with me about why my interpretation is incorrect or why her interpretation is different than mine. And we would go from there.
+
+The other thing that I would mention to answer the second part of the question, but open source software. , the existence of the internet and probably all the things that we love so much is due to the, creation of open source software. So if you think like 25 years ago when the internet was just coming about, if the software package Apache, so that's the thing that used to serve up websites.
+
+It's changed a little bit these days and there's a couple different alternatives, but if 25 years. , the Apache Foundation said, you know what, you can't just use Apache for free. You have to pay us 50 bucks. I guarantee you the web wouldn't be where it is today. It would be fragmented used probably only by rich people for a certain amount of tasks, and it just wouldn't, it wouldn't proliferate the way it, it has.
+
+So open source software has defined and created our sort of information rich world. So I'm always for open source software. For the reader at home, look up Richard Stallman and watch a couple of his videos. He's a open source advocate that has some really interesting ways of doing things, and he's a hoot to watch.
+
+Just quick note about him, he doesn't carry any credit cards, he just has money. And so anytime he goes to a conference, he's gotta take a bus there. And he's always got like a big fat wad of bills in his pocket because he refuses to have a credit card. , he's a kooky character, but he's a big open source 
+
+Alicia Floyd: Advocate.
+
+So one of the things I'm taking away from what you said is more of the idea of educating people about the importance of open access to get them on board, rather than forcing people to say, publish in open access journals. What? I, one of the thought process I had when I was thinking about today's podcast was this idea that as a child you're taught to share and you get real good at it, and then you get further on in your education, high school or college or university.
+
+And there's this idea of hoarding your ideas so that you can then write a paper or do a presentation and hope nobody else had the same idea and not share any of that. Do you know? Do you know what I mean? Yeah. You just wanna keep all of those thoughts to yourself and then get the a plus on your paper because it was this brilliant idea.
+
+So what would you say to people to help them make that transition back into that world of sharing rather than thinking that, maybe they need to keep things close to them to keep it. 
+
+Tim Ribaric: It's a great question because there's a lot of propriety with as I'm a pseudo academic, don't get me wrong I would not claim to be the same kind of person who does research for their living, but there's a huge amount of propriety around what you're studying or researching or trying to discover and making sure that it stays the thing that you discover and not wanting.
+
+Have anyone else scoop you effectively? So I could see that very much. When we talk about there's ways to make your data accessible and open after you've published a paper, but you don't wanna do that because you wanna be able to return to that data into the future and use it for your own purposes.
+
+In fact, I was at a conference last week where we had a session about introducing open access and this Harvard thing that I was talking about a moment ago, and one of the professors in the room, in the crowd was saying why would I. Keep my data open because someone else could scoop me and create stuff or find discoveries based on the hard work that I did to put the data set together.
+
+And he was edging around this idea of can I make it open but not usable or abated in some way so that people know it's there but not able to use it. So it is a very challenging topic because yeah, you have to have some propriety about your research because you wanna be able to do it yourself.
+
+You wanna be able to move the ball forward generally with the whole world right. To make discoveries and produce knowledge. But I think what we've seen in the digital humanities landscape, and hopefully with the digital scholarship lab as it progresses, is the idea that there's collaborative project based work using open source and open source tools to.
+
+content that's open access, flies in the face of that sense of propriety, and I think people can gain more. I think when it comes down to it, you can gain more ground if you use these open methods as opposed to being proprietary and trying to hide away your results from everyone else. So it's a good question.
+
+I think it's a perennial one that comes up all the time, and I don't think there's a particularly good answer for it, unfortunately. . 
+
+Alicia Floyd: Yeah, that's, it's a big subject and it's a lot to take in. And there's a lot of different opinions and angles that I've experienced just in the last year of thinking about the idea of being open.
+
+You mentioned earlier to look up and open someone who's advocating for open, so I just wanna speak quickly on a real game changer for me when it came to having a better understanding of the importance of all of this. Last year the DSL hosted an event where we screened the movie The Internet's Own Boy, which is the story of Aaron Schwartz.
+
+If you haven't seen this film, I highly suggest it. It will give you, it's very entertaining and sad and emotional, and it just, it gives you a lot of the groundwork that you need to really understand, what this means and what we're talking about. Swartz was an extremely intelligent computer programmer, entrepreneur, writer, and political a.
+
+but he is most well known for being a very in influential internet activist. By activist we mean someone who uses technology to promote social change. Schwartz believes strongly that knowledge and information should not be considered a possession, rather, should be shared widely, not hoarded and sold by Joy Giant corporations.
+
+There's a lot of information in politics behind the scenes of scholarly publishing, but I was hoping that we could have this conversation about the importance of knowledge sharing, one that the Internet's own boy brought to the forefront and the fact that people can't. Always afford to access information, and because of that, people suffer.
+
+And that's not always something that we think about initially when we think about making information open, people die because doctors can't access the information that would help save lives. There are lots of people in third world countries that, and people right here in North America. And staff, students and faculty that can't access information.
+
+We have access to it while we're students, and then when we leave the campus, we no longer have access. So what does that mean when we're out in the world and we no longer have access to all of this information, it's an issue. And Schwartz had a great issue with that. And so I really suggest watching that video.
+
+Tim Ribaric: There will be a link in the show 
+
+Alicia Floyd: notes. There you go. , what do you guys think about, what sorts stood forward? Do you have any comments about seeing that film or what it meant to you or what kind of emotion evoked in you when you watched it? 
+
+Tim Ribaric: I've seen this documentary a few times now, and every time I always get like a mixture of enraged and sad all at the same time.
+
+For those, not to spoil the whole plot, but effectively Aaron Schwartz did a lot of interesting things as Alicia had mentioned, but he also systematically downloaded a collection of PDFs from a database platform called JSTOR that were all effectively works out of copyright. Cuz they were all from the 19th century and the 20th century, or early 20th century I should say.
+
+And he did this sort of en. and m mit. The place where he did it caught him. And then the company jstor, along with the FBI, persecuted him to the fullest extent of the law. And during this whole process, his depression really flared up to the point where he took his own life. So the. The story of this modern day Robinhood, effectively trying to liberate information to give it back to people because he felt it was inappropriately hoarded and behind a paywall.
+
+And what he got for it was being driven to take his own life. Yeah. It it always upsets me. It always makes me sad. And I always feel like, you know what, not to say that I would wanna be like Schwartz, does my. move in the direction of a light or the darkness. Do I increase propriety and restricting access to things?
+
+Or do I move towards making sure that whatever I do is as open as possible? I think that it's always in the back of my mind whenever I think about, Aaron Schwartz and what he's done. I agree. 
+
+Alicia Floyd: I don't think he'd be able to watch that and learn about his story. And all of this without it affecting you and making you wanna change your methodologies.
+
+Ironically enough, today while I was on lunch, I was looking at Twitter and JSTOR posed a question. Did you see I was gonna mention this? Yeah. Okay. I stole it from you. Jstor r posed the famous question. If you could sit down with anybody, I believe it. It was a person. pass and passed, authored away author that was passed away, an author that was passed away, who would it be?
+
+And there was an individual who replied Aaron Schwartz. And so round of applause for that one. So that was his zinger. Yeah. Yeah, that's good. As I mentioned earlier, Schwartz had a great deal of wisdom that he shared with the world before he committed suicide in 2013. And here are two of his gems that I'd like to share with you today.
+
+So these are quotes from his he had a blog as well that's still available online if you're in. The first is a piece of knowledge. Unlike a piece of physical property can be shared by large groups of people without making anybody poorer. And the second is information is power, but like all power, there are those who want to keep it for themselves.
+
+So I think those are just some food for thought I wanted to share. Just to move along.
+
+Earlier Tim mentioned our scholarly communications librarian, Elizabeth Yates. Elizabeth is a strong advocate for open publishing here at Brock University, and I was interested in hearing what she had to say in regards to our conversation on sharing and what sharing means to her in this context of scholarly communication and open publishing.
+
+Elizabeth has provided us with some excellent insight. Since you're probably tired of hearing my voice today. Daniel, can you read Elizabeth's quote please? Certainly. 
+
+Daniel Brett: Okay. 
+
+Tim Ribaric: Let's see here. Here I get my come up and say we'll see. We'll see if my prediction about what Elizabeth said 
+
+Alicia Floyd: Will come true. , we should have just invited her to this conversation.
+
+Really, but she could have just read her own quote. There you go. . 
+
+Daniel Brett: Here, read this thing you said three days ago. All right, so Elizabeth says, say you're a researcher who has completed a study and now wants to let people know about the results. There are many ways to talk about that process of presenting our research, publishing dissemination, knowledge, mobilization and more.
+
+But ultimately, the act of transferring the knowledge we have created out into the world as a public good can best be described as. Making our scholarly output available to benefit others. This active sharing is most effective when it is done openly. When we share our research without barriers, everyone can benefit from our insights and discoveries.
+
+Sharing allows us to take our publicly funded research and make it available to that same public. Openly. Sharing our research means it has more impact because it reaches more. And it accelerates the progress of future research because other investigators can easily access our work and build upon it.
+
+This is the reasoning that promoted the library to call its new service, which helps researchers use the Brock Digital repository to openly disseminate their articles. The support for sharing your work 
+
+Tim Ribaric: and more details about that service can be found at brock u ca slash library. . I love the I don't say that flippantly.
+
+I spend a lot of time working on that project myself too. Yeah, , 
+
+Alicia Floyd: I love how she points out that it benefits others. So I love just bringing that back as you're, we're always trying to share in a way that benefits others. , what are your thoughts? Anyone? It's like networking. Exactly. Bring it full circle.
+
+Daniel Bravo. 
+
+Daniel Brett: It's the same as networking. You wanna, everybody wants to benefit, but there's nothing wrong with sharing that benefit with the people that you're working with. 
+
+Tim Ribaric: Yeah, I, I think, yeah, I a hundred percent agree with what she said. To no surprise I thought she. , I was gonna say something tongue in cheek, but Elizabeth is very intelligent, very knowledgeable about all the issues, and I a hundred percent agree with her.
+
+I think what happened was that the publishing industry pulled a fast one on librarianship and researchers generally, which is why we're in the predicament we're in. We're figuring out how to get around that. But yeah, I really wish everything was free by default and not behind, paywalls and such, but, , we'll get there slowly but surely.
+
+I think 
+
+Alicia Floyd: I agree, and I think this is just one other example of how librarianship is so important and the work that librarian are doing. It's so much deeper than signing out a book or buying books. There's so much going on behind the scenes and even just being in this environment, I've.
+
+Really felt how much everyone wants to share. There has never been a time that I've walked into a room and asked for help or information or a resource, and the person said, can't know, don't have time, don't know, whatever. It's just an open door policy all around, and I just feel that's part of the nature of library work.
+
+So I think it's really important to focus on that as well. All right. I think we are going to drop anchor here.
+
+Some of our upcoming event events include an introduction to data visualization workshop, which is happening here at Brock on May 13th. Check it, check out experience BU for more information and to register today, we've had a great discussion about sharing and the importance of open access. Thanks to Elizabeth Yates for her contribution to today's discussion.
+
+If you're interested in learning more about scholarly communication and open access at Brock University, please visit the library website, www.brocku.ca/library. Also, feel free to connect with us on the many digital scholarship labs, social media platforms, as well as emailing us at DSL brocky dot.
+
+Thanks for listening. And don't forget, sharing is so much more than just caring.
+

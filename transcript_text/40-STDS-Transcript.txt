@@ -1,0 +1,365 @@
+Ep40
+===
+
+Lily Wang: Hi, so welcome back to Steering the Digital Scholarship. This is episode 40 and I'm your host Lily. With me are Tim and Daniel who are familiar voices to our returning listeners. And to those of you joining us for the first time, welcome. I was hoping that we could just introduce ourselves today just cuz it's been a while since we've done the 
+
+Tim Ribaric: last.
+
+Yeah, sure. I'm happy to go first if you don't mind. Absolutely. Last dear listener, last you joined us. My name was Tim. That's still the same but my position as a touch different, before I was acting head of digital scholarship lab map dated GIS library. It was a mouthful, whatever it was.
+
+Now I'm just a digital scholarship librarian. So this stuff is square in my wheelhouse. Yeah. Then 
+
+Daniel Brett: last we joined, I was the digital scholarship lab technical support, and now I am exactly that still. So nothing much has changed aside. I've added a new title in my personal life as father, but that's about it.
+
+That's the big change since the last podcast. 
+
+Tim Ribaric: And then of course the other big news here is that the third voice joining us is a new voice who introduced herself as Lily. Lily, can you say hello? Yeah. Please tell everyone who you are. 
+
+Lily Wang: Hi, I'm Lily. That hasn't changed since the last the five seconds.
+
+Thank you. So I am the digital scholarship Lab operations coordinator. And I coordinate the operations. Can't see that. I'm happy to 
+
+Tim Ribaric: be here. It does what it says on the box. Yeah, for sure. Yep. Yep. 
+
+Lily Wang: So with introductions out of the way I am I was hoping that we could open up with just a nostalgia trip.
+
+What new technology have you adopted in your personal or professional life? During the. During the last couple years, 
+
+Tim Ribaric: oh gosh. I would have to say NFTs in blockchain. Those are all the cool things people are using these days. I have the intra intra, the irrefutable, that's the word I was looking for.
+
+Irrefutable proof that I have a hash, the ownership of a 64 digit 64 digit. So that's pretty cool. And it's certainly made my life easier trying to explain to people what NFTs and blockchains are. 
+
+Lily Wang: What's the what's the piece of media associated with your 
+
+Tim Ribaric: Oh, it's nothing.
+
+It's just ideas, right? I have a blockchain, if y'all want to get in on board is check out open Cs or whatever the auction website is, and then you can just, murmurings from Tim. For. Really good value of 3.4 million. You can get my take on the state of affairs in the cheese shopping scene in St.
+
+Catherine's these days. The slow it world slow down, let's put it of availability of cheese has really hit my cheese palate and so I haven't been able to indulge in all the cheeses that I want to. And yeah, you can certainly get on board on the ground level cuz we're taking this thing to the moon and various other blockchain and ft slogans associated with that.
+
+Sounds like 
+
+Lily Wang: a really good investment.
+
+Tim Ribaric: You can tell it's been forever since we were behind the microphone because I'm I'm like worse than usual. Daniel, would you agree? I'm like, even like more corny than I. Usually am 
+
+Daniel Brett: I? I don't think you can go lower than the bottom, but 
+
+Tim Ribaric: Oh, I love 
+
+Lily Wang: it. I love it. For what it's worth, I was gonna make a joke about mold growing on your tokens, but not being able to, because they are non fungible, 
+
+Tim Ribaric: so that's a good one.
+
+Thanks to answer the question honestly though, I don't know. I'll have to ask Daniel, like we'll have to get Daniel's answer and then I'll provide you probably with the one that's actually real, because I'm sure there has been, in all honesty, something that's made my life easier 
+
+Daniel Brett: in terms of technology that's been making my life easily easier.
+
+There's like the small things. Echo dots are around the house, which is surprisingly nice. You don't have to do math in your head anymore. You just yell at the house. Hey, what's this plus this? We've got a really cool baby monitor that does night vision and color, and you can mostly, we've used it to yell back and forth because it's got a two-way mic.
+
+Lots of fun. And then, A fancy coffee maker. Is this the kind of technology you're looking for or are you looking for like real technology? Like We've been developing Hugo websites hosted entirely on GitHub with automated actions that build the static site. Just every time you do a commit. Is that what you're looking for?
+
+That's fun stuff. I 
+
+Lily Wang: feel like that was a as and answered.
+
+Tim Ribaric: Daniel question about a two-way baby monitor. Isn't that just a pair of walkie-talkies? With cameras? With cameras? Okay. That's cool. 
+
+Lily Wang: That's fancy. How does that work? Is that Bluetooth 
+
+Tim Ribaric: camera? 
+
+Daniel Brett: So one side controls whether or. You're talking, we're listening and it's got the screen and all that sort of stuff, and the other side is just like a classic camera that you slap on a wall, point it at a crib so you can watch the baby kick his bars and try to escape.
+
+Tim Ribaric: Yeah, that sounds about right. Yep. The surveillance state that the pen opticon is part of life. Let get used to it, 
+
+Daniel Brett: but it's really cool to be able to have conversations with whichever parent. Near the baby room just by whispering. And then you can make creepy noises while the baby's sleeping to see if it wakes him up or not.
+
+I'm 
+
+Tim Ribaric: sure that's not yeah, creepy at all for the poor chop. But he has barely senses memory object permanence, he's still developing 
+
+Daniel Brett: all those things so I'm sure we're training him to be immune to psychological 
+
+Tim Ribaric: warfare. Ah, there it's. PSYOPs. Yep. Though, as this idea of Hugo website's automatically built.
+
+That sounds really cool. Daniel. Tell me more. I 
+
+Daniel Brett: just, oh you see what you do. Two, two GitHub repositories. One of 'em, the front end on GitHub. 
+
+Tim Ribaric: Actually, hold on to this cuz this is gonna be a presentation at a conference or paper. We're gonna write, we're not gonna give it away for free.
+
+Tell you that.
+
+Though the questions still on the table. Lily, can I answer it with yeah you go ahead. Yes. Okay. Perhaps not started in 2001, but, or 2021. Oh gosh, was my age. We've been making use of good food the. Food, the meal prep delivery service, which is pretty awesome. We've also been occasionally having stuff dropped off with Voila and Instacart, which is really cool.
+
+And just earlier this week, oh, two days ago, I, I. Place my first order on, skip the dishes. Though, skip the dishes and other platforms similar aren't that great in terms of, labor and paying the restaurants that produce the food. So I'm gonna use that one as sparingly as possible.
+
+But the PK resistance that I really enjoy is I have a kettle now that has a thermostat on it so I can set my boil to be 88 degrees CELs. It's perfectly suited for making a cup of black coffee that you can drink immediately after it's done boiling and it has one of them gooseneck spouts on it.
+
+And that is the most prized possession I have, cuz I use that at least 4, 5, 6, 7, 8, 9 times, 10 times a day. So better living through Kettle through better kettle, 
+
+Lily Wang: I got one of those too. It doesn't have the gooseneck spot, so when I pour, it just goes all over the counter. But it also goes to a nice temperature and it has lights so that like when it's red, it's Hey, I'm 90 degrees.
+
+When it's green, it's Hey, I'm 40 degrees. So that's pretty cool too. 
+
+Tim Ribaric: There's something about yeah, perfectly, is perfectly temperature, hot beverage you put in your face doesn't hurt you when you drink it. There's something that, that's living in the future if you ask me.
+
+Yeah. Truly. I was just have to 
+
+Lily Wang: say yeah, so I also my, my thing was I also am automating my home. I got. Google Nests and I just yell at them to check the weather, even though I could look out the window
+
+because we were talking about technology and nostalgia, and Tim mentioned 2001. What was it like back in 2001? What was new back then? 
+
+Tim Ribaric: Okay, so in 2001 Daniel, you were probably still in high school or whatever. I say that facetious, but that's probably correct. Anyways. When you had a cell phone back in 2001, it was just a cell phone.
+
+It didn't do much of anything else, but when you charged it, the charge lasts for a week and a half. It was really great. So you could just throw it in your bag or your pocket and you not worry about it. You couldn't. Surf the internet or whatnot on it. I think the first iPod, or the first iPhone was with 2006 or 2007 something.
+
+So back then it was just the basics. So that was good. And it predated most of social media. Facebook was around, but it wasn't as huge. So you had, you had better peace of mind and you weren't off your rocker quite as much following social media and stuff. It was a slower, more nostalgic time way back when.
+
+How long ago was that now? 20 years. Oh gosh, 
+
+Lily Wang: that's 20 years. Yep. Yeah. No, no more doom scrolling first thing in the morning, 
+
+Tim Ribaric: That's DSL era or not, not art kind of dsl, dsl, digital subscriber line era. So we were getting broadband in the house, but it wasn't that great yet.
+
+And yeah. Oh gosh. That was, those were the days where you go to Walmart and buy DVDs for $5 and then you can fill up a whole shelf with look at all the movies that I have. That was a good era. What about you? Did Daniel? Yeah. Yes. 
+
+Daniel Brett: The early two thousands. Back when I was like a 10 year old boy on the 
+
+Tim Ribaric: farm.
+
+Not even high school. Oh gosh, no. 
+
+Lily Wang: 10. Yep. It was it would've been, you would've been nine, Daniel. 
+
+Daniel Brett: Yeah, I was born in 92, so I was a, we tot we also, I lived on a farm in the middle of nowhere at that time, so my greatest piece of technology back then that we just were blown away by was this huge honking radio that you could carry out.
+
+Into the woods with you and it would still play. And it also had a flashlight attached to it. It was wild. It took these batteries that were like the size of a brick and they were like this weird square and tall. They were just massive weird batteries. And yeah, that was the height of technology for us out on the farm.
+
+That was the coolest thing.
+
+Tim Ribaric: Oh, Lily, you realize you gotta answer this question now, and I can only imagine how old I will feel after you share your answer. I 
+
+Lily Wang: imagine that most of our listeners will also be like, wow, that was that long ago. I had, I think I got a Game Boy around that time. A Game Boy Advanced. Oh, not even an 
+
+Tim Ribaric: OG Game boy.
+
+Lily Wang: A Game Boy. Not even an og. Game boy. Game Boy Advanced. Yeah, it was the first handheld kind of game thing I've ever had. And we're as far away, oh my goodness, how far we've come. You think about the progress in video games and you're like, 20 years ago, that's like the N 64, but it was not, it was like, I can't, it's like final fantasy 12.
+
+It's or not 12, but. Some of the old ones it's crazy. 
+
+Tim Ribaric: Video games peaked in 96, 97 whenever Doom two came out. Everything else is, everything has been downhill since then. So have you played the new ones? No, let's see. I have similar takes on hiphop. Hip hop was the best when Wutang 36 chambers came out.
+
+And that was, that was the peak hip hop. So anything after that is just downhill. And coincidentally, all of these things happened when I was a, late teenager. So I don't know how that aligned up really nicely. But yeah, my late teenage years is when everything was the best afterwards, it just went downhill, and that's not just for me personally, that's across the board, everything. Done by everyone. In all progress of humanity. So 
+
+Lily Wang: world peaked in high school,
+
+Daniel Brett: I was just looking up like what came out in the year 2000, early two thousands. Something that like, if you wanna talk about the differences between then and now, brand new crazy technology replacing the floppy. USB flash drives 256 megabytes. First came out in 2000. Wow. Those are 
+
+Lily Wang: top of the line. They 
+
+Daniel Brett: were, I remember having like just a handful of them.
+
+I had a u USB stick for everything when I was in high school, and we were like super, blown away when we got like a one gigabyte USB stick. It was just like, holy crap. How do they fit so much on this thing? And nowadays it's just basically physical storage is obsolete. Everything's on OneDrive or some cloud storage somewhere.
+
+Tim Ribaric: Yeah. I don't know if I mentioned this before, but I was reading a. A Corey doctoral novel. It was called Pirate Cinema, and it was about like remix culture and it set a couple years into the future and it was maybe published a decade ago at this point. And like the main character is trying to do this gorilla style, advocacy and the culture jamming.
+
+And he goes to the, store and he buys 30. 32 gig gigabyte, USB sticks. And he says people don't use these things anymore, but they're pretty good. And at the time I was like, 32 gigabyte sticks. That's amazing. No one's gonna not use those anymore. And nowadays, I don't even, I don't even think you could find a 32 gig.
+
+It'd be like, why? Computers don't even have U S B A ports on them anymore. They just get those tiny US BBC ports. Yeah, all, I guess lesson moral less, moral of the story. The lesson being, Tim is old and he doesn't like things that aren't old. 
+
+Lily Wang: I I bought a SD card last week, and the smallest size they had was 2 56 gigabytes.
+
+Daniel Brett: Yep, yep. So nowadays, like Brock's just memorabilia that they have like buckets full of that. They hand out at events just with the name on it. I think it's 32 gigabyte USB sticks. Brock branded ones that go on like a bracelet or something. 
+
+Tim Ribaric: So I'm sure you all don't have any experience with this, but way back in the day, you'd have a floppy desk which had 1.4 megabytes on it.
+
+And then if you had anything that was substantive, you would need a stack of them. And if, you know you had a magnet in the same room as these things that would go haywire and then it wouldn't work anymore. So I remember Doom two was four, four disks and you had to install them in here the sucker churn.
+
+And then afterwards you're like, what am I gonna do with these things? And then you'd have to put them in a lead. Safe. So that background, cosmic radiation wouldn't mutate them and they would still work. Yeah, I was, have a thought for your ancestors that needed to do this.
+
+Unlike nowadays, but 
+
+Daniel Brett: the only multidi thing I ever had to do was on PlayStation one final Fantasy eight was a four disk game, and at certain points in the plot, then you just had. Stop the whole system, open it up, swap the disc, and then it would like chug for a bit to figure out, like configure your data from the first disc to the second disc and then start going again.
+
+Tim Ribaric: Oh gosh. Yeah. Yep. 
+
+Lily Wang: I remember doing that. Oh man. We are moving on. So in a similar kind of vein, what do we want for the future? What are you most looking forward to and what would you do? I just go crazy, don't let your sci-fi dreams be memes.
+
+Tim Ribaric: Put that on a t-shirt, that one there. So I actually 
+
+Daniel Brett: had an interesting experience where I got to, one of my buddies worked at an industry where they've started implementing as part of their work from home procedures. This VR work from home where you still have to go into the office, but in a VR setting, everybody got, oh my God.
+
+Nancy Fancy VR headsets, and he yeah, here, check out my office. And I put on the headset and it was like a tropical island with just like these stylized desks where you could customize all sorts of stuff just on a beach and you can look up and see all the other people that are in the office at that time.
+
+And there's like various different rooms. I'm just like, this is the future is now. And one of the coolest things with it is you could open up like browser windows and just tabs like you would on your desktop. And have them arranged around you in three-dimensional space, and then you can just hit a little toggle at the top of it and it turns it around so everyone else in the office can go, just look at a browser window that you're looking at and you can open up like five or six of these and just move them around this three-dimensional space so people can walk over and take a look at different windows.
+
+And it's just, it just blew my mind as this whole new era of presentation. Team building and interaction that I'd never experienced more. It was just so incredible. And they're doing it now, although in a limited fashion. And it was just really cool. 
+
+Tim Ribaric: Oh gosh. You're describing my worst nightmare.
+
+I'm sure you all have heard of the Matrix, if not seen it, cuz you know, I've been recently told that it's 25 years ago the first one came out. So I don't see, and I'll lively, I'll have a lively debate with both of you about your take on this, but I don't see any advantage to doing that kind of setup.
+
+To me it's. Wasting energy and packets on the internet for what purpose? I don't know. I'm happy to be persuaded otherwise, Daniel, if you think that's the coolest thing in the world. 
+
+Daniel Brett: I really like it as just an alternative form of human interaction without the physical human interaction. And I don't know, maybe that's just a generational thing.
+
+But that is my preferred method of interacting with humans is in from a safe location. Humans can be scary sometimes. Very unpredictable. But also the ability to just have full control over your environment around you. Like every detail of you could change the weather just by wanting it. You can pull up screens and anything you want without having to go to a store, buy it physically, build a thing.
+
+It's just the convenience of it I think speeds up innovation. By removing a lot of barriers. 
+
+Tim Ribaric: Oh gosh. 
+
+Lily Wang: It scares me a little bit, but I feel like it's the kind of awkward teenage phase before we're all in pods and we just live solely on the cloud and you know when you say you think something, it just happens.
+
+Instead of having to interact with an interface to make the weather change, you really would just use your brain to think it and it would change like we are 
+
+Tim Ribaric: getting there nervous. It's not real stuff though, that's the thing. These are all. Cartoons that you're immersing yourself in for? I don't know. I don't from a purely what is product productive and how you could become, I'm more productive.
+
+I don't think plugging into a virtual environment that would give me nausea would, provide a. An advancement in workplace, at least for me, and probably a portion of people, at least I'm sure on this one sometimes I know I'm out on my own saying stuff, but I don't think on this 
+
+Daniel Brett: one. I think that's, yeah I think that's perfectly valid.
+
+Like any tool, it's not designed for everybody. A tool only works if it fits with how you operate, and every person has different comfort levels and things that work with the way their brain operates in terms of productivity. So for me, this would be a great. Tool for me to increase productivity just because that's how my brain operates and that's the interface style that works for me.
+
+It's the same as different learning styles for different people. It's the same thing. You different people have different productive environments that work for them. 
+
+Tim Ribaric: Oh gosh. This is reminding me of a book I read last year or maybe a year and a half ago. It's by Stevenson or Neil Stevenson, and it's called.
+
+Or dodge in hell, I think is what it is. And it's all about like a, how the world enters virtual environments. And, there's no one living in meat space anymore. They're all sort of computer representations and then there's like warring factions. And then it's basically just a platform to, to create some sort of fantasy story.
+
+Cause it goes through all these iterations of different epox and history. And then, and to me that was like the worst thing ever. Be born in my flesh body and then plug into a computer and forgo my flesh body. Cuz I don't know, I don't know. Scares the heck outta me. I hope things aren't going that 
+
+Daniel Brett: way.
+
+But the word meat space scares the heck outta me. 
+
+Lily Wang: You don't like living the meat space. You don't like inhabiting your meat body. 
+
+Daniel Brett: If you start calling it meat space, I'm gonna be more inclined to go to a digital realm. Just because I don't like the idea of just meat space. 
+
+Lily Wang: Oh boy. I can't wait until we can shake meat hands again.
+
+Tim Ribaric: Wow. To answer the question about what kind of enlightened future we would have and, what kind of technology would make life better? I don't know. I would hope that we would go in the, my, my wants are more basic or will go towards what certain Scandinavian countries and I think New Zealand is adopting and go to a four day work week in shorter work hours so that we can have more time to live instead of work.
+
+And, I. If we get more clever with how we use technology, we'll certainly be able to, strive towards that. For example, one interesting thing that I've realized over the past few years of just doing stuff on camera is that I don't need to spend time walking across campus, right? I'm sure.
+
+Daniel, you're, you've suffered from this. Where you know, oh, I gotta go across campus now to talk to someone about something that didn't need me to be there in person. I wasn't like performing acupuncture on them or doing slight of hand magic tricks or something, there was no need for there to be a physical presence.
+
+And then now just, we default to camera based stuff, which is great because, you. Fill your day with more meaningful work as opposed to like spending time drudging across campus. So I hope whatever future we end up in, will embrace that kind of simplicity where, we won't go back to meeting in person just cuz it's meeting in person.
+
+So in that respect, Daniel, I'm very much on the same page as you. Yeah. Meat space is fine, but we don't need to meet in meat space all the time. Only if we're, sharing food or slapping our meat hands against one another. 
+
+Daniel Brett: Oh, strange to say. 
+
+Lily Wang: Bring it back around. The VR. Ar VR type situation that Daniel was describing earlier.
+
+You could have your whole person in there. You can have like in-person meetings with someone like really across the globe, even and then you could touch virtual hands and it would be like, bring it back, but. 
+
+Tim Ribaric: Not, see, this is a living nightmare for me cuz I, I, Tim wants that tactile experience.
+
+No, not even, I wanted to step back from that. Even, I don't necessarily think people should be next to each other cuz look at what happened, shakes the arms around and, yep. Points at Covid. But yeah I think. I think not chasing technology is what would be my ideal future where it aids and augments and things, but it doesn't, drive things.
+
+We don't have to have a bank of servers running in California, creating artificial. Environments pumping lots of extra carbon into the atmosphere just so it feels like you're in a 3D space when you're actually sitting in a 3D space. You know what I mean? I don't know if that's coming across correctly.
+
+Yeah. Just chalk it up to old man Robert complaining about things again. 
+
+Lily Wang: No, it makes sense. It's like just cuz you can doesn't mean you should like activated charcoal cheese or 
+
+Tim Ribaric: NFTs. There it is. I love it. The full circle, the cheeses and the NFTs again. That's great. But Lily, I think you need to answer this question now.
+
+Like what is your you posed this to us. What is your take on it? 
+
+Lily Wang: I haven't thought this all the way through, but it would be nice to do something with online dating. This is a weird one because. We don't meet people in, in physical space anymore as much right now because of the pandemic and people are gonna be less likely to want to meet each other.
+
+I don't know what this technology would be, but I want something to bring people closer together. So what Daniel described actually makes me happy, but. It comes with its own host of problems. Every new technology comes with its own logistical kind of nightmares. 
+
+Tim Ribaric: Sounds like you have a billion dollar idea.
+
+You should get some VC funding and take it to the moon as in the post. 
+
+Lily Wang: I'll find the face for it. Start find a, yeah. I think I have to find a frat bro to, to pitch it for me 
+
+Daniel Brett: though. I know a great. At Brock University in the link building where they're open for applications right now for new and innovative ideas for their business incubator.
+
+Tim Ribaric: That's Daniel abc. He's always be closing. He's always there. 
+
+Lily Wang: He really. We're not there yet because we need to full haptic feedback, virtual reality suits or something like that. So 
+
+Tim Ribaric: here's a, here's another thing I'll add to this cuz I was chewing this over earlier today thinking that I would put it into a pithy tweet and I have it ignored by the rest of the world, but, I'll go so far as to postulate or put forward the re, what I'll call the Reic serum, that anytime you have to have a meeting, that's a failure in terms of empowering people to do their job.
+
+Does that make sense? Every meeting, most meetings. How about this? Okay, not all means, but most meetings are failures to empower people to do the work that they need to do. Is that making sense? Nope. Good thing I didn't, good thing I didn't tweet this cause clearly in these contacts, Stan, I don't know what the heck I'm talking about.
+
+I feel like 
+
+Daniel Brett: context and an example would go a long way. 
+
+Tim Ribaric: Gotcha. Yeah, people definitely 
+
+Lily Wang: need to, sorry, go ahead. 
+
+Tim Ribaric: I was gonna say, let me try to set the stage here. So anytime you have a meeting, it's for the purposes of like telling others what you want to do or what they expect you to do and then building consensus to go do that.
+
+guess what I'm trying to say is that any time you have to get a group of people together and convince them to, that you want to do something that's a failure on the system to, not allow you to do that thing without excessive permission in the first place. I'll workshop it.
+
+I'll workshop it. Okay. I know it's not that great, but I was, it sounds an awful 
+
+Daniel Brett: lot. A reference to the idea of red tape and limiting factors, barriers to entry. Somebody should write a paper on that. 
+
+Tim Ribaric: Always be closing. Interesting Daniel? Yeah. We're gonna modify your tagline to be the closer.
+
+Yeah. Cuz you're ABC all the time. That's great. Yep. We help. 
+
+Lily Wang: We Colonel Flapjack as the closer. 
+
+Tim Ribaric: Okay. 
+
+Lily Wang: Get your own like cell shaded splash 
+
+Daniel Brett: screen. I would get something a little nicer. I happen to know a good artist. Something that tweaked in my brain, Tim, I forget who I was talking to about it, but it was the it was about the end result of innovation and the idea of avoiding innovation for innovation's sake.
+
+And I really liked the idea that you put forward when you're referencing like other countries and how they have the shorter work days and the idea of maybe innovation for the sake of freedom. From innovation, so like coming up with new and interesting things instead of just trying to progress towards newer and more interesting things instead progressing towards freedom and a release from technology.
+
+I know it's a flip from what I would personally look forward to, but I know for you that is the vibe I get is that you like the idea of. Innovation that allows you to live your life more. 
+
+Tim Ribaric: Very good. I would totally agree with you, and please sign me up to your CK because I think you're onto something here.
+
+Lily Wang: I had a thought about like development cycles and Agile in particular and how it it's. Are forced to always be making something new, to always be innovating. And sometimes there's no point to it. You're just going through the cycle for the sake 
+
+Tim Ribaric: of it, or Yeah. Or you don't have resources to support such a thing.
+
+There's something to be said. And there's a project called the Maintainers, and I think it's the maintainers.org. Is their homepage and it's all in support of and to celebrate people that keep things going. And often that takes effort and a lot more effort than we're willing to give credit to.
+
+So the fact that, we have the things we have is because of efforts of a lot of people and, we can't always just pile on more things as we go along.
+
+Daniel Brett: Yeah. Reminds me. The age old digital philosophy question is when do we stop? The referencing main maintenance the idea being at what point do you stop innovation and start just simply maintaining what you have cuz you've achieved peak human happiness with the developments that we've done. And then all innovation should just be towards maintenance instead of improvement.
+
+There you go. 
+
+Lily Wang: All right. I think this is a good place to to call it, speaking of the end of innovation. 
+
+Tim Ribaric: I've innovated all I can in this conversation. I need to go into maintenance mode, as Daniel saying, I've hit the best that I can do here. 
+
+Lily Wang: Yes. So that would be, It for today. We should talk about our workshops coming up.
+
+Daniel, you are running power BI next week? Not next week. February 16th. That's next week. That is, oh my goodness. Did you say time 
+
+Tim Ribaric: is meaningless earlier? Yeah, it's tough to. Oof. The only thing I can say specifically is that not everything is happening at once. So time does exist because we can linearly order things.
+
+But outside of that, I got no specifics. 
+
+Lily Wang: Just the other day I was eight years old, like it happens time, where does it go? And on the 18th, which isn't next week, I'm pretty sure 
+
+Tim Ribaric: 18th. 
+
+Daniel Brett: The 18th. 
+
+Lily Wang: The 18th still is next week. Okay. That's Friday. Wow. We have a GitHub for researchers workshop. So come out if you want to know how to do some version control and other things like GitHub are good for, it's good for, and then not next week, and not even the week after that.
+
+March 1st. We. Introduction to data D identification, so we don't live in the dystopia. And March 2nd and third, we have introduction to Tableau and Introduction to Python. So as always, you can find our workshops on experience BU and Eventbrite. Yep. Anything to add? 
+
+Tim Ribaric: Just Google, Brock University Digital Scholarship Lab, and you'll find all our stuff.
+
+Daniel Brett: Insert boat pun here.
+

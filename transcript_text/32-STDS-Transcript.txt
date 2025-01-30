@@ -1,0 +1,285 @@
+Ep32
+===
+
+Tim Ribaric: Hello and welcome to episode 32 of Steering the Digital Scholarship. We're at episode 32. I'm right in saying that right, Daniel. Yes, we are. All right. All these are coming by so fast. When you make a plan to go once every week, every two weeks the numbers start stacking up pretty quickly.
+
+But without further ado I wanna introduce the The theme for today's conversation and I'm titling the episode training montage. With me as always, is our faithful friend and colleague Daniel Brett. And I'll ask you the question, Daniel. Have you ever seen a training montage? Do you know what I mean?
+
+Yes. Excellent. So then my question to you is, what is your favorite training Mont? 
+
+Daniel Brett: That's a pretty easy one. My favorite training montage is unsurprisingly to anyone who's listened to the show for a while from a superhero movie from Captain America, the First Avenger. So the first Captain America movie.
+
+There's this really great montage of Steve Rogers when he is a scrawny little we boy, right? Trying to get into the military and then finally getting into the military. And trying to go through basic training and people are just trading him poorly and doing bad things, but it's really showing off not his physical strength, but hi, his smarts and his hearts.
+
+Yeah, I, I really like that montage. It's pretty pretty 
+
+Tim Ribaric: powerful one. Is that the same one where he jumps on the grenade? Yes. Uhhuh. 
+
+Daniel Brett: That is the end of the montage is. Just the chat or just like he doesn't have what it takes, throws a fake grenade and then he just jumps on it. Oh, excellent.
+
+Spoilers for Captain America First Avenger from about eight years ago now. 
+
+Tim Ribaric: I think the statute of limitations has passed on that one. 
+
+Daniel Brett: Yeah. The, for movies, it's two years specifically all right, then we're 
+
+Tim Ribaric: in the clear. Oh, yeah. So take a guess what my my favorite montage is gonna be.
+
+I'll save you the trouble because I don't think you'll be able to guess it. And this, I'll take you back to a film series that probably predate. It doesn't predate your birth, but it's probably deep in the recesses of your early childhood, and that is the movie Rocky. 
+
+Daniel Brett: I actually, yeah I've seen plenty of rocky montages.
+
+Okay. I've never seen the Rocky movies but it's a meme, 
+
+Tim Ribaric: good. It's infused the fabric of our lives. I don't, I have to go into too much detail, but do you explain the meme? I don't think I've seen the rocky meme ever. 
+
+Daniel Brett: So it's a. And it's basically when you're, you are trying to do something and it's just gimme a second, and then it just goes into Rocky running up and down some stairs and punching things and doing this meme, and then it just like coming back.
+
+Okay. I'm ready. 
+
+Tim Ribaric: Nice. All right. That's great. In Rocky. Okay. As You may mention that there are many rocky montages and you for certain are correct cuz I'm sure every Rocky movie has at least a few. And, depending on the movie and the era it was shot in has different flavors. So the reason why I love Rocky, the Rocky four montage so much is cuz it was shot at the height of the Cold War.
+
+So it was Russia versus U S A or U S R, not even Russia, pardon me, U S R versus u s a. So Rocky, of course represents the United States and there was. Dolf lug grin was the bad guy, and he was this super tall boxer with a flat top. His name was oh gosh, it's gonna escape me and I'm gonna, I'm gonna be sad that I don't know it.
+
+Victor Drago or something, some, it was very stereotypically sounding name. So there's, they challenge each other to a. And they're gonna fight in Moscow. They pick up Rocky and they fly him down to Moscow and they put him up in this sort of shack in the middle of nowhere. So he's doing his training just in a snowy field and with a a horse drawn cart and stuff.
+
+So they, they're intercutting between Rocky training in the field and then. Cutting to Victor Drago, who's in this highly stylized 1980s computerized gym with lots of beeps and bloops as he's punching different things, and then they're cutting back and forth between the two. And then at the very end, Rocky sticks his hands up in the air and he screams out Drago.
+
+And it's very, for the time and in the eighties it was very cold, warsh. So that's when I think of. Montages. That's always what comes to mind. For me, it's probably been at least, oh, I would say two decades since I've seen that movie. But it is that strong in my memory, so happy. I'm happy that the term montage makes sense to you.
+
+And and hopefully it's gonna make sense to our listeners in a second here as I. Start to try to tie these pieces together. So as we've mentioned in previous episodes, we're all working from home just like everyone else's. But what I was gonna say what we came up with, but would probably more accurately say what I asked everyone to do, and they've politely gone along with it, is to devise some online workshops that are, delivered online and marketed online, top to bottom.
+
+And so to get ready for that we're doing some training, we're doing some investigating. We're looking at things that are gonna happen. Before we get too far along I wanna take a moment to ask you, Daniel, because I asked you to take a look at different platforms that were out there.
+
+So different online tools. I'm sure there's plenty more than even what we came up with, but can you summarize exactly what you found and because that was the first step in our journey. We needed to figure out what we were gonna do on what, and then then you took that and ran with it.
+
+And what did you find out? 
+
+Daniel Brett: So the big thing is that surprise, video conferencing platforms all include the ability to conference over video. 
+
+Tim Ribaric: So that's a plus. Uncanny. Wow. Yep. 
+
+Daniel Brett: And the main front runners currently in the world, our teams. For organizations and Zoom for everyone else and organizations, and they're pretty head-to-head.
+
+The other three that I investigated were Discord, which was excellent. If you understand the jargon. There's a little bit more latency in their calls, but it's fine. It was. Buy gamers, four gamers for the most part. So you have to understand the mentality in order to navigate it effectively.
+
+I don't wanna to dis any platforms here, but it's definitely directed towards a specific audience. It's not as broadly accessible. Gotcha. Next was Google Hangouts. Google Hangouts was very accessible. It was literally the easiest platform I have ever used to do anything. The only downside is it does video chat and there is a chat feature that is it, that is the full extent of what you can do with it.
+
+Oh dear. Okay. But for that I would go as far as to say it is the best out there. If you are just trying to have a chat with somebody over video and you want it to be as easy as. That is the way to do it. It's so simple. It's such a clean interface. You have a human on the other side of your screen and you are chatting with them and that's it.
+
+No bells or whistles. But in terms of advanced features and all that not necessarily a tool I would use for running an online workshop, for example. And then life size was the last one. Life size was interesting in that a lot of the features that are the most useful and interesting features, they, they are paid features.
+
+So the, they do have a free version, but it's not as it doesn't really compare to the free versions of the others, but their paid version. I didn't have access to it, but from what I investigated, it looks like it. Their paid version is very competitive. With the other top tier platforms it's just you have to pay for 
+
+Tim Ribaric: it.
+
+So all told then after you did this exhaustive look and I'm sure there's people screaming at their MP3 players right now saying you forgot my favorite, video conference platform. Oh, of course. Fuzzy pajama pants or whatever it is. And, we'll apologize in advance and we only have so much.
+
+So much time to investigate these things. What what is your expert opinion on the topic? 
+
+Daniel Brett: For the moment, I think Zoom, in terms of the context I was looking for, was for me, what would I use to run online workshops? Zoom a hundred percent. The ability to have breakout rooms is just too good.
+
+And they've. On May 30th, then all of the updates that they've been working on are going to become mandatory. So after, after May 30th, 2020 anybody using Zoom will have all these features, whereas right now a lot of people have different degrees of zoom. So makes difficult when you're looking at one screen.
+
+It's okay, I have the raised hand feature, but all of. People attending my class, only half of them have it. So after May 30th then it's gonna be a lot cleaner cuz they just hammered out a ton of updates in the last interesting three weeks with some really cool tools attached. 
+
+Tim Ribaric: And and unfortunately, all of our workshops are gonna happen before May 30th.
+
+Our first workshops are happening. There 
+
+Daniel Brett: you go. That's right. We're gonna have plenty more, I'm sure. 
+
+Tim Ribaric: So this is excellent. Then. So we've, you've started and con constructed the first step in this process. You've identified a platform for us to use and it was based on something meaningful, not just what was most handy or whatever.
+
+So we're, we've got that check and out of the way. So the next step in the process was to put together some workshops. And this is I think we touched upon this maybe a couple episodes ago, where if not on the podcast, during our sort of normal chatting about, Not getting too quick to scheduling stuff.
+
+Because when everyone went home, there was suddenly an abundance of things online and some probably good, some probably not so good. Some probably, not worth, or. Happening too quickly, if things, we definitely wanted to 
+
+Daniel Brett: take our time. Exactly.
+
+Yeah. Making sure we were doing it right before we did it 
+
+Tim Ribaric: at all. For sure. Then we we settled in on May. So all of this aloo started probably when? March. March, right? Yeah. So we gave ourself a nice lead in time watch the dust settle. And we've come up with I think three.
+
+Workshops that are, we're gonna do this month that are very much in our wheelhouse. So at least, we're comfortable with the topics. So that's superb. Daniel, what workshop are you doing? 
+
+Daniel Brett: I'm doing the introduction to R and our studio 
+
+Tim Ribaric: workshop. Awesome. Our colleague, Sharon she's doing a session on r Rgi, s online, and, surprise, I'm gonna be doing a session.
+
+Python. So the the big thing to keep in mind is we posted these things in our usual portal available to Barack students, and then we also put them on Eventbrite for the invitation slash login slash signup process. That's the word I'm looking for, and I'm happy to state that almost all of them.
+
+Almost all of them are sold out. Congratulations, Daniel. You win your session sold out I think in two days or something. Nice. There's, we capped registration at 15 people for each of these sessions cuz that we guessed was a manageable number. We didn't do a ton of promotion either.
+
+I squeaked and squawked a marginal amount on Twitter that these things existed. And I imagine through that regular sort of organic people looking through event, right? And then people looking through the a workshop portal that the university has that was enough to get everything set up in full.
+
+Sharon is coming in next. She's, I think at 12 of 15. Though her session is still a few weeks away. And then mine Python session is just only sitting at nine and 15. So I'm just squeaking past the halfway point. But this is all, I don't know, useful to me thinking that there is an audience out there even though we're not.
+
+Making contacts with people in person at the space where we're doing this stuff remotely, just chirping it out here and there, and yet it's enough to get people engaged. What's your take on that, Daniel? Would you agree with that? Oh, absolutely. 
+
+Daniel Brett: I'm very excited that we're moving into this.
+
+Now it's, we've been. Thinking about it and planning for it. And I feel like now is the time to be moving into an online workshop setting. We've done the research and now we're moving into doing it 
+
+Tim Ribaric: for real. Yeah. I'm pretty psyched about, we, we have the steps the first two steps.
+
+So as I mentioned, those are the first two steps. Another thing we're running out of the department is. A online rendition of the library carpentry workshop. So we've talked about carpentry in the past, and if you're curious, I'd suggest Googling it. Intrepid listener. But we had an in-person session originally planned for end of April.
+
+In May as like a between terms activity, it was gonna be at Ryerson University with space for 40 people. And then it went sideways really quick when mid-March happened. So we had to cancel it and we made the commitment to rerun it as an online alternative. Much the same way we did with the the workshops I just mentioned.
+
+We put it up on Eventbrite, I tripped about it on Twitter and within, 24 hours, all 15 spots for all four weeks were sold out. So I guess the resonating point of all of this Gibber jab is that, there's an audience out there, which is great. So we have the the tools, we have the ideas.
+
+Now it comes down to. How are we prepping or executing on, in, on this idea? To that effect, we spent, over a year now running our workshops, constructing ways of, putting together feedback mechanisms, following up with users, making sure we have, handouts and deliverables for them after the fact.
+
+But what we're gonna do now is something we haven't done before, and that is to say, plan for a totally online. Rendition? No. In-person contact? No. Like human beings in the room? No. Sort of filing into a computer lab. So I'll go so far as to say that requires a different sort of mindset and a different way of prepping.
+
+Two, set the stage. I'm gonna pretend to be Walter Cronkite or that is to say some interviewer or Barbara Walters probably is a better way. So I'm gonna pretend to be Barbara Walters. Daniel will be my interview subject. I'm gonna ask him a few questions. How he's getting ready. And then once he's done, we're gonna flip the script and have Daniel v Barbara Walters, and ask me the exact same questions.
+
+And then once that's done, we're gonna. Call in our colleague Sharon and have her get her responses on these questions as well. And then the commitment I make to you listeners after the workshops are done in May or in May, and then in June, we'll circle around back and we'll ask these same questions to us and see if they met our expectations or if they didn't or if there were any surprises.
+
+How does that sound? Perfect. All right, here we go. Daniel, can you describe to me your work? 
+
+Daniel Brett: That's easy enough. So the content hasn't changed too much. It's still learning how to perform basic data analysis using r which is one of the most popular programming languages in academic fields, as well as others.
+
+Open source software. Great for statistical computing and graphics. And it's also going to serve as an introduction to our studio. In this case though, it's going to be our studio cloud, the online version of our 
+
+Tim Ribaric: studio. Ah, excellent. And what are you preparing in a different way or how are you approaching your preparation this time around?
+
+Daniel Brett: I did a test workshop recently last week I think. And. I learned a lot interest. You have to come at this from a completely different angle. This is not the same kind of workshop in any way, shape, or form. You can't just grab your notes from a your workshops that you've run before and then just run it online.
+
+The key differences that I ran into, there's three of them. The first one is you have to reduce the number of tasks and simplify. Example. Because people are going to take longer to follow along. Interesting. Through an online setting, there's things like, if they only have one monitor, then they are going to be watching you with your screen share, do it, and then you say, okay, just do this.
+
+You can't just do that because they then have to close your screen share. They're no longer watching what you're doing. They'll open up their own and then they will. And then they'll go back to yours. So you actually have to stop after you do each thing so that they can close Zoom or whatever platform you're using, go open up what they're working on, do it, and then come back and say, okay, it worked.
+
+So that alone cuts your time in half. Your whole workshop is suddenly half as long because half of it is them switching cuz they're not looking up from. Computer screen in your computer lab at your big projector and able to follow along. And it's actually more difficult because they can't just look and type at the same time.
+
+They have to keep switching back and forth. So it's that was a huge revelation rate there. Next thing I'm switching is we're switching to our studio cloud. So you do not under any circumstance, want to assume that. Your users or attendees are going to be able to set up the platforms if you have to depending on what you're teaching.
+
+But luckily for me, there is an online version of our studio that requires you to, or does not require you to have our on your computer or our studio downloaded or installed. So you actually don't need to download or install anything to attend this workshop. Thank goodness for that. But I can't imagine for for other workshops you have that prep time that, that difficulties, the technical difficulties involved with installing that software that normally is already installed on the machines in your computer lab.
+
+And then the last thing that I've been doing differently is I've speaking to that point from earlier about how the viewers are gonna have to switch back and forth between screens. I'm creating a comprehensive hand. That is going to have every single function used during the workshop on document that I will send out at the very beginning so that they can just copy and paste.
+
+Interesting. Under no circumstance should they be typing and following along, because that's just taking up more time and time is really the enemy in a, in one of these online workshops because you have to. Like it it's that mindset where you have to keep in mind every time you say something or tell them to do something, they're gonna have to switch away to go do that.
+
+And that it seems like it's just a little thing like minimize screen, open other screen, do the thing. But. Not everyone is comfortable with that process. And it's a learning curve for everyone. Yeah, it, you really have to pair everything down and keep it as simple as possible and make it as easy as possible.
+
+So I'm creating a comprehensive handout that is basically just a copy and paste sheet along with descriptions so that it'll be valuable after the workshop as well. 
+
+Tim Ribaric: All right. It sounds like you've put a lot of thought into this then I'll, I've had to, I'll move on to my next question here, which is what are you worried about the most or what's on your mind the most?
+
+What concerns you about all this prep and execution? Technical 
+
+Daniel Brett: difficulties is definitely the word of the decade right now, it's it's what I'm afraid of most because if somebody, Is stuck. You can't just jump in and help them. That's another thing that I like about Zoom is it does have a built in take control of someone's computer function which is very neat.
+
+So a remote you can remote in and just control one window of their screen to help them out if you need to. Which is a really cool feature. You don't wanna be doing that, right? You really don't wanna be touching other people's computers, even in a regular workshop. You don't wanna be touching other people's computers.
+
+And again, it just takes away from the time. So that's my biggest fear is making sure that tech-wise things are going smoothly and that I'm giving people enough time to do what I'm asking them. 
+
+Tim Ribaric: Very cool. Very cool. And then I'll we'll end it on a positive question. What are you hoping will happen or how are you hoping it'll conclude and finish?
+
+I'm 
+
+Daniel Brett: hoping the same thing. I hope with every workshop that everything will go smoothly and that. People will feel that they had a valuable experience that it wasn't a waste of their time to, to attend that they learned something and that they might go off and use what they learned in their lives or out in the world.
+
+Even if they use it once in like a trivia night, someday, 10 years down the road. I'm happy with that. I just, I. What I teach to be useful. 
+
+Tim Ribaric: Excellent. All right, so let's let's trade hats here. All right. And here, I'm handing it over to you on there. Thank you for handing that one to me. So now, not really though, we're physically 
+
+Daniel Brett: distancing yourselves.
+
+Tim Ribaric: Yes. No. Yeah. In the theater of the mind only. Daniel, I'm gonna hand it over to you and you can be Barbara Walters and and ask your questions. 
+
+Daniel Brett: All right. So Tim describe your workshop. 
+
+Tim Ribaric: Oh, thank you. I also want to thank you for the opportunity to speak here today. It's been it's great to be asked to, to join us.
+
+So what I'm hoping to do is run a session that introduces people to the sort of basics of Python that focuses on. The sort of python specific things that are programming related. Not just what is a program, but more of here's how you would use Python to do something.
+
+And with luck cover just enough to make people interested in following up with more things. 
+
+Daniel Brett: Excellent. And because of all of this craziness in the world, are you doing anything different to prepare for this 
+
+Tim Ribaric: workshop? Yeah. I need to rethink the platform that I'm gonna be running this on.
+
+So in previous workshops we would not to get too much into the weeds, We would have a shared instance of a Jupyter Notebook that we could fire up on a Compute Canada bit of infrastructure for us. And I'd provide a link to everyone. They would click on it and it would plop open something in their own browser and they could follow along so that, Is gonna be challenging, if not impossible in this kind of environment cuz Compute Canada, affiliation with that requires, you to be a Brock user.
+
+And we didn't restrict logins or signups to be a Brock user. So I'm not sure who in our signups haven't. Or not affiliated with Brock. Sorry, that's easier way to say it. So I'm looking at different alternatives and I'm sad to say I've yet to find one. I've got some leads, something like my binder, for example, which will take a get repository, turn it into something that looks like a Jupyter workbook, but then, go from there.
+
+So I think that's, that is what. Is plaguing me the most or what I'm preparing for is how to do it in a way that's synchronous or simultaneous to all the users in the room. That makes 
+
+Daniel Brett: sense. And what's your biggest worry a, aside from what you just said? 
+
+Tim Ribaric: I'm just I'll try to stay novel and not just say technical problems because that was already mentioned.
+
+But what I'll mention or what I'll say is like just a user that gets too frustra. So it's nothing to do with, something malfunctioning, but it's just the course or the workshop isn't constructed in a way that makes sense to them and then they just, lose interest or start changing the experience for everyone else by typing in too many chat messages that sort of distracts everyone else.
+
+So I, I think that's what What I'm worried about the most is someone getting someone getting frustrated because it's not structured the correct way, and then them not feeling comfortable with what's going on. So I guess that would be my biggest fear for 
+
+Daniel Brett: sure. Yeah. And that could definitely happen with new technology and doing things in a different way than people are used to.
+
+So here's hoping that's not gonna happen. And speaking of hoping what are you hoping is going to go happen with this work? 
+
+Tim Ribaric: That's a great transition there, Daniel. I love it. So yeah what am I hoping will happen? I just really want however many people show up to get a understanding of Python to the point where they wanna pick up something else about it later on.
+
+So much, I think the way you've formulated it, just enough to peak their interest to get them excited about something else. And then, my longer term, I guess would be in June or something to run something a little bit more sophisticated that is also about Python. Based on the success, the potential success or the hope Yes.
+
+Success of the first, time that I, I run the, we can assume success. Oh, okay. Thank you. That's a reassurance. That's a lot off my mind. But yeah that's what I'm hoping for and we'll see exactly. Perfect. Thank you. All right. Okay, so let's take our hats off and what we're gonna do since there are three workshops coming up, and that means three instructors, as I was speaking about earlier, we're gonna throw it to Sharon and she's gonna answer these exact same questions for us, so stay tuned.
+
+Joining us now is Sharon Janssen. You gonna say? Hello? Sharon. Hello Sharon.
+
+I know you love being on the podcast so much. So I wanted this opportunity to speak to you live about a question, a few questions that we have. Sure. As this episode is about training and getting ready to train and training. And training. With that I happen to know that you're getting a workshop ready that we're gonna deliver at some point in May.
+
+Could you take a moment and describe to us what your workshop is gonna be? Sure. 
+
+Sharon Janzen: I'm hoping to provide some basically an introduction to Arc g i s online for our users. There's room for a few more to register for that, and it's basically going to be a very introduction level.
+
+Kind of exercise that we're gonna do using Covid cases as our mapping example. And it'll teach our Brock University users how to sign in to r g s online using their credentials. And then how to get the data, how to map it. And we're gonna, on top of that, we're gonna layer some census mapping and then we're gonna take a look at the I C U capacity in Ontario.
+
+Tim Ribaric: Very cool. So a few things we're gonna do. So it sounds super topical as well as instructional. That's super. Having heard what you're gonna do, can you describe a little bit more about how you're prepping this one and knowing that it's gonna be totally online? Are you doing a different approach to putting the material together, figuring out how it'll run?
+
+Oh 
+
+Sharon Janzen: yeah, for sure. The first thing that I'm doing a little differently is that I'm working from a Mac and usually I work kinda PC and typically if we were at the university, I would offer this as an introduction to R G I S Pro, which is a Windows-based software. That kind of shaped how I put together this workshop because I have to work from a Mac and then we, I know we have a lot of Mac users.
+
+I wanted them to be able to access the software as well, and they can do that using their Mac. They just need an internet connection and away we go to RTS online. So that's the first difference. I guess of the major differences anyway, that I'm using a Mac and that we're gonna use our GI S online rather than our GIS Pro.
+
+Tim Ribaric: Excellent. Oh wow. Then the tough, here we go with the tough question. I was saying I'm just gonna be like Barbara Walters and I'm gonna ask really tough questions. Just like when she used to do it on 2020. So here's the toughest question, and I know you've seen these questions ahead of time, so nothing should be a total surprise.
+
+Yeah. So what are you worried about the most as you're prepping and getting ready? I 
+
+Sharon Janzen: What I'm, my biggest fear is what is this gonna look like? Is it gonna be I share my screen and teach, or is it gonna be them working along with me guiding them? Like that unknown of how this all gonna go together.
+
+That's probably what I'm worried about the. 
+
+Tim Ribaric: Wow. All right. All right. And then let's end it on a high note and then I'll ask you, what are you hoping, how are you hoping that it's gonna go, or what are you hoping, what would you consider a success? A 
+
+Sharon Janzen: success will be for all of us. I'm sure learning in this kind of online environment would be a serendipitous kind of learning event for everybody.
+
+So we'll take what we get and we'll learn from it, and my hope is that. Folks will go away with a little bit more of an understanding of arc, g i s, online and g i s in general. And then of course to have a capacity or a curiosity to learn more about the technology and what it can do. 
+
+Tim Ribaric: That's great.
+
+Thank you very much for your answers. And I think the one thing I wanna do is after May is done and the dust settles, we come back and we ask each other these three questions or these few questions again to see if what our answers were Yeah. Could match up the reality. Cause I I'm really curious about this.
+
+I think we're embarking upon something new and different and it's gonna be neat to see how it plays out. Yeah, for sure. Awesome. So I'll let you get back to fighting with that Mac and righto. Get right on. And I'll say, thanks for joining us today. Okay. Bye.
+
+All right. So that was Sharon's take on the subject. And so as I mentioned, after June rolls around, we'll sit down and answer these questions again, and then we will we'll see what happens and see what. If our thoughts on what we worried about were founded, if our preparation was correct and we'll see.
+
+We'll do a nice 360 evaluative look back. So this is bringing us to the end of our episode this week. And if it wouldn't break a million copyright violations, I'd be playing the song from Team America World Police Underneath this as we're talking and wrapping this up.
+
+You ever seen that movie Daniel? Nope. 
+
+Daniel Brett: I have seen memes about it though, that seems like my only access to your favorite films is if they have memes about them. 
+
+Tim Ribaric: Hey, it's, that's just as well if the, if something can be experienced in different ways. That makes total sense to me.
+
+But I, the only way I would describe it is that it's pretty much a fourth wall montage. A fourth wall breaking montage that talks about it being, a montage that's, With a theme song underneath that mentions that it's a montage, so it's very meta. And I think it would be a very fitting conclusion to the end of this episode, but there's no way I'm gonna attempt to play it.
+
+Or even try to source it and find it. I wouldn't even know how to do that in the first place. But having said all of that, we're gonna wind this up by saying instead of me asking you to check out our social media presence or look at our website on the Brock page, and I'll ask you to do is check out our GitHub page.
+
+It's github.com/brock dsl or more easily if you're sitting in front of your computer, just Google GitHub and Brock Ds. I'll give you a flavor of the different kinds of workshops, projects, and training material that we have up and running. And if you can drop us a line about what you think.
+
+With that, I'll say anchor drop time,
+
+and thank you for joining us, and we'll talk to you next time.
+

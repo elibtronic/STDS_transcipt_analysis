@@ -1,0 +1,323 @@
+ep3
+===
+
+Alicia Floyd: Hello and welcome to episode three of Steering the Digital Scholarship, brought to you by the staff of Brock University's digital scholarship lab. My name is Alicia Floyd, and I will be serving as acting captain for this episode.
+
+Before we start this week's discussion, let's say hello to our team and do some catching up. Tim, can you tell us a little more about the construction of the new space or do you have a progress update? 
+
+Tim Ribaric: Hello all. That is a million dollar question, Alicia, and I wish I had an answer for you. Despite being in a meeting of the information technology and infrastructure committee yesterday, there was no real progress.
+
+Talked about or ETA for time open discussed. So unfortunately no progress report. 
+
+Alicia Floyd: Okay. That's all right. Daniel has just completed his software, carpentry instructor training. Can you tell us a little bit about the training and what you're most excited about in terms of putting on some of these workshops here at Brock?
+
+Daniel Brett: Absolutely. The training, it was interesting cause I'd never done an. Training course before, so it was just me sitting at home in front of a webcam with 10 other people in front of their webcam, and you got to see them all across the screen and everyone was chit-chatting, various chats. We used what was called an ether pad to communicate and share resources.
+
+It was a really neat experience very educational, and just a lot of information in my brain was fried at the end of each. . But I, I'm very excited to put these new skills to use in the space. And now that both Tim and I are certified instructors, although I still have a couple little tasks to complete , I will very soon be a certified instructor with, I don't know if you get a diploma or what, but we're definitely certified.
+
+Tim Ribaric: That's correct, . 
+
+Daniel Brett: But then we can start organizing and running some cool workshops and. Down the road, we can do a big two day hoopla here at Brock. I feel like that would be a fun 
+
+Tim Ribaric: experience. We'll definitely do that again. Yeah. What I would like us to take a look at into the future is some of the data carpentry stuff, which is an even more esoteric extension of the software carpentry core curriculum.
+
+But home audience. Stay tuned. We'll have more details for you as the weeks. 
+
+Alicia Floyd: Sounds good. Thanks for the update.
+
+So now for the exciting question we've already heard about everyone's favorite superhero and favorite pie. So this week, since we are part of the Brock Libraries, I thought that we would share our favorite books. So Daniel, do you wanna go first? 
+
+Daniel Brett: Sure. So my favorite book is called The Last. And it is written by Peter s Beagle.
+
+It is not your usual fantasy novel in that it does have your wizards and magic and everything, but it is not a happy book. It is. It's like somebody took the fantasy genre where your main character is a unicorn and a Adobe wizard. And turned it into a very realistic, very serious and dark tale.
+
+And it's been adapted to a movie, and it's also been adapted to a graphic novel, which was incredibly well done. And I love all forms of it. I own. four different versions of the digital version of it. So dvd, Blu-Ray, and then it's two different special editions. I own three different book copies of it and two different comic copies of it because I thoroughly enjoy 
+
+Alicia Floyd: this story.
+
+So is this collection the type of collection that you lend out or do you keep it in pristine con condition? 
+
+Daniel Brett: I'd lend it out. I want to share this with as many people as possible. 
+
+Alicia Floyd: Okay. You better bring it in then. No, 
+
+Daniel Brett: I'll definitely bring in the, my favorite one. Art Book one. 
+
+Tim Ribaric: Okay. I'm interested to hear more about this Adobe Wizard if he's PDF or
+
+Alicia Floyd: How about you, Tim , 
+
+Tim Ribaric: I looked at the show notes, so as we've mentioned before, we don't have a script, but we do have some notes we start off with. So I saw the, what's your favorite book? And my immediate response was All, dang, I hate, that's like asking a car mechanics, their favorite car or something, and I don't care.
+
+I just drive around to get somewhere. So like the idea of having a favorite book I got over that quickly and I jumped into good reads to have a look at what I've read. You guys know what Good Reads is, right? Yep. Yeah. So I've got, I started it later in life, so only about five or six years ago.
+
+So I don't have the whole chronology of everything I've read. So I took a look at things. I scored high and. things that I wrote good reviews on, and it came down to three books, and then I picked my favorite book. So maybe I'll go through the three and then you guys can pick what you think my most popular title is.
+
+And I don't think their esoteric, but perhaps they are. So my first option, or the first book I really liked was Infinite. Just, have you guys heard of that one before? Nope. Oh, boy. Okay. It's a David Foster Wallace novel, and it's as thick as a. And it's got 300 footnotes in it, and it's very complicated to read.
+
+And I don't know some reason I enjoyed it a lot. My second option is all quiet on the Western front. On the eastern front, pardon me. That is a book about World War I and the German soldiers experience in World War I. It was very sad. And then the third book was written by Kafka, called the Trial.
+
+Have you guys ever heard of any of those three? I have not. I've heard of the second. all quiet on the eastern front. Okay. So the trial is great. I love Kafka and I love oh, dystopia as a genre and as a mind space. So the trial is about a fella who gets arrested for something and He doesn't know what it's for, and nor does anyone tell him.
+
+So in the process of him trying to figure out what's expected of him, he cannot make heads or tails of anything. And at the very end, the state executes him and he still doesn't know what happens. It's very Kafka started writing a bunch of stories, but then he passed away from bronchitis or something and he sent all the manuscripts to his pal and said, don't publish these, which is a very interesting thing to do.
+
+But the dude ended up publishing a few of his books and I think the trial was one of them that he actually completed. So anyways, I do enjoy the trial on account of that. So having said all those three, what do you guys think is my most favorite? 
+
+Alicia Floyd: I'm gonna go with the third one. Since you had a lot to the trial to talk 
+
+Tim Ribaric: about.
+
+What do you think? 
+
+Daniel Brett: I don't know. The phone book. The phone 
+
+Tim Ribaric: book, whatever. That one you said was the giant phone book the first time. I have to say it. Is the phone book one infinite Jest? It's like a dude novel. No, it's not even a dude novel. Anyway, 
+
+Alicia Floyd: you tricked me by saying footnotes and phone 
+
+Tim Ribaric: book.
+
+Yeah I have it in hard copy if you care to to borrow it. But it's a huge story about this dude. Semi-professional tennis player and stuff that happens to his family and there's a lot of stuff about addiction and then like at the end, it doesn't really feel like it's over and it's a big question mark, but it's very engaging greed.
+
+If I were to ever write a novel here's me saying, if I was ever to write a novel, I'd write it in such a way that you would have trouble reading it, or it would break through the bounds of the fact that it is a novel. You know what? . Here's a, here's an example. What I mean, there used to be this kids in the hall sketch.
+
+You guys remember kids in the hall, right? . And it's this, no, the youngster in the room is shaking his head no. After, we'll Google it and you could find out, but basically it's this it's a skid show that was on CBC and it got raunchy in certain parts, but one of the sort of more cleaner skits, the sketch sketches, pardon me on the show, was about this guy who was a world renowned.
+
+Author and his famous book was like The Spider. And then when you open it up, the first page of the book was, look on your shoulder, there's a spider. So everyone would pick up the book, open it, and then look at their sp their shoulder and go, ah. And then they were like, yay, this is the best book in ever.
+
+That's what I would do if I was an author and I wrote a book. It would be a thing that like breaks you out of the idea that you're. But to answer the question, infinite justice is my favorite one. 
+
+Alicia Floyd: So I'd just like to say that for someone who didn't really love the cliche librarian question, you had a pretty Yeah.
+
+In-depth answer. . 
+
+Tim Ribaric: Yep. I'm a I my life, irony rules everything around me. 
+
+Alicia Floyd: My favorite genre is historic fiction. I really enjoy reading. Creative works where they can put you in a place and time and it really feels like you're there and you're actually learning about something that happened in history, even though it's fiction.
+
+I love Joseph Boyden. He wrote some pretty amazing books, but my favorite book is probably The Book of Negroes by Lawrence Hill, which I'm assuming most people have read. I've heard of it. 
+
+Tim Ribaric: I have not read 
+
+Alicia Floyd: it. I dunno, I wouldn't suggest watching the TV edition of the book that was put out. A Canadian television company.
+
+I don't think they did a very good job personally, but the book is amazing and the main character is female. And the way that Lawrence Hill writes that character from the perspective of a woman, it was amazing. Very well done. And, 
+
+Tim Ribaric: Now doesn't that book have a different name in the us? 
+
+Alicia Floyd: Yes. They couldn't use the word neg.
+
+So I can't remember what I think they gave it the name of maybe it was Amata, who is the name main character. We could, we should look that up. I used to know that what they actually named it. They also changed the cover. They didn't want the picture of her face on the cover from what I've heard.
+
+Tim Ribaric: Another reason why Canada's better than America. . Hear that Donald Trump. Ooh. Dangerous . 
+
+Alicia Floyd: Okay, away from politics. Onto our discussion.
+
+As you have gathered from our previous episodes, we are taking you along with us on our journey of developing the digital scholarship lab at Brock University. We've talked about the question, what is digital scholarship? And we've addressed the trepidation. Individuals may feel toward learning and using new te.
+
+and hopefully we dispel some of those concerns for members of the broad community. So I was hoping we could provide the audience with a little more information on what we're doing right now. As you just heard, the building is not yet complete. Even though there is not a physical space, we've been working hard to develop a plan.
+
+We are acquiring new technology, developing services, and investigating all sorts of new, innovative tools that students and faculty and staff can. . We've also already begun developing and offering workshops and have partnered with other departments on data related projects, and we are hoping to start more collaborations of that sort.
+
+So Tim, I was hoping you could tell us a little bit more about the workshops that we're offering. Some people may not realize that we're already doing workshops for people at Brock, so could you tell us a little bit more 
+
+Tim Ribaric: about that? Yeah, I we are, , as Alicia has mentioned, we are, we're offering a selection of workshops that are meant to be low level entry points into things that are tenants digital scholarship or what we envision digital scholarship to be.
+
+The jury is still out all told about what digital scholarship is top to bottom, but We are what we have done is Daniel led a workshop about the gi versioning platform, which was well received. We also have done some work with Open Refine and then also upcoming something that will be an introduction to the command line workshop.
+
+And then there's been probably some others. Oh yeah. We've also had a two day long session. That was under the flag of library carpentry where we had people from across the country come and come to Brock and participate in in two days of intensive training of introductory stuff.
+
+That's what we have done. I'm going to I'm scratching my head about what comes next and what we do next cause I know. Replay these workshops. Without a doubt. They're, I think well received and we enjoy giving them. But outside of those few topics I really wonder about what comes next?
+
+What do you guys think? What 
+
+Daniel Brett: comes next in terms 
+
+Tim Ribaric: of workshops? Yeah, exactly. 
+
+Daniel Brett: Once we have the space open, I know. We're going to be focusing part of our attention, at the very least, on visualization. So I feel like we will be doing workshop in visualization tools like Tableau, maybe Power bi. We'll see.
+
+And anything else that comes along, if people are interested in Voyant, we'll do Voyant. These tools that for the most part, people can learn on their own if they need to. It wouldn't hurt to do a workshop on them as well. But again, we'll see what the demands of the people are once we get 
+
+Alicia Floyd: up and running.
+
+One of the things I'm really excited about too are, outside of workshops, just in terms of what we'll offer when the lab opens our events. So symposiums, I was hoping we could. Debates or chats and some showcases for people's visualization projects that they do all sorts of things just to bring the community here together with the great things they're doing.
+
+Tim Ribaric: I think we should call it the vis biz. That's 
+
+Alicia Floyd: a lot easier 
+
+Tim Ribaric: to say when we describe visualizations. Yeah. So we are in charge of the vis biz here at bu standing for 
+
+Alicia Floyd: Brock. So we're also open to suggestions. So if anyone has a platform they're interested in learning about or they want one of the workshops that you've heard today, we can go into classrooms and do the workshop.
+
+So we're all about working with you, so if you would like to contact 
+
+Tim Ribaric: us. I think the the biggest challenge we have in front of us with respect to this is hitting the mark with what tools to invest our time. To the point of being able to talk about them. Like I, I do enjoy a programming language that's very esoteric and hard to understand.
+
+In fact, right before this meeting, I checked out a book about the c programming language. In fact the first ever book written about the c programming language published in 1978. I have no, all, no doubt in my mind that it'll be a totally useless read for me, and I'll enjoy it, but it'll gimme no transferrable.
+
+So I would I say that by way of cautioning myself and the rest of us and into the future, like what we spend our time on and what's gonna pay off. And what do you guys think about that? Like the opportunity cost, I guess is the fancy way of saying when you spend time learning about something else or learning something when something else is passing you by.
+
+I guess I try not to think about it too much, but clearly I do, because I'm mentioning it now. Okay. Sorry, we're heading way off topic, but 
+
+Alicia Floyd: I don't know if I have a comment on that one, but I know where you're coming from for sure. I think that's why getting people's feedback will be important to make sure that we're heading in the right direction.
+
+Daniel Brett: Feedback is one of the most important parts of any sort of developing facility, and that's exactly what we are. 
+
+Tim Ribaric: Yeah, very true guys.
+
+Alicia Floyd: So also on this week's voyage, we are going to discuss marketing. So how we are going to market the digital scholarship lab. The interesting thing that we've talked about together as a group is that since there's not yet an actual space on campus, the idea of digital scholarship as a service, a tool for learning the lab as a place to collaborate is just a.
+
+So we're thinking it might be difficult for students or staff or faculty to have a full understanding of what the digital scholarship is and what we're doing and how we're helping students or faculty. So yes, the idea of marketing a concept. So my first question for you is, what do you think is the most difficult thing about bringing awareness to a concept rather than a concrete thing or product?
+
+Is that tricky one? That is a tricky. . 
+
+Daniel Brett: I think one of the biggest hurdles to get over when you're introducing something that is just a concept without any physical aspect to it, is catching the attention of the people that you're targeting. Because we live in a world where there is so many things getting shoved in people's face at all times.
+
+Anytime you go on the computer, then you are just getting inundated. With new and exciting. Somebody wants your attention or your money or your time and you have to fight for that. You have to really fight for your space in people's minds, and that, I feel like that's one of the biggest hurdles is how do you make it so people think that your concept, your idea is worth the space in their.
+
+and figuring that out is probably gonna be one of our most difficult tasks. . 
+
+Tim Ribaric: Yeah. Great answer, Daniel. I think I agree on all those points you've made. It is very difficult. But, the one thing I feel assured or a little bit more assured about is that we're in a university environment that's built on ideas.
+
+We're not like in a widget factory, we're making widgets and we need to make 50 widgets before the end of the day, and that's how we account product. I like the idea of being in a space driven by ideas and thought and reflection. So that gives me a bit of a, some peace of mind knowing that, we'll try our best and if it resonates with our community and our users that good will, things will be great.
+
+But what do you think, Alicia? 
+
+Alicia Floyd: I agree. I've been doing a lot of the social media and I feel. It just takes time with the marketing environment as it is. It just takes time to get that audience and I think we're getting there. But doing all of that brought me to my fun fact that I'm going to share with you today.
+
+So I started to think about all of the different ways to do marketing, and when I first started in the workforce, there wasn't really social media. It was you pay to advertise, you. , hundreds of thousands of dollars if you really wanna advertise it costs money just to put your phone number in the phone book.
+
+So I started to think about that and bring it back into the, to the old days. And you might realize I end up loving talking about the olden days and everything that used to happen. There weren't as many methods. Products or businesses to advertise. And so I wanted to go and take a look at one of the old newspapers that the special collections had here at Brock just to see what kind of advertising they had going on in there.
+
+So I went upstairs and I found an 1862 issue of the St. Catherine's Daily Evening Journal. The advertising space was sold for as little as a dollar. So will you pay $1 and you can say whatever you. What I love the most about those old newspapers is that it covered every single thing that was going on in the entire city in that one place.
+
+So you'd find the news, yes, but you would also learn the gossip in your town, what sales were on, what medicinal cures were going on. You would even find out who was going on vacation, where they were going, and when they were coming back. So watch out, lock your doors. . The great thing about that though, was that every single person in town read that newspaper cover to cover and knew everything that was in it, and you didn't have to worry about whether or not your message was getting out there.
+
+So it's not the same anymore. Of course. Today the marketing resources are endless from social media, websites, publications, radio, television and podcasts. So I guess with that in mind, my next question is, , what is the best way to reach people? And I thought maybe both of you would just share with us what reaches you the most?
+
+Do you people that read newspapers, do you read online newspapers? Is it the social media campaigns that happen? But what do you guys spend the most time reading or watching? 
+
+Tim Ribaric: Oh boy. Good questions. I'm right there with you with the idea that there's no longer a common shared experience that.
+
+Have together collectively I mean everything is personalized to a point of being almost non-transferable. You don't have community gatherings where everyone is watching the TV when, the Armstrong lands on the moon and there's a common cheer going across the country or the univer or the country the globe all at once kind of thing.
+
+Everything is very. to people these days and it's, I don't know, it's hard to share experiences when the things you ingest or consumers specifically driven or specifically created just for you kind of thing. It's a very tricky it's a change in paradigm. I hate to use that phrase, but that's how I describe it.
+
+What do you think, Daniel? 
+
+Daniel Brett: So what is the best way to reach. Specifically, so you said, what do you read? , I don't read, I don't watch anything that has commercials. I actively avoid the news. Unfortunately, like many in my generation the best way to actually advertise to me is. swag . Oh, 
+
+Alicia Floyd: I didn't expect that answer, but I like it.
+
+So what you're saying is we should invest in some digital scholarship lab swag, Tim? 
+
+Tim Ribaric: Yeah, sure. Let's put it in the budget. We'll see what happens. 
+
+Daniel Brett: Because I remember when I was a student, we would, the only time we would know about a club or about anything is when we'd be walking down the hallway. And we'd see one of those tables that people set up in the hallway and they've got a big old sign that says, Hey, we'll give you some swag if you listen to us, talk at you about some sort of topic.
+
+And my friends and I, we would always stop because we would get stress balls and pens and sometimes neat little games, and we would always. and we'd collect all this swag and we just have boxes of junk, but it was free. And all it cost us was like five minutes of listening to somebody's spiel. And it did work.
+
+It like those ideals got into our head and we have this piece of swag 
+
+Alicia Floyd: sitting on our desks. Okay. But let's just say that, a club gives you a, I don't know, a globe stress ball, Absolut. have, would you go and then visit the club or join the club? Did that work? It did 
+
+Daniel Brett: work actually I went and was in the board game club for a year specifically because they hand out like these little board game things that my friends and I, we ended up playing with them constantly.
+
+These miniature, I don't know what they were little slidy board game things we're like let's try out with this board game club. It sounds interesting. It got the idea to our head. We tried out the club. We didn't stick with it, but we got into their space for a few weeks and played some games.
+
+Tim Ribaric: All right. Interesting. To actually answer the question I was pontificating earlier, but to me, like the only way you can catch my attention is probably to tweet about something. . I actually, every morning I read the St. Catherine Standard while I'm eating breakfast. So that's our local newspaper.
+
+It does a good job telling me about like local politicians and how not on the up and up they are, but that sort of informs my worldview. And then Twitter, I used Twitter a lot because even when I started working here at Brock so many years ago, Daniel, we were probably still in high school, or not even that old I was the only person here that did the job that I.
+
+So I needed to find like community and sort of people doing similar tasks that I was doing, and Twitter was the best way I had to do that. So I was able to talk to other digital services librarians or people with similar roles and responsibilities at different institutions. When people in those positions start talking about things they're interested in or doing, that's when I perk up and pay attention, which is probably why I pushed Twitter so much for us and because it's, to me it's not hyperbole when I say it was a lifeline for me to get to get insight into what's going on in other places in a way that's unfiltered and not through.
+
+Through marketing speech or through the press releases that, organizations and places will put out. So I think to get to me is to have a friend of mine tweet something about it and then I'll pay attention to it. That's definitely the case. 
+
+Alicia Floyd: I think you've touched on one of the things I was going to ask next.
+
+And I've had people ask me this question and that's why I'm bringing. is the current climate of social media, does it fit in an academic environment? And I've had people say, is it professional to tweet And Instagram photos and Facebook can be all over the place. And my answer is usually yes, as long as you're professional.
+
+But I just wondered what your answer would be if somebody asks you if you think that it would fit in an academic environment. 
+
+Tim Ribaric: I would say for sure. It it makes sense. I get lack of a better description. A lot of my leads for what to pursue professionally are what's going on at other institutions through Twitter, so I have absolutely no reservation to recommend it as a thing people should get involved with.
+
+Much like anything else, you can find the dark side and not, be exposed to the good stuff. But if. A little bit critical with your approach. You can find allies and colleagues across the country and in fact the world doing similar stuff for you or similar stuff to what you're doing.
+
+So with having said that what does professionalism mean in this case? We're in a university, I mentioned this earlier, we're an ideas factory. We're not trying to increase the world's gdp. We're trying to world increase the world's. Amount of critical thinkers and ideas and positive, pushing the ball forward in a way that sort of benefits society.
+
+So to me the question, I don't know, as I'm looking at it with an almost a post-modern approach, there is no such thing as professionalism. So there's no way we can compare our activities or the activities of social media against that kind of thing, because it's a, I don't know, perhaps an old fashioned or I'll venture to say it's an old fashioned kind of way of, Keeping track of things or describing things.
+
+So social media particularly Twitter, I don't know about Instagram. I don't use it enough, but I think it's a very important way to communicate and I would, very much advocate for everyone keeping their toe in the water with respect to it. For sure. 
+
+Alicia Floyd: I like the idea of the university is more being about ideas and I think that one thing I've noticed about being act more active in social media.
+
+It's just this amazing place for creative output and it's a different way. When I was in school, in university, it wasn't available and I love being connected to all of the different organizations just on campus and seeing what everybody's doing cuz we wouldn't know what everybody was doing. Other words otherwise.
+
+And having people just throw their ideas out there and seeing all of the feedback you're getting, it's a whole nother way to communicate and learn. So I think it's definitely quite. . 
+
+Tim Ribaric: The one I think the easy way to criticize it or the, in fact valid criticism of it is that it puts for kids and people growing up with in a world of social media dictates all of their standing amongst their peers.
+
+It's very difficult to get overwhelmed or create and cultivate a particular persona using. , whatever social media platform of choice, so that they're not being their authentic self, they're projecting a persona based on what they think their friends will like. I'm actually reading, or I'm reading this collection of essays about the encroaching surveillance society.
+
+We're refining ourself living in no hyperbole there and. One of the article, one of the essays in this collection was this person talking about their child had five different Instagram personas, each carefully cultivated and each one for a different group of their peers. So it end up creating this sort of very, this poor child.
+
+I, there was no indication of how old this person was. Probably I would guess like a tween. Needing to project these different personas for different sort of peer groups and how that sort of warps or not necessarily warps, maybe makes someone grow up faster than they need to. I think social media breaks down bears and makes us really close to one another, but it also perhaps creates this adverse side effect of people thinking their.
+
+Since we're on the topic of marketing, their personal brand is this thing they need to project and carefully cultivate and always worry about. But anyways 
+
+Daniel Brett: that's 
+
+Alicia Floyd: true. My, that's and terrifying for a parent. 
+
+Tim Ribaric: Yeah. Luckily my youngsters don't even have cell phones yet, so I don't know what's gonna happen.
+
+When they are old enough to be immersed in this kind of stuff. . And then Daniel, you need to get yourself on Twitter. Having said all. But 
+
+Daniel Brett: Macedon so much better. 
+
+Tim Ribaric: Ah, of course. , 
+
+Daniel Brett: I love the Mastodon pets. Everyone posts just as many cat pictures on Macedon as they do on Twitter.
+
+Alicia Floyd: So to bring it back to our original conversation was marketing a concept. So I'm going to ask one last question on the subject. If hypothetically today, we knew that we were going to reach every single person in the broad community and maybe even farther, and you could share just one thing about the DSL or what we're doing or what we hope to achieve, what would that one thing be?
+
+Tim Ribaric: Oh boy. What do you think, Daniel? 
+
+Daniel Brett: If we could to say any one thing to everyone in the world? 
+
+Alicia Floyd: At least everyone in our world, . Okay. 
+
+Daniel Brett: It is worth your time. Become smarter. Go to the dsl. . 
+
+Alicia Floyd: Alright, that's a good start. , 
+
+Daniel Brett: do you want to be a smarter person than you already are? Join us at the DSL and we will help you achieve that goal.
+
+Tim Ribaric: Oh boy. That is a difficult question and I've probably tried to respond. I wouldn't wanna communicate a sl, a saying or whatnot. I'd probably try to want to communi, since we're in this sort of hypothetical world space where we can influence people at the drop of a dime and sort of contact everyone we want to, I'd probably want to communicate a feeling or a sort of a notion as opposed to more of a slogan that that there's nothing to lose, or not necessarily nothing to lose, but you're no worse off if you try or something along those lines. I'm not articulating it correctly, but yeah, I think what I would try to say is that we're here for your benefit. Perhaps that's a good way to describe it, but let's go. What do you think, Alicia, since you've thought about this question, I imagine you have a very insightful answer.
+
+Alicia Floyd: I actually wasn't going to answer the question. just tricky there. I wanted to get somebody else's feedback that hasn't been in the room yet with us on our. So I decided to ask somebody else on campus who has been involved in forming the digital scholarship lab from the beginning. So I had a quick chat with Nicole Nolan, who is the Associate University Library here at Brock.
+
+And I asked her the same question and I think that it is a difficult question to have one single thing that, that you would share. So I summarized what her thing would be, and I think her message is that the Digital Scholarship Lab is a resource for faculty, students, staff, and the community. So really focusing on, it's not specifically for.
+
+organization within, you don't have to be in the computer science program. The goal of the DSL is to support research and pedagogy using digital tools, exploring digital methodologies, and making them more accessible. Students are being confronted with new methodologies in their classes all the time, so the digital scholarship lab will be providing the support they need to use them.
+
+But overall, the main thing is that it's very important for the entire Brock community. To feel comfortable using the dsl. Like you said, just there's nothing to lose and anybody is welcome and who knows what ideas might happen in our little idea factory. So thank you for that lovely discussion on marketing.
+
+Each week we. A one thing that we want people to remember except last 
+
+Tim Ribaric: week , because I forgot 
+
+Alicia Floyd: this week. The one thing that I was hoping for is to have that feedback piece. So if you're out there and you're listening, we just want some feedback. Do you have a question? Is there something that we're not answering that you want to know about Digital scholarship or the digital scholarship lab?
+
+Do you have an idea or a comment? Anything at all? Email us at DSL brock u dot. Or visit us on one of our many social media accounts. We have a few upcoming events tomorrow, actually, December 20th, we have a workshop on the introduction to the command line from 10 to 1130 in Classroom A in the James Jacob Gibson Library.
+
+So that'll be a nice holiday. That's 
+
+Tim Ribaric: there workshop that's there for all the true believers that are sticking around to the very 
+
+Alicia Floyd: end. Yep, the troopers on January 16th. We're also having a workshop on Zotero. Zotero is a citation management platform, which is really great. It's very helpful and useful and makes citing all sorts of sources in different styles really easy.
+
+So I would suggest people come to that. So that's January 16th from 10 to 1130. Again, in classroom A, you can sign up on experience B or email us, and I think that's about it for today. So we'll drop anchor here. Thank you for listening to Steering the Digital Scholarship, and remember, if you have any questions, concerns, or comments, or if you just wanna chat, drop us a line.
+

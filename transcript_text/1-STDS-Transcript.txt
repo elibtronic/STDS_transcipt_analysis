@@ -1,0 +1,192 @@
+Tim Ribaric: Hello, and welcome to the first episode of Premier Podcast, steering the digital scholarship. We are the digital scholarship lab staff at Brock University, and we're hoping to communicate, have some fun and talk about the development of the digital scholarship lab here at Brock. So before we get too far, we'll go around the table and we'll, I'll take a moment to introduce ourself.
+
+So let's go with you, Alicia. Can you tell us when you started with the dsl what you kind of do in the space and what is your favorite s. 
+
+Alicia Floyd: Well, hello, I'm Alicia. I started in the dsl this past November, 2018, and I'm the digital scholarship service coordinator. My favorite superhero, I'd have to say is Spider-Man, but mainly because my son spent ages two to four, only wearing a Spider-Man costume, so has a little soft place in my heart.
+
+Tim Ribaric: very nice Spider-Man. Always, always a top choice. Daniel, how about yourself? 
+
+Daniel Brett: My name's Daniel Brett. I'm the digital scholarship lab technical support. I started mid-October, so I've been here about a month. And favorite superhero right now is actually she huk, just cuz it's the most recent comic I've read.
+
+And it was very good very. Dark, which was a lot of fun. 
+
+Tim Ribaric: Very cool. I'll go next. My name is Tim and I'm the acting head of the Digital Scholarship Lab. And I was gonna check my records, but I don't know for sure off the top of my head. It was either July one or June one that I started the gig. I think it's July one.
+
+So I've only been doing this for a couple more months than the rest of the team here, but I've already been proven wrong that these two guys know more than I do. So with our brief introductions out of the way, what we're gonna do is go to a next, our next segment. Questions from Tim.
+
+All right, so our first question for our questions from Tim's segment is simply put, what is a digital scholarship? Alicia, what's your answer? 
+
+Alicia Floyd: To me, digital scholarship is the use of innovative tools for collaborative research data visualization, and the preservation of research. . 
+
+Tim Ribaric: Very good. How about you Daniel?
+
+What's your, what's your answer to what is a digital scholarship? 
+
+Daniel Brett: I think of a digital scholarship as a place where anybody like academics, members of the community with an interesting idea, can come to find tools and people with knowledge they can help them accomplish whatever goal they've set out for themselves and achieve whatever research that they need to do.
+
+Tim Ribaric: Interesting, interesting. And, . Well, I knew I was gonna be asking this question, so I, I, I looked upon my, the venerable Wikipedia to find out exactly what it says about digital scholarship and predominantly the history of digital scholarship. And let me read you just a paragraph from it. This section is empty.
+
+You can help by adding to it. April, 2014. So since at least 2014, no one who is a fan of Wikipedia or uses it has taken the time to fill in the history of what digital scholarship is. Which brings me to a task that I think will undertake at some point in the future once we figure out exactly what digital scholarship is, will chronicle its history, you know, with putting lots of references to She Hulk and Super, or Spider-Man.
+
+in the history because it's Wikipedia. You're allowed to do that kind of stuff. Sounds good. Sounds cool. All right. The next question on questions from Tim. What is the next on your list on your gut to learn list? So everyone's got one. We all spend our time going through it. Daniel, what's next on your gut to learn list 
+
+Daniel Brett: right now?
+
+Literally anything that is innovative and digital in nature. That I feel would be relevant because I want to be as proficient in as many tools as possible to help anybody who walks through our door once we have a door for people to walk through. , 
+
+Tim Ribaric: you used the word innovative. What do you mean by that?
+
+So, 
+
+Daniel Brett: anything that's changing the way people do research. So right now a lot of research is very closed behind closed doors, type type of research and there's a lot of tools out there like GitHub for example, where you can publish very easily. And there's a lot of tools like that that I feel like are going to be coming to the forefront with this new age of open access and people wanting freedom of information more than they did in the past.
+
+I really feel that that's going to be a big innovation in the world of research, and I want to be on top 
+
+Tim Ribaric: of that. Alicia, what do you think of that description of what innovative is? 
+
+Alicia Floyd: I think it's a great description and I'm with Daniel on wanting to learn everything new. I've spent the last year here at Brock learning a lot more about Open, being Open, and I'm excited about all of the open platforms that we're going to offer, and I think it's really important.
+
+be the location in the school that's leading in terms of technology, so that students and faculty and researchers and even the community have a place where they can go and know that if we don't have that tool, we'll look into it and we'll learn it and we'll help them. 
+
+Tim Ribaric: Yeah. This is quite a bit of a different take than what I.
+
+Think about with innovative as a descriptor, I often sort of default to novel or unique or sort of on the bleeding edge so far out that it takes two, three days to figure out what's going on before you can kind of come to terms with what's up. But I do like the the way you guys are drawing upon the word open to describe.
+
+The work we'll be doing, I think quickly by default, I use the term digital scholarship and I think of just sort of using digital tools instead of analog ones to accomplish tasks that, you know I used to look through books and print out paper articles and develop sort of theses doing that. But I always think that digital scholarship is sort of an end run around that process we're using particularly and specifically digital tool.
+
+I like the perspective you guys put on it when using the term open to describe also the digital scholarship includes a component of Open. So then Alicia, what's your what's on your got to learn list? 
+
+Alicia Floyd: Well, I've got a lot to learn, but I recently worked briefly with Daniel on a little project in GitHub, and at first, when I first.
+
+was introduced to GitHub. I, I was a little nervous about using it. I haven't used a tool like that before, but once Danielle and I worked on it together, I thought it was great. And I'm really excited about trying new things and learning more about how we can use that tool and offer that tool in this space.
+
+But I'm also excited about Omika. I've had experience with exhibit creation platforms in the past, and this one. Looks like it has a lot to offer. So those are the two things I wanna learn next. 
+
+Tim Ribaric: Could you give a, a quick 32nd summary of what Omika is for our listening audience? 
+
+Alicia Floyd: Omika is a platform that can be used to create an exhibit around items or objects research, connecting all of that information in one location.
+
+Hope that's on the right 
+
+Tim Ribaric: track. I, the other thing, I've just been handed a piece of paper stating that there is a a feud between how it's pronounced Omika or Omeka, and I was just wondering where do you guys land on that spectrum? 
+
+Daniel Brett: I've always said omika just, just, it flows better in my brain, just the way I, I understand things, but I've also heard people who.
+
+I work with using Omic a call it Omeka. So I, I feel like there's a pretty, a pretty even split in terms of the pronunciation there. , 
+
+Tim Ribaric: what do you think, Alicia? I 
+
+Alicia Floyd: have to go with Omika just because I feel like I've seen Mecca in something spelled e c c A, so, mm-hmm. . 
+
+Tim Ribaric: Interesting. , what are your thoughts? Hit us up at Brock underscore DSL on Twitter.
+
+Instagram and Facebook and Mastodon, if you can believe it. We're there. Let us know. Omika or O. because I don't know either. So Alicia, you also mentioned GitHub as a tool that you're interested in finding out more about, it seems to me, or perhaps some people think that GitHub is more of a tool for computer programmers and coders.
+
+Do you think there's a use for GitHub outside of that sort of community? Do you think it belongs in the digital scholarship lab as a, a resource and something to focus on? 
+
+Alicia Floyd: I do. And I think I was one of those people that thought it was more. For people who were involved with computer programming initially.
+
+In the past, I've worked with collaborative projects where you are sharing information in places like Microsoft, where you're just sharing a word document, editing that Word document, and there's not a really good way to track who's doing what or, you know, keeping all of that information together. So this tool is just great for if you have multiple people working on a document.
+
+Or a project and you can put it into get and all work on it together and add those edits. And it's very functional so you don't really have to know how to write code to be able to use it. And I think it is a great tool to offer at Brook. 
+
+Tim Ribaric: That's great. I often, or I have had discussions with Daniel talking about sort of the learning curve of technology and ugh, I don't wanna put a number to it, but I've spent a lot of years.
+
+Programming and sort of losing touch with what learning how to program feels like. And I've always encouraged Daniel to develop a sense of empathy so that when he's teaching these tools to new people, he can relive the experience of being in charge or being exposed to them for the first time.
+
+I'm a crusty old curmudgeon, and I can't remember back to the first time I was exposed to Git because that happened before pre-history and there wasn't any recorded record of anything at that era. So happy to hear that. A tool such as GitHub is getting past, its sort of reputation as a programmer specific tool and that it has a future in the digital scholarship lab, at least according to Alicia.
+
+Right, 
+
+Alicia Floyd: right. And I actually think you hit the nail on the head when you said being exposed to new tools, because the fact is that a lot of students and a lot of people in the workforce just don't have the opportunity to be exposed to those tools. So I feel that the digital scholarship lab will. Give people that opportunity to be exposed to things they wouldn't have been able to before.
+
+Tim Ribaric: Very neat. All right, so this brings us to our next question from the questions from Tim section, and goes like this, what CD would you take with you on a desert island? Now, before we get too far, I need translate what CD is for the millennials that might be listening. So Spotify used to come on these little plastic circles.
+
+and those plastic circles just had music from one group or band on it. Sometimes you get a mix, but it's usually just one. And you'd get maybe 12 of those on this little piece of plastic and then you can stick it in your computer and play it and sounds would come out your speaker. So that was pretty neat.
+
+What do you think, Daniel, what CD would you take with you on a desert island? 
+
+Daniel Brett: So just if it's just one album, Then probably beneath the skin from of Monsters and men, just cause it's the only album in recent memory that I've been able to just put on, repeat and listen to for days on end without getting frustrated with it.
+
+Tim Ribaric: Interesting. How about you, Alicia? Well, 
+
+Alicia Floyd: at risk of being very unpopular with our listeners, I might say a nineties compilation, but if I can't say a nineties compilation, I'd probably go with a truth. Album. I'm a big fan of the truth. So Dennis Eves probably 
+
+Tim Ribaric: interesting. And when you say nineties compilation, what would be on that compilation album?
+
+Alicia Floyd: Oh, all the things everyone hates. Some Alanis , Uhhuh , Uhhuh , Sarah McLaughlin, you know, all the ladies. So there. Lisa Loeb. It's a good one. . 
+
+Tim Ribaric: So you're, you're hitting a real subset of what was populated in the nineties. Oh yeah. Is what you like. Ah, interesting. 
+
+Alicia Floyd: Interesting. The stuff I'm only allowed to listen to in my car when no one's in there
+
+Tim Ribaric: Oh, neat. So this, this question plagues me all the time because I don't have a clear answer. But the one that I'll, I'll, I'll mention here now because probably I listened to it a little while ago, is Paul's boutique by the BC Boys, and it was recorded in, I think 1989. And it's decades and decades ahead of its time.
+
+And if you listen to it today it still feels like it's a fresh hip hop thing that just was produced on cutting edge equipment and they actually did it all on magnetic tape that ran around a large room because they were cutting and splicing it so much. It's a very great album, and if I only had one album to listen to on my desert island, that would be the one.
+
+All right, so that concludes our questions from Tim section. We're gonna flip now to our next section. one thing.
+
+So this bit of the podcast we'll look at one thing that is worth remembering. So if you forget everything else we talk about today, please remember what our one thing is. So this episode we'll be talking about software carpentry. So to kick it off, Daniel, why is software carpentry relevant to the Digital Scholarship lab?
+
+Daniel Brett: I think the most important thing that software carpentry provides, Is the tutorials and workshops that they have on their website, and there are lots and lots of places you can go for tutorials and workshops. They're all over the internet, but the thing that sets software carpentry and library carpentry for that matter aside, apart from others, is their method of teaching.
+
+they've got this ideology of how much cognitive load a brain can hold, and they make sure that they control their, their tutorials in such a way that you're only learning a few little bits at a time, and then you're allowed to try those out enough that it gets stuck in your long term memory and so on.
+
+It, there's a whole, there's a whole paper about it. But I. used that. My, my first experience with software carpentry was using the, the Learn the Unix shell, and that had always been something that was terrifying for me, was the idea of the command line. And they, they broke it down in a very colloquial, very easy to understand way, saying, this is what's go, we're gonna teach you, this is how you look up things.
+
+This is how you use the command line in this very, very straightforward way. And they not only teach you what the tool is. , but make you comfortable with it, which I think is a very important distinction between most tutorials and software carpentry, is they, they do their best to make you not only learn the tool, but want to use the tool.
+
+So it's, it's not like a job. It's, it's something that you, you actually enjoy. 
+
+Tim Ribaric: Now, would you say this different approach to teaching where you want to learn and use the tool, is that different than what you've seen before? , does this represent a new way of learning how to use these technical skills, or is it just a, a take on a on a common theme?
+
+It's 
+
+Daniel Brett: definitely different than, than any method I've seen before, than again, my exposure to tutorials is limited through my, my, my experience, so just my schooling and then my, my own personal interests. But I've never done a tutorial that felt so intent. On you enjoying what you're doing as well as learning the tool as best as possible.
+
+Tim Ribaric: Interesting. Now, Alicia, you attended our software carpentry session in the summer. What was your impression of it? Well, 
+
+Alicia Floyd: the session that I attended was two days and it touched on various different tools, including the ones that Danielle already mentioned. What I liked about them is it really appealed to.
+
+People who were in the beginning stage of learning, and it worked through slowly. So there was a great attention to detail and the examples were all relevant to library work. The great thing about actually attending a workshop and not just doing a tutorial online too, was we had the opportunity to discuss with each other where we could use all of these tools.
+
+So all the people in the. would discuss, oh, this would be great for this. An open refine. We could use this here. So it's a great way to really apply the things that you're learning, and I definitely suggest it to anyone who's interested. 
+
+Tim Ribaric: I must say I'm also a big fan of software carpentry, particularly as Daniel mentioned there, their strategy and focus, the way they try to teach tools.
+
+I had a very. Different experience learning the command line. It was I remember it specifically second year computer science at Western, and there was no gra graciousness and there was no thought given to my cognitive ability nor my sort of want and desire to use the tools and to the future.
+
+It was a very much a persistent lecture using you know, by rote memorization of types of tools and command line options that there were, and you just needed to file those away in your memory and sort of hope that you can conjure them up properly when it came time for the assignment or the final exam.
+
+So of the things I'm particularly excited about with software carpentry is being able to host lessons or being able to. Software, carpentry sessions in the digital scholarship lab and then also take it out on the road too. Software carpentry has a great franchise style model of running these sessions.
+
+So if you go through a little bit of conscientious instructor training, you are given the sort of ability to run these sessions. And so far, as I mentioned, we did one in the summer and with luck, we might be running one in next January. January, 2019. February, 2019. And then I'm sure there will be other instances of it as well.
+
+For all of you interested in taking a look their available online@softwarecarpentry.org. All right, so that concludes our one thing section. We'll just take a brief moment now to talk about some upcoming events that we have run through the dsl.
+
+So on December 5th, 2018, nine 30 in the morning. Our colleague Sharon, will be running a session on introduction to ARC GIS Pro. It will be in the classroom a in the library details about the event or on experience bu, and then on December 9th, Sorry, same day. Fifth. Oh, the fifth. Oh boy. We got a jam packed day full of stuff.
+
+Well, Daniel, tell us about what's happening on December 5th at 2:00 PM 
+
+Daniel Brett: on December 5th. Then we are running our introduction to GitHub. So we've mentioned it already in the this episode, but GitHub is very powerful. What's the word for it? Let's see. Group of people work on something together very easily and effectively while tracking everything you do.
+
+So it's a, a very useful tool for that. And also you can use it to host little websites and they have really good connections to make nice looking webpages. But it's just a very powerful tool for working together in a group on any sort of project. . 
+
+Tim Ribaric: Very cool. And does attendees, do attendees need to know anything about these tools before they come in?
+
+Not at all to join the session? 
+
+Daniel Brett: No. No. They, they just need to have an open mind, . 
+
+Tim Ribaric: All right. That's a lot to ask, but, okay. Sure.
+
+All right. So this brings us to the end of our inaugural episode of Steering the Digital Scholarship. We hope you like what you heard. And we're gonna take a moment and drop our anchor.
+
+Over the course of the next few months, we'll attempt to answer the question, what is digital scholarship? This podcast will chronicle this process and the creation of the Brock University Digital Scholarship Lab, one that we hope you'll care to listen. If you or someone you know want to say something about the digital Scholarship Lab, get in touch.
+
+We'd love to have you as a guest on the show if you have any questions. If you're curious, have an idea, or if you want to collaborate with us next term on a project, our email is simply dsl@brocku.ca. We can also be found on social media on pretty much every platform imaginable. Thanks for listening.
+
+Our intro and outro is digital pedestrian spy blanket music.
+
+​
+

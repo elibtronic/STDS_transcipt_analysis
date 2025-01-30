@@ -1,0 +1,399 @@
+Ep21
+===
+
+Daniel Brett: Hello and welcome to episode number 21 of Steering the Digital Scholarship. I'm Daniel and I'll be your acting captain for today. So today we're gonna talk about the changing of seasons and self. But before we get to all that, we have our icebreaker question. So we're gonna jump right into it with what is your favorite season and why.
+
+And we'll start with Tim. 
+
+Tim Ribaric: Oh, without a doubt it's fall. It's the best season for running cuz it's cold out and you don't overheat. I like browns and greens and I generally enjoy back to school time. So that's my. 
+
+Alicia Floyd: I like that you like browns and greens 
+
+Tim Ribaric: and oranges too. I'll put oranges in there as well, so 
+
+Daniel Brett: Fair enough.
+
+That's a good fruit, 
+
+Tim Ribaric: Coming out the gate, swinging. All right. 
+
+Alicia Floyd: My answer is also fall. I like the colors, not necessarily the browns and greens, but the oranges and yellows and that sort of thing. Reds I've always loved Halloween. Carbon pumpkins. So I guess my birthday's in October as well. So it, and it also makes me feel like it's getting close to Christmas and I like how it's nice enough to be outside, but, not too hot, not too cold, but you don't feel guilty if you're not outside.
+
+Cause it's chilly like in the summer, you have to be outside constantly. If you're not at work or you feel guilty. So in the fall you can be indoors and be cozy and feel okay with it. 
+
+Daniel Brett: Fair enough 
+
+Tim Ribaric: on that. You better don't choose carefully. Daniel, here, you've got two falls 
+
+Daniel Brett: against you. On that cozy theme, my favorite season is winter because I love nothing more than staying inside and snuggling in fuzzy pajamas with lots of blankets with the fire on and.
+
+Snuggled with my wife playing video games and reading books and listening to books on audiobook. 
+
+Tim Ribaric: But if I'm not mistaken, winter is the season where there's all the snow and ice and really cold temperatures. Yeah, it's great. That's 
+
+Daniel Brett: great. Yeah. Yeah. We don't have to do gardening. So that's, 
+
+Alicia Floyd: you have to shovel and build snowman.
+
+Daniel Brett: Okay. So half of that sounds amazing and one leads to the other, so you gotta work for your fun. 
+
+Alicia Floyd: I like that you gotta work for your fun. Oh 
+
+Daniel Brett: gosh. Yeah. And we get extra snow because we have to shovel a sidewalk and a bus stop Oh, nice. Without 
+
+Alicia Floyd: our house. Yeah. Good. How to exercise 
+
+Daniel Brett: in the winter for you?
+
+Yeah. Last winter I made a giant snow rabbit that looked just like the rabbit from Donny Darco. It's super creepy and the neighbors loved it. It was taller than I am. So about six feet six foot, two or three. It was a pretty good sized rabbit, and the best part was in the spring because it stayed the whole winter.
+
+And then in the spring it slowly started to melt in the worst possible way, like its eye socket first, and then just, it got real skinny and it managed to stay up the entirety of. The rest of the snow everywhere melting. And there was just this dilapidated half melted rabbit. I think 
+
+Alicia Floyd: the, to accompany this podcast, we're gonna need a picture of this rabbit and you, and your fuzzy pajamas.
+
+I do 
+
+Daniel Brett: have a picture of the rabbit Lydia, probably my wife has pictures of me in pajamas, but I 
+
+Alicia Floyd: don't think you, you specifically said fuzzy. 
+
+Daniel Brett: Yeah, you can't have non fuzzy pajamas. That'ss not a thing, is it? Yeah. 
+
+Tim Ribaric: Thanks to climate change, you'll be able to enjoy winter for longer periods of time.
+
+Things will fluctuate between summer and winter. And I think, Alicia, you and I are gonna be stuck without having much of a fall into the years. Yeah. That's what it seems like. And spring will disappear as well. 
+
+Daniel Brett: That sounds fun. So on that positive note, yeah. The classic positive.
+
+Upbeat climate change. Let's move on to our main discussion. So as summer begins to change, in fall, we begin to make preparations for the coming cold and leaves and snow. We start to plan ahead. So humans are very good at planning ahead. And when the seasons change, we plan ahead by bringing out warmer clothes.
+
+We clean our gutters. We turn off the ac, we turn on the heat, which we just did this week actually. And everybody plans for future changes in different ways. So today we're going to talk about how we at the DSL have been preparing ourselves for the future.
+
+So each of us here has gone to quite a few training sessions, both in our time with the DSL and before coming to these. This training has made us more com more capable individuals and has shaped the skillsets that brought us to where we are today. So on that note, let's take a look at what sort of training we've each undertaken to prepare ourselves for both the jobs we now hold and the upcoming grand opening of the Digital Scholarship Lab.
+
+So imagine some good montage music playing for this discussion as we talk about all of our training, like running up and down stairs, like in that one. Just the one 
+
+Tim Ribaric: movie though. It doesn't happen in any other 
+
+Daniel Brett: episode. I saw it in a meme, so I know it's a thing. Oh my gosh. I don't know what the movie is, but Rocky.
+
+It's Rocky. That's the, it's rocky. That's the boxer one, right? Yeah, I know that one. Yeah. So homework, watch Rocky. We'll start with Alicia this time. What sort of training have you done to take this opportunity to. Okay. About your your 
+
+Alicia Floyd: credentials. Brag about my credentials, so training to prepare me for the opening of the digital scholarship lab and for this 
+
+Daniel Brett: position that you're in now.
+
+Oh my gosh. 
+
+Alicia Floyd: I feel like I would be here all day talking and bragging about my training. That's impressive. I was gonna touch on. Okay. Workshops I've attended a lot of workshops since I started in this role, including everyone that is offered by both you and Tim. So the python, our GitHub, gi, all of that sort of thing.
+
+But two that I was gonna touch on the first, which I found to be amazing was the instructional skills workshop that we attended. Daniel and I attended this workshop together, and it's offered by the Center for Pedagogical Innovation. And it's three days intense workshop to enhance your teaching skills.
+
+And we did this with the staff of the makerspace, which it was amazing. Felt like a really great team building experience and really allowed me to look at a, my teaching or instruction style from a whole different perspective. Lots of new ideas and different angles. So I really enjoyed that one and another workshop that.
+
+It was a three day workshop, three section workshop. So each one I think was an hour and a half maybe. And then there was some online components was the intercultural development, which was basically its communication in improvement for across cultures. So I think both of those have really opened my eyes to a lot of different ideas and I was happy to take those programs.
+
+Daniel Brett: Awesome. Yeah, I definitely remember the is w fondly. How about you, Tim? 
+
+Tim Ribaric: Oh, gosh. First I just want to give a shout out to being self-taught something. Though I didn't take an official workshop on the subject, I do believe my self-taught Python is something that has really helped me with getting to where I am presently in this position and being able to goof around in front of a classroom full of people expecting Python instruction.
+
+So just hot off the heels of my class that I ran yesterday, two hours of Python and I was fairly comfortable with it and I didn't have, and I never have or never did have any formal training in Python. Everything I did was picked up on my own. So there might be something here as a discussion.
+
+Teaching yourself something and the value of that compared against school and class and stuff. But to answer the question more specifically, there's a couple things in the past few years that have really paid off for me. There's a certificate program or a four day workshop. Run by the Deta Jones Consultancy Firm.
+
+That's called L M S I. And that's Library Management Skills one, the I stands for one, and it's about how to be a manager as a librarian. Anyone listening that finds themself in a position where they're a librarian and suddenly in charge of people. I highly recommend taking that workshop. The other couple things I'll point out is that university of Guelph, two summers ago I participated in the DH summer camp.
+
+I learned all about semantic text analysis, a thing that I have a certificate for, but not 100% confident that I know everything. About, I think it's something you need to practice to really stay current with. But look for a workshop about Python using mallet in some other semantic tools.
+
+Topic modeling coming up soon, cuz I think that's pretty interesting. And then the other things, of course, that I would be remiss to mention is grad school, generally speaking and going to grad school twice. The second time was just for. But going for fun, really paid off cuz I learned some stuff that I use all the time in terms of programming and research skills.
+
+That's my palette of workshops and training that I would care to 
+
+Daniel Brett: highlight. That's a pretty good selection. Me personally, I did the I s W like Alicia one that I'm sure Tim. Forgot to mention was 
+
+Tim Ribaric: software carpentry so long ago that I completed that. So 
+
+Daniel Brett: software carpentry I'm sure helped you in your present day.
+
+But I more recently just completed the software carpentry instructors training, and that was probably the biggest eye-opener for me in terms of the thought processes that need to go into preparing to teach. And to get in front of a group of people and effectively teach them, not just to cram information at them until the time is up and then leave, but to provide information in a structured way and opportunities to utilize everything that you're teaching so that it gets put directly into their long-term memory banks and they get right into cognitive load and how much you can teach before you have to give a.
+
+For them to absorb that knowledge. It was a really eye-opening. A few days. forget how many days it was. It was two or three days. And I got to work with people all over the world. I remember I was on a video call teaching and learning with people. There was 10 of us from eight different countries, and some people it was nighttime.
+
+Some people it was daytime. It was a really interesting experience. All of us just sitting at our homes, learning and teaching together. All over the world. It was just an amazing experience. So that's a big one for me. Was the software carpentry instructors training. And of course I've gone to quite a few workshops here, learned tools.
+
+I've looked at tutorials in order to write workshops myself. And then there's all the other little prerequisites that you pepper into your resume. Like I've got first aid training and. Womens, all that stuff. So e even training like that can help you have a little bit more perspective. And all of these things are preparing us for the future.
+
+They help us to look to the future and not be frightened of what's coming because we know that we're 
+
+Tim Ribaric: prepared for it. Let me hit you guys up with another theory that. Because I'm full of 'em. I think all training and formal education suffers from something that I refer to as halflife.
+
+Have you ever heard of the term halflife? Yes. With chemistry as a thing, right? So if you have a radioactive isotope, the halflife is the amount of time it takes for that thing to decay to half. Its mass. By the nature of the definition, you keep making halfs, and then it becomes a half of a half, so it's a quarter, and then smaller and smaller.
+
+So you get really small pieces over time, and then you can't technically get rid of it all because it's. You keep finding halves of smaller halves and things. So I think education in all sorts of respects has a halflife. So for example, my experience with library school when I completed it in 2002, probably had a halflife of 10 years, and so now it's past 10 years.
+
+And I would say that I've gotten probably at least. Half of what I've learned out of that thing is now useless to me, and in another 10 years, it'll be another half of that half and it'll keep going, which is why I'm constantly on the hunt for more educational opportunities because I always find whatever you get doesn't stay with you forever.
+
+It disappears over time. Now, I don't know what you two think about that theory. 
+
+Alicia Floyd: You were a philosophy minor, weren't Yes. Weren't you? Yes. 
+
+Daniel Brett: You can tell. Yeah. It definitely comes through. 
+
+Tim Ribaric: So maybe expand upon, actually there's nothing much I can expand upon it. I think it's different than if you don't use it, you lose it, but it's still very much like no matter what, the value of it will disappear over time, no matter what or how hard you work to 
+
+retain 
+
+Alicia Floyd: it.
+
+That's true. Even if it's just the changing of in time. Of time, like technology, like. Dare not say there were no computers in my schools growing up right in my classes. So just the changing of time. So your education is different. My education now from elementary school and high school is completely different than the education my son is getting.
+
+They do all of their communicating with teachers online and that was totally unheard of. So everything changes so quickly that our education can't keep up. And that's why we 
+
+Daniel Brett: keep. That's right. 
+
+Tim Ribaric: Yeah. Felt it wasn't so expensive. We could learn all the time. Ah, 
+
+Daniel Brett: Let's reflect a little bit on our favorite our favorite things that we potentially paid great deals of money for.
+
+So what was your absolute favorite training that you ever took and why was it your favorite? What was it about it that really shown through? For me, it was definitely the software carpentry, and I've said why it. It was far and away the most useful l learning experience I've had in my time in the last three or four years since I graduated university.
+
+It was an incredible an incredible thing for me. So I want to know if you guys have anything that was really hit you right where, 
+
+Tim Ribaric: where you live. Oh boy. Alicia, do you have an answer? 
+
+Alicia Floyd: I have, I had answers prepared for this, but you just made that sound so just life altering that I don't feel that my answers will are gonna stand up to that, but I'll give her a go.
+
+I have two answers. Personal interest as the whole universe knows now that I'm interested in history. So my museum studies courses were, Spectacular and learned so much. And one of my favorites was paper conservation and preservation. And I know it's gonna sound crazy, but fixing one piece of paper is a labor of love and it takes a lot of work to make it perfect.
+
+And even just preserving a piece of paper is not as easy as it sounds. And I think people take for granted what one piece of paper is worth. So to me, a piece of paper is extremely valuable. And I work now in a library that's full of stacks of paper and it just gives me this philosophical perspective on the value of it.
+
+And now everything is of course, digital, but I've applied a lot of what I learned just to my own self. Like I have a little archive at my house. My entire family gives me all of. Ancestors documents that they scrounge up from their addicts, and I take care of all of that and make sure that it's preserved properly.
+
+All of that's important to me. But some training that I took here at Brock that was really important to me was mental health first aid for youth. I took that when I was in my previous position here before I started working with the Digital Scholarship Lab, and I was working a lot more closely with our.
+
+And the bottom line is that mental health is important and it's a stressful place to be when you're getting your post-secondary education. And I recognized that. And so I took a, I believe it was a three day course that was offered here. And it was really insightful and I learned an awful lot.
+
+And it can be applied to my job here and, just. Teenagers in my life. And so it's really, it's a useful thing and I would highly suggest it for anybody. So yeah, those are my two favorite training moments. 
+
+Daniel Brett: Those are very good ones. And they do sound life altering, life changing when you get into it.
+
+Tim Ribaric: Now, Alicia, I'll ask you a question. Have you ever read a book by a fellow named Vernon Vig called The Rainbow? 
+
+Alicia Floyd: I have not, but I should probably write it down, right? No. 
+
+Tim Ribaric: Gosh, no. Okay. Don't waste your time with it. The only reason why I mention it is cuz it's set in the future where augmented reality runs crazy.
+
+But a big undercurrent of the story is something that's happening at uc, San Diego. So they're digitizing all the books in the library to make space to, I don't know, do something with, but they have something called the Digitizer, which is just a shredder. That sucks the books in and chops them up into pulp and takes a picture of all the pages as it's doing this.
+
+And then there's a a faction of Luddites at uc, San Diego that are trying to stop this process from happening. So I'm sure if you were to read that book, you would very much probably be like horror fiction for you because Yeah, 
+
+Alicia Floyd: seriously. I spent a decade of my life digitizing paper. But I was at an institution.
+
+The paper didn't get shredded, so it was okay. It wasn't too much of a nightmare. 
+
+Tim Ribaric: Yeah, it, yeah. The rest of the book is not worth mentioning except for the fact that's like a big undercurrent in it. And the reason Daniel, maybe this will appeal to you that I enjoyed so much, is that one of the Luddites has.
+
+Still has a laptop that's running Linux, but everyone else has augmented computers on their body and stuff. And then it's this old dude with a big beard and says, no, I still have my Linux laptop. So Oh my gosh. That's why I enjoy that 
+
+Alicia Floyd: novel. So the person with the notepad and paper and pen is just like 
+
+Tim Ribaric: unrecognizable at that point.
+
+Non-existent effectively. Yeah. Yeah. But anyways that's the only part of the novel. 
+
+Alicia Floyd: See, maybe paper in a world like. Would become more valuable. The way it's no longer valuable? Oh, I don't know. If you wanna get really philosophical about it. Sure. Pa there were times when people had such limited access to paper that they would write a letter to someone and they'd write it, from left to right and then they had no more, so they'd flip the paper and write over top of it in a, in the, from bottom to top.
+
+So you'd have. And I've seen letters like this where you'd have to try to read it and it's almost impossible. And it's in this fancy scrolling cursive, so maybe in the world, whereas everything's digital, they're gonna need paper again when, see, 
+
+Tim Ribaric: I don't know. See, I would say the opposite paper to me is a liability cuz it can only be in one place at one time.
+
+As soon as you put something on it, you can't change it and you can't share it with someone. You can make a copy of it and send it along. But if something's an electronic record, oh my gosh, you can have as many copies as you want instantaneously zipped across back and forth across the world. I used to take notes in little moleskin notebooks and I would be very studious, making little bubbles and lines and things, but ultimately, whenever I close the back cover on it, because I filled it up, put it on the shelf and never be able to use it again, which to me is not particularly useful.
+
+So that is why I say paper is a li. We can have a whole fancy debate on the topic, but that's my answer to that. I see Daniel's is staying impartial, like Switzerland here, but he's gonna need to make a move in some direction. 
+
+Daniel Brett: Interesting. So did we get your favorite training, Tim? 
+
+Tim Ribaric: Oh gosh.
+
+Now I'm gonna apologize because I told this anecdote earlier this morning and Alicia heard it. For the listening audience and for Daniel's benefit, I'll go through it again. My most favorite training slash educational experience was going to get my Master's of Computer Science because that one was research motivated.
+
+It was more of a bucket list thing. It wasn't it. What's called like instrumental good. It wasn't for the reason. It wasn't, there wasn't any reason why I took it to get advance myself. It was more for fulfillment, which that oozes with privilege as I say that. So I apologize to everyone that has to hear that.
+
+But when I was on sabbatical doing my master's degree, I was watching the movie Flubber. Have you seen the movie Flubber Daniel? Oh, 
+
+Daniel Brett: absolutely. I, it was one of our few VHSs that we 
+
+Tim Ribaric: had. Excellent. I don't need to go into the backstory about how Flubber is structured as a movie, but the idea is that Robin Williams is the scientist who's sacrificing everything in his life to create flubber.
+
+His personal relationships are in the toilet. His personal hygiene is, slipping. He barely can keep things together. Barely keep food in his mouth and all for the pursuit of this research project. He was, in involved and engrossed in, and when I watched that movie when I was on sabbatical, it all clicked for me.
+
+I was like, yes, this makes total sense. This is the thing when you're pursuing something that everything else falls aside to the point of even, you forget to go to the bathroom or something like that. So that was my best educational slash training experience because it allowed me to. Pursue something that no one else had done.
+
+And granted it wasn't anything ex extra, extraordinary. It was just a goofy little thesis that I ended up writing. But on account of that flubber, that's my, that's anytime ask someone asks me about school, I always bring up the Flubber comment or the Flubber story. So it was 
+
+Alicia Floyd: a great movie.
+
+Daniel Brett: Yeah. Rob Williams, he very few misses when it comes to him. Now that we've talked about individual training to improve ourselves. Besides that, we've also hired students in our space now. And then once the space opens, then you can come by and meet them in the new Ranken family Pavilion. Once it opens hopefully soonish and those students that we hired to work in the space and develop relationships with other departments, we've started doing.
+
+With them in terms of training. And I feel that because of all of this preparation that we've done, hiring students, training them, developing relationships starting this podcast even just to name a few of our accomplishments, we have prepared for 21 episodes of podcast to take on the grand opening.
+
+Of the digital scholarship lab, and I feel like we are quite ready. But with that in mind, I want to know if money, time, and transportation were not an issue, what self-betterment opportunity would you want? And I'd like one serious answer and one fun answer. So a serious answer in that, something that would benefit the DSL post grand opening.
+
+We are ready for the grand opening. And if in. Brief window of time here, we had infinite time, infinite resources. What training opportunity would you want to pursue to better yourself? And then if you could take any training for any reason, what would you do? Tim? Oh boy. 
+
+Tim Ribaric: You're asking someone who's addicted to school to ask and you're asking them, what kind of thing would you do if you had infinite time and.
+
+To train yourself and I would say go back to school. And since I am hitting against it, I would say get a PhD in something. That way I can, you've, you both have seen Bill and Ted's excellent adventure, right? Oh, it's a, it's of course. Okay. Thank you. It's a 
+
+Alicia Floyd: generational thing. Watch Rocky and 
+
+Tim Ribaric: watch Billy.
+
+Yeah. Yeah. This is a movie 
+
+Daniel Brett: recommendation podcast. That's the one with a young 
+
+Tim Ribaric: Kia and over you, right? Oh gosh. I feel so old. He and his buddy, they find a magical time machine. I've seen their, I know the premise. Okay. In any case, they're in this final concert and then they have to perform in front of a group of people, but they have no skills.
+
+Okay? So what they do is they go in this time machine and then they travel to some other time period, practice like crazy, become good, and then come back and their time machine to the exact moment after when they left. And then they have long beards and suddenly they can play their. There are instruments and really rock on.
+
+So that would be what I would do. I would get in my telephone box, time machine, go to four years do my PhD and come back a second after I left. That's what I would do, and I don't know, does that count as silly enough because it's I'm using my time machine to make it happen. 
+
+Daniel Brett: Okay. What's your serious 
+
+Tim Ribaric: one?
+
+That is my serious one. What's your silly one? This is serious 
+
+Daniel Brett: and silly. Oh, you're just combining it generically. Go get a vague 
+
+Tim Ribaric: PhD. It would be in computer science. It would have to be right, but fair enough. If you really want a silly answer, it would be Ninja School. See, 
+
+Daniel Brett: that is a proper silly answer.
+
+You do Ninja School. That is actually a thing that is offered. 
+
+Tim Ribaric: It could ninja, it's like a, you have to be born into it kind of thing. I don't think you can just sign up to become a. You 
+
+Daniel Brett: can do ninja 
+
+Alicia Floyd: training. I think we've talked about you wanting to be a ninja before. This is a real thing.
+
+Tim Ribaric: Yeah, you should do it. Yeah. It's a, every, I don't know. Most boys have a ninja face and I'm still growing growing that 
+
+Alicia Floyd: sabbatical. Do you have a man size ninja costume that you wear 
+
+Tim Ribaric: at Halloween? No. I wish we should do writing that down on ninja costume. Oh, it's very topical. Only a few weeks from now.
+
+It's, yeah, it's 
+
+Daniel Brett: Halloween's. Alicia, what about you? 
+
+Alicia Floyd: So is this quiz question supposed to be training specific for our current job? Cuz that's how I took it. 
+
+Daniel Brett: One half of it. Yes. And then the fun is just whatever you would ever want to 
+
+Alicia Floyd: do. Alright, so this got me thinking about what our listeners actually know about us.
+
+And I think probably other than wanting to be like ninjas or famous writers, probably not a lot. So one thing I'm gonna share is that the three of us have different roles in the digital scholarship lab. And my role is very different from Tim and Daniel's, and it's the coordinator role. So that comes with, a requirement of different skill sets then than Tim and Daniel have.
+
+But with that being said, I don't love not being in the know or shall I say, I like to be an expert if possible, and. I would, if money and time were not an obstacle and I were in this role, I would wanna go back to school and take computer science because I want to understand everything that's going on in the digital scholarship lab.
+
+And I don't think it's something that I can just learn on my own. So I need a teacher and a long-term teacher. Yep. 
+
+Daniel Brett: It's one of those things that you gotta really put in the 
+
+Alicia Floyd: time. So that's my sort. Realistic one. And my fun one is also related to this, although if it weren't gonna be related to this, it would definitely be my PhD in English Lit.
+
+And that's what I would do, but, 
+
+Tim Ribaric: That doesn't sound silly at all. That sounds for 
+
+Daniel Brett: serious. 
+
+Alicia Floyd: It's not related to the digital scholarship lab. So it's serious, but yet not related, okay. I would want to, Travel across Canada. So when I first started in this role, I looked up all of the institutions, academic institutions that had, or were building something similar to what we have, whatever they call it, digital scholarship lab or whatever.
+
+There's a million names for these things. So I would wanna travel across Canada to see them all. And that would mean money would definitely not. Need to. Yes. Yeah. But if I could only go to one place, I selected Mount Royal University in Alberta. It has things like an ideas lounge, an immersion studio.
+
+It has a visualization classroom with multi-touch glass overlay control, which I just wanna see. I feel it's like something that's a lot of weird, a Tom Cruise. It's what's that Tom Cruise movie where he is flinging stuff on the air That's. 
+
+Daniel Brett: Let's see, Tom. 
+
+Alicia Floyd: It's in Minority Report. Minority report. I was gonna say.
+
+So that is, is what I wanna do. I really feel that strongly that you can learn a lot from others in other institutions and just be able to learn and grow in your own field just by experience. So that's definitely something I would want to do. 
+
+Daniel Brett: Cross country training at every digital scholarship 
+
+Alicia Floyd: lesson.
+
+That's right. That'd be cool. I'd take the. 
+
+Tim Ribaric: Ah, there you go. That's good. Environmental stewardship 
+
+Daniel Brett: there. Yeah. Yes. Support. Support your season that you like. That's right. By being environmentally conscious, I want fall to sticker out as long as possible. 
+
+Tim Ribaric: Team fall. Yeah. 
+
+Daniel Brett: All right. That was some pretty good answers.
+
+What about you, Daniel? Oh, I thought I would get out under the radar. Okay. So the silly one is pretty easy. I would want to better myself by taking one of those year long body and mind workshops where they take you on this amazing journey and it costs like a million dollars. And basically somebody guides you.
+
+All around the world doing physical exercise and mental exercises. It's just like a self-betterment year. This is a thing 
+
+Alicia Floyd: for a whole year. 
+
+Daniel Brett: Yeah. 
+
+Tim Ribaric: Gosh, I thought I was talking with privilege when I talked about going to grad 
+
+Daniel Brett: school. I saw it on Facebook, so I don't know how legit it, I was gonna say, but it was one of those ads for $2 million.
+
+I was scrolling through Facebook and you can, I don't know how much it is. I never clicked on it, but I just read the blurb and I was like, that would be amazing to take a. To just better yourself physically and mentally, and they go to all sorts of temples and I was just like that. That would be so cool just to feel comfortable in your body and your mind and your spiritual stuff.
+
+Like it would be I, that would be a self betterment thing that I would want to do if time and money. Was not an issue. I, 
+
+Alicia Floyd: they do have week long retreats that are probably more in our price range, 
+
+Tim Ribaric: or you can just take a weekend watching movies. That's what I would do. 
+
+Daniel Brett: That's basically the same thing, right?
+
+Physical. Something's happened to your body, that's 
+
+Alicia Floyd: for sure. Or you could read the Celine Prophecy and go for 
+
+Daniel Brett: a walk. What's that? 
+
+Tim Ribaric: Oh, that's great. Oh, Daniel, we don't have enough time left. 
+
+Daniel Brett: Podcast to talk about the CEL Esteem process. For my serious one though, I much like Alicia, I would want to master the skills that we support here, but I would want to do a workshop for developing new skills.
+
+I would want to learn all the processes and steps and requirements to create and then support new tools so that here in the DSL we're not just doing things that have already been. I would want us to have the training, the know-how and all the capabilities, everything necessary to just somebody has a problem that there isn't a tool for.
+
+We can be like, yep, no problem. We know the steps, the processes, and have the skills to create any tool that anybody needs, digital or otherwise, and just go that's the dream is to be able to produce anything any skill that's required. 
+
+Tim Ribaric: So I, I imagine. Maybe the two of you, have you ever heard of it's Play-Doh No.
+
+Socrates quick statement of this and that the only thing he knows is that he knows nothing. So I think the idea of absolute mastery of over everything or, I think there's some value to not knowing everything and never knowing everything and being aware. Say, I think we'll 
+
+Alicia Floyd: accepting that you can't know everything.
+
+Yeah. I 
+
+Daniel Brett: want, I don't mean I don't wanna know everything, I want to know everything in one particular field. So I'm the smartest and everyone is just I need to know this thing. Nope, no problem. We don't need to learn it. Cuz I know a guy, he knows it all. No, I'd be that guy. It'd be great. 
+
+Tim Ribaric: So like where a good mechanic is, I wish I knew that.
+
+Alicia Floyd: We've, oh, I've got a business card for you later. Yeah. Nice. 
+
+Daniel Brett: We've gone over a lot of really great opportunities including a new mechanic potentially. And speaking of opportunities, we have a whole great selection of opportunities available here at the DSL seamless transition in the form of our fall workshop series.
+
+So make sure to check out the full lineup on experience BU and event. That was forced. 
+
+Tim Ribaric: We're having a lot of 
+
+Daniel Brett: fun here folks. A lot of fun. Now it is time for us to drop, anchor and we will start the final preparations for the big day. And hopefully that will be relatively soon.
+
+Now remember, if you have any questions, feel free to contact us at dsl brock u dot. Or any of our social media platforms. And as always, thank you for joining us on our voyage through the world of Digital Scholarship.
+

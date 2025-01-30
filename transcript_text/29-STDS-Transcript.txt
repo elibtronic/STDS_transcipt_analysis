@@ -1,0 +1,303 @@
+Ep29
+===
+
+Daniel Brett: Hello and welcome to episode number 29 of Steering the Digital Scholarship. My name is Daniel and I will be the acting captain for today. So today we are sailing our ship remotely from home due to the ongoing Covid 19 pandemic that has the world in its grasp. Luckily for us, our ship can sail just as effectively from home.
+
+Joining me today is Tim. Say, hi, Tim. 
+
+Tim Ribaric: Hi, Tim. 
+
+Daniel Brett: That's pretty good.
+
+As always, we're gonna start with an icebreaker before we move on to the main topic of discussion. So today's question is, what is your favorite topping, if any, for hot chocolate? 
+
+Tim Ribaric: My answer is coffee. I just drink coffee.
+
+Daniel Brett: You never have hot chocolate. I 
+
+Tim Ribaric: stopped being a child a few decades ago and with that transition of coffee was full, was the full. Next step. That hurts. I've lost my sense of whimsy and wonder. I realize that now that I say that. But then I'll ask you the question, what is your favorite?
+
+I betcha it's gonna be like a a ice cream sundae on top of it or 
+
+Daniel Brett: something? No, I just like a little bit of cool whip on top of my my hot chocolate. 
+
+Tim Ribaric: Are you drinking more of that now considering we're stuck inside in the weather? It's amp and. 
+
+Daniel Brett: Yeah, absolutely. I, we went to Costco luckily a long time ago, and we forgot we had it.
+
+We had a multi box of different chocolate bar flavored hot chocolates, and I've just been slowly working my way through that. 
+
+Tim Ribaric: That sounds well, chocolate bar's better than hot chocolate, so I'll give you that much 
+
+Daniel Brett: at least. Yeah. And I like that it has a nice after eight, like the mint chocolate one and it's a really good taste to have mint chocolate, hot chocolate, 
+
+Tim Ribaric: fancy.
+
+Daniel Brett: Now it's time for our main topic. Today we are going to talk about Covid 19, as I'm sure many of you would've suspected working from home and living in a quarantined world. Three topics today that are all related to covid 19. So before we go any further, I'm gonna start with. Little description of what's going on in the world right now about this pandemic pandemic.
+
+Rather, for those of you who are not aware, which shouldn't be any of you, cuz this is a global thing. But hey, if you're under a rock and you're not aware, there is a virus called covid 19 sweeping across the globe. This virus results in flu-like symptoms that can be deadly to those with weaker or compromised immune systems.
+
+The most worrying and dangerous aspect of this virus, however, is the two week incubation time during which an infected person shows little to no symptoms. Can still transmit the disease. And this is what has allowed the virus to spread globally at an alarming rate. Thus, governments on all levels have taken actions to mitigate the spread of the virus by closing all non-essential businesses, limiting flights and travel, and enacting mandates for getting forbidding gatherings of more than five people.
+
+There are, these are very strange and confusing times, but the entire world is in this together because this is a global issue. As a result of this, Brock University has closed and its staff have been working from home. And that leads to our first topic of discussion today, which is the challenges of moving from a physical environment to a virtual one when it comes to running the digital scholarship lab.
+
+The first I've got a short list here of little challenges and then we'll get into some more nitty gritty. So meetings, workshops, and events. Tell you 
+
+Tim Ribaric: what while we're discussing the challenges, I hope our conversation meanders into opportunities and also strengths cuz I quite enjoy, and now I say this with a huge hugest grain of salt that you can imagine.
+
+And, your experience and mileage may vary, but I really enjoy the working from home situation. So moving to a virtual environment sound so bad for me. What about you, Daniel? How did that initial trans, after the. The shock and the awe of, the sudden change in the way the world works.
+
+Moving to online. Did you think of it as all a negative thing or did you get some sort of positives from it? Oh, no, 
+
+Daniel Brett: I've definitely found quite a few positives. And that's actually one of the next topics here. After the challenges is, ah-ha is us talking about working from home.
+
+But we can jump ahead 
+
+Tim Ribaric: to that one. Okay. Back to your original question please. 
+
+Daniel Brett: In terms of meetings, workshops, and events, I know one of the biggest things we had to do was we had to cancel. All of our workshops and events meetings, all had to be switched to an online format or just canceled outright.
+
+It was a pretty big hit in terms of our outreach initially. When this struck, did you have any comments on that? 
+
+Tim Ribaric: Yeah, it was I got a lot of feedback from people cuz I had to manually go through the the signup forms for all the different platforms we had and cancel things out. And I got almost immediate, feedback from some people asking for, okay, so when are you gonna do this online?
+
+It wasn't even as if Will it happen online? How long? It was all like, okay, this doesn't work. How, when is the online version of this coming? So it was pre-ordained pretty much when we, when I was canceling them anyways. 
+
+Daniel Brett: And I feel like because of the nature of the workshops that we run and the type of events that we run they lend themselves very well to converting to an online format.
+
+Most of them are digital anyways, involving live coding. That's something you could do with just a screen share on most Communication platforms nowadays that involve video and it, for us it's not as big a deal as it is for some people. So for us personally, we were really lucky and not to belittle the trials and tribulations that others are going through right now, but I'm very happy with our particular industry being able to, Have a relatively clean switchover to online content and online meetings.
+
+And eventually we're working on it events and workshops. 
+
+Tim Ribaric: Yeah. I think you had said it to me last week, we're putting the digital back in digital scholarship lab. Yep. And that really was like, oh yeah, we're not the analog scholarship lab or traditional scholarship lab. We're digital. So this is.
+
+Kicking the pants, 
+
+Daniel Brett: it has definitely had us switch gears from our physical space, which it just opened. So it makes sense that we were focusing so much effort on the physical space itself, getting things going in there. And it's a shame that right when the physical space opens, we're booted back out.
+
+But because it took so long for that physical space to open, we're already used to working. Without a physical space. That's something we've been doing for over a year now, year and a half. So probably even more so than just the fact that our business is online for the most part. The fact that we've got experience doing this already.
+
+It's not too jarring for us. Yeah I 
+
+Tim Ribaric: definitely agree with you with respect to that. It's almost as if this is like a movie or a scrappy story about a team of people trying to continually do stuff in this physical space, and they just keep getting delayed and then swapped down and all sorts of things, and.
+
+And then they just, turn around and say, that's it. We're gonna go online, or, focus on the online stuff. So it's almost as if it adds, it's part of the, it's a, I guess what I'm trying to say is that it is a fitting addition to the story so far of the DSL and how it's going. Yeah, 
+
+Daniel Brett: I like to think that suddenly all these working remotely skills that we've been practicing and honing just to fill the time are suddenly invaluable skills.
+
+And they're not just invaluable to us, but invaluable to the community and globally even. We've. We've secretly been training for this moment, for the last year and a 
+
+Tim Ribaric: half. Yep, that's right. Yep. Yep. You got it, Daniel. Exactly. 
+
+Daniel Brett: Yeah. So yeah we've had a relatively easy time converting those things.
+
+But that brings us to the second topic of discussion, which is working from home. So the transition working with kids, I know you have kids, Tim. That's right. Working with my wife around all the time is an interesting experience dealing with mental health physical activity, things like that.
+
+Any comments on that? 
+
+Tim Ribaric: Oh gosh. I need to provide, first and foremost, a big shout out to my partner and wife Shawn, for being. Essentially the admin assistant that's stopping the kids from running into the room where I am all day and she's spending a lot of time with them, making sure that they're busy with things that are educational, not necessarily schoolwork, an attempt at schoolwork.
+
+You do the best you can. Yeah. And then even now with the Increase in sort of restrictions about what you can do outside. So like a lot of, in different municipalities in cities, parks, for example, are all closed off, so we can't really take the kids anywhere outside besides the yard and maybe a walk around the block a little bit.
+
+So that is a very interesting additional sort of restriction that makes things complicated. We have to get YouTube videos of. Aerobics and yoga on the TV for them to follow along with. So it's, it definitely is a, it definitely is a thing that I'm sure a large portion of the population is really struggling and working through, but I have to thank my partner and wife, John for being the the edge of the wedge on that one in our house.
+
+Daniel Brett: Yeah, in some respects I'm happy that this happened. Before I had kids. 
+
+Tim Ribaric: Yeah, no I agree with you. I could see that. Yeah. 
+
+Daniel Brett: Although I imagine you have to imagine that on the positive side, there's a lot of really great family bonding going on, especially with families that both parents work and they're always away from home and it's always busy to be able to spend this time with their kids.
+
+Now it's, that's one of the blessings of this is Oh, without a doubt, yeah. Is forced family time. 
+
+Tim Ribaric: We're actually. Our board game collection isn't all that great, but I do enjoy most of what we have. So one of the big tasks we're gonna have is to sit down and try to figure out what game we want to buy next.
+
+And it's it's one heck of a negotiation, let me tell you cuz no one is seeing eye to eye on stuff. So we'll see what happens. We two weekends ago we played a six hour game of Monopoly and I was surprised the kids wanted to keep going. After six hours, I fortunately lost all my money, so I had to leave the game, but they kept going, let me.
+
+Daniel Brett: Yeah. That's monopoly. Yeah. You're at the will of the dice. Very realistic to to how the world works. 
+
+Tim Ribaric: Yeah, exactly. So the second point you made was about mental health. Yeah. How, what would be your answer to that? How are you keeping your sort of mental self in, in, in good pillars? 
+
+Daniel Brett: It was surprisingly an issue for me.
+
+I thought, yeah, great. I'm just gonna play a bunch of video games. Sure it'll be nice to spend time with my wife and just hang out. And we're both somewhat introvert. She's more introverted than I am, but so we thought it would be great to just sit inside all the time. But I very quickly discovered that.
+
+Walking as much because at Brock I would walk the kilometer or so from the parking lot to the building from way out in the far zone. And then that would be like my buildup to my day of work. Get into work. And then at work I was walking all over from my office to the digital scholarship lab, to the map library, all the way to the walker complex for coffee, that sort of thing.
+
+Just, yeah, just scooting around. I was out and I was doing a lot, and not even for the physical activity of it, but just seeing people walking, just doing something was, I didn't realize how much that really was necessary until I. In the basement. I, in my first few days I tried sitting in my basement office and I couldn't do it.
+
+I couldn't sit in the basement for more than a couple hours before I needed to go up and look at the sun and experience things. So that's why I've moved my office up to up to our library with its big bay window. Oh, nice. Yeah, just. I need the sunlight. And at lunch every lunch and every, at the end of every shift, my wife and I go for a big long walk just to Oh, that's nice.
+
+Get our fresh air in. And still I find myself grumpy still. Like 
+
+Tim Ribaric: I yeah. No, I understand. Yeah. I was reading something on Twitter yesterday or maybe a couple days ago, and I'll paraphrase, but it was basically like, you're not working from home. The thing is you're at home during a, an emergency and you're just trying to do some work.
+
+You know what I mean? So it's so everyone trying their best. And we need to believe, we trust and believe everyone is doing their best, and it's not gonna be the same while all this is happening. And I think it's a good lesson for us all to keep that in mind, right? There's no way productivity is the same and nor should the expectation that productivity is the same either, right?
+
+Yeah. 
+
+Daniel Brett: Yeah. Some days I throw myself into my work just to do something and I've noticed it's like Mondays and Fridays I really just hammer it as much as I can. And then Tuesday, Wednesday, Thursday, I'm sitting there and I get I still get plenty done. It's just not nearly as much as I would at work And.
+
+I don't know. I feel like that also lends to my mental health. And just in general the, my, my feeling because I feel like I'm not accomplishing enough. I'm sitting here and I'm like, I know I'm getting things done, but. I just, I feel like I, I'm not Yeah. Achieving my full potential. 
+
+Tim Ribaric: It's been tough to gauge progress, right?
+
+You're in a void, effectively just jamming on a computer and then, there's no colleagues close by. I don't Yeah, I hear you. Yeah. You're in a, like a isolation deprivation tank or something and you just churn and churn and see what happens. 
+
+Daniel Brett: On the flip side though, positive mental health things the.
+
+The chatting, the video, chatting with people has really helped. And thank goodness for our a u l here at your, at Brock, not here at Brock. He came up with this idea of coffee chats. So Mondays, Wednesdays, and Fridays, there's a scheduled chat where everyone just jumps into one big group chat and just hollers at each other about random things.
+
+And that it's such an uplifting experience. It is so strange, huh? Because normally I I'm not saying I ever dreaded going to meetings with lots of staff members present, but it was always a, it was very businessy, very oh yeah. Gotta go to another all staff meeting. But now, You look forward to it.
+
+And when you're there, it's just such a positive experience. Everyone's happy to see each other. Everyone's showing off their pets, doing lots of fun things and it's just really nice. And I think that's one of the huge mental health things that, that's been carrying me through personally.
+
+Have you had any of these experiences, 
+
+Tim Ribaric: Tim? Oh boy. I've I've leaned into it. So I agree with everything you've said so far, but what I'll do is I'll add the, that I'm leaning into pandemic un pandemic worldview. So there's a couple books that I've started to reread.
+
+That is scratch is a really weird itch. So there's a book by Michael Kreon called The Andromeda Strain. I'm gonna stop me if I've told you this before. I probably have, but I know not on podcast. It's about a virus that falls to the planet earth and starts, decimating the world.
+
+And in the end, the only thing that stops it is the fact that it. It mutates and then becomes inert and, it's like a big hoof, wipe the sweat off of the brow moment and then the world continues on. Sorry, spoiler. Though it came out in the seventies, so there should be lots of the no spoilers.
+
+Amnesty should be all done for that one. Yeah, for 
+
+Daniel Brett: books. I think it's two years, so you're probably fine. 
+
+Tim Ribaric: I'm pretty good. Okay. And then the other one I'll mention that is probably scratching that itch too, is there's this book called, the. It was written by a fellow named Albert Kamoo in the forties, and he was a big existentialist author.
+
+And the whole thing is this Moroccan cities under quarantine because a virus breaks out and it's all just following the different people that are in the city during the time of the quarantine. And it's one of those books where there's a lot that happens, but there's no story to it.
+
+So I'm leaning. There's mental health stuff by rereading these books. So we'll see what happens after I'm done with it, but I recommend the Plague anyways. And Drama to Strain is a little more, more puy you can pass that one if you don't like it, but I think 
+
+Daniel Brett: they made a movie outta that 
+
+Tim Ribaric: one.
+
+That's true. They did. Yep. It was around that era too. I believe it was in the seventies or early eighties they made it. So yeah, if you don't want to commit the time to reading it you can just watch it for an hour and a half and really get your worries out in such a short period of time as opposed to the time it would take you to read the book.
+
+Daniel Brett: Reading's an issue for me here because. My wife curates, she's a librarian, so she curates our library. But her favorite genre is dystopian and unfortunately, the majority of the books on the shelves are pretty bleak. And that's not exactly what I wanna be reading right now. So I've been going down some YouTube rabbit holes just to, to cheer myself up.
+
+Mostly cooking. And oh man, 
+
+Tim Ribaric: oh boy. Cooking is universal. Hey I dare you to find one person that does not like to eat or that just eats because they have to. You know what I. Oh yeah, 
+
+Daniel Brett: we've made some pretty good stuff. Oh, that's great. There. Anything else on the mental health train there, Tim? 
+
+Tim Ribaric: No, that's that's what's keeping me engaged other stuff too.
+
+have the joy as we were mentioned earlier, having low kids around. So after work is done, there's not a lot of time for existentialist dread. I hang out and play with my kids until they go to bed, and then there's only an hour or two of existentialist dread before bedtime. So it's keeps it that day, 
+
+Daniel Brett: all told.
+
+And how about physical activity? I know you're a runner. Has this affected your physical activity at 
+
+Tim Ribaric: all? I think I've I hate to keep using this phrase, but I've leaned into this one too. So my, I'm running now and running more than I did before with the idea that, I get out there super early in the morning, so 6:00 AM I'm usually I want to be already with sneakers on and outside just so there's no other people on the road for obvious reasons.
+
+And then, I bought a new running watch a little while ago, and it has. Data and metrics on it. So it keeps telling that my fitness level isn't increasing correctly. So I've been pouring in more effort into running, which is great because at the end of the day, my head hits the pillow and I fall asleep, and it's the most beautiful thing in the world.
+
+There's some universal truths. In life, when you're thirsty to drink, when you're hungry to eat, and then when you're sleepy to go to bed, it just feels like such a treat. So that's what I'm doing to make sure I have no pent up energy or twitchiness, ab about myself.
+
+But how does How's, how does your regime reflect this? You mentioned you go for a nice long walk every day 
+
+Daniel Brett: after work. Yeah, twice a day. So at lunchtime now that my wife works from home as well, then we sync up our lunch times and then we go for a nice long walk just down to the canal and back or to the bridge rather, and back.
+
+And then after work, then we just walk until we don't wanna walk anymore. And then we come back for supper and. And that has been really good just for both mental and physical. Cuz mental health, it's just a great time to unwind, just to release a lot of that pressure in your brain from staring at screens all day.
+
+Because that's something that we are doing a lot more because of this is everyone seems to be. Talking about, oh I never used to sit in front of a computer or the TV for more than four or five hours a day. And now it's like 12, 15 hours a day staring at a screen. So it, it definitely helps just relieve that pressure.
+
+Tim Ribaric: Yeah, was without a doubt, like our bodies evolved to. Be outside and grow crops and chase down wooly mammoth and things, put this hard stop and suddenly put ourself inside and then like in front of screens even more. Yeah. It doesn't reflect nicely on how we've evolved. 
+
+Daniel Brett: All right.
+
+So I think we've covered physical activity. This leads us to the next The next major topic, which is the challenges of living in a quarantined world. So not just, yeah, not just us. Our quarantine, we aren't the only ones. We're not locked in our house. Everyone is locked in your house. The whole world is in quarantine and this poses a lot.
+
+Of pretty serious issues. One of the biggest one is shopping and not just I need a new shirt, but groceries, the things you need to live. Food in general. There's a lot going on in that respect. Any comment there, 
+
+Tim Ribaric: Tim? Oh gosh, yeah. I'll tell a quick story. Maybe the Friday, the Thursday before like it started to get really serious.
+
+So I think that's maybe three weeks ago now. I came home from work and I said to Shauna I, I think I should go get some groceries tonight cuz things are starting to sound serious. And then when I got to the grocery store, it was, And, this is when the first like toilet paper run was starting.
+
+So there was like no toilet paper in the whole store and it created this really foreboding feeling. So I loaded up the cart, I didn't, I don't wanna say I hoarded, but I probably bought more than I should have and then came home. And that run has lasted us for quite some time, but we've been augmenting that with like at home grocery delivery.
+
+So I guess. It's not an option for everyone, but for us it's worked These past couple weeks we have stuff dropped off at the house and we are really sure to be very generous with the gratuity cuz there is someone, as you say, it's not a, it's not an easy thing to do to be a professional shopper in these day and age.
+
+So it's a, it is challenging. Yeah. And then, stuff like, I'm cognizant of buying from Amazon too, for just other essentials because, some people have to work in fact, or, fulfillment centers, pardon me, putting these packages together and they're around others and it's not like it's a quarantine environment.
+
+Anytime I buy something from Amazon these past few weeks I've been thinking about maybe I should wait or, is this really essential? Maybe you should wait. Yeah, it's quite a, it's quite a situation. How are you two adjusting to it all? 
+
+Daniel Brett: The Amazon thing is a really good point.
+
+And I was watching I went to get my winter tires taken off and I normally don't watch the news, but while I was waiting for my winter tires to get taken off and a few other things to get. They have the big TV playing the news in the waiting area there, and they brought up two very interesting topics that are relevant here.
+
+One, online shopping. When things get shipped to you, the chances are it is infected. The, apparently the odds are pretty good that it has been touched by something at some point. And what they recommend is anytime you have anything delivered assuming it's something that ca you can do this with, they say, put it in the garage because the covid virus can only live on hard surfaces between 24 and 48 hours.
+
+So they say, take the box, put it in the garage for two days, and then you can bring it in and do whatever. But you pick it up, you put it in the garage for two days, wash your hands and then go grab it two days later. And that was one thing that I never even thought about is like, and I know it's an obvious thing to think about, but the virus living for that long on surfaces and in a truck full of boxes, each box likely touched by a different person at one of these centers.
+
+Yeah. So for every box in that, You increase the risk and these boxes are touching each other, so they're spreading onto each other left and right. And this is their solution, is A, don't buy anything non-essential. And b, if you do leave it for two days and then wash your hands, bring it in, open it up and just treat it as normal.
+
+And I thought that was a big thing. They're telling you to do the same thing with groceries if you can, or wash every piece of groceries you get. Which makes perfect sense, but is just a lot of work. But that's the world we live in. Yeah. 
+
+Tim Ribaric: I mean on the plus side where we're going into all this doom and gloom, but I'm so very happy that, washing with soap and water.
+
+Is a, the most effective prevention method and, stop touching your face. Yeah. And those two things are very, within every, most people's reach. Everyone can do it. Yeah. Some really expensive vaccine or something, or some sort of. Other thing with a large expense attached to it, it wouldn't be viable.
+
+But, the best is, stay at home, which is usually free and available for most people. Wash your hands also free and available for most people, and then, don't touch your face, which is definitely free and available for everyone. Close to everyone anyways. 
+
+Daniel Brett: Yeah, so I'm very happy that the solution is a very easy solution if a little frustrating.
+
+Do nothing. Yeah. Don't touch your face. Don't lick signposts. Don't lick things that people normally touch indirectly or directly. Not that many people do that, I hope. But yeah I'm very happy that the solution's easy. Yeah. The other thing that was talked about on the news, and it led to a rather long conversation for the newsroom and I thought it was funny that they had this time to spend on it, but there's probably not a lot of news other than Covid 19 right now.
+
+Yeah. Because nobody's doing anything. So they probably had a spare moment. What they were talking about was. Oh yeah. And they're like, what are people gonna look like when we come out of this? And that, that made me a little like start thinking and being, first of all, I started off feeling self-conscious and I'm like, oh no, I'm gonna get real shaggy.
+
+And I was just like, wait a minute. Everyone's gonna be shaggy, so no one's gonna notice. And I thought that was a nice fun light thing to think about is just picture all your friends and family, but with an extra three months of hair. 
+
+Tim Ribaric: Yeah. My dad is growing a Covid beard. So he said, oh, I'm locked in the house.
+
+I'm stop, I'm not shaving anymore. 
+
+Daniel Brett: Yeah to be honest, I've actually, I'm trying to do that myself. I've never had facial hair in my entire life. Never let it grow for more than a day, but mostly because it doesn't come in nicely, but I've decided I'm gonna just. Just let her go just to see how it ends up.
+
+Right on, eh, we'll 
+
+Tim Ribaric: See how it looks. Yeah. Gotcha. 
+
+Daniel Brett: Oh, my wife hates it. But 
+
+Tim Ribaric: yeah, that's the first line in the beard book you get when you start growing a beard. It's your partner will not enjoy this. That's the step one. But, you need to be, you need to be safe and comfortable with that because that's gonna be a thing that's always there while you have the beer.
+
+So 
+
+Daniel Brett: I'm I'm quite happy. With the experience, it gives us something fun to joke about. Yeah. And that's what you, that's what you need is every time you look at each other, just a smile and be just like, hit. So I've got weird scruff on my face and she tried to cut her bangs herself. So we've got a, we've got a nice repertoire going on.
+
+But yeah, so shopping, it's that's something that, that we've been doing. As little as possible. We did one shopping run so far and it was about a week and a half ago we went to food Basics where nothing was different except that quite a few aisles were just empty. And whatever. We couldn't get there.
+
+We then went to theirs. Now theirs had a. Forward thinking structure going on, not quite as forward as some that I'll mention next, but at theirs, they, you can go around, you shop as normal, but when you want to checkout, first of all the checkouts have plexiglass shields protecting the workers there, which is, which makes perfect sense.
+
+They are at the most risk right now because they are mandatory essential employees. But what they also did was they ate cordoned off the entire area for checkout, and they had a man standing there with a vest and he said, anybody who came up, he's okay, the line is over there. This aisle is the line and down this one aisle.
+
+Ironically, the paper aisle, which was empty they had tape marks on the floor and every tape mark was about eight feet apart. And they said, go stand on a tape mark. So that you aren't close to anybody else. So they had this line that went all the way to the back of the store, down one aisle where people were standing very far apart.
+
+And I thought that was really nice. And then on top of that, this guy was saying, okay, if you're paying with cash, then you have to go to the shame line because you shouldn't be paying with cash during a crisis like this. And if you're paying with debit, you can go to one of these three other lines which move much quicker.
+
+And I just really liked how they took control of it after every single purchase. They were wiping down all of the machines. They had like special wipes for each machine. And they were. Really nice. But taking that one step further, I heard about a Walmart somewhere, I think on somewhere in St.
+
+Catherine's. Somebody was mentioning it on the coffee chat. There's a Walmart that is actually a one-way Walmart, and what they did is from the entrance to the cash registers, there are arrows on the floor and you follow those arrows through the store. And the arrows end at the cash and then you leave and you do not stray from the arrows.
+
+All the aisles are one way, so people aren't bumping into each other, coming in opposite directions. And I thought that was really clever that just passing people, cuz you need to stay six feet apart. That is the official ruling by the w h o is stay six feet apart. Or further.
+
+So minimum six feet. And that's impossible to do when you're passing somebody in a grocery store. Those aisles aren't wide enough to be six feet apart and pass side by side. So this one Walmart, they're just like, yeah, nope. It's all one way aisles and it all leads back to the cat. I thought that was really clever.
+
+And it just shows. A store doing their part to, to really help in this crisis. And speaking of doing their part, that leads into the last little bit of discussion here. Unless you had something more to add there, Tim. Oh, no. 
+
+Tim Ribaric: No, not at all. 
+
+Daniel Brett: So what can we slash you, as the listeners do to help to do your part during this crisis?
+
+Rule number. Stay home. That is the biggest thing you can do to do your part. So stay home and if you. Or a loved one has family or friends that are essential service workers. So medical staff, grocery store staff, anybody who is still at work in a physical location dealing with people right now.
+
+Just make sure you're supporting them as best you can and not just hey, you can stay at my house which is not recommended. Mentally as well. So make sure you talk to them. Make sure that you check in on them every day. Have a chat. Make sure they're doing okay because they need it more than anyone right now.
+
+That has been our conversation about COVID today and our obligatory podcast about it. But now it's time for us to virtually guide our ship to a safe spot at least six feet away from any other ships and drop anchor. Thank you as always for joining us on our voyage through these turbulent Cs.
+
+Make sure to stay safe and follow the guidelines set by your local government. And if you have any comments, suggestions, or cool ideas, please let us know at either dsl, at brockie.ca, or on social media. Thank you very much.
+

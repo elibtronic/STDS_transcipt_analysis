@@ -1,0 +1,389 @@
+ep10
+===
+
+Erin Daily: Hello and welcome to episode 10 of Steering the Digital Scholarship. Yes, we are in the double digits now, brought to you by the staff of Brock University's digital scholarship lab. My name is Erin Daley, and I seem to recall that when I captain into episode seven, I said something along the lines of, this is the first and last time.
+
+I'll do this. And yet here we are. I'm the captain. . This time though, when I say it's the last time I'll do it, I mean it. This is the last podcast. I'll be captaining because next week is my last week at Brock. Sad trombone. W Next Friday I will be leaving Brock and heading towards the horizon that is Western University so I can finish my M L I S and enter the real world.
+
+So with all that in mind, our theme this week is farewells and moving on and next. So before we start our discussion, we're gonna ask some questions to our group. So question one allows some fantasizing. So I'm heading back to school so I can finish my degree, get a job, all that fun stuff. So my question is, if you guys were in my shoes and you could go back to school for anything and go into any field of study you wanted, what would it be?
+
+Let's, I think Tim said he had an answer. 
+
+Tim Ribaric: Oh boy, do I ever, to this question. So I think I'm addicted to school, so I would stay in school for the rest of my life if I. . But my answer specifically to this is I've always dreamed about getting a bachelor's degree in mathematics. Computer science is like an applied version of math and it's not as in.
+
+Yeah. As complicated as, let's say, a degree in mathematics. So if I had the opportunity to go back to school, I'd probably get a bachelor's of math just for the wells and the fun of it. It wouldn't help my job, I don't think. But, if we're going into the world of data science and visualizations and analysis, it might come in handy.
+
+So that's my rationale, if if failing that, I would love to get a PhD in something. But that's probably a few decades from now when the children are grown. out of the house and I have time on my hands. Fair 
+
+Erin Daily: enough. What about Alicia? What did you do? 
+
+Alicia Floyd: I'm like, Tim, I love school, so I've been back multiple times throughout my life already.
+
+The funny part about that is I had a hard time making up my mind when I first left high school and went into post-secondary education, which I think a lot of people face and. at that time I had an idea of what I wanted to do and I spoke with various people and got persuaded to take different avenues and to this day I still wish I had of done what I first wanted to do, which was to become a social worker.
+
+Oh, interesting. I wanted to work with children specifically, so I would probably go back to school and figure out. To do that, to help children in some way. 
+
+Erin Daily: That's really cool. 
+
+Tim Ribaric: Very 
+
+Erin Daily: noble. Very noble. I love Daniel. What would you do? 
+
+Daniel Brett: I would go back and I would finish my master not masters, bachelor's in geography, physical geography specifically when I was a student.
+
+Then I got a minor in physical geography because I realized about halfway. My degree in interactive arts and sciences, which for those of you who don't know back then was effectively game design. I know it's evolved more recently, but I realized about halfway through that it wasn't exactly the field I wanted to go into, but I was pretty committed at that point and I knew from taking my sciences to, to flesh out my thing that I really like geography.
+
+So I got a minor in physical geography and it was my favorite classes I ever. Very nice. So yeah, I would go back and I would finish my physical geography minor and take as many field courses as I could.
+
+Erin Daily: Great. Cool answers. I think, I've got enough school for now, and once I've finished my m i s I'm very much ready to take a break from academics. But I always thought like something in the medical field would be cool. . The main reason I never pursued anything medical is because I'm terrible with numbers.
+
+Like I have to take my shoes off to count past 10. I'm just completely hopeless with math. So it never really worked out that way. But what do 
+
+Tim Ribaric: you think about a career in like medical librarianship or health science Totally. Library. Considered it. Yeah. Yeah. Totally considered it. Interesting. Any schools looking or institutions looking for a health librarian, they can contact you?
+
+How 
+
+Erin Daily: Yeah, exactly. Where. I've I've got lots of DSL experience, so if you're looking for someone with a really cute mug to prove it, I can you know where to look. Okay, so now a more intellectual and thought provoking question. They already know that this is a, who would win in a fight kind of questions, but they haven't known who the actual fighters are.
+
+So with all that said, who do you think would win in a fight? Mike Tyson with Gorilla. Or a gorilla with Mike Tyson's 
+
+Tim Ribaric: arms. Oh my gosh, that's a tough one. 
+
+Daniel Brett: Mike Tyson's, the boxer, right? 
+
+Erin Daily: Yes. But he has gorilla 
+
+Tim Ribaric: arms. Gorillas can be vicious animals. Yeah. This is a tough, I don't know without their arms though, but they have Mike Tyson arm.
+
+Mike Tyson's got beefy arms from what I 
+
+Daniel Brett: remember from National Geographic, Gor. Don't do as much damage with their arms as they do with their teeth. Ah, they have big fangs and they bite real hard. So they would rip Mike Tyson's throat out very quickly. They would not fight fair. They 
+
+Tim Ribaric: would just bite him to death.
+
+Case in point, Mike Tyson, bit off Vander Holyfield just mentioned 
+
+Erin Daily: that Mike Tyson did bite one of his opponents. Did he bite it off or was it like a There was a chunk. Yeah, 
+
+Tim Ribaric: he took. Portion of it off. Yeah. This, so in terms of 
+
+Daniel Brett: Is Mike Tyson the guy who's got Mike Tyson Mysteries? The cartoon?
+
+Yeah. That's 
+
+Tim Ribaric: him. Okay. 
+
+Daniel Brett: Same guy. And he's silly and he is got a tattoo on his face. I know. I know who Mike Tyson is. , 
+
+Erin Daily: but Candy stand. But could he stand up to a gorilla if he got a gu? Not. 
+
+Daniel Brett: Gorilla all the way, you would just bite him 
+
+Tim Ribaric: to death. I don't know. When Mike Tyson unleashes the beast, he can do quite a bit of damage, so I don't, this is a toss up for me.
+
+I don't know. Tossup, I wouldn't be able to give you an answer on that one. 
+
+Erin Daily: Fair enough. What do you think, Alicia? 
+
+Alicia Floyd: I prefer to picture gorillas holding the gorilla babies and not fighting, not Mike Tyson and Mike Tyson is terrifying. So I. Mike Tyson, all right. 
+
+Tim Ribaric: Mike Tyson 
+
+Erin Daily: with Girl. Yeah. 
+
+Alicia Floyd: Yeah. Even though that's totally unrealistic and the gorilla would obviously win, I just still prefer Gorilla Babies.
+
+Erin Daily: Gorilla Arms would be very heavy. Could Mike Tyson support the weight of Gorilla Arms? See these are the thought provoking questions. I feel like this discussion isn't over. I feel like it's 
+
+Daniel Brett: just begun. He wouldn't be able to move. Gorilla would bite him to death, 
+
+Tim Ribaric: but he would be able to swing them gorilla arms just a gorilla would.
+
+And he's got years of boxing experience, so he'd be, expecting it even more powerful. Yeah. And that intimidating face tattoo would share scare off any gorilla, right? , 
+
+Daniel Brett: I don't think gorillas register that sort of thing. 
+
+Erin Daily: I think I. The face tattoo would be enough to scare off a gorilla. All right, interesting thoughts.
+
+This is it's a question that I asked to a lot of people when if I'm in a social situation and you have absolutely 
+
+Alicia Floyd: nothing to talk about. Absolutely nothing 
+
+Erin Daily: to say. I'm like, what do you think would win in a fight? Mike Tyson with Gorilla Arms, or a Girl with Mike Tyson? We'll have 
+
+Tim Ribaric: to add that to the pool of questions that we'll ask students that seek employment in the 
+
+detail 
+
+Erin Daily: next year.
+
+There. That's like the end of an interview kind of question. , they're like, all right. One more question for that. I feel 
+
+Alicia Floyd: like we need a right answer. 
+
+Erin Daily: We can always continue 
+
+Daniel Brett: the question. I think the right answer is a thought provoking answer just to show that they actually consider that they 
+
+Erin Daily: can think critically 
+
+Tim Ribaric: or that there's a generation gap when they ask who Mike Tyson is.
+
+Yeah, there you 
+
+Daniel Brett: go. We would do that. He's a cartoon 
+
+Erin Daily: now, so everyone knows. Everyone knows a very inappropriate cartoon. . All right, so I know what you're all thinking. There's no way that Erin is going to tie a question about Mike Tyson and gorillas to our overall theme. She's probably just curious to know our thoughts about hybrid organisms and boxing.
+
+And while that is partially true when I was writing this, I was thinking about Mike Tyson and boxing and sports, and it led me to some retirement announcements that have happened in the world of sports. Rob Gronkowski is retiring from football. . He's not retiring, but Tyra Woods just won the ma the masters, 
+
+Tim Ribaric: Masters after a huge stroke after, yeah.
+
+Erin Daily: Huge hiatus. Sports, it relates, it works. And when a big sports person retires, a lot of people start asking what's next or who's next? So I thought we'd use today's podcast to talk about what's next for me and also what's next for the dsl.
+
+So it's no secret that we have been anxiously awaiting the opening of our new space. We still don't have an exact opening date unless Tim has an update that he's done. No update . But we do know that it's gonna be sometime in the summer of 2019. So I'm wondering how you guys see the DSL changing when the space opens.
+
+Tim Ribaric: Hold on. Golly, this question keeps me up at night to tell you the truth. I'll defer to the two other people in the table. . Cool. 
+
+Daniel Brett: It will definitely. Become more walk-in oriented because people can actually walk in. I think that'll make a significant difference. We're gonna be right on the right in the front entrance of Brock.
+
+So everyone that walks in, they look to their right, they're gonna see the dsl. And that'll at the very least bring people through the door. So we'll be spending more of our time triaging walk-ins with their whatever problems they want to bring. As opposed to actively seeking out. So we'll switch not completely, but from active to more passive working with people.
+
+Not that we're going to be passive. We will still actively be . We'll be actively searching out opportunities at every juncture, but there will be that passive aspect to it where people will come to us as opposed to us 
+
+Tim Ribaric: constantly going to them. Let me tell you, the one thing I'm looking forward to is being able to meet.
+
+In a space where they don't have to swipe through and talk to like my concierge to get access. So like in the last few weeks I've been, having people visit me for meetings with, for DSL business and they have to stop at the main library desk, have them page me, I walk out like it's a grand fancy affair.
+
+Walk them back into this office and. time I do it. I always think, does this person think I'm up to something nefarious? Because we keep going deeper and darker into the doldrums of the library. The upshot when the DSL opens is that I'll be able to say, why don't you meet me in the front door of the university?
+
+You probably know where that is, and it's accessible to everyone, and I don't have to go through this crazy pomp and circumstance, less ominous. There you go. . 
+
+Erin Daily: What about you, Alicia? 
+
+Alicia Floyd: I guess what I'm hoping for to start is just to be really busy. I'm hoping that we've gotten the word out there a lot already so that when it's open, people are excited about it.
+
+Also, as we've probably mentioned before, we're part of the Brock Link and those are , there's gonna be a lot of different groups and entities within this new building, and I'm not sure about everyone at the table, but I don't know anything about any of that except for the maker space because they're part of the library already.
+
+So I'm hoping that having the space actually open will lend itself to everyone who's housed there to work together form working groups and plan events and projects, and hopefully a lot of collaborations will come. just literally being side by side with a whole bunch of 
+
+Erin Daily: different people. . Yeah, no, the, I mean we've talked before about collaboration on this podcast and how collaboration is a huge thing for the dsl and I think having our own space is really just gonna make it that much more of a thing, I guess for the dsl, will be that much more accessible to everybody at Brock.
+
+Like people in the Brock Link and. Rankin Family Pavilion, but just to the broad community in general, I think it'll be really cool and sad. I'll miss it, but send me postcards. . 
+
+Tim Ribaric: Yeah. But yeah, the, yeah. Yep. Yeah, unfortunately it's slipped and the opening date will be this summer as opposed to last winter.
+
+So poor Aaron didn't have the opportunity to experience the space firsthand. But if you walk by the construction zone, you look through three or four windows, you can see what the space will 
+
+Erin Daily: look like. Can't the construction, like updates have been a thrilling part of, 
+
+Alicia Floyd: they did lay a portion of the floor yesterday, so if you're interested, you can go into classroom A and you can see the floor in the maker space.
+
+It's very 
+
+Tim Ribaric: shiny. Oh, I'm gonna check that out. We're done recording. 
+
+Daniel Brett: They don't get carpet like we do . 
+
+Erin Daily: We 
+
+Tim Ribaric: know where we ring. Makerspace drops a bunch of probably stuff on the floor while they're building and constructing and saw dusting and things. So they probably have a more industrial floor. But I like the idea of being called to the carpet, and that means the DSL that might have 
+
+Daniel Brett: other comments, , that we're not gonna discuss here.
+
+There you go. Yeah. 
+
+Erin Daily: All right. So they say that the kids are our future, and I'm no kid, but I am still very new to the whole real grown up world of full-time job. And I was lucky enough to be able to accept a co-op placement here. So thinking about the whole process of hiring and working with an intern, and if you ignore the money and budget considerations that are part of hiring an intern, do you guys think you would hire one again in the.
+
+Tim Ribaric: Oh, without a doubt. I, for multiple reasons, but the first one that comes to the top of my mind is that it's a good demonstration back to the profession of librarianship, that the skills are changing and that the positions we need aren't traditional stuff. It's more progressive, it's more technology focused, it's more experimentation and learning.
+
+Having a intern year over year or on some frequent basis indicates the to or gives evidence anyways to people going through the program and undertaking a career in librarianship that things are changing because this is a job opportunity that, comes up. In terms of that that's my, primary answer.
+
+How about you guys? 
+
+Alicia Floyd: I would say yes, I've had some great experience. experiences with interns, and obviously a great experience with you, Erin. One thing I love about having an intern is that it's a very two-sided relationship where I get excited to teach someone something new, but also I always find it to be a really good learning opportunity for myself to see things through fresh eyes, because when you're in a role and you're doing the same thing or you're looking at the same things.
+
+Sometimes hard to think outside the box. So I always like having an intern come in who's in school and excited and full of fresh ideas and bring all of that to the table and take that opportunity to learn from them as well. So it's definitely something I would wanna keep doing. Cool. 
+
+Erin Daily: How about you, Daniel?
+
+I don't 
+
+Daniel Brett: have much experience with interns . I am this is my first time ever working with an intern and. Like just a another useful person in the room. . 
+
+Erin Daily: I'm gonna put that on my resume. Useful person in the room. Hey, 
+
+Tim Ribaric: that's valid. . 
+
+Alicia Floyd: I think that'll be our hashtag for this episode.
+
+Erin Daily: Yeah, I'll useful person. Useful person in 
+
+Tim Ribaric: the room. I'll make sure that gets in the notes of the episode. Yeah. Or 
+
+Erin Daily: If anybody's ever asked to provide a reference for me, just tell 'em I was useful. That's right. I'll 
+
+Tim Ribaric: appreciate it. one email, one word useful. Useful. That's it. 
+
+Erin Daily: So on the subject of interns, let's steer the conversation back to everyone's favorite intern.
+
+What is your favorite memory or story? Around me since I have been here. 
+
+Daniel Brett: That one's pretty straightforwards for me. It's the whole tiger thing that was, oh my God, I still love that fear of animals. And then the tiger tangent was pretty good. Yeah, it wasn't that long ago. That was only like, what, last week, two weeks ago.
+
+But still, that was, I have to say that was my favorite tangent or 
+
+Erin Daily: Aaron story. I'm very good at tangents. It's on my resume weed. I can start running with something if I'm given the opportunity. 
+
+Tim Ribaric: Let's go to, with Gorilla Arms and Mike Tyson. That's, 
+
+Erin Daily: It's a thought provoking question.
+
+I , that's why I have it in my back pocket cuz people can really get going and, passionate conversation about gorillas and Mike Tyson. And Tigers. And tigers, they'll bite you. It's happened to people. don't catch ya. It sure 
+
+Tim Ribaric: has. Yep. Yep. I'm, yep, I'd agree with you. 
+
+Erin Daily: Oh boy. They climb trees. And they can swim so you're not safe anywhere.
+
+Oh my gosh. 
+
+Tim Ribaric: So they can 
+
+Daniel Brett: open car doors 
+
+Erin Daily: like no worries. I'm telling you, if Tigers had thumbs, they would be at the top of the food chain. Literally the only reason that humans are at the top of the food chain there are is because we have thumbs. There are tigers with thumbs. That's just one more reason to be afraid of them.
+
+Tim Ribaric: I've seen kittycat with six toes on their paws. Is that something similar you ever seen? It's the same thing. It's 
+
+Daniel Brett: sets on seven with the cats with the thumb and like people make. One of my friends had one and we always handed them a pencil and they would hold the pencil like a pupil, and we thought it was the most adorable thing.
+
+But yeah. So there have there have been tigers that also have it's not a real bum, but it's like the extra toe that's near the bottom that can hold 
+
+Tim Ribaric: things. Yeah. It's on a slant against the rest of 'em. Wow. That is spooky. That's gonna keep me up. 
+
+Erin Daily: So 
+
+Tim Ribaric: they can open doors, watch it. They can dress up like people and come inside now, you're really 
+
+Erin Daily: not safe.
+
+Oh, hello. 
+
+Tim Ribaric: I'm not a tiger. I'm Mr. Not 
+
+Daniel Brett: tiger. . It's a family. 
+
+Erin Daily: All right. Alicia, what 
+
+Alicia Floyd: about you? . All right. I feel like the right answer here, like you're really putting us on the spot. First of all, , I feel like there was, that was my intention. , Erin, it's amazing. It's time to get honest here, folks. Yeah. I feel like the right answer should be something like, she learned 17,000 programs by herself and taught them to everybody, and did data visualizations and wrote a biweekly blog and met with a million people and learned the whole.
+
+but my actual answer is the day that you were having a total chocolate craving meltdown, . Got it. So aside from all of the wonderful things you've done and learned there was a day that Erin wanted chocolate really bad, and she was trying to not have chocolate. So it was a rough day. She was texting me for a good couple of hours on Slack about all the different things.
+
+I think there might have been a few chocolate related emojis or donut emojis, and. . Eventually there was this pause in the conversation on Slack and she disappeared and about a half an hour, 45 minutes goes by and then I hear this little devious ping and it was Erin to say. I gave in and she went and got to chocolate bar and then it was over, but it was hilarious.
+
+And that's my favorite 
+
+Erin Daily: memory of Erin. Oh my gosh. Devious ping. I like that. If I ever become like a rapper, that'll be my rapping. devious ping. You're welcome. I appreciate that. Oh boy. Gotten so much out of this placement. Interns, future interns. If you're listening, this is what you could be involved in.
+
+I've gotten a rap. I got a mug. I 
+
+Tim Ribaric: got a, which can hold both warm and cold liquids. There you go. 
+
+Daniel Brett: . And it has a cool nickname for like your podcast nickname. 
+
+Erin Daily: Exactly. We couldn't put like devious ping on the back of my 
+
+Alicia Floyd: we can get Sharpies and just write all of the extraness . 
+
+Tim Ribaric: That'll be on the T-shirts.
+
+We'll get t-shirts next. And there you go. And those will have our wrap names on them. Oh God. Which I don't know. That is a dangerous prospect. , I'm thinking maybe the notorious t m for mine. I don't know. Maybe that's bad. But my rap name was 
+
+Daniel Brett: decided when I was born with my initials, which is dj.
+
+Okay. 
+
+Tim Ribaric: Yeah, that works very nice. I'm 
+
+Erin Daily: so hit. That's easy. Watch out. . I feel like your parents were trying to set you up with a rap career with, they really were with initials like 
+
+Daniel Brett: that. I don't think rap was a thing back then. Oh, 
+
+Erin Daily: it was. 
+
+Tim Ribaric: They just kept the door open on a lot of career options for you. So they had it, they had that in mind when they named 
+
+Erin Daily: you. There's some celebrity who named his kid pilot inspector and I feel like he really limited his kid's job. What that? Hello, pilot. This is my son, pilot inspector. He's a dentist.
+
+Tim Ribaric: Oh boy. All right. I'm acutely aware that it's my turn to answer the question. You joined us in January and I can't remember, I think it's January 7th or something, was your first day of work and I remember walking into your office and just doing this massive brain dump of, Hey Aaron, welcome. what stuff you like.
+
+Great. Listen, I got some stuff to tell you. And then I just probably went on for 45 minutes, probably even longer. And very politely, nicely. Erin nodded and just paid attention to everything I was saying. I'm sure less than 5% of what I communicated she absorbed that time. As is usually my case, my best memories are when things aren't, not the positive things, but when things are could be improved upon.
+
+So I think my. Best memory is going into Aaron's office that first day working and saying, Hey, listen, this is what digital scholarship is here anyways, and here's a ton of stuff that you've probably never heard of before that you're gonna have to understand in a few days. So good luck. See you later.
+
+Welcome aboard. Yeah, exactly. Welcome aboard. Yeah, since then I've been trying to make sure it's, it is not quite such a brain dump, but who knows if that's the case. Three lovely people can tell you when I'm not around in the room if such a case is still going or if things are different. But in any case, Erin, I apologize.
+
+No, no name. But that 
+
+Erin Daily: interesting first day. So it was I mean it was funny because I remember before I started my placement, I started to get nervous oh my God, what if I'm completely and over my head? What if I start this job and I get there and I have no clue what I'm doing.
+
+Which I don't know, I feel is fairly normal before you start a new thing. What if I , I started to think back to my interview. I'm like, did I lie about anything like ? Did I say something like, I have six years of computer programming experience and I'm going to get there and have no clue what I'm doing.
+
+And, but everything I said in my interview was truthful. I talked myself down off that ledge and so I think getting there on the first day and having all this stuff thrown at me, Decided to look at it as a learning experience. Like you're here to work, but you're also here to learn and to get as much as you can out of the experience.
+
+So I was like, all right, my job is to learn all this stuff. Then I'm gonna learn all this stuff and 
+
+Tim Ribaric: I'm gonna figure it out. I think part and parcel of. That approach or in, in the profession and the environment generally in librarianship is like an imposter syndrome. Yeah, totally. Because you don't, you didn't take a digital scholarship class in school.
+
+No. And you came here and then you started running some workshops and participating in meetings and suddenly you're doing digital scholarship, which is, I feel the same sort of imposter syndrome about what digital scholarship is, cuz it, I, I think we use it to our advantage when we're talking a lot about certain things, but then also, I don't know, it cuts both ways.
+
+But yeah, imposter syndrome, I think plague. many people in positions like ours where we're thinking and talking about implementing new surfaces and technology, trying to figure out what people want from us, and it's a big question mark. It's a big task and as. The way I like to think of it is if you approach it with a good attitude, that's all that matters, right?
+
+Yeah, that's my life advice for my children that'll probably be listening to this 40 years from now, thinking, what is my, what did my dad do for his job? And they stumble across this and they'll listen to this nugget and just have a good positive attitude about what you do. And that'll take care of most of.
+
+Erin Daily: Surprised that your kids don't already listen to the podcast. All right. Kids sit down. Yeah. This is what I did at work today, . 
+
+Tim Ribaric: I'm still okay with my kids. Soon I'll be embarrassing to them and then when they grow up and become adults, they'll eventually have time for me again. So it'll probably be another 20 years before they're interested in what I do for my job, 
+
+Erin Daily: fair enough. Alright. Thank you everybody for the good conversation and the fun stories. I enjoyed listening. , I'm I'm bummed that I won't be here in person to see all the changes that you guys talked about for the dsl, and I expect postcards and updates from everybody. And I also hope that if you do hire another intern or co-op student in the future, that I've set a good precedent and that you'll all speak of me in hush revered tones whenever the subject comes up.
+
+Alicia Floyd: So speaking of hiring another intern, do you have any feedback or suggestions that you would share with us in terms. what you would hope would be the same or what you would hope would be different for the next person coming in? I 
+
+Erin Daily: think it's hard to say, things that I would hope would be the same or different just because any intern or co-op student that gets hired going forward is gonna be in a different position than I am because they'll be working out of a space and the DSL will be a more established like initiative and project here at Brock.
+
+I think it's hard for me to talk about what could be done in the future cuz I don't know what what the future holds really. But one thing that I would say that I appreciated about this placement is that, relating back to imposter syndrome a lot of the times going into things like, There's sort of an attitude about that's you're the intern, like you're here to, sit down while the grownups do their job and like just watch and learn this is how the industry works and, we'll give you a job to do here and there, you're here to learn and all that stuff.
+
+Whereas I never really felt that way here. Like I always felt like I was on the same level as everybody else. All the decisions that were made, any anything that we brainstormed going forward for the DSL was like, my thoughts were consulted and, my opinions were heard out.
+
+And I think that was something that I don't know if I was really anticipating coming into, I had no idea what I was expecting coming into a placement like this, but there is an attitude where it's like, Hey, you're the enter and like just off to the back with you, but. , I felt part of the group.
+
+And I would say that's a good thing for interns going forward is to feel like they're on the same level as everybody else. And you were hired to take, to do this internship and you were hired to be part of our team for a reason, and we want to hear what you have to say and we want to hear what your thoughts are and all that kind of stuff.
+
+So I would say going forward that's a good thing to, to keep. Doing what you're doing kind of deal. 
+
+Tim Ribaric: Interesting. Yeah. And we won't put you on the spot and ask you what you think should be different cause that's unfair. But if you wanna tell us anonymously 
+
+Erin Daily: somehow that works too. Yeah, no I don't, I can't really think of anything that would be different.
+
+I know going forward the dsl, it's gonna keep changing and it's gonna keep evolving and with the new space there are things that are gonna be different. So it's hard for me to say oh, you should do this differently. Cuz with the new space, who knows what's gonna happen.
+
+But 
+
+Tim Ribaric: yeah, the only constant is change. 
+
+Erin Daily: Exactly. Yeah. There you go. It's very philosophical. . 
+
+Tim Ribaric: Just like gorilla arms. Yeah, exactly.
+
+Erin Daily: This is the part of the show where we talk about upcoming events. On May 2nd, the DSL will be co-hosting the last of the Brown, brown Bag workshop series. When your research funder says, make it open, if you have no idea what that means, then stop by the workshop and learn all. On May 6th, we have Alicia hosting an intro to data visualization workshop.
+
+Everything you want us to know about data visualization, but we're too afraid to ask as the DSLs retiring visualization expert. I am very sad to be missing it, but I know that it's gonna be great. And then finally, any librarians listening, fun upcoming event will be my completion of school sometime in August.
+
+If you're looking for someone with DSL experience and a really cute mug to prove it, you know who?
+
+Tim Ribaric: always hustling. Hey, always hustle. Always gotta hustle. 
+
+Erin Daily: That's great. I'm a grad student. The grad never stops. All right, listeners, for the final time, I will be dropping the anchor here
+
+before you say goodbye. I want to thank Tim, Daniel, and Alicia for letting me join the club here and letting me be part of your conversations and your podcast. I've had a lot of fun. And to the listeners, just because I won't be back next time doesn't mean you, shouldn. , there's a lot more discussion to be had about digital scholarship, and you can continue the conversation on any of the DSL social media accounts, or drop us a line@dslbrocku.ca.
+

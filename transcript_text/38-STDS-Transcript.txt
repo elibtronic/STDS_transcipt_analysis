@@ -1,0 +1,231 @@
+Ep38
+===
+
+Daniel Brett: All right, so hello and welcome to Steering the Digital Scholarship, episode number 38, the first episode of 2021. It has been a wild year already and it has only been two months, and one of the most exciting things we have done so far this year is our collabo. With today's guests. Now, as our avid listeners know, we always start off the show with a deeply personal icebreaker question to clear the waters before we get into our discussion, and the question for today that I'll be subjecting our guests to is, what was your favorite class in high school?
+
+Now, of course, as is the custom, I will go first. My favorite class in high school was creative writing of all things creative writing class. Not necessarily for the aspect of the writing, but more for the books that we got to read to study for the creative writing, I really enjoyed we read things like Harry Potter and The Great Gatsby, that sort of thing.
+
+So it was a lot of fun. Next up, I'm gonna turn it over to aal. 
+
+Ashal: Awesome. Thank you so much, Daniel, first of all for having me and Noah as well. I don't think my subject was as interesting as your subject, but I will say that the subject that I did like in high school was economics. I think economics gave me understanding of how the world works specifically how our local economy works, but also how things work on a global scale.
+
+And it really motivated me. Study business at university. So I would have to go with economics. So that would be my personal favorite in high school. So I'll pass it over to Noah. So Noah, I guess you can go ahead as well. Next. 
+
+Noah: Excellent. All right, thank you. I just wanna say thanks Daniel, for having us on.
+
+So I would say in. In Ger 11, I took a course called Communications Technology, which was comprised of creating films using DSLR cameras, as well as then editing these films using Adobe Premier and Photoshop. And I would say that's when. I first really got into using programs like Adobe Premier and Photoshop, and it was something I really enjoyed.
+
+I would say that my, this was my favorite course because it allowed me to be creative, but also offered me a challenge trying to make my work as professional as I could. And it really got me used to the process of constantly revising the things that I create and trying to just get it as perfect as I can get.
+
+Daniel Brett: Yeah. Hey, that is an excellent pair of answers right there. I don't think I can add much to that. Yeah. So welcome guys. Welcome to Steering the digital Scholarship. That was our lovely icebreaker question. Now, without further ado, we're gonna go ahead and blow that horn and get into today's discussion.
+
+All right, so today we are going to be discussing an exciting collaboration that we just wrapped up between the Digital Scholarship Lab and the Goodman Dasa. Now, to start with, we're gonna go ahead and get to know our guests. So tell us a little bit about yourself. We'll start with Noah this time. 
+
+Noah: All right, thank you.
+
+So my name's no. Daniels mentioned. I'm 20 years old. I'm from Oakville, Ontario. I'm currently in my second year of the b A co-op program at Brock University. As well as my position in dasa. I am the VP of Corporate Relations and Events. So when I'm not doing score, you can find me snowboarding, riding my family's Peloton bike, watching Netflix, and admittedly watching TikTok.
+
+Daniel Brett: Oh yeah. TikTok Sweep in the nation. Hopefully that ages well as the podcast gets listened to years down the road. Thank you very much Noah. And next up we have Al tell us a bit about yourself. Yeah, 
+
+Ashal: sure. Yeah, my name is Al Keran Nominee. I'm the current Pres president of dasa part of the Bachelor of Business Administration co-op program at Brock.
+
+Through this I've completed through co three co-op terms to date at institu. Such as Scotiabank, R B C and the Canadian Border Services Agency, where I held various financial roles. Knowing the value in getting involved with the extracurriculars at university and how it helps you to develop soft skills, technical skills, and to expand a network, I decided I wanna be part of some club.
+
+I will allow me to attain these elements. And that's when I decided to join Dassa in's very first year of its operations. In addition to the factors that I just mentioned, I wanted to be part of Dassa as I had learned through professors and through news of how big of a field data analytics was going to become in the future.
+
+And even now it's big, but I got motivated through with my professors and just through the news. And that's why I wanted to be part of. And going forward I thought I wanted to get involved more actually. So initially lemme backtrack a little bit. When I got involved with DA, initially I was the VP of events, just like Noah actually.
+
+So it's interesting that we have someone else actually who's the VP of events on here as well. But it was a very rewarding experience for me. At that time, obviously we were a new organization a new club specifically at Brock. So we didn't. As much as we are doing now it's our third year now, so there's been a lot of growth between the, those years.
+
+But that experience really was so rewarding and very fun. It helped me to gain a lot of soft skills, technical skills, and also. It helped me to build leadership skills. Now because that experience was so rewarding for me. I wanted to do something even bigger than the role that I held at that time.
+
+And that's when I was looking for, various events. And I remember the president role came up for das and I thought, oh wow. This is definitely the experience that I want to take on if possible. And fortunately, I was able to take it on. And through this role I've been able to work with a very engaging team, a very Professional and very hardworking group of individuals as well.
+
+And that has been very fruitful for me because it's been fun and it's been a pleasure also working with the D S L to come up with wonderful workshops that we have to date. So that's just a little bit about me. 
+
+Daniel Brett: Ooh, I love it. I love when people. Shamelessly plugged the DSL for us at feels good.
+
+But yeah, that sounds like quite the meteoric rise up in the ranks there. Now this leads right into my second question. So both of you mentioned Dasa. What is dasa? So I'll leave this open for both of you. So feel free to fight amongst yourselves to see who gets to answer this one first. 
+
+Ashal: I love my teammates.
+
+I'm gonna, I'm gonna let 'em know. I'll go first. No good. 
+
+Noah: All right, I'll do my best. So Dassa to me, it is a Student Rank Club, which is associated with the Goodman School of Business and DA SSA's Mission is to provide students with various opportunities to learn about data analytics, so things like workshops, competitions, speaker sessions, and so on.
+
+At the same time, we as Dasa executives work to ensure that events are high quality, meaningful to students, and has a clear impact on students' professional careers. I would say that what it really boils down to is the students. Me personally, I'm in this position because I care the most about the students and I wanna see people succeed.
+
+To give you a little backstory about myself, when I first came to Univers I didn't really know what kind of clubs I wanted to be involved with, but I did hear this buzzword data analytics going around and I that eventually got me to look into what Dassa was. And when I learned about Dassa, it opened up a whole new realm of possibility, career paths, and things like of that nature.
+
+So for me, being a Dasa executive and really just trying to push what Dasa does, has to do with just the student approach. 
+
+Daniel Brett: I like it. That's a good answer. What about you Al? What do you got for 
+
+Ashal: us? I don't think I can do any much more better than Noah, but I'm gonna attempt it as well. So there might be a little bit of overlap or repeat, but go for it.
+
+I just meant to try my best here. But yeah, so Dasa it. Stands for a data analytics student association. It's a club that falls under the Goodman School of Business. As Noah mentioned, it was formed three years ago. So again, very relatively new club. The main goals of DASA include being able to provide business students at Brock University, the ability to gain in-demand technical skills through workshops and the chance to apply them at.
+
+Competitions further. Dasa aims to provide students opportunities to network with analytics professionals from a diverse range of business sectors. And that's what we've been trying to really accomplish this year. And, again, I'm gonna plug DSL as well this year, but this time as well. But it's also because of DSL that we've been able to come this far.
+
+So again, shout out to 
+
+Daniel Brett: dsl. Hey, we'll take it. All right. Now that we know who we're dealing with we've got our introductions. We know who they are and what they represent. Let's talk a little bit about the collaboration. So over the last two years, the Digital Scholarship Lab has collaborated with Dasa to run three different.
+
+Events. Now, each of these events consisted of a series of workshops focused on a single tool followed by a competition that used that tool as a focus. Now in, just from my experience, from the view of the digital scholarship lab, all of these events were successful and not just successful. They were well beyond our expectations.
+
+Like we run workshops constantly but we have never run workshops. Attended, and as, I can't say attended again, but with such a, an attentive audience as the workshops we run for you guys. So I have to ask, why do you think this was the case? Why were these workshops so successful? Why were these events in general so successful?
+
+Ashal: Yeah, maybe I'll take this one first. Let me start by saying when I look back, I think what mattered the most initially was. Every single DASA executive had a passion for data analytics and for technology in general. Along with that, they also had a strong drive to make a difference in their own lives, but also for the people around them.
+
+So I think when these kind of passionate students came together and formed teams throughout the three years that we've been in existence, that's what led to a lot of the success that we had overall as a. So I think that these elements are one of the reasons that allow, that has allowed DAA to grow over the years and successfully plan and execute events over this time.
+
+Following that, I think, one of the main reasons that we've been able to be successful is not only. Students being committed to a mission and a vision that every president has set out every year, but it's also because of each individual's commitment, dedication, motivation, and just general hard work.
+
+I think those are the. Really key elements that has driven all the success that we've had as a club and the growth that we've had as a club. Now, I will say, again I have to keep mentioning this, but one of the reasons that we've been very successful, especially with our workshops, is our collaboration with D S L.
+
+Now, why I see this relationship has been successful is, There's many reasons really, but I'll narrow it down to a few. So one of the reasons would be that, we've had a really kind relationship towards each other. I think that's what matters initially, right? So having that kind of strong bond between each other, having a good relationship and a good understanding between each other, I think that's what stood out for me first working with you.
+
+Sp specifically Daniel, I know you've been such a kind person to us and it's been a real pleasure and ease to deal with you, and I think that's, First things I would mention before anything else. Now, the second thing is with our workshops why it has been successful is because D s l again, led by you through our workshops is is the fact that, you are keeping up to date with the relevant technologies that are out there.
+
+So that really helps. For us it was so easy in terms of. Thinking of, okay, what do we want to do in terms of workshops this year? What do we want students to learn? And we were brainstorming, thinking of ideas, and then it was so easy as, okay, this is what we want. This is what we last from the dsl, and boom, DSL knows it.
+
+So it was very easy in that sense. So the fact that DSL has been very kind to us, very professional. Relevant to today's technologies that are in demand. It has really helped us to work together with the DSL to put together a lovely set of workshops which students have really embraced with open arms so much.
+
+And you've also seen all of us have seen the level of engagement that we've had with these workshops, especially in a time where, things have gone virtual and in general, clubs actually have just generally struggled to get students We have been one of the clubs that have been really able to attract students, and that's because students see the value in data and like students see the value in these workshops and students also keep coming back.
+
+And that's becau they keep coming back because the workshops have been run in a very professional manner through the dsn, specifically through you, Daniel. So I think. Those are some of the elements I would think that really have contributed to all these events being successful over the last few years.
+
+So it's a basically a two-part kind of statement, which is, the first part has to be, students coming together with the passion and dedication. And then it's also to do with our partnerships being very focused and very, and being very professional as well. So that's what I would say.
+
+For that question, so maybe I'll pass it over to Noah now. 
+
+Noah: Yeah. So to bill off what AAL said, I actually had I dotted down three points. So passion was actually one of them, and I think AAL hit that point home. The people that we were working with, for everyone from the people who judge to facilitating to coordinate the event without their passion, the.
+
+Success of these events would not be possible. The other two points I had was that there's a growing emphasis for data analytics in business. So I feel like just by nature, what we cover in these workshops such as Power bi, Tableau, and Python I feel like that just students recognize those kind of things and they they want to come out.
+
+They are curious to come out. I mentioned earlier the buzzword of data analytics when I first started university, and I think that is one of the things. It's, that's really what drives people in the door. And then Dasa and DSL come and they fill that gap, but they give people that experience. And lastly, I think that the event structure as well as the promotion especially during covid, has been something that has really drove the success for these workshops.
+
+I feel that we, when. From two workshops that we had this year we had the Power BI workshop in the first semester. And then in the second semester we had the table workshop. And we learned from some of the hiccups that we had in the first semester with the Power BI workshop. And then we took those hiccups and we found solutions to them when we were holding the table workshops.
+
+Beforehand we had more of a decentralized approach where we had students. We're emailing students one thing, and then they have to go to a teams chat to get another thing. And then we're hosting the call on Zoom. Whereas with the table workshop, we learned from those mistakes and we had more of a cent a centralized approach where we had everything on Microsoft teams, all the files, all the workshop recordings, feedback forms, and the competition was all in one place.
+
+And I feel like pairing that with the promotion that we did this year on our social media has really it really helped with the success of the. And yeah. And what we, essentially, what that boils down to is we made it easy for students especially in a online environment. It can be tricky for some students, especially first years, who have no clue what's going on.
+
+And we made it easy for those students and easy to sign up and to learn. Awesome. 
+
+Daniel Brett: Yeah. I. It warms my heart to hear all of this praise, especially directed at me specifically. I am just a, an avatar of the digital scholarship lab, so all praise directed towards me should be redirected towards digital scholarship lab that that I serve.
+
+But. Yeah I really agree with you guys on, on your perspective of the success. And the one thing that I, one, one aspect that wasn't mentioned that I think also played a rather significant part in the success and the consistency of attendance with these workshops was the fact that we had a competition attached.
+
+So we ran four workshops. And then there was a competition where they could utilize the skills they learned with pretty significant cash prize not, definitely not a small number. Did you guys want to talk a little bit about how you were able to offer such a incredible cash prize? 
+
+Ashal: Yeah, sure. I can comment on that.
+
+Yeah, like you said, the crash price was really significant this year and the part of the reason we were able to do that was early planning, right? And remember, I remember when we were planning what we wanted to run in terms of events and how we were gonna get there, we wanted to have the competition and we thought to have this competition, let's make it worthwhile and significant, where students feel that there's.
+
+Good incentive to be part of these competitions other than just learning those skills as well. So obviously everyone has different kind of motivations to compete. One is to obviously develop the skills. One is obviously to network with individuals and the others obviously enterprise money.
+
+So with the prize money element from our side we were able to budget some money for that. And. When we looked at how much we budget, we were happy with it, right? But then we thought, you know what? I think we can do a little bit better. And one of the things that I guess Dasa had never I guess achieved in the past was a sponsorship.
+
+So I thought, you know what? We've never had a sponsor before and I really wanna have a sponsor. I think there's gonna be a lot of organizations out there that would be willing to work with us and support our awesome initiatives that we have. So then that's when I started actually working closely with Noah actually.
+
+And Noah's the one actually who managed. Sponsorship that we did secure. We did secure sponsorship through C P A Ontario. So we worked with them in a very professional manner. And, we hope to build on that relationship that we have so that we can continue to keep, hopefully they can continue to keep sponsoring us, but also maybe potentially increase that price reward in the future years.
+
+I'll let Noah actually. Maybe make some comments about that because he was the one who actually dealt with C P A Ontario in terms of securing that sponsorship. Noah, please take it away. 
+
+Noah: All right. I pretty much covered it. Just add some details there. C P a Ontario, we were working with individual named Faith Pember, and she was really open to the idea of sponsorship and helping us out.
+
+To give a monetary value to the sponsorship, we were able to get a thousand dollars from CP Ontario. And in addition to that, we also decided that, we'll utilize the connections with CP Ontario and we actually were able to get a CP Ontario individual to judge the competition along with myself and Daniel.
+
+Yeah really we feel that the competitions have been, they were successful on their own, but by having CP Ontario and that type of support, we feel like that really. To assess that it was at, 
+
+Daniel Brett: yeah I think it also added a lot of credibility to, to the workshops as well. It's this isn't just a student organization, not that there's anything wrong with that.
+
+Like student organization, d s l we have sway, we have credence now and a lot of credibility after three successful workshops. But I think seeing that it was a sponsored event, there was professional in the field in the form of Raymond A lot of the attendees, they want to get into that field.
+
+So it's just another connection and access to a person who will give very honest feedback. So show to Raymond for his honest feedback, really appreciated. But yeah, so I, I think that was also a, another good draw for for the success of these workshops. With that said, these workshops, wild success, we've done well, but.
+
+What sort of future possibilities can you see for these collaborations? How might they grow? I know from our very first iteration where we did one little Python series in our really hot library where it was a little bit uncomfortable to our two very successful sponsored collaborations this year over the two semesters.
+
+Where do you think is next? What's the next step? 
+
+Ashal: Yeah, maybe I'll start off with this one as well. Again, like you said we started small and we saw growth and that's what we wanna see going forward as well. So it's a really good question that you ask from us actually, because what I wanna see happening going forward is a lot more events in general.
+
+And also the fact that we're going back to school. In the fall hopefully nothing changes there, but as of right now, the plan is to go back to school in the fall. So I think that opens up a window of opportunities for different kinds of events where it's again, in person and, that's a little bit more enriching than.
+
+The virtual sense that we're in right now. So I think in terms of growth, I think one of the things that we could do is potentially focus on some some visual, not, sorry, not visualization tools, but a tool like Python. So I know we've touched on Python a little bit before, but I think.
+
+The fact that it's in demand right now. A lot of employers are looking for it. I think it only makes sense to focus on at least focus a workshop series on that. So I see if either it can be something that substitutes something that we did, or it can be an additional component to what we Have done in the past.
+
+I think that would really make sense. Another thing too, I would say in addition to that, is also potentially incorporating something such as S Q O cuz a lot of these guest speaker sessions that we've had this year the two things, the two tools that a lot of industry professionals mention have to be I should this three, but also mention all three.
+
+One is. Sql L, right? And one is Pi, the other one is Python. And the last one is at least one kind of visualization tool. And normally it tends to be Tableau, but Power BI is coming up in the ranks a lot nowadays. It only makes sense if we can incorporate all of those elements. So we have some kind of, hard coding.
+
+We have some database kind of theory, learning how to make relational databases. And then we also have the visualization components. So maybe integrating all. In a way where it's kind of a process you go through. Data analytics is definitely a process, right? You don't just get clean data, you get data that's kinda messy.
+
+You gotta, do a lot of cleaning, right? So if we could maybe incorporate that kind of process, maybe not every single step of it, but at least the majority of those steps in a very in a kind of a way that builds upon each other. That would make a lot of sense to me. That would be, of course, more challenging than what we've done in the past, but that would be a really good opportunities for students to say, Hey, listen, I did the cleaning.
+
+I did a little bit of the analysis here. This is how I did it. And then I did, I came up with a beautiful visualization. So having that kind of a process would be really nice. The last thing that I will mention, which I'm actually very. Hopeful to see that achieve in the future is something to do with an external case competition.
+
+Because what I've seen over the years now is that from the beginning, we just had a few workshops here and there, run by students themselves. Then we partner up with the dsl. They ran very good workshops and we had competitions with the dsl, and now I think it's, It only makes sense to take this relationship one step further, which is to have some kind of external case competition where, Brock competes with other universities.
+
+Right? And then that can be something that is a flagship event for Dasa because one of the things that I think hasn't happened, As of yet, but I definitely see it happening in the future is NASA having a flagship event. Cuz a lot of the clubs actually at Brock University and specifically all Woodman clubs, they have that one flagship event.
+
+So I would like to see us have an external case competition where we bring in these universities and maybe each year it can be taken place at a different university. We can potentially do something where, the DSL works with students they train them, and then this group of students, maybe a winner of an internal case competition can go on to represent Brock in this case competition.
+
+Maybe one or two, two teams at least. So that's something I would love to see happening in the future. I would also like to see maybe with this external case competition, if maybe we can get multiple more sponsors, get the DSL on board, get obviously have dasa even collaborate with all these other universities and all these other associations, maybe like data analytic associations that other universities, cuz that would make a lot of a lot of sense.
+
+And it will also be very. An enriching, fun experience. So I hope something like that happens. And the last thing I would mention is within that external case competition I'm hopeful that in the future Dassa will be able to partner up with a, an organization that can provide a data set to us and potentially some price, money, sponsorship in that sense.
+
+And also maybe some internships for some winning teams. Having that kind of a platform along with the dsl, I think we can work together and hopefully achieve that one day. So that's just my some of my visions or my hopes to see in the future. 
+
+Daniel Brett: Nice. I really like the idea of a data processing element added in.
+
+I even like a free tool, like open refine or doing data processing right. In a tool like Python or R would be a really good addition, I think to a week long. Event over the March break or something like that. Or reading week, I guess it's is here. Noah, did you have any additional inputs here?
+
+Noah: Shaul pretty much covered it, but one of the points that I had was sha touch base on that, is using the D S l Dasa collaborations as an incubator for competitors who want to go represent Goodman in external competitions. We already have the, we're at a point now where we already have the.
+
+The base setup. And now we can expand from that and use it as we can look at various things like on top of the regular workshops have maybe two advanced workshops for people who would be representing Goodman on a external level as well. Ashaw mentioned using the internal competitions as more of a qualifier for students to go off and.
+
+Externally and for any students listening the prize money in these external competitions it's huge. And it's something where people potentially win internships big prize money to pay off their tuition or whatever they want to use it for. So that's where I could see growing from this 
+
+Daniel Brett: point on.
+
+Yeah, I've definitely seen some of those numbers floating around out there. They are not insignificant to be sure. But yeah, so I really look forward to where this grows and I really like the idea of the DSL being an incubator. That is part of our current goal is to establish a series of workshops which we're well on our way to do that gives all that foundational level knowledge of tools.
+
+Yet, and we have, I think, two workshops that are above the foundation level at this point, but when we're working on more advanced ones, but our solid BA foundation that we use as our core is those incubational level workshops where it's like you've never used the tool before you come in, all the terminology and the basics.
+
+If you are a self-taught self-learner, then you can then go and learn the entire tool with the foundation that we give you. If you are somebody who needs some sort of input, we provide you with links to tutorials, that sort of things. So our job is to basically put your clothes on and give you a little backpack so you're ready to go off to school using a parental metaphor there.
+
+So yeah. Yeah, I think I really look forward to these collaborations.
+
+Ashal: Me too. Absolutely. And so are we actually. It's my last term, but I, soon we will have that next president in and, that's when, the game plan begins for the next year. So we're really looking forward to see how, we can grow this relationship further with the DSL and specifically with you Daniel as well.
+
+Thank you for everything that you've done for Dasa and thank you to DSL in general as well for working with. Throughout the past years to come up with these wonderful workshops that we have and these competitions. So thank you so much. 
+
+Daniel Brett: Thank you very much. It's been a pleasure to work with you guys as well.
+
+And I'm sure we'll continue with our relationships going on and on forever, hopefully. Yeah. So with that, I'll just double check and see if there's any closing statements that you guys wanted to have. And then I will drop anchor, and we will end the. 
+
+Ashal: Yeah, I just wanna say thank you for having us, Daniel.
+
+It was a pleasure talking to you over here. And thank you also, Noah, for being here as well. It's been a pleasure working with both of you guys. So thank you for having me again, once more here and wish you all the best and. Everything. We're moving forward. I hope everything goes well, and hopefully we get out, out of this we get out of this tricky situation that we're in.
+
+Alright, so I'd like to see things go back to normal. 
+
+Noah: Yeah. And I'll just add on that and say thank you to the DSL Specifically you, Daniel, not only for asking us to come on your podcast, but also for all the work that you put into facilitating the workshops, running the workshops without you, it wouldn't be possible.
+
+And then, I also wanna say thanks to Ashaw as well as the entire das executive team for the work that they put into promotion and development of these workshops. Without that it just won't be possible. As a group effort, you. We created something amazing here and I can't wait to see it grow.
+
+Daniel Brett: Alright, thank you both for coming onto the podcast as well. I know you've got very busy schedules right now, so this has been a wonderful discussion. So we're gonna go ahead and drop anchor.
+
+All right, now that we're anchored in place, I wanna say thank you for tuning into this episode to all of our listeners. If you are interested in learning more about the Brock University Digital Scholarship Lab, or are interested in joining us for one of our workshops, feel free to check us out at Eventbrite experience bu or send us an email at dsl@brocku.ca.
+
+Did one of you want to plug the Dasa social media and connections as well? 
+
+Ashal: Yeah, sure. So you can follow us on Instagram at Good Manassa. That's where we really are very active. We promote all of the events, including workshops guest speaker sessions, and of course we also have a lot of giveaways actually.
+
+You have the chance to win free money a lot of the time. So feel free to follow us on Instagram at Good Manassa. 
+
+Daniel Brett: All right, so with that I'll say is the seas are still a bit choppy, but the waves are getting a little bit lower and our spirits are getting a little bit higher. Stay safe out there.
+

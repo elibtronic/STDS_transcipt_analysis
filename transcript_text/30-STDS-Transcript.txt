@@ -1,0 +1,279 @@
+Ep30
+===
+
+Tim Ribaric: Hi, all. You cool cats and kittens. Sorry I couldn't resist. Welcome to episode 30 of Steering the Digital Scholarship, Tim here and for today's episode, we'll be speaking with David Sharon, who is the head of the archives at Brock Library. He's gonna be joining us for discussion on a new project between the archives and the digital scholarship lab.
+
+Something we're all very excited.
+
+Joining us today on steering the digital scholarship is David Sharon, who's the head of the archives at Brock Library. How are you, David? Very good. You, Tim. I'm doing well, thanks. So as a loyal listener to the show, you know that every time we start a conversation, we always ask a very oddball question or one that has nothing to do with what the rest of the conversation is gonna go.
+
+So my very important question for you is how do you eat pie with a spoon or a for. Oh, wow. 
+
+David Sharron: That's incredible. And I've never even thought about it before. It, 
+
+Tim Ribaric: but it is a fork. It's a fork. It 
+
+David Sharron: is a fork, and it has to be a fork. I, spoons. 
+
+Tim Ribaric: What if the pie was owed? I know 
+
+David Sharron: that's I think you can have a spoon and reserve for the soupy bottom of the pie with some flakes of crust and ice cream melted.
+
+Last couple spoons. I think you can. 
+
+Tim Ribaric: Gotcha. That that's the proper etiquette in my book. Yeah. We have a very it's a contentious topic in our house. Oh, okay. Yeah. Because when I grew up it was whatever was available, but apparently that's incorrect. So there is a particular, we eat pie and I won't even.
+
+Try to venture saying what it is, cuz I can't remember what the proper way is. I think it's supposed to be with a spoon because you can scoop up everything, but Yeah, I couldn't tell 
+
+David Sharron: you for sure. I can see that. But a, as a person who eats his popcorn with a spoon, I guess I, I have Whoa. A thing to say that Should be considered correct in any which way.
+
+Tim Ribaric: Yep you have opened my mind to a new world with this spoon for popcorn. I need to investigate 
+
+David Sharron: this, but j just cheesy popcorn cuz it gets all over your fingers. 
+
+Tim Ribaric: Yes, of course. That makes total sense. Very good. I'm, we're off to a very 
+
+David Sharron: academic start. 
+
+Tim Ribaric: That's the joy of podcast. You find and discover new things every.
+
+And then having that presents us with a perfect segue for our listeners. So I hope you all will explore and learn about something new. And that is the COVID Niagara Archive that David, the genius who's the genius behind the platform put together earlier this week. Would you be able to summarize for our listeners what exactly the Covid Niagara Archive.
+
+Yes, it's a 
+
+David Sharron: website we develop using software called cca and it allows people to contribute their thoughts, feelings, experiences with the COVID 19 pandemic currently live. And we wanna build a living archive of this experience. The hope is that people will return to it often as we continue to experience this very unique challenge that we're all facing.
+
+And things change by the day. So I think our experiences should be documented moving forward. I've never experienced anything like this, and I think it's been a long time since something this global has affected everyone. And we all have our different ways of looking at or experiencing this pandemic.
+
+And I think everyone's voice should be heard and saved 
+
+Tim Ribaric: for the future. It's a very it's a very noble pursuit. And I think, yeah, I agree with you. It's a, it's an interesting moment in history, so it'd be great to document it as it. However, could you talk a bit about what prompted you to take this on or what was the motivating factor?
+
+Sure. 
+
+David Sharron: When we all were sent home a coworker sent this link to a archive in the United States. We're asking. The people of the community to just journal about their experiences of the Covid 19 pandemic and when everything settles that they submit their journals or donate them to the archives as.
+
+Traditional archive of things, and it made me remember we have this Amicka software, which is made for exhibiting archival items and museum items, but it also has this collection function that has been used in the past to document major events in the world. And the one website I recalled was, The Ferguson St.
+
+Louis riots of 2014 the archives there used the Omic software to document, the public's experiences with the riots. And I know we have Omika, thankfully through the digital scholarship lab. We've never used the collection module, so that was gonna be the biggest challenge. But it seemed like we have the time now to really dedicate and focus.
+
+A particular project cuz we're not in our offices with other distractions. So we dove in and, very quickly tried to craft something that people can contribute to. And. Pickers crossed through the whole process that it would work pretty smoothly, and I'm happy to say that I do think it's working very 
+
+Tim Ribaric: well.
+
+Yeah, that's great. I would definitely agree with you. You mentioned Fergus and in the situation in Missouri and that it's a few years behind me now, so maybe I'm not remembering it correctly, but if I think back in my mind I'm pretty sure the global, or no, pardon me, the mainstream media didn't cover the events of the situation very much.
+
+In a cursory fashion. I think to the extent that they should have. But then I think that the Fergus archive. Ferguson archive, pardon me, really filled in that gap. And it allowed people that experienced the the, the whole situation firsthand to document their experience, which did a great job supplementing.
+
+But that is not to say, the covid crisis is being Covered by the media, quite exhaustively. So it's not if, there's a lack of coverage, but I do think in the Niagara region, particularly as you've named it that it is a, it's a great venue for those of us living in the 12 municipalities just to the east of Grimsby or in including Grimsby and just to the east of it, right?
+
+David Sharron: But that's exactly it. A lot of time with history, we always hear from the in influencers, the politicians, the business leaders. Those people with the loudest voice. But often what is missing is the experiences of everybody else, the CI citizenship. So this gives everyone an opportunity to put their voice into the archive, not just what we hear on the TV, radio, or the official announcements from whoever.
+
+This can be very grassroots, which makes it even more exciting. This is what researchers, historians really want to hear. We can find media clips at any time, but finding the true feeling of people is often difficult to find in history. So this gives that outlet. 
+
+Tim Ribaric: I think what is also beneficial for this, and you can agree with me or disagree with me, is that it's less ephemeral than like social media posts, right?
+
+Because people will chatter on Twitter and Facebook about their experience and then, within a day or two it drops off the bottom of their scroll. And then, within a couple weeks it's a distant memory that you can't retrieve easily, but, putting it in this semi-structured.
+
+That's preserved and backed up. It in cases it, it presents it better for future use. And it's. You know what I'm getting at, right? With my Oh, meander with 
+
+David Sharron: this. No. That's exactly it. There's always with social media, there's always something new and shiny coming up next.
+
+And it does fall off the scroll and, You might not remember it until your reminder comes next year and two years from now, four years ago you're in the pandemic. Oh, yeah. That was different. 
+
+Tim Ribaric: I survived the pandemic. All I got was a lousy coffee mug. Exactly. 
+
+David Sharron: Yeah.
+
+But even the social media thing really sparked our interest in capturing this because Yeah. You'd see it every day. People are documenting it. They're writing it down in their social media. All the time but who's capturing it? And that's kinda what we wanna 
+
+Tim Ribaric: do.
+
+That's great. Yeah. Then how, then, having said all of that, how would you gauge the response so far with the site and the archive? I know you've been interviewed by other media outlets and how do you feel it's going? Does it have the momentum you're hoping it has? At this point, I think it's been 
+
+David Sharron: great so far.
+
+Every day we're getting more and more contributions, so certainly the wor word is out. I put it out on the library's Facebook website, and it's been looked at over 13,000 times. It's been shared out almost 80 times. It, I think it's at 79 as I checked this morning. People are looking at it.
+
+The comments are, this is a great initiative. This is wonderful. People are hearing about it and contributing, so that's good. We have 55 submissions And that includes over a hundred items. So there, there is a good base of an archive right now, but we would certainly love more and more in there to really.
+
+Thresholds of what we're intending to do. Yeah think the initial response is good, but we just wanna keep that 
+
+Tim Ribaric: wave going. That's great. That's great. We're I'm sure it's down around the bend and two times over the horizon for you to think about, but when do you think you'd shut.
+
+The archive or when would you stop accepting submissions to it? Do you anticipate you'll, gosh knows how this will unfold and how long it'll take and all the other caveats, but do you have marker or an idea in your head when you'd draw the curtain to a close and no longer accept submissions?
+
+It's a really good 
+
+David Sharron: question cuz it's not something I thought of yet. And I, I think the wise thing would. Probably leave it open maybe a month after we return to whatever the new normal will be when we're all allowed back out. think people will start reflecting on it. Maybe think I've got all these images, all these ideas.
+
+Maybe after everything's resolved, people will still want to contribute. And I would almost want to turn it back on at the one year mark. When all of our social media things remind us what happened last year and maybe it would inspire people again to reflect and think and even. A year from now what's this gonna be like?
+
+And in all honesty, the science says the covid nineteen's probably not gonna disappear. It's gonna be coming up again and again. We just hope our natural immunities will. Make it less severe. Yeah. And may, maybe even a vaccine would be developed for it, but this might be something that's gonna stick around for a little bit.
+
+So it might not be something we turn off right away. The fu the future is still very uncertain, 
+
+Tim Ribaric: wow. Yeah. I, yeah, I, I. I guess I've not thought of it in those terms. I did anticipate or hope that, it wouldn't be shut off as soon as the state of emergency is declared over.
+
+Cuz you definitely do want the the easing of sanctions, for lack of a better term, as life returns to normal. I think that would definitely be part of the covid or the nigra COVID experience. And you'd want to document. 
+
+David Sharron: Absolutely. Yeah. It's a big thing. It's really big.
+
+Tim Ribaric: So then, downshifting to perhaps a little bit more fun topics involved with this, if something is possible, could you describe what your favorite item is in the archive? Presently, or what? What is standing or what has stood out for you the most amongst, oh my gosh, 
+
+David Sharron: emissions. I have a very short attention span, so the latest thing that comes in is usually my favorite.
+
+But there's been such great submissions. One gentleman did a documentary of what Clifton Hill looks like right now, and he got per permission to. Get old footage of what Clifton Hill typically looks like. And he spliced that in with what it is now. He drives his car through the downtown narrating what he's seeing.
+
+He gets a drone to go over some of the major venues down. Wow. In Clifton. Yeah. And he did such a good job putting it all together. I think he is a professional. Person with video and photography. So he did an excellent job. And then we have another video of two young boys who changed the lyrics to the song.
+
+We're not gonna take it to, we're not gonna get it. And they're playing in their basement and they did a three minute song on Covid 19 and how they're not gonna get it. And that was really charming. And then with photographs, there was the sweetest photos I saw the other day. A girl just returned from Australia.
+
+Unfortunate timing on her part. It took her 40 hours to get back to Canada. Oh gosh. And there's a picture of her next to her mother and they can't hug cuz she's in a 14 day quarantine. So there's a picture of them six feet apart with masks on doing a a distant hug with arms outstretched.
+
+She followed up 14 days later with a picture of her mother and father all. Oh, that's great. Close together and hugging. There, there's a lot of positive stories in there. One gentleman every two or three days writes his observations as he goes about town, not he only goes out when he needs to, but Right.
+
+He comments on what he sees and it's just text. And to read what he is experiencing and how he feels about it is really good. Like photos are great at documenting what we see, but writing out. Your experiences really help as well because it, it's a fuller story and it gives another kind of depth to the record.
+
+We've gotten so many different kinds of records. Several people have shown how they are coping with being at home with the kids and what they're doing for education and making sure the kids are busy and staying healthy. So we've got a range of things. It's been 
+
+Tim Ribaric: really good.
+
+That's great. I, my most favorite item, favorite is, favorite item that I've come across so far is the the entry about the Costco store. yes. So all these, typically Costco is this, Jabar esque market where everyone's smashing into one another with these carts that are the size of.
+
+Cars full of, lots of supplies and hustle and bustle. But then you see this series of pictures just showing how stark the setup of the place is to handle the social distancing slash isolation that's being required. So there's pallets flopped on the floor to separate people. And then the the one that's, a real, appeals to my cynical personality that enjoys hating things so much is the pile of looks, available for purchase about, how to survive the Covid 19 infection.
+
+That probably were published a week after the initial sort of alarm was raised, so this is perfect. Depiction of opportunism and capitalism live in action in this Costco picture. So it's very it's very, that's what I think I've glommed to the most is these pictures of people being conscientious about not standing too close to one another, and then suddenly there's this pile of books 10 bucks a shot for, like how to survive this and, in the middle of it.
+
+So I thought that was pretty. Someone's gotta make money off this, that's for sure. Exactly. And so I, I don't know if you know the answer to this so just pretend when you respond with oh, I, I didn't know maybe, perhaps, but I've was taking a look at the statistics on the platform and what do you think the most viewed item is amongst all 
+
+David Sharron: of them?
+
+It's not the dinosaur holding the sign that's too new. It I know one thing that's really popular in the Facebook was the poem by Anne Adams. I'll go with 
+
+Tim Ribaric: that. Oh, okay. So based on Google Analytics, and now that's easy to fool because some people just have that shut off by default, so you can't accumulate.
+
+But it is in fact the Costco. Oh, really? Wow. Yeah. I'm gonna attribute that to, I, I squawked about it on Twitter using our DSL account and my personal account. So I'm gonna, I'm gonna take a guess that helped increase the reach on that one. 
+
+David Sharron: Absolutely. And tweet out everyone as your favorite and see what happens.
+
+Tim Ribaric: There you go. That's some advanced level social media or, we should get you in a marketing department, David. Yeah. You clearly know what you're doing. 
+
+David Sharron: Very good. Can I throw some questions at you? Oh, yeah, sure. Okay. It's cause this whole project couldn't be done without the Digital scholarship lab and the services that you provide.
+
+We and the archives are always very thankful of you and your staff and all the support we get for it. Can you talk about Omeka from your standpoint, what it's good at and what are some 
+
+Tim Ribaric: of the challenges? Oh, sure. The the. Reliability of a platform is directly proportionate to how popular it is.
+
+For example, something like WordPress, which I'm sure people that don't spend a lot of time making web pages and sites know exactly what it is. So WordPress is really great because there's, thousands of people every day. Contributing to make it better. Omika is being contributed to and developed by, a smaller group of people.
+
+So the largest group of people that would be interested in a platform like this, is it a lot smaller than the WordPress sort of pool of people? So it, it goes with goodwill and efforts of those interested in it. Some point, sometimes it's great because you get the platform for free.
+
+It's made for the purpose of what it is, what it does. But the challenge is that, because it's only one guy at Carnegie Mellon University that develops a module off the side of his desk when he has the time to it. There's sometimes some upgrade and reliability stuff. But that is part and parcel of any kind of open open source platform.
+
+You just. You don't pay for it with dollars, you pay for it with effort. So as long as it's churning long, as long as it's on that trajectory that it's on, it's worth the effort to put into it and then keep it running. So yeah, just some, having to be patient I suppose is the best way to characterize all of that.
+
+And I 
+
+David Sharron: know, I find working with Occa, if you work within its limits it can be fine. If you have bigger ideas on what it could or should. That's when you bump into problems. But just curious now does WordPress have anything like 
+
+Tim Ribaric: this? Yeah exactly. 
+
+David Sharron: It's collection module.
+
+Yeah. Cuz this was designed, omeka was designed for museums and archives, 
+
+Tim Ribaric: yeah, exactly. There's a purpose. Yeah. 
+
+David Sharron: Interesting. Is there anything else that Omeka can do that we haven't tried yet or something? Untapped that you would like us to try? Cause I think we're stuck here for a couple months at least, and we'll probably be looking for other projects as this one goes on.
+
+Yeah. 
+
+Tim Ribaric: I certainly will be, I think focusing, a colleague of mine said, I'm, the department has called the digital scholarship lab, and he said to me, it's, now it's time to put the digital and the digital scholarship lab. So yeah, we. Everything that's technology based set in front of us.
+
+And now it's the time to really flex some chops and see what we can do. But I know this is an idea that you have you and I have talked about in various different contexts, but omika can be used for sub transcription. You need to. Plug the legal pieces together in a useful way. So I would like to definitely experiment with that because there's a lot of idle, a lot of idle people hanging around right now.
+
+That, would definitely benefit from a menial, repetitive task that just keeps them engaged enough to keep them busy. So it would be neat to maybe identify some digitized material that could benefit. Transcription that would be in our digital repository, for example, and then try to prop it up into Omika to get that transcription going.
+
+That would be interesting. I think once the omika, having said that, I'm not a historian by nature. I'm a, my, my background is in computers, so the actual use cases for me are outside of my I. Imagination and creativity. So it'd be great to start plugging away and getting in touch with history profs and other profs, art history profs, and see what and researchers on this campus actually, not just, professors to see what other.
+
+Interesting uses of omika they could come up with and then seeing if we can, fit it to those requests. So I'm looking forward to being able to put this in our showcase. And then really trott it out anytime someone asks, what is the archives and what is the digital scholarship lab?
+
+What can they do for us? And really show this as a pinnacle of something interesting. 
+
+David Sharron: Yeah, there's a lot of great opportunities for sure. And we have a kilometer worth of records that need transcriptions. So no shortage of work. We just need the right 
+
+Tim Ribaric: tools. Exactly. Very good. Is there anything else 
+
+David Sharron: the DSL is doing or any other tools that can be leveraged now that we're all working from home?
+
+Anything you're 
+
+Tim Ribaric: excited about? Yeah, now's the time to there's this large focus on professional development because people are finding themselves now strictly in front of a computer, so they'd like to develop their skills. So we're spending a lot of time, so unfortunately, tangential to this though, developing our tutorial and distance support for platforms we'd like, so like stuff like r which is a an analytics and mathematical platform.
+
+So we wanna be able to. Engage users and learners from distance to pick up and learn the platform. Before even all of this started and everything went sideways. There was a faculty member in the faculty of education that asked me about, they, they have a lot of adjunct instructors that are on offsite, never make it to campus.
+
+And if we could support their learning in some respect for digital scholarship things. So I think that's what we're putting some effort into now, scaffolding how we do. What tools and platforms work the best. And we have now a YouTube channel, so that's something I didn't think we would do.
+
+So yeah, that's, I'm, I think we'll put that together as time goes on. That's our immediate next challenge, I 
+
+David Sharron: think. Wow. You guys, we'll always be busy. I'm very sure 
+
+Tim Ribaric: about that. Happy busy hands or happy hands as they like to say, right? Definitely. Yes. Very good. 
+
+David Sharron: I. So that's all my 
+
+Tim Ribaric: questions.
+
+That's what you wanted to know from me. So I'm curious. Yeah. What I really want to get philosophical here and say that we're gonna put this episode in the Covid Archive. Oh, fun. And hopefully someone listening to this will have found it from the archives, and then the snake will eat its own.
+
+That sounds 
+
+David Sharron: very cool. Yes. Yes. That. And then that's when we get the gold star. Exactly. When all 
+
+Tim Ribaric: that happens. That's wonderful. So before we sign off I'll ask you two things. Okay. How can people participate or where can they find this? 
+
+David Sharron: Yes. I don't know, maybe in the comments of the there 
+
+Tim Ribaric: Chicago will be a link.
+
+Definitely. Okay. 
+
+David Sharron: There, there's certainly a link, but even if you Google Covid 19 Niagara Archive, it should come up right away, or at least the Brock News story on it. And the link is in there. So if people wanna search that way, that's certainly one way to find it. And we encourage anyone out there who does hear this to think about what they're experiencing, how can you record it in whatever way, whether it's by writing out a story or taking a photograph, or videotaping yourself talking.
+
+Everything that's going on and submit it into the archive. Your voice is historic. Everyone's is. And if it's not captured and saved, it could be forgotten. And that's certainly what we're here to avoid. We wanna hear all these great voices. That's great. Let it out. 
+
+Tim Ribaric: And then you I think got into the second thing I wanted to ask you about was like, who, who's allowed to contribute?
+
+Anyone that has material that would be suitable? Is that fair? 
+
+David Sharron: Yes anyone who wants to contribute can, and if it's a matter of, I don't want people to know who I am, but I have these wonderful thoughts or interesting views you can submit anonymously. You don't have to put your name on it. So that can be done as well if You don't want to be associated with what you're saying in a very public way.
+
+But your voice is still important. You can certainly do without putting your name down. And I, if that's has scared anybody off we, there are ways to do it anonymous. 
+
+Tim Ribaric: That's great. Thanks David. So before we sign off, I'll just give you the opportunity. Do you have any messages for the listeners at home and also how are you holding.
+
+Oh 
+
+David Sharron: boy. I am doing all right. I think I'm a naturally introverted person, so I've been training my whole life for this type of thing. But a busy day in the archives with regards to people coming in might be three people. This experience moving digital, I think. The biggest thing is just making sure everyone is well and staying busy in some meaningful way.
+
+That's always been my biggest concern. But personally at home, I have three kids who are all very responsible and they're a little older, so they can take care of themselves fairly well during my work time. But my wife is a infection control nurse, cool. Experiencing this like a hand grenade in her face.
+
+It, every day is a long day of new challenges new revelations on how this is going. So I gotta get her to record her thoughts and feelings when she has an ounce of energy. Yeah. Left, but maybe that's for another. But overall, we're doing well message for everyone. Like I said with my experiences and from what I hear from my wife.
+
+Just everyone, keep doing what you're supposed to do. Be safe. Keep those hands clean and we'll all get through this together. Listen to your scientists, they know best. That's excellent. That's the general message is trust in science. 
+
+Tim Ribaric: That's great. David, I think that's a perfect way to end it.
+
+Thank you very much for spending the time with us today and for kicking up this archive that will surely be a really cool moment in time. And thank you Tim, 
+
+David Sharron: and for everything you've done, not just this podcast, but all the supports that you and Daniel. And the folks in the DSL have done over the last year with us with this type of software.
+
+It's been fantastic. 
+
+Tim Ribaric: Excellent. It was our pleasure. Okay. Thank you.
+
+There it is. Please remember the most important part of today's episode. You gotta dig out that spoon when you're gonna have some cheesy popcorn. We'll drop the anchor here. Be sure to check out the Niagara Covid archive and please contribute if you have something you'd like to share with the rest of the world.
+
+For all of time, easiest way to find it is to navigate to exhibits dot library dot brock u.ca. Of course, just search Google for the Niagara Covid archive. Good luck to you all with your Covid isolation plans, and remember, this too shall pass.
+

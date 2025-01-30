@@ -1,0 +1,309 @@
+Ep24
+===
+
+Daniel Brett: Hello and welcome to episode number 24 of Steering the Digital Scholarship. I'm Daniel and I will be the acting captain for today. So first of all, a special thank you to Tabitha and the Makerspace for letting us use their brand new podcast recording setup. It's very exciting and very fancy, and we can all hear each other talking and it's just lovely.
+
+So thank you very much to Tabitha and the 
+
+Tim Ribaric: space. What I've heard, we are the first people to ever use this recording studio too. So all the Grammys that come out. Will be on account of our blazing The trail, I think 
+
+Alicia Floyd: is the lesson. Oh, we should sign the 
+
+Daniel Brett: wall. There it is. This is a brand new space that they just built.
+
+I don't think they would appreciate, 
+
+Alicia Floyd: that's what they do in famous recordings studios. They sign the walls. Is that a thing? It is a thing. You gotta watch some rocky commentaries. 
+
+Daniel Brett: That is a genre I have avoided, but perhaps I'll have to investigate. Either way, this will be our last podcast, strangely, our first podcast in this room, but our last podcast before we go on holiday break.
+
+So today we're gonna have a bit of fun, but first, let's introduce the rest of our cast and make them divulge some personal tidbits as per usual. Our question for this snowy Canadian winter. Is, what is your favorite summer activity to do on a nice warm day with blue skies and birds chirping. We'll start with Tim 
+
+Tim Ribaric: Nap in my hammock.
+
+Do you have a hammock? I do have a hammock. Yeah. It's in my backyard. Oh. It's next to our shed. And it gets sh it's in the shade from about 11:00 AM for the rest of the day. So it's always pretty good. It doesn't get too toasty, so napping in my kids if they ever listen to this, will laugh and say, yeah, that's dad.
+
+Do they climb on you 
+
+Alicia Floyd: in 
+
+Tim Ribaric: napping? In the go for a ride? A hammock swing? They will now. Thanks. Alicia, 
+
+Daniel Brett: what about you? 
+
+Alicia Floyd: I, my initial answer would be hiking. I like hiking with my family around here. This past summer, I took up paddle boarding and that is my new favorite thing to do on a warm blue sky day.
+
+It's so much fun and I'm good at it. Oh, I am. I didn't think I'd be good at it. I wasn't sure about my balance. But yep, it's fun. And you can, I can go anywhere because I won't fall in, so I can even go to the lovely polluted waters of Niagara. 
+
+Tim Ribaric: You're pretty confident you won't 
+
+Daniel Brett: fall in 
+
+Alicia Floyd: unless one pushes me.
+
+I'm okay. 
+
+Daniel Brett: A nice humble brag in there. And then an insult to Niagara. Perfect though 
+
+Alicia Floyd: the full sorry, Niagara. There are some very beautiful areas in. Chico paddle 
+
+Daniel Brett: boarding. That is very true. I was gonna, I'm glad you didn't say hiking cuz that's mine is hiking. I like to take my wife and just go for walks in the forest and climb hills.
+
+Not too big of hills, but just easy hills because we're you're getting amateur hikers. We're getting up there. I'm not getting up anywhere. My back hurts. So lovely. Now that we're all feeling warm and energized, thinking about the summertime, let's get on to today's main topic. And to do that, we're gonna have to get our Ebenezer screw, John, because we are being visited by the Ghost of Podcast's past oh.
+
+So before we move forward into a new year and a new decade, I think it's important for us to reflect on how far we've come since those first days of the dsl, when all we had was Hopes, dreams, and a Bear construction site to work with. Today we are going to be looking way back to the very beginning of steering the digital scholarship and revisiting some of the questions that we asked back then to kick it off, we will answer the very.
+
+Non icebreaker question that was ever asked on this show. A question that even now is at the core of everything we do. Oh, I know what it is. What is digital scholarship? 
+
+Alicia Floyd: Oh, no, I thought it was going to be, what's your favorite super killer. Do you feel about fake it till you make it? No, that 
+
+Daniel Brett: was the fourth podcast.
+
+Tim Ribaric: I'm sorry, what? What CV would you take with you to a desert island? That was the second podcast. Oh. The podcast historian Daniel's been in the archives all week. 
+
+Daniel Brett: I have been in the archive listening to all episodes just to, to build up to this and man, we were, we've come a long way. It's really crazy to look at listen to those very first podcasts.
+
+Us and then listen to us like the last couple weeks and be just like, wow, we are much better at this. And we 
+
+Tim Ribaric: were Oh, good. 
+
+Daniel Brett: Worried there for a second. We were not at the beginning. Oh boy. There was a lot of very robotic very mumbled responses at the beginning. And now we all seem to be a bit more comfortable in front of the microphone.
+
+But what is digital scholar? So we'll start 
+
+Tim Ribaric: with Tim. Oh gosh. Me again to star. I will harken back to what our website says. So those of you listening in their car right now or at their computer, punch up brock u.ca/library/dsl. Not in their car, not in, don't use the, if they're a passenger, if they're a passenger in their car, of course.
+
+Or hand the phone to your child who's also in the car with you cuz we provide good, wholesome family podcast and have them look up our website. And upon that website there are. Pillars. Now, when we started, we didn't have those six pillars yet, did we? We were still fumbling about, weren't we? We had 
+
+Daniel Brett: We had seven different pillars.
+
+Okay? 
+
+Tim Ribaric: So we did some we sent the model back to the architect, had them redraw it, and now we have six pillars. Those six pillars are digital scholarship. Now, if I can stretch my brain enough, developing a digital project, mapping your data, high performance, comput, Visualizing your data, managing your data and data, I think is the six.
+
+Ah, 
+
+Daniel Brett: yes. Data. Impressive. 
+
+Alicia Floyd: I don't think I could list all those under pressure. 
+
+Tim Ribaric: I screwed up anyways. I know that for a fact. I'm just being handed a message here and it's researching, managing your research data, developing your digital, Finding and using data. That's the one I missed.
+
+Visualizing your data. Mapping your data, and processing your data. So if you take a strict. What's his name? Touring Machine Approach. So Ellen touring the fella, the British mathematician, to find a way to describe everything in terms of if it's a computer and there's four postulates you need to.
+
+Fulfill it can read data go forward in that data or backwards in that data. And thus he was able to make the modern computer. So I'm not, I'm taking his definition of a touring machine, applying it to everything that the university does and saying that everything is digital scholarship. As you can tell, I'm feeling pretty cheeky.
+
+We're close to the end of the break and I'm, I have no room for nuance in my head right now, so everything's 
+
+Daniel Brett: digital. Scholarships. Few days left to the vacation. What about you, Alicia? 
+
+Alicia Floyd: I'm not sure how I topped that last little rambling tirade there, but 
+
+Daniel Brett: classic rambling tirade. Oh, 
+
+Alicia Floyd: I guess what I would change from my first perfectly scripted sentence from the first podcast is 
+
+Daniel Brett: that you spent two weeks writing.
+
+I 
+
+Alicia Floyd: spent two or three weeks trying to formulate is, I would say that. I'm much more comfortable in saying that there is no one perfect, concise sentence that defines digital scholarship. So the first thing I've been saying to people who are totally unfamiliar with digital scholarship is, no, it has nothing to do with finances.
+
+That's my first thing. And my second thing is that it's what Tim said, only I don't list the pillars, like it digital scholarship. Using digital methods to analyze or visual visualize data. And it's all about collaboration and learning new things and experimenting, and there's just so many things that happen.
+
+We just got out of a meeting where we talked about, the types of things that we could be looking into the future to do, and. There's so many possibilities when it comes to a place like a digital scholarship lab. So I would say there isn't one nice clean definition, and that's what makes the Digital Scholarship Lab so amazing is that there's so many possibilities.
+
+That's my 
+
+Daniel Brett: answer. Yeah, and I love seeing how these. How these answers have evolved and are much more 50% of them are much more confidently delivered. 
+
+Tim Ribaric: I would say my answer of everything is pretty confident. I don't know what you mean, but only 50% of them are better, but 
+
+Daniel Brett: fair enough. 
+
+Alicia Floyd: What's your definition, 
+
+Daniel Brett: Danielle?
+
+So the death here I go with is 
+
+Alicia Floyd: as he reads from his notes,
+
+Daniel Brett: Digital scholarship is a very broad topic, but what we support in the Digital Scholarship lab is the use of new and exciting digital tools to advance research and achieve goals and initiate collaboration. So by using digital tools to initiate and advanced research and encourage collabo, We are promoting digital scholarship.
+
+Tim Ribaric: And then how much did it cost the marketing firm to come up with that? Did you pay them cash or inkind or what? 
+
+Daniel Brett: It was surprisingly cheap. Okay. All they asked for was one of our custom coffee mugs. 
+
+Alicia Floyd: I knew he was gonna say 
+
+Tim Ribaric: that. All right. I have a, an idea of the provenance now at. 
+
+Daniel Brett: Okay, very good. I had to get a color that was hard to support.
+
+I had to go to the old website for the ordering company, but they didn't make it easy. Anyways, it's incredible how much more confident we are now versus when we began a year ago. We are so proud of the space that we've built and everything that we've done back then. We. A lot more broad with our our topics and a lot more wishy-washy.
+
+And we were looking at the challenges ahead of us as very daunting tasks. Whereas now most of our conversations about the challenges ahead are more hopeful and more excited because we have a baseline that we didn't have at the beginning. We were lost at sea, and now the ship has found a.
+
+The digital scholarship and 
+
+Tim Ribaric: I'm for the home audience. I'm taking a sip from my digital scholarship cup, though it is empty. I'm panem IMing enthusiastically.
+
+Daniel Brett: So now that we have the benefit of hindsight, let's think on what we did to conquer some of the challenges that we. In the past and whether perhaps there's a better option that we can see now as this podcast. Part of it is a history of our journey, but another part of it is that we want this to be a record for people who down the road, other groups that might want to create their own digital scholarship lab.
+
+So if we can come up with a better way now that we have hindsight, then it will save future digital scholarship lab creators. The trouble. So one topic that we had a great we thought about a great deal, rather, was how to support the idea of the digital scholarship lab and spread awareness about who we are and what we do without a physical space.
+
+So we've finally this week in the last week, we've actually sat in our new space opening at some point next year. Look for it. It's just been a huge step for us and we've been very happy. But if potentially down the road another group ends up in the same situation that we were in where they're waiting for the construction, but they have the team all ready to go, how did we achieve the amazing level of awareness we now have?
+
+And of course you can always have more awareness, but I feel like from where we started to where We are amazingly well known. People know us around campus, lots of different departments. They say, Hey, I know those digital scholarship guides. They're the ones who can tell me about our studio, and they run the workshops that I really want to attend.
+
+So how did we achieve this level of awareness and what were some of the strategies that we employed? 
+
+Tim Ribaric: Alicia, I think it's your turn to go first. Actually, the past two. It 
+
+Alicia Floyd: was me. Okay. So you asked a couple questions there. How do we, how did we achieve the awareness and how did we do it without space?
+
+Correct. And what were some of the strategies and what were some of the strategies? So I'm gonna address the, how did we do it without a space thing first. So what I've learned in this past year is that to do actual digital scholarship, you don't really need the four walls in a roof. You don't have to have them.
+
+So I think. Our team really tried to not get discouraged by the fact that the construction was delayed. We had resources, we had people, we have people on campus doing research, and we had people interested in the subject of digital scholarship and exploring all of the different tools. So every time we'd offer something new, like a new workshop or we'd put something new up on the website or post things up to social media, it got a reaction.
+
+So I think. Right now I'm noticing things coming in. We're putting more and more things on the calendar. We've got more people reaching out. There's people from all across campus whether it's undergrads or faculty members reaching out and. I think that we did that through multiple methods and, but the main thing was we didn't get discouraged.
+
+So we moved ahead with our collaborations. We moved ahead with all of our planning. We set up all of our policies. We've got our website going. We're pushing things on social media. We're attending events. Partnerships, everything that you can think of. We've done what we could do without the space.
+
+And we used the camp, the campus computers that were available to us. We put, got software put on them, and you just have to push through. And I think by doing that, we learned a lot so that when we have the space, we can just, we're gonna move ahead leaps and bounds. I don't know if that answered all of your questions in one foul swoop, but I think it might have.
+
+Daniel Brett: Yeah. That was pretty much it. We put our foot forward and kept on marching even without the space. And it turns out, like you said, I really liked what you said about how turns out digital scholarship doesn't need four walls. And that's a hundred percent true. And that's comes with the nature of something being digital, is that, Not always are you going to need a physical space to sit in to work on it.
+
+Most people have access to digital resources either in their offices or at home or on their laptops. And they can quite often do all the research that they want to do on their own personal devices. 
+
+Alicia Floyd: So yeah, it's true. And some of the services that we offer in the digital scholarship lab are providing those resources to.
+
+So that they have them so that they can use them on their own computer. So that's, one of the initiatives that maybe it wouldn't have gotten up and running if we had, have had the space in the computers. So I think maybe more came out of it than what we would've expected. Not having the space.
+
+Tim Ribaric: I think old man Robert's gonna do another back in the day library segment. Just, I won't repeat what you know. Alicia covered a lot of stuff which is how I think and feel about the topics. So I won't re go over it again. But the one thing I think that. Is a lesson that I want echo, that I want, a lesson that I want echoing through the rest of time is to not be so rigid about how service delivery is done.
+
+I've used a couple bad metaphors for this in the past and now we'll repeat them here. So pardon me. I always say it's like we're doing improv. We always say yes. And then the other thing I say, perhaps I say it secretly not to anyone else, is that we're playing jazz in a lot of respects. We just make it up as we go.
+
+And I think that's served us very well. And that's very much a break from the way traditional library services are run, where it's very prescriptive and here's a list of the things we do. Here's when you can expect them and here's how many of them you're allowed to use this year, and then you come back after that.
+
+So I think our success for what it's worth, has been built on the fact that we are very fluid and. Able to say to people coming in, that's not a thing. Come back in six months. Or, we don't do it that way, you have to do it this way. But being amenable to stuff. And I think, so that, that would be my greatest gather around children.
+
+You have to listen to this, is that to be flexible and not be rigid and to anticipate things differently than what you thought they were gonna happen. And roll with it just as well, 
+
+Daniel Brett: What. Yeah, and I think that's been a huge arc for us is embracing that flexibility. And I don't know, I'm sure we would've had flexibility if we had the space from the very beginning, but I strongly feel that not having the space has actually made us better at rolling with the punches and coming up with creative solutions, and I hope.
+
+Learning how to be this creative will help us carry forwards and be more creative now that we do have the space for sure. All right, let's move down to the next gift from the ghost of scholarship. Past we once played a game where we tried to come up with ways to collaborate with various departments, some maniacal.
+
+Put a bunch of different departments in a cup and had everybody draw two and then come up with a collaboration between them and boy oh boy, was it uncomfortable at parts, but we made it through and we learned from it. And you're gonna make us do it again? Nope. Nope. So what we're gonna do for the home 
+
+Tim Ribaric: listener, the coffee cup has no slips of paper in it, just 
+
+Daniel Brett: so you know.
+
+So we won't be subjected to this activity. No. So this time, and again, we're reflecting on the past that's what this is about. So let's talk about some of the collaborations that we have put together in the last year since we've started this podcast and since we played this game where we thought about different types of Cal collaborations.
+
+What are some of our success stories? What collaborations have we actually accomplished that we want to tout a little bit right here. You look like you have. Oh 
+
+Tim Ribaric: boy. I'm gonna a whole list. I'm gonna limber up a bit because I think I might hurt myself if I keep patting myself on the back. So let me stretch out a little bit.
+
+I think the if I'll go first with the thing that's really panned out as our collaboration with dasa the Data Analytics Students Association out of our Goodman School of Business. We had a successful workshop series just what, a month or two ago, and we've got another one lined up and then a day long.
+
+In in March. So I must. The kids are right, they work hard. They're ambitious. Not like the lazy layabouts that sometimes, university students are portrayed as these kids were, and are very much on top of things. And it was nice and fun to work with them because they have resources and they were shooting videos and they had.
+
+The Brock TV crew come and do a promo and pull up banners and stuff. It was impressive, and I'm happy we had the opportunity to put that together and make it work and hopefully continue to work into the years going on. But what do you, what about you, Alicia? What's your, 
+
+Alicia Floyd: This is a tough one.
+
+I, there's, we've had a few really great collaborations and. We have had some people from the community that have come in and reached out to us, and we're working on collaborations right now. However they're in the process. So I don't really wanna vocalize it. But one of the things, and I don't know, to me this counts as a collaboration, but one of the things that's different from the very, very beginning is that we.
+
+Completely and me successfully integrated with the MAP data GIS library. So I know that's an in-house collaboration, but sometimes in-house collaborations are just as important. It's two very sometimes different, but very much the same service points. And so we started off just as the dsl and we still are, but we are fully partnered with the mdg and we work together when it comes to, student projects and work and collaborating with faculty promotion and work.
+
+So I think we're working very well together, and it's a great way to show how different departments within the library and on campus can merge their services together to become one pretty cohesive team. 
+
+Daniel Brett: That was the biggest one that I was thinking was the M Dgl when we started inching closer and closer since the very beginning.
+
+And then we had Sharon on the podcast once we interviewed her, and it, things just got closer and closer. And now we're basically an inseparable unit and we're all very good friends and we hang out and talk 
+
+Alicia Floyd: And if Tabitha's actually listening to this podcast since she provided us with this room.
+
+In the future moving forward, I would hope that we could form, there's, it's been tough cuz their makerspace is moving into their new space and there's new staff and new initiatives and they're in the same boat we are. But there's a lot of possibility for collaboration moving forward with the makerspace and the projects that they have going on too.
+
+So I can see a similar relationship happening in the future there. 
+
+Tim Ribaric: Yeah, I see. Yeah, I see the maker spaces there a lot. Like our siblings, they've. Have the same parents born close to one another and going through the same sort of phase of life together. So like where I think as time goes on, find ourself in similar situations where we ask, oh, how you guys are doing this?
+
+Or what is your take on this? And getting a pretty good, relationship going, which is super cuz they have all the fun toys and stuff. 
+
+Daniel Brett: Yeah. So it'll be quite nice to be not only in closer proximity with all the staff of the maker space as we'll be sharing offices, but also physically the digital scholarship lab is right across the hall from the maker space their brand new space, which looks amazing.
+
+This is my first time actually in it. And it's gonna be a very exciting to run parallel. With them. And then hopefully we'll intersect every now and then with some massive, beautiful collaborations that are gonna look good from both ends. So lastly the last question I'm going to bring up is way back in episode eight.
+
+A question was asked by Tim Uhoh. Would you press record. On the podcast. Oh, would you do it again? Would you do it all over again? Was it worth it? And me personally, absolutely. I've loved this whole process of creating over the last year and the last decade, even though it's only been a year of the decade and looking forwards, we're gonna be.
+
+Even more and lots more interesting collaborations. Hopefully we'll have some more guests on and play some hokey games as we do every four or five podcasts when somebody runs out of ideas. 
+
+Tim Ribaric: So yeah, I think what Daniel's alluding to here is that there's a data visualization laying in weight that someone can develop by listening to all the episodes of our show and then plotting out the frequency of how we do these.
+
+So like silly Daniel games will be a category, Tim being overly excited for something. That's another category. And then and then display on our fancy visualization wall. What do you think? 
+
+Daniel Brett: Sounds good. Yeah, that, that is definitely something we could make a student listen to. 25 podcasts.
+
+Alicia Floyd: Transcribe each when you 
+
+Tim Ribaric: say it that way. Text analysis. You got 
+
+Daniel Brett: it. All right. Your job today and for the next four. Is to sit and listen to about 15 hours of us rambling on, and then log everything we say in a frame of all the memes and all the common patterns, and then transcribe the entire thing.
+
+And every time that we have a horn blow, And all of those stats. 
+
+Tim Ribaric: Oh yeah. How many horns per episode do 
+
+Daniel Brett: we have? Yeah, so we, we need a hundred percent of the stats available. You have one month We expect a doctorate level thesis. 
+
+Tim Ribaric: So we can expect something from you, Daniel, like mid-January, is that what you're saying?
+
+You're gonna attempt 
+
+Daniel Brett: this. Oh, sorry I've got the vacation plans, but bottom line, would you guys press the button again? Yeah, no. 
+
+Tim Ribaric: Yes, I would. We're not gonna get that sweet Patreon muddy until we do some really crazy stuff. But in the meantime, I'm I think it's been a good experience.
+
+It's helped to move us along. If nothing else, if just my mom is listening, hi mom. And if we don't have a huge audience, that's not my, it was never my goal and intention anyways with this in the first place. So even if it's just for the sake of posterity, we record this, that is fine by me.
+
+Alicia Floyd: Like I, but also too, when we started, We didn't know each other. No, it, so as you were saying, we sound scripted and awkward. We're probably awkward because we probably literally sat in a room with each other three or four times first. So then we have to be all, funny and, ready to say something great with people who are basically strangers.
+
+So I think it was, if nothing else, a great way to get to know each other. People were gonna be teammates with for a really long time, hopefully. And, Also, I find that after we have these podcasts, which nobody hears, we turn off the mic and then we start brainstorming or oh, you said this one thing.
+
+And then we start having all these conversations and ideas and we remember things we have to do. So it's a good method for us just to communicate and get, our creative juice is flowing. Yeah, 
+
+Daniel Brett: I was gonna say creative juices is definit. Something that happens after this that came out all wrong.
+
+Tim Ribaric: Once again, dear listener, we're almost at the break here and we're just coasting it out till the 
+
+Daniel Brett: holidays. So four more days. Yeah, we can do it. 
+
+Alicia Floyd: Great. Three more days. Oh, less for some people. Sorry, 
+
+Daniel Brett: what do you mean three more days? Wednesday, 
+
+Alicia Floyd: Thursday, Friday and 
+
+Daniel Brett: today? Today is basically over.
+
+Today's talking about today we're only. Through. For those of you who don't know, we record at 2:00 PM a day goes until two in the morning. So we're halfway there. 
+
+Tim Ribaric: That's another entry into the wiki. The steering, the digital scholarship podcast. Wiki. What time they record? They record at two 
+
+Daniel Brett: o'clock.
+
+Yes. Approximately. Approximately two o'clock, sometimes three, sometimes 10. Like only once though. Yeah just the once and then never again. It's that one dot 
+
+Tim Ribaric: that's the outlier. Yeah. Yeah. We're like, so get that student to make note of that. Okay, Daniel. All 
+
+Daniel Brett: right. I will find the student and then proceed to send them emails.
+
+So thank you for joining us on this last episode of 2019. We want to thank all of our listeners for an amazing year, and we're looking forward to another amazing year. Coming up, don't forget to check out our lineup of workshops in our upcoming winter workshop series. And as always, if you have any suggestions, questions, or ideas that you want to share with us.
+
+Feel free to contact us at dsl@brocku.ca or on any of our social media platforms. Hopefully you're familiar with them by now, especially the Mastodon. The most important one. Anyways, thank you very much and we'll see you next year.
+

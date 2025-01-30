@@ -1,0 +1,367 @@
+Ep44
+===
+
+Daniel Brett: Welcome to Steering the Digital Scholarship. I'm Daniel and I'm gonna be the captain for today. Unfortunately my co-host Tim wasn't able to join us, but we're going to sail on without him. Joining us today is some special guests from the Center for Digital Inquiry and Learning. I believe I got that correctly.
+
+At the University of Idaho, we've got Devin Becker, Olivia Wile, and Evan Williamson. So before we get into. The podcast regular stuff. Let's start off and just, if you guys could introduce yourselves I'll tag one of you and you can tag each other around the circle. So I'll, we'll start with Olivia cuz Olivia's next on my screen here.
+
+Olivia Wikle: All right. Hi, I'm Olivia Weik and I'm the Digital Initiatives librarian at the University of Idaho. I oversee our digital collections here and work on digital scholarship projects, collaborate with faculty and Devin and Evan on those. And I also work. Devin and Evan on Collection Builder. So thank you so much for having us, Daniel.
+
+Daniel Brett: Wonderful. And if you could tag somebody else just to send it around. 
+
+Olivia Wikle: Yeah. 
+
+Evan Williamson: Evan, you're next. Hey, I'm Evan Peter Williamson. I'm called the Digital Infrastructure Librarian. And do all kinds of different stuff across the library, working on web stuff and digital preservation and web archiving.
+
+And really a lot of my work has just. Doing interesting things with Collection Builder and trying to make that template work so that Devin and Olivia and I can work with faculty and students and do all kinds of interesting projects in at C D L. And yeah, just my position's been all over the library and keeps it interesting that way, go ahead, Devin. All 
+
+Devin Becker: right. I'm Devin Becker. I'm the Associate Dean for research and Instruction. That's my new role. And I. With Evan and Olivia on digital scholarship projects and collection Builder and live static and other frameworks and initiatives around sort of static web development.
+
+And yeah, and I've been here for I think 12 years now at the University of Idaho Library. And we've really, worked with all our colleagues to build up a really strong digital scholarship program 
+
+Daniel Brett: and digital library. Excellent. And as, as our avid listeners know the number that we have, which has been rising lately, which is really nice to see.
+
+We are big fans of not just digital scholarship in our sphere, but looking out outside and seeing what digital scholarships like out in the rest of the world. So it sounds like you guys have been in it. Even longer than we have, which is really cool to, to get some expert experience. So before we jump into our chat about digital scholarship, we're gonna jump into one of our classic quirky icebreakers.
+
+So today I was trying to think something for the new year, something celebratory. I think we'll just go with what is everybody's favorite cake flavor Now. This is one that's always there. There's a lot of different kinds of cake out there. And I'll start. Set the bar. My number one favorite type of cake is actually coffee cake.
+
+I, I love a really good coffee cake with a nice caramel drizzle on top. That's where it's at for me. And we'll just pass it around in the same direction as before. So Olivia, 
+
+Olivia Wikle: My favorite standby is always chocolate. Can't go wrong with chocolate. So that's what I'm gonna say. And I'll pass it to Evan.
+
+Evan Williamson: I'll go with Crazy Cake, which is that cake that you just take some flour. You just, you don't have a bowl or anything. You just put it all into the pan with flour and sugar and cocoa powder and some rising agent. And then you pour a little bit of oil on there and pour a little water on it, and you don't, you just barely mix it up and put it in the oven.
+
+It's super easy to make. It's the best cake every time. And that's what I. 
+
+Daniel Brett: Never heard of that. That sounds amazing. Minimal 
+
+Evan Williamson: cake infrastructure, which is kinda my thing. 
+
+Daniel Brett: And Devin I like a good cheesecake. 
+
+Devin Becker: A cheesecake and a Coca-Cola is a, at 
+
+Daniel Brett: a diner is a really classic treat and 
+
+Devin Becker: I think it's one of the 
+
+Daniel Brett: best things on our that's perfect answers all around because it really shows that.
+
+Everybody has such unique tastes and I'm curious if somebody could do a study some, somewhere down the road if cake choice has something to do with your personality or the traits that you look for in your job or the way you approach things. It's just really interesting to see such a wide variety going around the table, and that's what these icebreakers are all about.
+
+It's a lot of fun. Now that we know each other a little better, we're gonna go ahead and we're gonna sound that horn and sail on to our main topic for the day.
+
+Devin Becker: Hey. Yeah, what a great sound. 
+
+Daniel Brett: Yeah. Today we're going to chat with our guests to find out more about what they are working on and how they fit into the world of digital scholarships. So again, thank you guys for joining me today. I know different time zones. Always a fun time figuring out when everybody can actually meet up.
+
+To kick things off and I think we'll just, we'll stick with the same order around the table. I think that works really well. I want to get some ideas, and this is the question that we always ask everybody that we meet, and I'm sure you guys do similar things but in your opinion, What is digital scholarship?
+
+And I've heard so many different answers and I love it every time. 
+
+Olivia Wikle: I agree that everybody has a completely different answer. There's a lot of different ways to think about digital scholarship, but I guess I would say that it's applying. Digital methods to maybe expand or publish research in creative ways and inspire continued learning and and problem solving and apply those sort of digital methods to these more traditional veins of research to, to get to that point.
+
+Daniel Brett: Awesome. Evan, what do you think? 
+
+Evan Williamson: Yeah, now I feel distracted cause I was thinking about whatever Olivia just said and I no longer have anything in 
+
+Daniel Brett: my head. You're welcome to just say ditto. Yeah, 
+
+Evan Williamson: totally the same, exactly what Olivia said. it's like when we have we, we have a summer institute bootcamp with people that we've done with c I l number of different years, and we always have the, what is dh site where you can keep refreshing it and get a million different answers of what is dh. And so I think it's a similar thing. But I think what's interesting about the digital scholarship is being able to maybe go beyond just the DH people and reach some other people across the campus that, we were just talking about.
+
+Ways to enable your scholarship in using digital tools and platforms and reach more people and publish in interesting ways. I think part of the nice part about using digital scholarship versus digital humanities is being open to more folks across campus and more inclusive to different types of conversations that you can, they can get out 
+
+Daniel Brett: there.
+
+That's one of the key pieces that keeps cropping up every time we ask people about digital scholarship is it's more than just digital humanities. It is beyond, it's including everybody. Everyone's part of this conversation, no matter who you are and where you are within like the research lifecycle or even just outside of research in general, everybody is interacting with it in their own way.
+
+Devin, did you have anything to add to that? Yeah I was thinking 
+
+Devin Becker: about this question and thinking like what it would be like to ask this to a. Like a biostatistician or something like that. Someone in the sciences who, I think the sciences just just, they just did digital.
+
+They didn't really have to name it. I think partly that's just a reliance on data. More fundamentally for what they do. And, but I also think it's, I think what they do is digital scholarship. I think it's just that, the humanists and the social scientists have brought out the term a little bit more in the librarians obviously.
+
+And so I think, Evan and Olivia, I think it's the application of sort of computational methods to traditional inquiry 
+
+Daniel Brett: would be my sort of 
+
+Devin Becker: way of thinking about it. And And all, and it's just it's a very large thing and it encompasses multitudes creation, publication, preservation, 
+
+Daniel Brett: all of that.
+
+So it's incredible that you said that you worded it that way. The application of digital ideas and concepts to traditional methods. Because what we. A while ago probably a week or two ago over the holidays I was sitting in front of this lovely tool that I don't know if you've heard about, called Chat, G p T, which is this very cool AI that can do all sorts of fun stuff that we were asking it to write us songs to make us like Dex for playing Magic.
+
+The Gathering, surprisingly really solid asking it to make us recipes. But one of the things we were asking was what is digital scholarship? And the really cool thing about that AI is that you can ask follow-up questions. You say, okay, could you frame it from this context? Could you frame it in this context?
+
+And one of the things that kept coming up was the application of digital tools and digital methodologies to traditional learning and traditional methods. And I thought that was really neat that this, it's also terrifying that this AI can identify things and put it in a nice, succinct way better than I can.
+
+But. It's a computer. It's got a lot more brain power than I do on a daily basis. But yeah, so this was, this is excellent. So this is exactly the type of thing that we wanted to talk about and bring up is the idea of digital scholarship and the different elements that apply to it. With that said, Let's move on to the next question, and I think this one is applicable to you guys.
+
+I'm sure you guys can see what's coming up the list of questions here, but what is the most popular tool or service that you guys provide? And you could. It doesn't necessarily need to be the most popular, but it could just be the one you like the best. We do Collection Builder.
+
+I think that stuck with it. We've been doing it for a while now and we just keep doing it. So Saw that one coming. Yeah. Yeah. Yeah. 
+
+Olivia Wikle: And for those that don't know, collection Builder is a static web framework for building digital collections and exhibits. And it will take a metadata CSV and automatically create visualizations like word clouds and maps and timelines.
+
+And we've really think of it as a sort of pedagogical tool. It. Provides options for scaffolded learning and it's open and lets you dive into the code and make all sorts of customizations. So we're excited about promoting it and teaching it. And we use it a lot in a lot of different 
+
+Evan Williamson: ways.
+
+And we've tried to push it into more of a methodology for digital scholarship. Which we call lib static. So essentially static web approaches in the library and just having it be a kind of provocation to be critical about infrastructure in the library in your digital scholarship projects.
+
+To think about, what is really necessary what is really sustainable what is the important outcomes of your project that are. Something that can be used in the future, not just on a cool platform that's usable right now. And so trying to like, refocus a lot of the work on, the really important parts of your project, which is really the data and the metadata and then having flexible templates that can use that.
+
+But the data and the metadata and the content that you're writing isn't beholden to that platform, I guess is a way to look at it. And lib static is the. Yeah, like the the manifesto version of our work. And then we, it's been embodied in our work in collection builder and there's a lot of other folks that do this kind of minimal computing and minimal static web development and libraries.
+
+And so we are trying to, make connections with those folks. And we also do it in a lot of different instances in our own work. We have little templates for creating websites for for workshops that other people have adapted. So there's a lot of opportunity and open educational resources and just little kind of one-off projects that that work really well with this approach.
+
+So we have a whole bunch of templates out there. Templates is our thing, like putting up an example that you can remove the. The existing demo data and learn by example and then master the template and make it your own in a really flexible and learning centric way.
+
+Yeah, 
+
+Daniel Brett: I have to say it has grown so much since when we first started using it even a couple years ago. We that's how we got introduced to each other was we, in the digital scholarship lab, we were looking for a, a. Simple solution that could make a nice little collection for, I think it was for a researcher.
+
+And we stumbled upon Collection Builder and was like, wow, this is really easy. It was all built on GitHub, which we were just starting to build into the digital scholarship labs infrastructure. And now we are GitHub all the way now. We absolutely love GitHub for pretty much everything.
+
+And I'm sure we've talked about it ad nauseum on the podcast. It's grown so much beyond just a little tool on GitHub to be in an entire environment now. And it's just beautiful to see. I was pretty sure that's what you're gonna teach. Yeah, that 
+
+Evan Williamson: That's exact trajectory that we, that, that we have seized on and, learning these little digital skills that build up more and more snowballing into bigger projects and more customized projects and really enabling people to do things rather.
+
+Just buying the next tool that does the one thing that you want it to do. If you have a bit of digital skills in your tool set, then suddenly it really opens up a lot of opportunities for interesting stuff. 
+
+Daniel Brett: Yeah it's just so great to see a toolkit just growing and having it be open and heavily supported with a really great community.
+
+It's just really nice to see. With that I'm going to jump onto one of our favorite questions that Tim and I have this conversation all the time and it changes every year when we talk about it, but if you had unlimited funds and resources, what system or tool or service would you want to either create yourself or see created in the world?
+
+I was thinking 
+
+Devin Becker: about this today a little bit and one thing I've always, I. I was thinking back when I was in library school, which was around 2010 which was a really creative and intellectually stimulating time for me. It was just like being introduced to all these digital things and to data in, in a real significant way and computation and coding and And I was, and I, and back then that was right when Street View and some of the Google stuff, Google Maps stuff was really becoming, quite sophisticated.
+
+And I've always wanted and now that I now that I've had all this, experience and have seen a lot of the use of images and things like that, and I and as records, like they are in Google Maps and Google street view, like I want like a tool that will.
+
+Grab every image created in the last 20 years and use the metadata. And so you can it's like a day in history, just go back to a spot in a day in history and look at and just see somebody's picture. So you know what that day was like.
+
+Probably maybe using some weather data and stuff like that, but just having that ability to like. It wouldn't be able to go back to the day of my birth. But something like that, and I was thinking too and I don't know how many years it'll be by then with copyright logs, but when all of our pictures now are.
+
+Our open access and public domain. What could you do with them? What sort of tool could you build with that? And I thought that would be a cool one to do. 
+
+Daniel Brett: So there's my answer. Yeah I love the idea of a perfect snapshot. Of any day in history, being able to go back and be just like, what was this day like?
+
+And you can look at different people's lives and see who did what on what day, and follow through like the whole day and just see a timeline of little and big events. That's, it's like a time capsule, but for all of time I really love that. Sorry. That was that was 
+
+Evan Williamson: good. We talked about and I think that this is probably doable at this point, but for April 1st I was gonna put up a new version of Collection Builder that was collection builder ai where it's like, Normally our tagline is, you do the metadata and the collection builder does rest.
+
+And we're, and it was just gonna be like, you just throw your stuff in there and then Collection builder does everything and it writes the metadata, it arranges your objects. And then now that the image generation is so good, in fact, you don't even have to do that. You could just give it a name of the collection that you want and it'll generate the images and the metadata and configure the collection for you.
+
+And I think that's really where we're gonna be going in digital scholarship. You'll just be like, I. Open textbook on music theory and it just generates that for you and puts it up. So no. But 
+
+Daniel Brett: yeah, it sounds like sci-fi but it's probably happening. It's not very far away. Yeah. After playing around with chat g p T for the last few weeks, it's definitely seems absolutely doable.
+
+It's. Pretty close. 
+
+Evan Williamson: If you see some of the stuff people are, I saw people today were, if the retro lineal 3D images or that you can use like that Google will display as 360 images. And so they trained the model to actually create those. And so then all of a sudden, rather than just ha it's a very simple way to create 3d worlds that you could explore which is pretty like smart and clever.
+
+But in a more realistic, like down to earth simple thing for a collection builder context. One thing that I would love to see if we had some cool developer and some funding for that would be just like an electron app that does a lot of the that puts together a lot of the little tools that people have to string together like we use.
+
+Right now for collating creating image derivatives image magic, which is a pain for a lot of people to do that and then do the command line thing to get that working. And so I I would like to have this little electron app that would let you walk you through creating your collection where you would just dump images in and it would create the or PDFs or whatever and it would create the derivatives and help you format your metadata.
+
+And then just little export. Little package of files and and metadata and it could be integrated into Collection Builder, but it also be like a sort of organization of a digital archive tool that would also kind of package it up ready to deposit into your digital preservation system or whatever too.
+
+And I think that's also very doable with not a tremendous amount of funding, but it would just need to happen at some point. 
+
+Daniel Brett: Write the grant. I 
+
+Evan Williamson: did write the grant, 
+
+Daniel Brett: but we didn't. Realistic, a realistic goal for sure. So yeah, unlimited funds. You want to do something that is, is already very doable.
+
+The other thing that we would 
+
+Evan Williamson: do is have a collection builder meet up in islands Tour of the world. I think. There we go. There it's much more fun. And we would be coding on the beach in a variety of locations. 
+
+Daniel Brett: Teleportation cruise ship. Just teleport to locations and you can, I don't think we want 
+
+Evan Williamson: a cruise ship though at this point, but.
+
+Olivia Wikle: Yeah. I guess just to add to Evan's last idea there, we've been talking a lot here and thinking about collection, but there's more of a large scale solution for digital collections. And so I think if, if there were unlimited funds or maybe if there's a grant in the future we might think more about solutions to.
+
+Having having more control over digital collections at institutions making leveraging librarian's ability to preserve and maintain digital collection. Frameworks without having to hire really expensive developers or having to outsource help all the time or having to switch to new systems all the time.
+
+So if we can take our thinking for what we've done for collection builders so far and expand it and think about what other solutions might be out there, I think that is something. Will hopefully happen in the future, and we've already been thinking about some. And then I have, I also think that one of the cool things about lib static more in general is hopefully it can expand to include a self-sustaining community.
+
+And if I, and I do think that's doable in the future too. If there are people out there and they and they're able to get the idea of the way that we're approaching the library work that we're doing, and it starts to catch on and it already has. But if that community building can grow but also become self-sustaining in itself, I think that would be a really cool outcome as well.
+
+Evan Williamson: The first step is of course the island tour which 
+
+Olivia Wikle: is right. That will be key to building our tour. 
+
+Devin Becker: They'll all be great friends, 
+
+Daniel Brett: so yeah, you always have to do a little bit of networking first. And the best place to do networking is a sunny beach somewhere. Alright. It's refreshing to hear down to earth answers to this question after hanging out with Tim for so long where it's always here's my idea of a utopic society and these are the things that would be required to get there.
+
+And these are the pitfalls that we'd have to do. I read this book he's gonna listen to this later and he is gonna rag me on me about it, but that's okay. We have good fun here. But with that said the next question technically already been answered by the previous questions, but is there anything that you're working on right now that you might wanna share some more details about?
+
+And of course, there's collection Builder and all the details that you've shared at this point. But is there anything else that you wanted to delve a little deeper on? I think what 
+
+Evan Williamson: we're really excited. In collection builder right now there's a newer version called Collection Builder Sheets where rather.
+
+Using the static generator to read the metadata and put everything in the right places on the page. We're actually parsing the metadata on the fly when you hit that page, which opens up some interesting opportunities like having it linked to a live Google sheet so that the students can be working in that Google sheet and then see things change on the website.
+
+And it really gives you that really direct visualization of my metadata. Does stuff. The web and changes the website. So it, it's a really cool teaching tool, but it also opens up some interesting things for the template and that kind of approach of just directly parsing the C sv is making us ask questions about different ways to build the template and some different opportunities to build the kind of self building learning tool version that, we hope to.
+
+Keep pursuing and follow those interesting ideas. Yeah, 
+
+Daniel Brett: we were actually looking at collection Builders sheets not too long ago when we were having a discussion. I don't think anything ever came of it fully, but with a professor who wanted to use Collection Builder with a class to just build a collection of.
+
+I think it was a collection of pages of a document that was being transcribed with the class, and they wanted each page to be its own object with metadata, and the students would update the sheet continuously with metadata and the idea of being able to see every time they finished like a piece of their project, they just go and refresh a page and.
+
+Now it's all there. It was just mind boggling. That is, is instant satisfaction. Not to say that students these days require a little bit more instant gratification than they used to. But it definitely helps make people feel like the work that they're doing is actually having an effect.
+
+Instead of having to wait all the way till the end of a project to actually see it hit go and, oh, there it is. So it, yeah, we were having a bit of a discussion about sheets specif. It's 
+
+Devin Becker: Like the nature of the instant gratification has changed. It's not that they want it more, it's just that it's more 
+
+Daniel Brett: instant or something, than it used to be.
+
+That's fair. Yeah. Reading one of those lovely Facebook Things, which you can never tell how trustworthy those sources are, but they say that the the attention span for the average teenager these days is down to four seconds. Which I believe after talking to some teenagers recently, but but that's, I, that's just mind boggling to me.
+
+They can't focus on something more than four seconds before they need to have a separate thought and then they can go back to it. 
+
+Olivia Wikle: So one of my favorite parts of working in digital scholarship is getting to work with students, on an individual basis as they work on projects. And I have a student fellow right now who is our Ja, we have a jazz fellow every year because we have a big jazz archive here, and they're delving into the papers.
+
+Pictures of the Jazz Trumpist doc Chitham. And it's very exciting to, to see them get to engage with that archival material and make sense of it, and struggle with, the the information that, that we don't know. That's along with all of this information that we do have. And work with them to imagine, what that, how that's gonna be curated and described and put online.
+
+And That's something that that I really enjoy is working on digital scholarship projects in that way. And that's one of the current ones that, that I'm working on right now. Yeah, 
+
+Daniel Brett: that's right. remember seeing you guys had a big jazz archive. 
+
+Olivia Wikle: Yeah it's exciting. I have a music background, so I'm always excited to see what comes out of these projects.
+
+Evan Williamson: On that same line for me I'm working with a creative non-fiction student on a collection type project. And so one of the interesting things is, working with librarians or working with historians who have this very similar sort of digital collection type mindset. And then in this case, we're pushing.
+
+The interpretive work the writing, the content, and then the collection is an add-on. So it's a different way of looking through the collection and the, through the research. She's not a historian. She's not really trained in archival research, but she's doing that kind of work with a different kind of aim.
+
+And so it's just very interesting to think through. From a totally different perspective and what is interesting for her and and what we can do with the template in this slightly more interpretive type of manner rather than the very collection, more collection forefront interpretation on the side interpretation, forefront collection on the side.
+
+It's been interesting. 
+
+Daniel Brett: Yeah. Coming up with flexibility when you're developing tools or teaching is something that we've recently. In the last year or so had to deal with ourselves as well. Now that our workshops are on Eventbrite, we get international attendees coming from all over the world with all sorts of different backgrounds and we found that the way we teach tools and people have sent comments and our feedback forms afterwards saying it's yeah, you've got a very North American way.
+
+Of describing things or a very tech forward way of describing things. It'd be nice if you could describe them in a little bit more of a health science way or in a little bit more of the European context where this, and this is important. I'm like, oh my goodness. I did not even realize my bias.
+
+Oh my goodness. And. It's really great to, to have that feedback cuz then you can start thinking about when you're teaching tools that exist, or in your case when you're developing tools, how to make it flexible enough that it fits to the mindsets the of other people that are coming into this who have completely different worldviews, completely different levels of knowledge and experience, and making sure that it's accessible to everybody without having some big learning curve where you need to go get a computer science degree to.
+
+In order to understand or use a tool. And it's just great to hear that's not something that's just our context, that to see the context arriving that other people are running into that same issue or opportunity, I should say, not an issue, the same opportunity for learning. 
+
+Devin Becker: I'll I've been working on A tool with a theater professor called Digital Dramateur, b or dramaturgy.
+
+And she's a dramateur. It's such a funny word. But it, it's an annotation and interpretation tool that uses some of the Google, some of the collection builder sheets that was the foundation for it. And so the students would work in a sheet. Right now we have all the Shakespeare plays ready for.
+
+And they can go through and annotate a Shakespeare play and like highlight words and just within the sheet, and then it'll automatically publish on the website. And then we're also incorporating some of the collection builder features for interpretive features and visualization features into it.
+
+So that mostly upper level like high school instructors or college instructors could do this with their classes and they can create or if they're producing the play, they can create something around the history and of the production and things like that.
+
+the different ways you edit the plays. It's been fascinating to learn the more of the procedural work that goes into putting on a play or studying it in that way. So that's been really cool. And then we, this last over, over holiday break, I, we were working, we've been working on adding compound objects to collection builder and as part of that, I've also been working on incorporating.
+
+One of our other frameworks, oral History as Data, some of the code for that into collection builders so that you can create u use collection builder to also publish transcripts interactive transcripts that are visualized as well. So that's been fun and hopefully we'll get that out in the 
+
+Daniel Brett: next couple months here.
+
+I'm really excited to see all of these new versions of collection builder, the new elements growing and building. I'm really looking forward to that AI one that's gonna be game changer. 
+
+Evan Williamson: I have one more I'm gonna throw out there really quick. So I've been doing some web archiving with web archive page, which is a really cool tool where it's, this is like a chrome extension that you can browse around and capture web archives and export them as waxy and which is really a really neat project.
+
+And then, They've built also a tool called replay webpage to do the opposite, essentially provide access to web archives. And really interestingly, they built the app as a kind of no, a static web app essentially. And so I looked at how they were doing it and I just built a little template for myself around the idea of what if you wanted to have this small little web archive of things that you collected and you wanted to share that along with some contextual information and publish it as this little exhibit.
+
+And so I created a little template for that called Web Archive Replay, and it just does that you put in. Your little archive file, and then you put it on a page, and then you have this little web archive that you can browse around. And then there's some content pages you can add in to provide context to this little collection and then, and share it on the web.
+
+So I think that was just, it's just like a weird little use case that I thought was. Just my idea. And I threw it out on Mastodon in library Twitter migration land. And actually I got a whole bunch of interests. And there's these random connections with people that I've never heard of or seen before that suddenly were interested in this project as well.
+
+So it gained this tiny bit of attraction, and that's one of the things I really like about this kind of static web. Minimal infrastructure DH and digital scholarship is just that you can throw out these little projects and as an idea and a lot of people get interested in it because it's something that they actually really wanted to do too.
+
+And the bar is quite low to, to start doing it if you can figure out how to paste these different interesting tools together and make it work. That was always fun to do that kind of thing. Have a little idea, implement it. In a couple hours and then have people actually 
+
+Daniel Brett: interested in it.
+
+I'm definitely gonna have to get Tim to watch this podcast because we are currently in the midst and if he was here, he would tell you all about Archive Unleashed and the big project that we're working on right now, we've got a student staff who's writing a tool for. Making derivatives out of archival content and then running certain data analysis on that all built within a notebook.
+
+And that's something we have a student working on right now in the digital scholarship lab. So I, I'll point him. I'll point him to this part of the podcast for sure, and he can look into what you did and see if maybe there's some integration that can happen here. And then maybe you'll see one more person responding on Unmask on.
+
+Evan Williamson: Yeah. And then it's, I, in thinking about it too as archives on Leash is doing all kinds of interesting things and Working with that data and doing something with it. And then also just thinking of it again in the context of digital collections, where it's this is interesting stuff.
+
+People might just wanna browse it. And there's this little, it doesn't have to be the largest web archive in the world. It just has to be this little set of curated things and Yep. Some interpretation that makes it interesting to folks. 
+
+Daniel Brett: Yeah I really love the idea of just isolating the relevant bits to you and saying, this is the piece of the archive that is really exciting in this context for this purpose.
+
+Here it is. And you can come take a look at it and just like the little piece of the world instead of here is every piece of archival information on the planet. Dig around, you'll find it eventually. So having a nice, focused piece. I love that idea. Before we move on to. Our fun closing statements.
+
+I wanted to ask, do you have any questions for me? You guys are, I've been pestering you with all sorts of questions at this point. Do you have any questions for me or about the Digital Scholarship Lab? 
+
+Evan Williamson: 30 minutes in. How is the new podcast studio? 
+
+Daniel Brett: Nice. It's. It's quite quite well set up.
+
+It's got all sorts of microphones that I certainly don't have in my office and hopefully sound better than my laptop microphone. So that's an improvement. Lots of wires. They've got panels on the walls that make it so that you're not disturbing people when you yell loudly and get really excited while you're podcasting.
+
+It's like digital scholarship. Yeah. What are you 
+
+Devin Becker: working on, Daniel? Or is 
+
+Daniel Brett: there anything that you're really excited about right now? Let's see. My big thing right now is I'm. I am trying to wave the flag of GitHub to the world and make it accessible to non-tech folk. So the majority of my job is finding cool tools and then helping researchers who might not be the most tech literate researchers in the world.
+
+Use those tools effectively and not just researchers. Like literally yesterday I think it was, we just finished. Pre-recording our O L A, that's the Ontario Library Association Big conference. Tim and I are doing a presentation on GitHub and how it's great and everyone needs to use it, and librarians go use GitHub.
+
+And I also, I've written four workshops now. On GitHub for all the different elements of GitHub because there's, it does so much, and I'm working on a fifth one about code spaces, which is the new cool thing coming to GitHub, which is really neat and awesome, and all the other things integrated vs.
+
+Code. I've been just singing the songs of GitHub for the last little while. I should probably get to my Omeka s annual review too, but, ah, we'll get to that GitHub's where it's at.
+
+Olivia Wikle: That's cool. Yeah. That's really awesome. I was just gonna ask, turn around to you Daniel, and ask what brought you to Digital Scholarship and what do you like most 
+
+Daniel Brett: about it? That's a really good question. I think part of what makes. Me really like digital scholarship is, I came into it with no tech background.
+
+I, I was a drama kid drama and music. I did choir, I did jazz band, I played the trumpet. And I was just looking for a job. I worked at a fire monitoring location, just on the phones. And then this job came up at Brock. And I also worked at a comic bookstore. One of the, my old professors came in and said, Hey, There's these jobs at Brock, you should go and apply for them.
+
+They sound really cool. I know you weren't a tech student and actively took all your electives in the drama course, but might like some of it. So I applied, I got the job and I've just been. Getting a, basically a computer science crash course for the last four years, while at the same time trying to take all these cool, amazing tools that I'm learning about and make them accessible to people like me who didn't come from the tech sphere, didn't come with that base knowledge of growing up on a computer and making all these really cool tools accessible.
+
+And now I've had so many great experiences teaching like our program. To people who have never done a programming before, they've never touched a command line. But thanks to lots of accessibility tools like our studio cloud and all the new elements like that, I'm able to take people who have never used technology, never used programming, and who've always liked the idea of the cool things that it can do, but we're always like, that's too complicated for me and I'm helping them take that first step and that was what was the most daunting thing for.
+
+And that's what brought me to digital scholarship is I can do that for other people. What this job has done for me, and I've been doing that ever since, is just, Hey, here's a tool. It's cool. I'm gonna make it so that, or what's the word I use all the time in presentations? Demystify I demystify technology and all these cool tools and it was done to me.
+
+And now I just wanna share that with others. I 
+
+Olivia Wikle: think that's one of the exciting things about digital scholarship is that it brings together all these people that maybe, weren't computer scientists and have all these different diverse backgrounds and can come to it and learn. And and your philosophy definitely aligns with our vision behind Collection Builder too.
+
+And making accessible, giving voice to people that might not have had it before. And in Free sustainable way is exciting. Yeah, that's part 
+
+Daniel Brett: of why I love GitHub so much is it's free. Everything is free. So many elements, so many tools, all in one place, all for free. I'm still in GitHub Laing mode because of.
+
+Recording the o l a presentation. All right, so with that we're at or past our time, it's fine if we went a little bit over the half hour mark. We don't need to be so strict with, for when we're having a good time. But I have to say it's been so great chatting with you guys. Thank you guys for making the time to come out.
+
+But sadly we're gonna have to drop anchor here for the day. Big splash.
+
+So with that, we've reached the end of the episode. Make sure to check out our latest workshops on event Brighton experience, bu and as always, you can reach us by email@dslrocky.ca if you have any questions, comments, or ideas for podcast things. And now for you guys, did you have any social media contact information or websites suggestions for our listeners?
+
+We 
+
+Evan Williamson: we're gonna be at d HSI this summer, so go sign up for that. Of course, it'll be fun. 
+
+Daniel Brett: The collection 
+
+Devin Becker: builder side is collection builder.github.io or github.com/collection builder. That's where all the templates are, and you can find us there too. We Evan, you do social media, but Olivia and I are Ernest.
+
+Hip, 
+
+Daniel Brett: hip. Yeah. No, not really. You guys have a mastodon that you hang out on more often. I know that's the hot new thing. Now that Twitter is a little bit on fire. I do, 
+
+Evan Williamson: but I don't remember what it is. 
+
+Daniel Brett: No worries. 
+
+Evan Williamson: Check out live static. It's l i b dash s t a t. c.gub.io. And that's where there's some really interesting projects pulled together.
+
+And just some random thoughts deep thoughts about 
+
+Daniel Brett: minimal infrastructure. It's been great to have you guys. Thanks again for joining us and thanks to all of our listeners for listening. And I'm sure we'll have you guys on it again at some point in the future to maybe talk about the 10th iteration or the hundredth iteration of collection builder.
+
+Become the hottest tool in open scholarship or digital scholarship. So I look forward to the next time you guys are on, in the meantime, thank you.
+

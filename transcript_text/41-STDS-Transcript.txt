@@ -1,0 +1,251 @@
+Ep41
+===
+
+Tim Ribaric: welcome to episode 41 of Steering the Digital Scholarship. Today the topic of our conversation is going to be what is the nature of digital scholarship. And joining me today is Lilly, say hello, Lilly. Hi. As well as Daniel. Daniel you wanna say? Hello. Awesome. So what we're gonna do today is a little bit different than our usual podcast format.
+
+What we're gonna do is present the audio from what I called our fireside conversation that happened during digital Scholarship Institute, which was our workshop thing that we did last week. Lily, maybe I'll ask you, can you set the stage. 
+
+Lily Wang: Sure. So the Digital Scholarship Institute, I'm gonna call it DSI from now on, is a three day conference with workshops.
+
+So we were pretty ambitious this year and we had two, two day workshops, or we call them long streams and four short streams that are about half a day. So for our long streams, we had na, natural Language Processing with Python. And that's Dr. Aaron Morrow, and you'll be hearing from him later on as well.
+
+And mapping and g i s with Arc, g i s, with Sharon, who some of you might have heard before. And then the short streams were more focused on pedagogy like Brightspace Showcase, Pressbooks, H five P. And Tim, you did a workshop on social annotation, right? Sure did. 
+
+Tim Ribaric: So that's the dsi. That's the dsi. And the faithful listeners of the podcast will know that this is the second year that we've run the event.
+
+And we chose to do it online. Actually turned up hybrid this year, right? Because one session actually ended up going in person, which was interesting. But Daniel, I'll ask you the most important question about this. How bad is my audio? How bad did I sound during this conversation?
+
+During this present? 
+
+Daniel Brett: During dsi? 
+
+Tim Ribaric: Oh, during particularly the audio that we're gonna listen to the fireside conversation is what I called it. 
+
+Daniel Brett: Oh, it wasn't bad. No. Worse than normal. 
+
+Tim Ribaric: The listener won't get to see the video, but I think this was day one or day two of like covid starting in my body.
+
+Yeah. So I'm pale is a sheet sweat. And just like it sounds like my mouth is full of sawdust as I talk, so as Daniel says it's no worse than usual. So I guess it's not too bad. I guess I'm always bad and you couldn't tell the difference, but Yeah, thanks Lilly for mentioning that Aaron Marow, as well as Sharon is in the audio, so if you notice a couple different voices, that's exactly who it is and so without further ado, let's throw it over to the audio.
+
+I'm gonna ask my colleagues that are doing presentations today to help out with participating in this discussion. That's Sharon. Daniel and Lily they're colleagues of mine in the Digital Scholarship lab, and we've been kicking around this idea of digital scholarship for some time.
+
+So we're hoping to have a little bit of a look into what this actually means. As we discuss, we're happy to have comments from anyone in the audience and any follow up and feedback. So what I'm gonna do is, For those that might not want to mention something on the microphone, I have got a form that I'm gonna ask you to fill in if you don't want to talk on the mic.
+
+So before we get going into the discussion, I'll just ask a few moments for my colleagues to introduce themself. And I'll start off with you, Sharon, if you don't mind. 
+
+Sharon Janzen: Sure. My name is Sharon Janssen and I work in the map data, g i s library. And I deal with all things geospatial. So whether that's you're looking for data or instruction or different things like that that's what my forte is and I'm happy to be here today.
+
+Introducing R G I S online and rgi s story maps and I will tap Daniel.
+
+Daniel Brett: Hi, I'm Daniel Brett. I am the Digital Scholarship Lab Technical Support. Basically my job is finding cool tools and then making it so that we can support those tools and teaching people how to use them. Connecting researchers to technology. That's basically what I'm doing. I was going to be teaching the exhibit stream today, unfortunately that had to get canceled.
+
+I'm still going to be around. You'll see me for voting about and just to make sure everyone's included, I'm gonna go ahead and tap Aaron.
+
+Aaron: Hi everybody. I am a Lily was just wondering if she should introduce me as well. I'm relatively new to Brock. I am assistant professor of digital media at the Center for Digital Humanities. And I've. Had a long experience in firing up digital scholarship in different names, whether it's digital humanities or digital studies digital liberal arts.
+
+And I'm really happy to bring some of that here today as a introduce a few folks to Python and Natural Language Processing.
+
+And I have to tap somebody. I'm going to tap Lily. 
+
+Lily Wang: Okay. Hi I'm Lily. I'm the Digital Scholarship Lab coordinator. I helped organize this a little bit as well as our other events. Plugging our workshops. We have we have. Power BI Workshop coming up introduction to Python series, coming up as well.
+
+And you can find us on experience bu and Event Bright. Yeah, I'm going to be attending Erin's n l p stream. It's very exciting. I've always really wanted to learn more about it. So very excited for that. And I'm gonna tap Cal if Cal hasn't already gone. 
+
+Cal Murgu: I just spieled at the beginning.
+
+But Kalamu instructional design librarian, you won't really see for me until tomorrow. For those of you in the H five P stream. H P kind of can be used for research, but I think there's a strong pedagogical implication for that. So if you're interested in how digital scholarship and your teaching can intersect and maybe.
+
+Create some cool kind of new assignment ideas for your students to do. Come to that short stream tomorrow morning. I'm gonna pass it over. Julia, I know she's hiding her camera here, but Julia's four people today, so I think she needs 10 minutes to introduce herself.
+
+Giulia Forsyth: I thought you were just doing the scholarship team, but yeah.
+
+Hi everybody. I'm Julia Forese. I'm all of C p I today. No you're gonna see some of my amazing colleagues at the l m s showcase who will be here at 10. And Mike and I will be doing the Pressbooks session this afternoon. And the Center for Pedagogical Innovation is always happy to partner with the library and especially the digital scholarship lab because of all the cool stuff that happens.
+
+And that's where the intersections of great teaching and research happen. Is that everybody on your team? I think back to Tim. 
+
+Tim Ribaric: All right. Thank you everyone. I should have Sounds like I swallowed a frog. One moment. Okay. So yeah, I should have included the net to everyone that was presenting my bed.
+
+Basically this is an unplanned discussion, so I didn't wanna rope in everyone unless they were really keen on participating, but hey, lo and behold, we're here. So I'll quickly mention that. My name is Tim. You probably saw that from the corner of your team's window. I'm the digital scholarship librarian here at Brock.
+
+And most specifically for our time together, I'll be running the session on social annotation. Tomorrow afternoon we'll be looking at the hypothesis toolkit and the plugin with Sakai. Look forward to seeing some of you at that. So now that we've all introduced ourself and shared our bonafides I'll just ask a question to everyone who's on the panel.
+
+Here's the million dollar question. How would you define the term digital scholarship? What what does it mean to you, or how does it resonate with you? How do you try to explain it to your parents when you're trying to tell them what you do for a job? Anyone care to jump in first? Yeah.
+
+Daniel, please go for it. 
+
+Daniel Brett: Sure. It's a question I get a lot. What is digital scholarship? Oh, no, I caught Tim's. So much to the pleasure of us who work in the field of digital scholarship. It's super wide and varied, so we get to do a lot of different and interesting things as I'm sure we're all gonna see today and tomorrow.
+
+It can encompass all sorts of pieces of the research life lifecycle, which is a bit of a plug for our new research lifecycle department coming now actually to a library. But it can span all the way from like the creation of data to the analysis of data, to visualizing data and even sharing data can be done in a very interesting and digital means that falls under digital scholarship.
+
+A nice rough description that it's super high level, but I heard it somewhere, I'm sorry if I'm stealing somebody's quote without knowing is that it's scholarly per scholarly pursuits using digital means. So it's a nice quick and easy description, which I think is quite accurate, if not very specific.
+
+And I imagine by the end of this institute, everyone's gonna have begun to form their own ideas of digital scholarship, but I'm really curious to hear what everyone else thinks as well. 
+
+Tim Ribaric: Awesome. Thanks for that, Daniel. Anyone else from the panel here that would like to contribute an answer?
+
+I see okay. While someone formulates the response, perhaps I'll take a crack head. Oh, Cal, I've seen you've, oh, Aaron, an unmute and a hand up. I'll go, Aaron, you had your head up, please go. 
+
+Aaron: Thanks, ,Tim. No, I I think it's a great question. It's something that we should reflect on as it evolves cuz I think it is a moving target.
+
+It's something that changes depending on the disciplinary context. And for us in the humanities we're relatively new to computation in. Research methods. And so for me it has a lot to do with augmenting not necessarily replacing or displacing previous methods within the humanities, but it's about augmenting what we can do with computation, solving humanities-based problems with with computers.
+
+And obviously that has to do with not only the creation. Research materials, but also their dissemination. So the research lifecycle as Daniel said is definitely a part of it. 
+
+Tim Ribaric: Awesome. Great answer. Thank you Aaron. The $50, I'll slide across the table for you later cuz I think you got exactly what I was gonna have.
+
+Okay. Lily, you have your hand up, please Go for it. 
+
+Lily Wang: Yeah, I actually just wanted to add on that was. It's really great cuz I think a large part of digital scholarship is collaboration, is it's disciplinary and too easy is it to limit it to stem and I think there's a lot of potential in and then I'll be expecting $50 some air later as well.
+
+Tim Ribaric: Honestly, this is all pro bono work. Cal you had a, an unmute. You wanna jump in and contribute some things? 
+
+Cal Murgu: Yeah. Yeah, I agree with everything that's been said, but I also think I'm cautious to set the bar too high for digital scholarship. Once we throw around the, the word computation or solving problems.
+
+For folks that are new to digital scholarship, I guess I would just give you all the out. It's not, that is an option and you might get there through the course of this this institute. But there's also, I think just a change of mindset by adopting digital scholarship practice of saying, Hey, we might have been doing things analog, maybe even in the classroom, right?
+
+You might be doing a primary source analysis in a very analog way, and literally, reading maybe a printout of a letter or something. Is there another way to approach reading this material and what options does that open up? So even the practice of discussing that opportunity with students, I think is practicing digital scholarship in a much more fundamental way.
+
+But those are. Those are the practices that I think we should try to imbu in our students now because those options are available for them. Yeah, I think digital scholarship is so exciting because there are these like really hard computational opportunities. And then there are these smaller sort of foundational building blocks that I'm really interested in.
+
+And they they present themselves differently in the classroom. So there's, I think it makes her really exciting work. And then, that's, we're all trying to do that, I think. 
+
+Tim Ribaric: Awesome. Thanks for sharing that. Sharon, do you have any comments on this question?
+
+I'm, you've been working in. Digital scholarship adjacent stuff, or digital humanity stuff, GIS stuff. For a long time, even before, the term digital scholarship or digital scholarship was being used on this case, so I'm sure you have a quite a perspective on this. 
+
+Sharon Janzen: Yeah. My, I wrote down a little definition, just a really simplistic way of looking at it.
+
+And it's using digital tools to teach process data, present or visualize results in an academic setting. And I've, as you say, I've used g i s over the years and it's morphed from Some really basic command line stuff, which I was not a fan of to like what we have today, which is a web GIS that we're gonna look at in, in the mapping stream.
+
+And I think as far as GIS goes and geospatial stuff, If your content has any sort of geospatial component, you can use digital scholarship tools to present that information, analyze it teach with it, and that's what I'm really hoping. Will come to light today is that anything with a geospatial component can be used.
+
+These tools can be used for the, for teaching purposes and research purposes. So that's about what I would. 
+
+Tim Ribaric: Awesome. Thanks for that, Sharon. So I think if I'll try to make some summaries as we per proceed along through this conversation. It seems as though it's. The consensus we're landing on is that it's a comp, it's a a new sort of thing, but it describes or aids what's been going on already in the institution.
+
+So we have this fancy name of digital scholarship on top, but it's a really, a lot of what we see. Already in the institution, just with some new tools or techniques applied to it. So a colleague of mine, his name is Chris Joseph, he works at York. He, he always says, how long until we just start calling it scholarship.
+
+We don't need to call it digital scholarship. Soon enough, it'll be, the air that's around us in the water that we swim in kind of thing. Okay, interesting. So now we started off. Actually, before I go to the next question, I'll just take a quick moment to take a look at the submissions that came in through the form.
+
+So I encourage you all, if you're sitting in the audience feel free to submit a solution or submit an answer to the question, what is digital scholarship? And we can consider that. Also, by all means, if you'd like to talk over the microphone or in the chat box here, just raise your hand and we can certainly accommodate that too.
+
+But let's just have a look at a submission that's come in. Can you describe what this term means was the prompt and the response was an interesting question for sure. One that doesn't necessarily, in my opinion, have a clear response. It's greater than using i c T for academic pursuits.
+
+That includes collaboration and thinking of using digital techniques, spaces, and places infused with the pedagogical and ideological openness to change, design and multi. That's a great, that's a $5 definition right there. It is. Thinking beyond tools and more about capabilities. So that's great.
+
+And that's mission. We crystallize this idea that it's almost a mindset more than just a particular methodology or technique. Very cool.
+
+I won't take the time to tell you about what I think digital scholarship needs, because I. Be repeating the great words of my colleagues and other presenters. So I'll just say that. I'll be like, flavor fla. If this was Public Enemy, just say, yeah, I agree. I'll take now we'll take a look at our second question.
+
+So we talked a lot about abstract definitions of what digital scholarship might be. Maybe we can take a turn now to look at something more specific. And we'll do that by, I'll ask the question. Can you describe an example of a digital scholarship project that you've worked on, participated with, or seen develop that you think is a really cool initiative that you wanna make sure others know about her?
+
+Is a good example of what digital scholarship is. Anyone have a while people are formulating their answers, perhaps I'll attempt something while I'm waiting. Okay. So I think what's really great in what we've patterned today's workshop about, or on, pardon me, is university of Guelph has a summer series called humanities.
+
+Humanity summer camp, and it's very similar. It's a multi-day session, but they have people come in, this is pre covid, this is the last time they had it. They would've people come in from across North America to run a multi-day session. Very similar to what we're gonna experience here, where you just get introduced to a methodology and then you work through it.
+
+And by the end of it you have some experiences with a new tool or technique as well as some a bit of a network of support around you that. Other people that participated in the same session as you and the instructor for that session. So it was a really cool experience and I think I saw it in the chat box D HSI was mentioned.
+
+I think it's very similar to what D HSI and how it was structured, how it is structured. I should say. I haven't had the opportunity to attend D HSI someday. I certainly do hope I will, but I think. Speaking from my own experience that digital humanity summer camp at Guelph is a great example of like digital scholarship in action and, a living embodiment of what it actually means.
+
+So while I was talking, no one put up a hand, so I'm gonna slowly keep talking. Hey Daniel. There you go. Please go for it, Daniel. I'll, 
+
+Daniel Brett: I'll save you, Tim. So in terms of digital scholarship projects, most projects that we work on can fall under digital scholarship. And I think that's one of the great things about it is it doesn't matter how small the project is or how big it is, it.
+
+Most of what we do has digital scholarship into it, whether we're writing just a tutorial for people to use, but we're putting it on GitHub, for example. We're using digital tools, digital scholarship methodologies to even just share that material. One of the bigger ones that we're working on right now is we're making a website but instead of doing something like WordPress, we're doing it.
+
+On GitHub using something called Hugo using GitHub actions. And we wanted to try it in a very different way. A lot of that open source side of things, which always feels good when you create using just open source tools for, from start to finish. always a really nice feeling. But yeah, so that sort of project just the sharing of all of our materials even is a great digital scholarship project that I quite enjoyed working on.
+
+Tim Ribaric: That's great. Thanks for sharing that. Daniel. Over to you, Kyle. 
+
+Cal Murgu: Yeah, just, since we're talking about what I think digital scholarship could be, what we, examples of these. Let me just show you one quick example. Oh, I can't really share it because there's a sound component to it.
+
+But anyway, hold on. Gimme one second here. And then I'll pass it over to Aaron. I'm sure he has a really cool example. This was something that I worked on at my last job, but I still use it as an example because I think it shows like a lot of different things that can happen in digital scholarship project.
+
+So this is basically a map of the old campus where I worked and the student wanted to combine original music composition with qualitative surveys about places. And what she ended up doing was. Asking a select group of students about how they feel about places on campus, right? The Bayfront is over here.
+
+We have the library over here. And so then she had all these qualitative statements come back like, the library is great, or the Bayfront is really great, or the gym is disgusting, right? And she turned these qualitative statements. And if you're taking Erin's class later, this will make a lot more sense.
+
+I think it'll crystallize. But she was able to turn these qualitative statements into essentially a sentiment score. And so you could say, I have a negative score or positive score, and then she created original music to represent that positivity or negativity. So when you scroll over one of these maps, what you don't really get a.
+
+What you get is a sound, and that sound is supposed to to give you a sense of how the community feels about a space. And I think this really for me at least, represents what digital scholarship could be, right? Combining all these different methodologies and saying, okay, let's whip out this really simple website.
+
+And just try to create this public art exhibit. At the same time though, it's like a rigorous research process and turning text into a score. Anyway, there's just a lot of like creative elements to it that I really enjoyed. So this is an example I show all the time. I'll pass it over to Aaron.
+
+Aaron: Sorry about that. The notifications block your Un micing. I dropped into the chat a couple links to a new project called HSS Commons Humanities and Social Science Commons ca. And it's a new project that I'm working on with folks at the University of Victoria of a seven year partnership grant.
+
+That is, Is Humanities Commons, which you may be familiar with out the MLA and the United States. But for Canada because can Canada represents a specific legal jurisdiction that has particular issues there. And so we have our own social media platform for the organization of of researchers.
+
+And yeah, I think that this speaks to a particular aspect within digital scholarship that it's very much about community that it's about the networks of relationships and collaborators that come together around a project and. Because when we're working in digital scholarship, the technical component of the research and the level of.
+
+Of expertise that's required across all of these different whether it's a technical or a disciplinary focus we simply can't have all of that knowledge within one person. And so collaboration is absolutely key to this. And HSS Commons is designed to bring people together across the country so that they can pool their resources and be more effective researchers and also just know what's happening.
+
+In the research areas that they're interested in. So definitely something that's new. The launch is coming up maybe I'll drop that in the chat in a second. But the this is a brand new initiative and it's hopefully something that will drive some interesting conversations going forward.
+
+Tim Ribaric: Awesome. Thank you for that. A few examples there. I think the one lesson I'm taking away from this is that the future is collaborative. I think the recognition is these things, these tools, techniques, ideas, are bigger than just one person, as Aaron just said. And we need to make sure we communicate and share amongst one another and build a community of practice, not just, individual project.
+
+Living all on their own. So there's some interesting chats in the chat box here. Before I proceed on though, if any of the panelists wanna make any further comments about examples of digital scholarship and action that they've seen, we could certainly take a look at that. But while we're. Doing that.
+
+I'll just reiterate a comment that's in the chat box. I appreciate the disciplinary context. I've been involved in digitizing mo courses for e-learning, looking to grow the capacity and opportunities to make the courses even better beyond 2.0. Both for teachers to do ties more of what they want to do and for students to do as well as foe instructor likewise, interested in modeling and igniting curiosity for teacher candidates to just go for it for sure.
+
+Engaging fun in higher order thinking all in one. Yeah, absolutely. So I think it spans, so one. It's collaborative. I think the other lesson I'm taking away from this is that it's pan disciplinary or transdisciplinary, or it's, lives in and out of what our lives through.
+
+It's the thread that's through our idea of what disciplinary means, because it is prevalent in all these different institutions or all these different disciplines, let's say. All right. Awesome. I just maybe have a couple more questions and I see we're getting close to the end of our time, so I definitely want everyone to have the opportunity to grab a coffee, check their email before settling into their session at 10.
+
+But let me ask what I hope or perhaps will be a provocative question. We've talked about what digital scholarship is. Can we define or point out what it certainly is not. What parts of this milieu that we're looking at, can we confidently say, you know what, that's not an example of digital scholarship.
+
+That's something else. This collaboration, this disciplinary or how crossdisciplinary certainly is, but is there something in the mix here that we need to dispel and clarify. You know what, that's not digital scholarship. That's something. Perhaps a tough question and certainly one that I don't have an answer for.
+
+So hopefully one of our panelists is thinking on their feet, coming up with some interesting response to that while we are waiting. Oh, Aaron? Yeah, go for it. 
+
+Aaron: Just ready to go, aren't I? No. I in conversations in the digital humanities, there was a lot of talk about a big tent.
+
+And think that is that is certainly true. I think that There is no bar for technical sophistication that includes you or excludes you from the cool kids table. That working with a spreadsheet is can be incredibly powerful. And if it's creating new insight and there's discovery, then it's included.
+
+And so I think that I have a very as you said, $5 word. I have a very capacious sensibility around the definition of digital scholarships, so I would have be hard pressed to find what's not included. 
+
+Tim Ribaric: Right on. Great answer, Aaron. Anyone else would like to add or contribute or come up with a different perspective?
+
+Oh yeah, Cal, go for it. 
+
+Cal Murgu: Early on in, if coming from a similar angle as Aaron in the DH conversation, there would be this talk about for it to really be digital scholarship or digital humanities, you have to create, right? And so I don't think that I don't think digital scholarship has to be like this unique.
+
+Really novel tool or program or script or something. I don't know. That's not necessary. And I think there is a wing of this community that still believes that, which I think is an antiquated form of thinking. Particularly for new students that we're trying to, I don't think it's helpful because we're trying to introduce students to this, right?
+
+And we can't start off by saying, digital scholarship is you creating a program or a new piece of software or a script, right? It has to be smaller than that, in my opinion. So to flip the answer, I don't think digital scholarship is a unique sort of production of a new piece of software or something.
+
+It could be augmenting something, it could be remixing something, it could be approaching something from a new light that is informed by Digitality. Yeah, 
+
+I'll stop there. 
+
+Tim Ribaric: Awesome. Great comprehensive answers. Thank you both. Sharon. Yeah, go for it, please. 
+
+Sharon Janzen: Yeah, I just have something very quick to add.
+
+In talking to students about digital scholarship and the digital scholarship lab and all this stuff, there was a lot of confusion for them. They thought that it meant an award of some sort, a scholarship. So in. Teaching and presenting about digital scholarship. I think there's a real case for coming up with an easy to explain definition so that students aren't confused.
+
+Am I winning an award or what is this? So that's what digital scholarship is not, it's not an award. 
+
+Tim Ribaric: Great, Sharon. Thanks. Yeah I should have known that you would come up with a sensible, not provocative, that, of course, Tim, it's not a scholarship, obviously. Yeah, very. Yeah. I think that's a great example of us being mindful about the nomenclature and the terminology that we use.
+
+It's easy for us to bandy about these words, but what is the community in Brock think about these things, right? Daniel, I see your hand up, so please go for it. 
+
+Daniel Brett: Yeah. Similar to Sharon. Just a quick aside, I was thinking about what we've been talking about up to this point and your comment about scholarship versus digital scholarship.
+
+At what point do they just blend into one and it really would just be anything that is. Scholarly in the sense that you're learning or creating or doing something that uses digital means is my opinion. So if you're physically using a pen on paper and writing a note to somebody and handing it to them, that's not digital scholarship.
+
+That is you're writing a note to them. But even just. Using cloud storage to store your files somewhere that somebody else can collaborate on them with you. That's digital scholarship in my opinion. Like you are working together using digital means on something. And it's, its. In my opinion, it is just that broad.
+
+It is, you are using digital means to do scholarly things. And yeah, that, that's just it. So anything that's just I'm gonna open this book and I'm gonna write down with my pen on a piece of paper and then hand it to somebody that's not digital scholarship. But pretty much anything using digital means, I think would be considered digital scholarship, so long as it has a scholarly aspect to it on some level.
+
+Tim Ribaric: Awesome. Great answers everyone. Yeah another theme I'm picking up as we talk about this, next. Question is the idea that it scales up, right? It's available at different resolutions. It doesn't need to be large, comprehensive projects that are the result of government grants. Sometimes it's as simple as, the instance of people sharing or building a tool or using a collaborative.
+
+Peace in between when they're communicating with one another. And I think that's a really great way to end today's sort of discussion. So I'll just say thank you to everyone for participating in your discussion and sharing the your lived experiences in digital scholarship while we're trying to figure out exactly what this thing means and how we practice it here at Brock.
+
+I think the one big key takeaway. Have, hopeful and happy about is the idea that this is a community that's being built or, we need to consider this as a collaborative effort. And so with that said, look to the digital scholarship lab as the place to develop this community.
+
+I'm sure each and every one of you has performed or participated in or has worked on some sort. Project teaching tool in class piece that would be, considered digital scholarship. And let's hope that, our workshop for the next couple of days helps us build up some more. Skills and more techniques as well as grow this community even more.
+
+I'll just conclude by saying the link to the workshop material is there. However, it's all in teams for you, so I'll encourage you to check it out there, make sure everything is working okay. And then the last thing, if you encounter any troubles over the course of the next few days, please send dsl, DSL@Brocku.ca u do.
+
+Brockie who.ca, and email and we'll get to the bottom of it right away.
+

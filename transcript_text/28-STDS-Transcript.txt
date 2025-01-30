@@ -1,0 +1,331 @@
+Ep28
+===
+
+Tim Ribaric: Hello and welcome to episode 28 of Steering the Digital Scholarship with me today, the one and only Daniel Brett. Hello. I say the one and only because we're our triangle is down to a line, I guess is. When you go down one side from a triangle, all you have is two sides 
+
+Daniel Brett: that I guess if you want it, if you flatten it out, two sides is a line.
+
+Otherwise it's like a Chevron or a v. 
+
+Tim Ribaric: Huh, okay. Yeah, that makes sense. Okay, so we're no longer a triangle, we're some other shape? I say that because we'll be talking about. Going from three to two, last episode, we bided you to one of our founding mo members, and since then it's just been Daniel and me that have been holding it down.
+
+So before we get into today's bit of business, I just wanted to a moment to recap the workshop that we went in today. Daniel, can you briefly describe what we sat through this? 
+
+Daniel Brett: It was a really interesting workshop about a tool called Tropi or Tropi whatever. Gosh. Yeah, the la latter half of the word entropy.
+
+It was a tool for maintaining the metadata of images and keeping a nice clean sortable list. Hundreds or thousands of images that seems extremely useful for anybody, especially historians, but anybody really who's doing photo-based research because it can really clean up and help you stay organized, but also help you come up with some better insights into your data.
+
+Just by here's my 2000 image. And then you can look at the metadata in a nice j s o format and figure out run analysis on it. So it's a really neat tool. I highly recommend checking 
+
+Tim Ribaric: it out. I thought it was, yeah, equally. I thought it was pretty useful. And it's interesting, the thing I didn't wanna bring up in front of everyone and waste their time was that it's the computer on your desk doesn't have that sort of stuff built into it.
+
+It actually needs to be another. Platform, which I thought was odd. You'd think if you're downloading pictures on your machine, Google Photos or Apple Cloud, whatever, would have that sort of built-in functionality, but not really though. So I could see why someone has put the time into develop this thing.
+
+It seems pretty interesting. Anyways, I really liked 
+
+Daniel Brett: that it was by the people that did Omeka, a tool that we're quite familiar with En Zotero as well, which is another tool that we keep our eye on. Looks like there's a trifecta that we weren't aware of. 
+
+Tim Ribaric: Nice callback to the theme of today's episode.
+
+I think we need to have a serious talk right now, however, about the naming of these things. There's Omika and Omeka and Tropi versus Tropi and Zotero. Zoro and I think this needs to come to an end. We need to pick names for these platforms that are not ambiguous. What do you think? I don't know.
+
+I like 
+
+Daniel Brett: ZT Euro. I think that's a pretty common way people are saying it, right? Zt, Euro. Zoro. 
+
+Tim Ribaric: Yeah, definitely. I heard it like 10 
+
+Daniel Brett: times today. Good old Zot Euro. And then Omeka is a hard one because I've been working with Omeka. For over a year now, since 2018, and everybody I talk to says it differently, everybody.
+
+So there's the two slightly bigger camps, which is Omeka and Omika, and then I've heard everything from Omika. 
+
+Tim Ribaric: Oh gosh. That's a new one for me. I've never heard that. 
+
+Daniel Brett: To just ik. And I'm just like, that's, you're missing some letters there. But 
+
+Tim Ribaric: he goes like an affectionate way. If your buddies with Omika you 
+
+Daniel Brett: can just call it Ika.
+
+Yeah. It's a pet name. Yeah, it's, I've heard a lot of different ways that different people say it. And then a lot of really neat neat ways to say it with accents too. Oh. But that one's a hard one because I've never actually seen an official. Omeka Omika 
+
+Tim Ribaric: talk. So now are you familiar with the Linux versus Linux debate?
+
+Daniel Brett: I always thought it was Linux. 
+
+Tim Ribaric: Apparently every distribution of Linux comes with an audio file of the fella that created Linux saying the word Linux, his fell. This fellow's name is Linux Voltz to add more Lin sound. Linux not. Lenis, Linus, I don't know. He's Scandinavian, so I'm confused now. But the point is we need to get away from these conversations and we need to have platforms that have unambiguous 
+
+Daniel Brett: pronunciations.
+
+So you're saying we need to make up a document that has like in the dictionary where it has, how to say the word beside the word? Yeah. We need a document with that for every single tool we support in the digital scholarship. 
+
+Tim Ribaric: Oh gosh. I think what we need is a grant to investigate this. We need a linguist and someone familiar with the history of language to get to the bottom of this, cuz there's no way we're gonna figure this out.
+
+Daniel Brett: Yeah, I'd be okay with that. I think it'd be a very valuable use of a grant money For sure. For sure. Okay, I take that grant. 
+
+Tim Ribaric: So having said that, any funders listening that want us to investigate the names of DH tools or DS tools, please let us know cuz we have some working hypotheses already.
+
+Right off the bat I mentioned we'd be talking about sidekicks and summer tricks. Did I say that? I should. You didn't. Okay. So that's the theme of today's. Why Summer tricks? Because it rhymes with sidekicks. So don't at me. So first thing then I'll ask you the question as we are want to do. What is your favorite sidekick and main combo 
+
+Daniel Brett: Sidekick as in a food sidekick or a superhero sidekick?
+
+Tim Ribaric: It's listen to. You have the instructions from my question. That's all that I'm gonna give you. 
+
+Daniel Brett: Sidekick and main combo.
+
+I've never been to Maine. 
+
+Tim Ribaric: You've never driven a Suzuki sidekick either? 
+
+Daniel Brett: No. Let's see. I can name some, but I don't know who would be my favorite if I'm thinking superhero. For food, probably just like root beer and ice 
+
+Tim Ribaric: cream. Okay. Yep. Oh, wait a minute. What's the sidekick and what's the 
+
+Daniel Brett: main ice cream's?
+
+The main always. Oh, okay. All right. That's a full meal. Yep. Yep. And then you have to have your root beer with it. Sometimes you put one in the other. But superheroes. Yeah. I don't know that's a hard one. There's too many superheroes and there's not a lot of sidekicks anymore that's a, an old concept.
+
+In the comic book world, there aren't really sidekicks because that seems. To derogatory. So they've switched to just lesser and greater characters. 
+
+Tim Ribaric: You mean just ensemble casts with 40 people in three and a half hour long movies. That was an excellent movie, but yes. Why? For how do you know what I'm speaking about?
+
+Daniel Brett: Oh, I don't know. I've worked in a comic bookstore long enough. Oh, there you 
+
+Tim Ribaric: go. So no answer for That's your ice cream and root beer. Yeah, we'll go with that. What about you? All right, see, that's, I didn't have an answer for this and that's why I'm amping a lot and asking you follow up questions, but close to my heart, and I'm just kidding myself if I say otherwise, but it would be pizza and wings.
+
+That makes sense. But don't ask me what's the main, because they're both, I would have I guess just for the sake of religious tradition, I would say pizza is the main and the wings are the sidekick. Oh boy. Now I'm hungry. 
+
+Daniel Brett: I'm good. Bone wings, I had some really good wings on the weekend. Right 
+
+Tim Ribaric: on.
+
+So this brings us to our next question. Now this is just as freeform as our previous question. And this activity is called Sidekick or. Okay. Okay. Sidekick or not everyone listening at home sidekick or not. Okay. So first question, Batman and Robin. Are both of them sidekicks sidekick or not? That's the only not, yes.
+
+So you, no, you're incorrect cuz that is sidekick because one of them is a side. Robin is 
+
+Daniel Brett: a sidekick. He's no longer a sidekick, and it also depends which Robin you're talking about. Okay. Because there's about eight of them now. Unless you, Kyle, the Robin's arc and then there's about 600 of them. Oh, is that like the Spider-Man multiverse?
+
+No, it's one where like all of the teenagers in Gotham decided that they want to be Robin and they go around beating people up. 
+
+Tim Ribaric: Okay let's I should have known to, to not, to bring my minimal knowledge of comics to a gunfight, my knife worth of comic knowledge to a gunfight. So let me try again, the television show.
+
+Batman and Robin from Adam West. That's the one back 
+
+Daniel Brett: then? Absolutely. Robin was the sidekick. All 
+
+Tim Ribaric: right. We have one answer. Sidekick. Yes. Robin is a sidekick in there. Okay. We've established the ground rules for this one. 
+
+Daniel Brett: I feel like there's some leading questions here. 
+
+Tim Ribaric: No, see where this is, where if we're not, nothing if philosophical, if not philosophical.
+
+Fair enough. The questions will be abstract as will the answers. Here we go. Okay. So public enemy sidekick. 
+
+Daniel Brett: Like just the term public enemy. 
+
+Tim Ribaric: Oh, you're a certain age. That's different than my age. So when I say Public enemy, it doesn't invoke something in your head. Like with Chuck D and Flavor fla, I'm not familiar with these people.
+
+Oh gosh. Okay. The reason why it's on my mind is because public Enemy was a hip hop group. From the, let's say early nineties. Okay. Is when they were the most popular. They had this fella named Chuck D, who was a singer, and then there was also Flavor Fla. He's that fella that wears the clock around his 
+
+Daniel Brett: neck.
+
+I have seen him in like skits and stuff. Okay, there you go. 
+
+Tim Ribaric: So way back when they had a lot of cultural re relevancy. There was they were a group and Chuck D did that, the heavy rhyming and then flavor. Flavor would just jump around and go Yeah. Boy, every once in a while. So this is ringing some bells now, right?
+
+Okay. So most recently they were at a benefit show for Bernie Sanders. Nomination to be the Democratic candidate in the American election. So they had a big whoop de do during this event. And Public enemy effectively broke up because of different politics between these two guys, Chuck D and Flavor fla, which is why it was on top of my mind, which is why I asked Sidekick or not.
+
+So knowing all of that, I ask you sidekick or not Public Enemy, what's your answer? No. See there you're incorrect. Again, sorry. Flavor. Flavor is clearly the sidekick in that arrangement. And Chuck D is the superhero or the main fella. All we even more clear on how this works or even more obscure.
+
+Daniel Brett: Not to sound pensive, but I'm really missing our third head of this trifecta. 
+
+Tim Ribaric: The triangle to align is is feeling itself known quite heavily at the moment. Definitely bridged a gap. Okay. So I'm gonna, I'm going to yeah, there's probably some generational stuff here everyone's laughing at, so let me try another one here.
+
+That's probably a little bit easier. Hopefully it's a bit easier. Beans and rice sidekick or not? 
+
+Daniel Brett: Sidekick for sure, because I don't see how they would relate to each other 
+
+Tim Ribaric: at all, but, oh, Daniel, sorry. The correct answer is not sidekick because they both come together and they're both equally good.
+
+So if you go to Mexican place, they're both like beans and rice mixed together. Not like bean paste or whatever. It's like pinto beans with 
+
+Daniel Brett: fried rice. Oh, I was thinking like Can of beans. Oh, okay. Maple 
+
+Tim Ribaric: beans. See this is more cultural cultural divides between the two of us. Beans and rice in a typical Mexican Spanish arrangement is, grilled together in, in a paella or a, a side dish to some burritos or something.
+
+Oh, yeah, burritos. So beans and rice. Okay, here we go. Here's another one. The odd couple sidekick. I'm, he's, okay, ladies and gentlemen, he's looking at me again, like I'm speaking a different language. 
+
+Daniel Brett: Am I allowed to Google? So based on that name, I'm going to assume that one of them is a sidekick and one of them is not.
+
+Oh, Daniel. 
+
+Tim Ribaric: So sorry. In the odd couple, they're both equally goofy, so they're both. There's not one leader, there's no superhero and sidekick. They're both they're both pretty silly fellas. I should 
+
+Daniel Brett: have read into that. Yeah. So the idea of a couple is equal partners. At least that's what my wife tells me.
+
+Tim Ribaric: That's even more it's more insight into how this game works. Okay, so now that you're thoroughly confused, I'll ask you another one. Radioactive man and fallout. Sidekick 
+
+Daniel Brett: for sure. That one? Yeah, that one's easy. Okay, you got that one? I got the Simpsons reference there. We, yes. 
+
+Tim Ribaric: I thought you were gonna say it.
+
+I understand that as a group from the latent S, but I've never heard of radioactive before. I have 
+
+Daniel Brett: heard of Fallout Boy as well, but no luckily for you, my wife is a big Simpsons fan, and therefore I am a Simpsons fan by proxy. Alright. 
+
+Tim Ribaric: Good. Good. We're making some real progress here. After three swings and misses, we got finally connected on one.
+
+All right. Now I got a, another one for you. Food related steak and eggs. 
+
+Daniel Brett: I have definitely had them together. I would call them equal. I've eaten both equally, probably, although eggs maybe a little. Yeah I'm gonna say, 
+
+Tim Ribaric: so in a breakfast of steak and eggs, you'd say it's not sidekick they're a team.
+
+Yeah. Equal partners. Yeah. Sorry, Daniel, you're wrong again. 
+
+Daniel Brett: Let me guess. It's steak superior. Of course it is. It always is. Then why do we eat so many 
+
+Tim Ribaric: eggs, goes without saying? You would eat more steak if eggs weren't around. If you had, a plate of steak and eggs, the steak would be more popular.
+
+Goes. 
+
+Daniel Brett: Okay, I'll take your word for it. I haven't done this study, 
+
+Tim Ribaric: ladies and gentlemen. Next episode I encourage you to tune in where Daniel asked me a bunch of questions about things that I know nothing about, and I look absolutely silly. I'm looking forward to it myself. Join us in two weeks for that.
+
+Okay, so I've got a couple more sidekick or not. Okay, here's one. SpongeBob and. I would 
+
+Daniel Brett: call them equal parts, just because I enjoy them both equally. But I think from society's point of view, then Patrick is definitely the sidekick. 
+
+Tim Ribaric: See, I would agree with your initial feeling on the topic. So what did bef while I say that, what's your final answer?
+
+Daniel Brett: I, from a global view, I'm gonna say sidekick. From a personal view, I would definitely say equal partner. 
+
+Tim Ribaric: So if you had to fill in the bubble on the Scantron, And you're just about to hand in the test which one would you fill in? Oh, I 
+
+Daniel Brett: would, if it was just for me like a test, then absolutely.
+
+I'd say they were equal. Good. Because 
+
+Tim Ribaric: that's a correct answer. 
+
+Daniel Brett: Oh, okay. I like how these very subjective questions are having and wrong 
+
+Tim Ribaric: answers. Yeah. There's, there's only one truth in the world and we're pursuing it. So how can something have more than one answer? Is that subjective or object?
+
+That's an objectives or subjective statement. All depends on your outlook, really. Okay. So I've got one more for you. Okay. And then I'll ask you to come up with one yourself if you've got one. So while I'm asking you this, it gives you some time to think about what your sidekick or not question might be.
+
+So here we go. This one is from literature. Think back to high school. Lenny and George from of mice. Oh, that's been a while. The only reason why this is anywhere in my active memory is because I'm currently listening to the audio book of 11 26 63, which is the Stephen King book about time travel.
+
+And he mentions going back in time and being a high school trauma teacher where they come up with that. As a play they do. So that's the only reason why it's in. So I'm gonna keep talking more stuff while Daniel searches for an answer. I in his mind about what he's gonna say to sidekick or not for this.
+
+I 
+
+Daniel Brett: don't remember it well enough to remember which characters those 
+
+Tim Ribaric: were. Good. Good call cuz I barely do. And we're gonna leave it to an ex as an exercise for the reader at home to figure out re reader. Reader. Yeah. Oh, cause they have to read the book right there. You. If, whether that's a sidekick or not, that's your homework assignment for the audience.
+
+Let us know on social media. There you go. Yeah. Use hashtag Lenny or Lenny and George. Question mark. I don't know. 
+
+Daniel Brett: Can 
+
+Tim Ribaric: you put question marks and hashtags? I don't know. Question mark. Can you put a hashtag in it? No that, that's gonna take forever. All right. Before we switch gears here, do you have a stuper you'd like to throw in my direction?
+
+Everyone's favorite game show sidekick or not? Sure. All 
+
+Daniel Brett: right, here we go. Laptop and cell 
+
+Tim Ribaric: phone. Oh, nice one. This I think is gonna be a generational thing as well cuz definitely for me the laptop is primary. Phone is a sidekick. So I will say sidekick is my answer. Nope, they are 
+
+Daniel Brett: definitely equal in terms of importance in daily use.
+
+I 
+
+Tim Ribaric: am. But I will capitulate and graciously take the correct answer as being the same. 
+
+Daniel Brett: Yeah, I have both of them in front of me right now. 
+
+Tim Ribaric: Interesting. Very interesting. All right. Thank you for indulging me in this weird excursion.
+
+As I said, from the top of the episode are not quite the top of the episode. Today's was going to our discussion today would focus on sidekicks and summer tricks. So we've accomplished this sidekick discussion for today. Now we're gonna think about and talk about the summer time. So we only have about two more term, two more months left on this term.
+
+Then we'll be into that wonderful. Busy at not busy period of the summertime when there are no undergraduate students here. But time still flies by really quickly and then you feel like nothing has been accomplished even though there's no one around and you had plenty of time to work on stuff. So that's very pessimistic, as is my nature, as I'm sure so soon enough the term will be done but it doesn't hurt to start thinking about what's gonna happen this. I'll go through some stuff that we have tentatively scheduled and I'll get your thoughts on them. So we have upcoming in May, something we're calling the Digital Scholarship Initiative.
+
+Can you paraphrase for the audience what exactly that is, or is that something that 
+
+Daniel Brett: I should do? I feel like that's more up your alley. The extent of my interaction with the planning of this has. What should we add to the digital scholarship initiative? 
+
+Tim Ribaric: There you go. Okay, so then that speaks volumes there.
+
+I need to communicate exactly what DSI is more. I think the interesting or not interesting thing you see a lot is institutions offering like boot camps or week long sessions, or in our case, it's gonna be a two day session that really is supposed to introduce the tool and really, or introduce.
+
+In our case, digital scholarship platforms and tools in a very condensed timeline with the aim of creating mildly or moderately sufficient users of those platforms so that they can go take that skill and apply it to whatever it is they're interested in. The the. That probably in the province.
+
+Anyways, that has the best track record with this and that probably has the best gold medal is Guelph. They have a DH summer camp that they've been running for the past four or five years, probably even longer. I went maybe two years ago and it's a five day thing and there's six different concurrent session.
+
+And you go to one of those sessions for all five days and then you learn one thing top to bottom in my case. And I'm looking at my certificate on the wall now. It's hidden right now by a piece of garbage, but it's I did a five day thing on semantic text analysis. So that was pretty interesting. We learned a tool and a technique over the course of five days.
+
+Worth the time. In our case, what we're gonna do is a two day long workshop that will help researchers here develop an assignment for their classes featuring one of three different themes. Daniel, do you remember what the three themes are? Visualization, textual analysis and multimodal websites.
+
+Yes, that's 
+
+Daniel Brett: correct. I knew text analysis and visualization were them. I was blanking on the third one so because two of those are ones that I interact with on a daily basis. And the third one is a term that I very rarely say 
+
+Tim Ribaric: so. That's one thing we'll be doing this summer, but that's early summer and I'm sure we'll report back on how that went and we might even get someone on the microphone that attended that session to get their honest feedback about how it went.
+
+So that's one thing in the hopper. The other couple things we have a, another library, carpentry. At the University of Ryerson set up for end of April. And that one's gonna be done in collaboration with some Employees of University of Toronto and other spots in, in, in the gta. So that'll be interesting and fun.
+
+But that's still even before the summertime Funtime really hits. And then the last sort of potential thing we have on the go is some grants we applied for might come in and then we'll be able to work on some interesting projects while we get through those grants. So having said all of that, Daniel, my question to you is, what do you think we should focus on in the.
+
+And or what projects do you think we should have a look into and maybe should we focus on another tool to add into our arsenal? 
+
+Daniel Brett: Something that caught my eye just this morning talking about trophy as well as our idea of maybe looking into some more AI type analysis was maybe doing an image based.
+
+Workshop multi workshop program where we would talk about getting the images, organizing and maintaining metadata using trophy, and then you take it to the next step where you do analysis on that. Using either we could do a programming language looking at the J s o output from tro, or we could use AI to run like a tour flow, not tour flow.
+
+Tensor TensorFlow. Analysis on it to sort them. Classify, get some interesting outputs there. Maybe even use our Azure vision that we have access to. Oh yeah. Yeah. And do some analysis with that. Come up with nice captions for things or something beyond. And further just image focused cuz we don't do a lot of image based workshops or tools that work with images.
+
+And maybe even down the road, something to do with video. Because these are tools that different, a different type of researcher are using. We're focusing a lot on the programming side. Yeah. But our job is to support researchers with tools for the whole campus, not just Goodman School of business and computer science.
+
+So maybe broadening our scope a little bit to something like that. Cool. Would be cool. Really cool and fun. And we've got all these tools that we've tangentially touched upon. In our explorations that we could pull together into one. I feel like we could make a cohesive unit out of that. So that's just one idea off the top of my head.
+
+That might be fun to pursue over the summer. 
+
+Tim Ribaric: Neat. That's good. Good. What do you think what do you think about my hair-brained idea to investigate badges for workshop attendees? 
+
+Daniel Brett: I absolutely love that idea and the badge system that we were looking to. What was the name of it again? Open 
+
+Tim Ribaric: Badges, I think.
+
+Open Badge. Shout out to Mo. Yeah, 
+
+Daniel Brett: They're integrated globally, so they're, they are recognized and I feel like having a tangible, something that you can put on your LinkedIn or put just on your wall that says, Hey, when I completed these three digital scholarship work lab workshops I earned this badge, or I have done this thing so that you can, we can make some sort of pathway through.
+
+The digital scholarship space that is a little more guided, a little more structured than just, these are our workshops. Pick the ones that are relevant to you and attend them which is great, and that is, is going well, but I think giving a little bit more structure would be beneficial to 
+
+Tim Ribaric: us. As a consequence of that, I think.
+
+Encouraging people to attend more to accumulate this credentialization will encourage them to not be no-show when they sign up for workshops, which is a chronic problem, I believe. We're not the only one experiencing. 
+
+Daniel Brett: Absolutely. I think that's a really good point. And certifications of any kind really draw in.
+
+Young entrepreneurs and people looking to, to build up a resume for the workforce once they leave school. And getting on board that train would just be a relatively easy way for us to tap into all of that potential a attendee ship. 
+
+Tim Ribaric: Yes. Awesome. So you heard it here, folks. We talked about it. So it's something we have to do.
+
+Call us up in September and ask us our progress on that. We'll see. And then hopefully we'll tell you that we were successful in putting something together with respect to that. Very good. So I'm gonna give you, before we sign off here, I'm gonna give you the last word. Anything else you think we should concentrate on this summer?
+
+Daniel Brett: Polishing. I, polishing? I think everything we have. It looks good and it's functional, but we've got time now. The space has officially opened. We are open now. We've done it. We've been flying by the seat of our pants with no actual space. And I think we should take this summer to go back and look at everything we've done and work through from a year and a half ago when we started this crazy adventure and just polish our way all the way up to present.
+
+Just when we look back, we could be proud of what we see. 
+
+Tim Ribaric: There you go, folks. We strive to be proud of what we see and then goes without saying. The other thing I hope happens this summer is we go from a line to a triangle again. That will be very useful. All right, so thank you for joining us.
+
+This time around. I'll drop the anchor here. And I will say with great enthusiasm that next episode, one of our student employees will be joining us. Emily b will be dishing about her work in the dsl. It's our space and then they map data GIS library as well. She'll be comparing which one is more fun and exciting and 
+
+Daniel Brett: that's a dangerous question.
+
+Put her right 
+
+Tim Ribaric: on the spot, of course not. We won't put her anywhere and her tremendously expansive final project. I hope she has a real chance to dig into that. And I'm sure you all are looking forward to it as much as we are. So that's it for us, for now. Catch you.
+

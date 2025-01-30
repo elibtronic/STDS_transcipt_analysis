@@ -1,0 +1,393 @@
+Ep19
+===
+
+Tim Ribaric: All right welcome to steering the Digital Scholarship, episode number 19. Today our theme is gonna be focusing on the 19. As today is our 19th episode, we're gonna take a look at some things that are having to do with 19 in particular. There's two things want us to spend some time chatting about, and that's going to school, which is what I did when I was 19, and then also prime numbers.
+
+I don't wanna spoil anything. So let's get into our conversation.
+
+So orientation week starts today and campus is now jam-packed full of people and it's, it always comes on. So suddenly it's always last week there's nothing and then suddenly school starts and it's madness and it bothers me a lot just cuz I wish he could ease into it as opposed to it happening so quickly.
+
+I'll ask the question of the two of you. Go back to when you were younger and you were barking upon your studies here. As you are both alumni of this institution. What did you feel like when you came onto campus for the first time? 
+
+Alicia Floyd: I felt overwhelmed, to be honest. I think that, like you said, it's just.
+
+There's stuff everywhere and it's chaotic and you have no idea where you're going or what you're doing or who anybody is. It's all exciting. It was all exciting for me, but I also didn't live on campus, so I think there were a lot of groups of people who already knew each other and had made friends.
+
+And then a lot of people I went to school with didn't either go to post-secondary school or didn't go to Brock, so definitely felt outta my comfort zone, but I was still excited to start. 
+
+Tim Ribaric: What about you? 
+
+Daniel Brett: I was very excited. I traveled a lot growing up, so this was just another place to me. It wasn't terribly different from anywhere else I'd been, except just a few more people.
+
+So it was just super exciting to have a new place to explore. And yeah, I just spent my first week exploring and having a good time. 
+
+Tim Ribaric: So I ha I have a sense Alicia, why you might have picked Brock being the school that's close to home. Did that figure in your calculation for why you chose here?
+
+Alicia Floyd: Yeah, for sure. I didn't even apply to a school outside of the area, so I covered my own financial situation. Gotcha. So I worked to pay my way through school and so staying home was the way I did. 
+
+Tim Ribaric: That makes total sense. I. Did the opposite. I picked a school from my undergrad that was far away from here because I didn't wanna be close to home.
+
+I don't know what that tells you about my personality, but that was my rationale for where I went to school. Now, Daniel, you didn't grow up in the Niagara region or close by, so that's not the case for you. Can you talk about why you decided on Brock? 
+
+Daniel Brett: It was the ise. Specifically that drew me here. I applied to three universities for three very different programs.
+
+I got accepted to two one of which was the ISE program here at Brock. The other was cultural studies at Trent. And I chose ISC because game design sounded a little bit spicier than cultural studies, although I'm sure I would've enjoyed that. And then that was the big draw for me was the specific program that was only offered here.
+
+Tim Ribaric: Very cool. So you were like into experiential education before it was even like a thing. Before it was cool in, in a very hipster way. It's cool. I don't know. That's 
+
+Daniel Brett: it's cool. Oh, okay. Then, 
+
+Tim Ribaric: Yes. They are spending a lot of sort of time and energy promoting the heck out of experiential education here and just, those that don't follow the Brock newsfeeds will not know this, but every program now offered by the school has some component of experiential education that you can.
+
+Get yourself in. So any program, no matter what, no matter how esoteric what I really find interesting is the idea that the philosophy program somehow has experiential education involved with it in lieu of the fact that every program does. So I'd be really interested to see what that ends up being like.
+
+But who knows? Maybe I'll call up some people in philosophy and see how they participate in the experiential ed portion. I guess my first day at. Happened in 2015 when I started in a Master's of Computer Science program. So I had already completed two degrees and I started my third one here.
+
+And I remember my first day of class it was like at least 10 years, maybe even longer since I was formally in a classroom and I was really nervous. And I don't know if you remember that episode, What show is it where Steve Buemi is he's dressed up like a kid even though he is 40 years old and he's trying to blend in with a bunch of teenagers.
+
+Oh, I don't know 
+
+Daniel Brett: about that one. I just know the meme. Yeah. That you're probably 
+
+Tim Ribaric: referencing. Yeah. So if Buemi, I think it was like 30 Rock or some show such as that, and he's like hanging around with these kids and he's got a shirt that says Rock band on it. Not the video game, just generic rock band.
+
+And he's. Hang out with all the kids and talk to 'em, and that's how I felt when I started school here for the third time. But, it was worthwhile and fun. It was a very difficult thing and I started off part-time and then I wrote my thesis and it took forever to finish. But all in all was a good experience and I do enjoy.
+
+Did, enjoy, do, enjoy Mike Brock Educat. So we can look lovingly now into the future about what the students are gonna be doing and the activities happening and popping on campus. But let's just take a quick reminiscent. Look back at the summer and maybe I'll ask you both. What are you gonna miss most about the summer, the 
+
+Daniel Brett: Timmy's line?
+
+Alicia Floyd: Oh, that's such a good answer. It's You mean the lack of a Timmy's 
+
+Daniel Brett: line? Yeah. Oh, it was so short in the summer, and even just this morning walking by, I was like, oh, yep. Never again. Not for another eight months. 
+
+Tim Ribaric: See the my My piece of golden wisdom for this is that the there's two Tim Hortons that are sim situated fairly close on this campus.
+
+One sells food, the other one doesn't. Or full, it sells pastries and such, but not like sandwiches and that. So that's the one I always go to no matter what. And the line tends to be a touch shorter. I actually heard from a colleague of ours that they have online ordering at the. Branch of Tim Horton.
+
+So if you get outta your car, you can order a coffee and by the time you get up to the window, it's there. And that to me just sounds like witchcraft. I'm not too happy about that. 
+
+Daniel Brett: I've been watching some people pick it up and it's they literally just walk up and grab it. Just, it's just left there defenseless.
+
+Yeah. Anybody could take it. 
+
+Tim Ribaric: We're really we're really trusting one another in this situation. All right, Tim Horton's line. That's good. Now, Alicia I didn't think you, I. Full answer from you. What's your, 
+
+Alicia Floyd: what you doing this most? My answer is not as fun and amazing as that one. Cause that is such a good answer.
+
+For those of you who aren't on Brock campus, the lineup for the Timmy's can be like 40 or 50 people long at times. It's insane. My answer, my mind right away went to the weather. The campus here is so beautiful and on lunch I often went outside to eat lunch and go for walks and, cherry blossom season's great and Thursdays and they have a.
+
+Market set up with a guy playing a guitar and singing songs, and it's just, I don't know. It's a great place to be in the summer. I like it a lot. 
+
+Tim Ribaric: My, my favorite is if I can use an adjective to describe it as how monastic campus is during the summertime. It seems like serious business, yet no business at all at the same time because there's not a lot of hoop.
+
+But anyone that's here is here for grad studies, or, most undergrads are here for under intercession, pardon me, take a class and then they're gone. But whoever's here for the, for all four months are usually grad students working on ccs or faculty members putting together grand applications or doing important heavy duty work that needs long uninterrupted silence and, cozy intellectual surroundings.
+
+So that's what I'm gonna miss the most of the summertime. But anyway, that's not to say you don't get that environment here during the school year. It's just a little too frenetic to be able to enjoy it in the same way. Okay. So that's what we'll miss. What are you looking forward to, Alicia? What do you, how would you answer that?
+
+What are you looking forward to the most with the start of the school year? Obviously 
+
+Alicia Floyd: I'm looking forward to the space opening, which I really do think is gonna happen by the end of September. Hopefully. And I really like the hustle and bustle of having thousands and thousands of students on campus.
+
+There's something about just having so many people around it keeps you busy, makes your work day go really fast. And we're hiring some students this year and I'm so looking forward to that and working with other people and seeing what other minds have to come up with their ideas and the projects they wanna work on and everything they're gonna bring to the table.
+
+And I just feel that it's going to push us in a way we haven't really been pushed before in this department since we're just starting out. Those are the things I'm really looking forward to this September. Neat. 
+
+Tim Ribaric: I'm happy you touched upon the topic of the student staff that we're hiring and I think it's a, it's fairly unique or unique for a lab in our situation to have, student staff.
+
+We know our colleagues at McMaster operate on a different sort of paradigm so they don't So it's a, it's an interesting challenge and a set of what's the opportunities ahead of us. Can you talk about briefly what you how you're finding this experience so far with the hiring and that 
+
+Alicia Floyd: so far it's gone fairly smoothly once the postings got up.
+
+We've got some really great applicants, which I'm excited about. It's always good to have more applicants than positions available, so that's happening. And I'm most excited about thinking about the work that they're gonna do really aside from like the day-to-day tasks that they're gonna be working on.
+
+I'm so interested in seeing, like we said, a million times, we consider the DSL an idea factory and. So many people who have applied from various departments and disciplines on campus. So I'm looking forward to seeing what projects they come up with. So I mentioned projects earlier, so I guess I should clarify, aside from the day-to-day tasks, I think we're hoping that the students can bring into the DSL some of the work they're doing in their courses.
+
+So not sure what that will be for each discipline. So computer science would obviously be probably different than psychology or even English lit. But to see how they can take everything we have available at the digital scholarship lab and turn it into something is exciting and that hopefully will give us some examples of what people can do.
+
+And Also, I think that if we show those that work by dis different disciplines, we'll be able to give those examples to help people become more confident and less nervous or apprehensive of exploring something new on campus. 
+
+Tim Ribaric: Oh, awesome. You're as enthusiastic as I am about it, but I think you're less.
+
+You're less freaked out about it, or at least, no, I'm not. At least it doesn't come across that you're freaked 
+
+Alicia Floyd: out about it though. I'm used to having students around I know once you, you meet, then you can they're usually pretty eager to get going and it's usually pretty good in experience.
+
+Tim Ribaric: Yeah. Particularly, if money's involved, this isn't just a volunteer opportunity then. Driven. Yeah. They're here on purpose and they want something out of it, which is good. That will push us as much as we push them, or at least, I hope so. Anyways. Yeah. Thanks for that good, thoughtful answer.
+
+How about Daniel, I'll ask you the same question. What are you looking forward to with the start of the new school year? 
+
+Daniel Brett: Much the same as Alicia, honestly the hustle and bustle I've missed it. It's been a little bit lonely over the summer. I've done a lot of visiting Because nobody's around, so it'll be nice to have a little bit more activity.
+
+I'm very much looking forward to moving into our new offices whenever that happens. So hopefully that'll happen in the 
+
+Tim Ribaric: new year. What we need to do is come up with a new bit like DSL watch or RFP watch where it's like breaking news sounds from like scene breaking news. We have doors, but not. Knobs.
+
+Daniel Brett: We do have doors, but we don't have the tops of the doors. 
+
+Tim Ribaric: Yeah, there you go. Or doorknobs We're missing Transoms and doorknobs. So I guess when they said the doors will be coming, they literally meant just the doors. Just 
+
+the 
+
+Daniel Brett: doors. None of the accoutrements. 
+
+Tim Ribaric: So we have to laugh to keep from crying.
+
+So that's my rationale for, hey, there is 
+
+Daniel Brett: a door on the dsl. That's true. One of the two doors is on. That is progress. 
+
+Tim Ribaric: Things are gonna be great. Let me yeah I think I agree with you, Daniel. Getting the hustle and bustle back up and running as much as I just mentioned, I like it when it's quiet and meditative.
+
+It's also nice to be around stuff, and you got a lot of hallway conversations that generate ideas and get people going and coming to the space and all that kind of stuff. So I'm looking forward. Serendip did this discovery of dsl. People are just walking by in this big classroom at the front of campus, and they'll ask us, what are you doing here?
+
+And then we'll have our elevator pitch already. And Daniel will say what don't we do here? And then hook 'em for life kind of thing. 
+
+Daniel Brett: That does 
+
+Alicia Floyd: sound like something I said. I can't wait to hear you say that to someone. It's going to be a highlight. I might record it. 
+
+Daniel Brett: Oh dear. Are you just gonna be ready to 
+
+Alicia Floyd: record it?
+
+I'm gonna be ready at the drop of a hat. I'm gonna be ready at all times and record it, and then we'll play it on our podcast once I get it. So be ready. Oh dear. 
+
+Tim Ribaric: Yeah, that's yeah, live radio play, just like they used to do in the. And we'll have like sheets of cookie pans to make lightning and thundering thundering noises and stuff.
+
+Daniel Brett: I've done those 
+
+Tim Ribaric: before. They're actually quite fun. It'll be great. Yeah. Oh, I love listening. Note for listeners, if you go to the internet archive and you start punching in the Adventures of Sherlock Holmes, there was a 1920s radio show that was Holmes and Watson doing stuff, but they.
+
+Verbalize everything. So Watson would say, oh no, Holmes, he's pulled a gun. And then Holmes would say, that's okay, I'll disarm him with this karate chop. And it was always fun to listen to cause it was very descriptive. And then it got to the point where they had commercials right inside of the show.
+
+So you become cynical really quickly because Sherlock Holmes, you're flogging a type of trench coat. You don't do that. You're above materialism. Excellent. All right. Thanks for indulging me on this. Both a nostalgic and yet forward thinking or forward-looking look at the start of the school year and allowing us to relive our youths as well as prepare for the future.
+
+So now what I wanted to do is take a look at primes and prime numbers because 19 is a prime. So before I get. Who can explain to me what a prime number is? 
+
+Daniel Brett: I believe it's a number that can't be like cleanly divided or something like that. I'm not a math person. All 
+
+Tim Ribaric: right. That's a serviceable answer.
+
+Very straightforward. Alicia, do you anything to add to that? Nope.
+
+Daniel Brett: Like divisible by itself. 
+
+Alicia Floyd: It's divisible by. A number divisible by what 
+
+Daniel Brett: itself and one, I think is the 
+
+Tim Ribaric: descriptor on it. But what about the number one? It's divisible 
+
+Alicia Floyd: by itself and one, 
+
+Tim Ribaric: so is it a prime number? I don't think so. Probably. No. By definition it's not. So yeah, one of the, and not in the big book of mathematics then.
+
+One is not a prime number because it cannot fulfill the description of. The prime numbers that something like two or three can. So the interesting thing about prime numbers is that they're very important. And now I'm not gonna get into a big digression here, but prime numbers are very important for things like cryptography.
+
+You can't have effective or one type of cryptography without prime numbers. It's very long and complicated. But what I would suggest, anyone that's listening that wants. Learn more about it. Can either read my thesis, which is in the Brock University digital repository. In fact, I would say, please don't, 
+
+Alicia Floyd: this is where we do the thunder.
+
+Yeah. 
+
+Tim Ribaric: Daniels pulled a gun on me. I'll disarm him talking about boring math. Ooh, he fell asleep. But I encourage you to look up Rs. On Google. RSA is short for the three fellow's names that came up with this type of encryption, and it's very beautiful. I know it's difficult to say that mathematics is beautiful, but it is in the way things work and everything fits into pieces.
+
+I encourage you to take a look, is what I'm trying to say, but, So that's the first treatment of Prime Numbers. We'll take a look at, so the other thing about Prime is that it's a word used to describe stuff. So for example, in Star Trek, which I'm sure everyone here is very familiar with, is that everyone?
+
+I see everyone nodding their head. That's good.
+
+Daniel Brett: You and I see nods very differently. 
+
+Tim Ribaric: So in the original Star Trek show, they to really spice it up. At one point they discovered that there was an alternate universe. So in this alternate universe, everyone acted, probably the best way to describe it is the opposite of what they would have acted like in our universe.
+
+So the current universe, or our universe was always called. And then the the other universe is the where the opposite people live is the alternate dimension. So it's a, in this case we're using the word prime to talk about our current universe. We all live in the prime universe as by the definition.
+
+And over the course of the previous 18 episodes, we've all built an impression in people's minds of what they probably think they know about us. So now let's take a look at what would our alternate universe doppelganger look like? So Daniel, what would your alternate universe Daniel be like?
+
+So the, while you're thinking of an answer, I'll provide the clue again. And it's the opposite. Of the way you act in the real, in the prime universe. So just personality. Oh, just let your creativity run wild. I don't know. We'd 
+
+Daniel Brett: probably be a very nice person.
+
+Very nice. Very boring. 
+
+Alicia Floyd: Opposite. Daniel. 
+
+Tim Ribaric: Opposite. Oof. Ouch. How about to prime the pump? I'll talk about what my alternate universe Tim would look like. Alter uni alter universe. Tim would play sports. He would be a jock. He wouldn't read books and he'd probably play a lot of video games and spend money on going to sporting events.
+
+So that's what alternate universe, Tim would do. So Alicia, I see you look like you're brimming full of answers there, so I'm probably 
+
+Alicia Floyd: ready. Okay. What is your It's pretty easy to pick Ganger looks pick what your duffel ganger would look like. Mine is clearly just shy of six feet tall.
+
+Also extremely athletic jogs every single morning and also after work. So we're just a lot of athleticism happening. Also a very fly by the seat of her pants kind of person just. Free Spirit does all kinds of fun things all the time, including skydiving and never ever pre-plans a podcast. So when you come in here, it's just whew.
+
+You just fly right through the whole thing and everyone's laughing, cuz. She's hilarious and smart and it's always in a hurry cuz she's gotta go for a jog. That's my double ganger. 
+
+Tim Ribaric: Now this double ganger is very motivated by jogging, okay? Yep. All right, Daniel, I think you've had an opportunity here now to square up your answer.
+
+What do you think? What is alternate universe Daniel look like? I don't, 
+
+Daniel Brett: the problem with this question is you have to be able to identify your own defining. And I cannot do. And you say the opposite. I don't know my defining traits. I like to pride myself as a jack of all trades who tries to be good at most things.
+
+So I guess they'd be not good at most 
+
+Alicia Floyd: things. Okay. Can we do Daniel? Yeah, sure. Okay. This profile, I feel like we should do Daniel stuff. Okay. Let's start with oh, that's gonna be harder than I thought. Yeah, that's what I thought. I think he's also super athletic, but I think he has a specific sport I'm gonna say he's probably like a forward in soccer is a forwarded position in soccer.
+
+Tim Ribaric: You know what he is in hockey? Sure. Call it. Or a striker. How about that? Sure. 
+
+Alicia Floyd: That sounds, is it striker in soccer? Like competitive soccer and he has to take time off work because he actually has to travel with the soccer. 
+
+Tim Ribaric: I think another defining feature would be someone that doesn't say yes to being asked to learn a new thing.
+
+They would say you know what, no I'm, I know too. Like this would distract me too much from my one particular thing that I love so much that I can't learn about this for you, Tim. Sorry. You'll need to find someone else. That's a good answer. I think that's, that, that would be a defining characteristic.
+
+This 
+
+Daniel Brett: is some weird backward compliments going on here. 
+
+Alicia Floyd: And he hates fantasy and sci-fi. He's like totally into horror movies. 
+
+Tim Ribaric: It's very similar to Doppel Ganger, Tim. He would be a jock that would love sports. As you mentioned, with his soccer semi-professional soccer league. 
+
+Daniel Brett: Yes. As far as I don't like sports.
+
+Alicia Floyd: Yeah. So far Daniel hates 
+
+Daniel Brett: estoppel. Ganger from what I have told you, what I bring to work with me. I do not like sports. Definitely don't play sports. That'd be ridiculous. 
+
+Tim Ribaric: You wouldn't have a, ridiculous, an immediate recall of magic cards. It would be like baseball cards. Or hockey cards that, 
+
+Daniel Brett: that's a fair switch card.
+
+I like that. do like to play 
+
+Alicia Floyd: magic. And you'd have a dog instead of a lizard. Oh, I love dogs though. Yeah. You don't have one right now. Yeah, 
+
+Daniel Brett: we don't have a house big enough for a dog. 
+
+Tim Ribaric: All right. Very good. Thank you for indulging me on this tour Doodle through through primes. Now what we're gonna do is play a game.
+
+So we've had an education a bit about what primes are. So what I'm gonna do is give you a clue Jeopardy style, and the two of you have to chime in to let me know if it's a prime or not. Or if it's not a prime, or if it is a prime. All right, here we go. We have to what is 
+
+Daniel Brett: Yes, Tim, 
+
+Alicia Floyd: know your audience.
+
+Tim Ribaric: This is Podcast Gold here. Okay, so we'll start off with an easy one, which what I hope will be an easy one. So this is the, when you watch television after dinner, before you go to bed. 
+
+Alicia Floyd: So we have to like, what do we do? Slam our hand on the table when we know the answer. 
+
+Tim Ribaric: No you two are working as a team.
+
+Oh, we're team. Oh, yay. That's better. So I'll give you the clue. So at the time you watch television after dinner, before you go to bed, what is that called? Downtime. Nope. Sorry. It's prime time 
+
+Alicia Floyd: pri. Okay. Okay. Okay. Prime time. I'm on it now. So it's like, what is 
+
+Tim Ribaric: primetime? 
+
+Daniel Brett: Okay. 
+
+Tim Ribaric: You gotta use Good Prime.
+
+That's okay. In the word. So the, this is a very thin premise to get some jokes out. Got it. Say a premise Prime. Oh 
+
+Alicia Floyd: boy. Okay. I'm glad. Okay, now I get it. Let's go. Give us another one. 
+
+Tim Ribaric: Okay, so you can give Amazon $80 a year for this. Just 
+
+Daniel Brett: Prime. Amazon Prime. 
+
+Tim Ribaric: Just Prime. Oh, I gave it away 
+
+Daniel Brett: in the clue.
+
+Okay. Amazon Prime and Twitch Prime tied together 
+
+Alicia Floyd: and you get quicker shipping. Yes. 
+
+Daniel Brett: It's quite nice. This 
+
+Tim Ribaric: episode of assuming the digital scholarship brought to you by Amazon. Now in St. 
+
+Daniel Brett: Catherine's, we have eight hour shipping with Prime. It's 
+
+Tim Ribaric: crazy Impressive. Okay, so the leader of the auto. Optimist.
+
+Prime, optimist. Prime. Yes. Thank you. There we go. Okay. That's an easy one. So this is finally starting to pick up some steam. Got it. Yeah. Okay, so that's good. The next clue is prime number. 
+
+Alicia Floyd: No, we were not doing numbers. 
+
+Tim Ribaric: What do you mean Prime number? Prime number. That's the clue. Okay. Like 
+
+Daniel Brett: not one. 
+
+Tim Ribaric: Yep. And it's in fact a short three.
+
+Three. It is in fact a short story collect. Published in 1970 by some guy named Harry Harrison. Oh, okay. Prime number is a series of short stories. Threw us off with that one. Anyone playing along at home can just Google Prime and look at the first page of results, and that's what I'm basing this activity on.
+
+Why didn't I bring my thing? Okay, so now hint that I'll give you is we talked about Star Trek. Okay. So the clue is Spock with a go. Spock with a goatee, 
+
+Alicia Floyd: I don't know, 
+
+Tim Ribaric: star Trek, Spock Prime Now Prime is our universe. The alternate universe is the other spot, the other place where everyone is the opposite.
+
+Alicia Floyd: And so this is his name in the other universe? No, it's just, or just the name of the other universe. It's just 
+
+Tim Ribaric: Spock with a goatee. Literally a face beard. That's. Not a full size beard. So Spock with a goatee. Don't get it. 
+
+Daniel Brett: What's the, there's gotta be some sort of joke in here. 
+
+Tim Ribaric: Okay, so that's alternate universe, Spock, because in our universe he doesn't have a goatee because a Vulcan wouldn't have a goatee, a Vulcan wouldn't have a cleanly shaved face.
+
+They made this joke more logical community. Oh, okay. There we go. Okay, so this one, it might be a bit easier. Spock with no. Prime Spock. Prime Spock. There we go. Okay, so the, this is set up, so hopefully the punchline now is gonna come through Kirk with eyeliner. 
+
+Daniel Brett: That's one of the 
+
+Tim Ribaric: captains, right?
+
+Captain Kirk with eyeliner. It can't be 
+
+Daniel Brett: prime Kirk, because he wouldn't 
+
+Tim Ribaric: wear eyeliner. Nope. Sorry. Incorrect. It's both prime and alternate universe, Kirk, because he wear eyeing always has eyeliner on. Yeah. Oh my goodness. All right. Okay, one last one. This one is also esoteric and I apologize in advance.
+
+23 million. 23 million 
+
+Alicia Floyd: Prime, the number of primetime viewers on a Friday night. 
+
+Tim Ribaric: Oh, that is a very good guess. Unfortunately incorrect. Is it a prime number? Yes, it is the world's longest prime number has, was discovered in 2018 or earlier last year, I should say. And it's 23 million digits long 
+
+Daniel Brett: oh, it's that long.
+
+Tim Ribaric: Yeah. So once again, a very esoteric question, but I thank you all for playing the what is a prime or primer, no game. Alright. I think they. 
+
+Daniel Brett: That you would be impossible to discover the longest prime number cuz there's just always more numbers. 
+
+Tim Ribaric: There you go. That's right. And a Greek mathematician, I think it was Euclid, came up with the idea that there's an infinite number of prime numbers so we can keep looking to try to find the biggest prime number.
+
+Topic that will never be done, or it's a research project that'll never finish. People actually research this. 
+
+Daniel Brett: They do. They spend their time looking at really big numbers. 
+
+Tim Ribaric: That's why mathematics is so beautiful, because people are looking at all these things that have these very interesting properties.
+
+Do they 
+
+Daniel Brett: just make up giant numbers and then feed it to a computer and say, Hey, can you divide this? No, it's prime. 
+
+Tim Ribaric: But see, that's a very difficult thing to do because if you have a number that's 23 million characters long. You need to go from one through every one of those 23 up to 23 million numbers long, and as soon as one makes a clean division, you have to stop.
+
+But that is intra and traceable is what we call it because it takes so dang long. If you had all the computers working on the planet just to solve that question, it would take a very long time. So you need to be clever and you have to look at other properties that prime. So I guess what I should mention is that Doppelganger Tim would've gotten, no, actually no doppelganger.
+
+I was gonna say Dopel. Ganger. Tim would've got a math degree instead of a computer degree. But that's what Prime Universe Tim wants. So that's not something that Dopel Ganger would do. All right. So thank you very much for playing Prime Primer. No.
+
+So usually now we would take a moment to talk about what kind of workshops and events are coming up. For the semester, but. Unfortunately, fortunately the list is very long, so I can't necessarily go through the mall. I can tell you that open refined workshop is coming up soon, right? Is that next week, Daniel?
+
+Next week. There you go. Plus a full pallet of other workshops are scheduled and arranged. We have our tradition of doing a software carpentry during reading week, all set up and ready to roll. So I'd encourage you to check us out on Eventbrite. You can just look up Brock University Digital Scholarship Lab, or if you're an undergrad student here at Brock, which I'm sure many of you are because you're listening to this podcast and that's something youngsters do.
+
+We're on experience bu under dsl. Look us up there. Another thing I wanted to say is that we needed. To get some workshop help for our software carpentry workshop coming up in the fall. And I put the call out to the Computer Science Students Association Slack site, and we gotta volunteer almost immediately to help run the workshop.
+
+So this is great news. We're starting to integrate into the community and people are are answering the call when we put one out, which is super. With all of that we look forward to speaking with you again and with luck the next time we record, we will actually have been in the DSL space.
+
+Start holding your breath now.
+

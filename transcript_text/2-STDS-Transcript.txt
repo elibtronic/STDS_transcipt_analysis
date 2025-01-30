@@ -1,0 +1,283 @@
+ep2
+===
+
+Daniel Brett: Hello and welcome to Steering the Digital Scholarship, brought to you by the staff of Brock University's digital scholarship lab. My name's Daniel Brett and I will be the acting captain today. In our last podcast, we heard about everybody's job in the dsl and their favorite s.
+
+Today we're gonna get a little bit more personal and we're gonna find out what everyone's favorite task has been so far in these early stages of the digital scholarship lab. And then what everyone's favorite kind of pie is just to keep it interesting. We'll start off with Alicia. 
+
+Alicia Floyd: Hello. So far I'd have to say that my favorite task so far has been planning.
+
+We've been given this blank slate and we have this ability to create a new service point that offers these innovative new tools. So thinking about how to fill in this blank slate is exciting, and I like planning and thinking about what tools we're going to offer, what training, what. We've been doing a lot of brainstorming about who we can collaborate with and thinking about how we will contribute to rock being at the forefront of innovative learning and research.
+
+And to me, this is all exciting to be able to have this new thing we can create from scratch. And my favorite pie, yes. My favorite pie is pumpkin. 
+
+Tim Ribaric: is the only correct answer to that question. 
+
+Daniel Brett: no stipulations. I like that. Okay. Next we've got Tim I'm pretty sure he, we already know what his favorite kind of pie is, but Tim, what's your favorite part so far?
+
+Tim Ribaric: This is it was an interesting question. When I saw the show notes I really scratched my head trying to get to the bottom of, what has been my favorite task so far? And I wanted to be optimistic and sure to say, oh, my favorite task hasn't happened yet because the best is yet to come. But I found that would be too corny.
+
+So I really sat down and had a look around and I, the thing I have to say, and I hate to be motivated by spite, but in this case, I've been motivated by spite. And that's when I think I made the decision that we would push Python as a programming language as opposed to some other alternatives. My best piece of evidence anyways is for justifying my rationale is that France, the country, France for the listener at home, it's in Europe.
+
+Yeah. They recently adopted to a policy where schools across the board would use Python as the only sort of programming language that they would use to in teaching situations, I should say. The whole country of France, which has done nothing, but given us beautiful wines and cheeses and rich cultural history, has yet again made another very interesting choice to just rely on Python.
+
+So that's why I think circling background to the question. My favorite task has been saying, yeah, let's focus on Python and do some interesting Python stuff. And the last thing I'll say to that is, take that 
+
+Daniel Brett: Ruby
+
+and then I take it your favorite pie is also pumpkin based on your comment. That is correct. I 
+
+Tim Ribaric: don't, I don't believe anyone else's answer. And it's not backed by evidence because I've had a team of scientists working on this for days and they have come back with a conclusive result That pumpkin pie is in fact the best.
+
+In the history of forever oh wow. 
+
+Alicia Floyd: Now do you put ice cream or cool whip 
+
+Tim Ribaric: with that? Oof. Oh, okay. Let's just reach a consensus here. And as long as it's not low fat, cool, whip, everything is 
+
+Daniel Brett: fine. . No, that's all right. That's fair. That's fair. Now 
+
+Tim Ribaric: Daniel, we'll have to ask you, does the exact same question, what do you, what has been your favorite task so far, and what is your favorite pie?
+
+My 
+
+Daniel Brett: absolute favorite. So far has actually been writing tutorials, and as odd as that sounds, it sounds like it might be a bit of a boring task, but most of the programs that I've learned over the last month that I've been here have been ones that I've never even heard of or thought about ever before.
+
+those are the programs that I'm writing tutorials about. So it's very fun for me to work through a piece of a program and then turn to a tutorial and write how I learned that piece so that it's, I know for a fact that it's coming from a novice perspective so that these tutorials are very approachable from I have never touched this program before.
+
+Perspective as opposed to sometimes you run into a tutorial where they're using all sorts of terminology that they assume, whereas in mine, I can specify this piece of terminology means this because why would I know that? And then for pie again, just like everybody, pumpkin pie is my favorite.
+
+So long as it. more whipped cream than pie, so you have to not be able to see the pie. For the whipped cream, if there is no whipped cream available, I would actually take a custard pie over a pumpkin pie. Wow. 
+
+Tim Ribaric: Yeah, it's quite a contingency. Your painting here. Yes. Though, I must say before we get further along, and we didn't discuss ahead of time what answers we would have for these questions, but when Daniel said making tutorials, I did a deni.
+
+Alicia, did you catch that when I did that? I missed or do one? Basically, I missed it. 
+
+Daniel Brett: Unfortunately, , it was a good face for the viewer 
+
+Tim Ribaric: at home. If you fire up a De Niro movie and whenever he's approving of something, he gives this really squishy I just ate a lemon kind of smile. That's what I did.
+
+And I had no idea Daniel enjoyed tutorial so much because a big part of his job is gonna be tutorial. So that worked out. Oh very well. I don't like this pie thing though. What's your take on it, Alicia? This custard pie. I, I. It's not pumpkin, so it's not, to be 
+
+Alicia Floyd: completely honest, I've never had a custard pie.
+
+I don't know what you're talking about. Have you? 
+
+Daniel Brett: Not even like a banana cream pie that 
+
+Alicia Floyd: is, I've looked at a banana cream pie, but I haven't eaten one that is does lemon meringue pie count? No. That 
+
+Daniel Brett: is a lemon meringue pie. Okay. I 
+
+Alicia Floyd: don't know what custard pie 
+
+is. 
+
+Tim Ribaric: I think those only exist in cartoons when they get thrown in people's faces.
+
+Daniel Brett: I literally made one, two weeks. Can you wake 
+
+Alicia Floyd: when and bring it here? Yeah. 
+
+Tim Ribaric: This is clearly a topic of of a digital scholarship lab tutorial session. So 
+
+Daniel Brett: everyone bring your pie making over. I can write a tutorial on making a custard pie and connect it to the most important part of a custard pie is actually separating egg yolks from egg whites.
+
+That's a whole nother thing because it just uses the oak, 
+
+Alicia Floyd: not the whites. We could actually do a survey of all Brock students and then do a data visualization on. The best pie. 
+
+Daniel Brett: That would be some pretty definitive evidence. And then we can see how accurate Tim scientists are with their with their research.
+
+Perfect. I love it when things come full. Sorry. Yeah. 
+
+Tim Ribaric: I love how Alicia 
+
+Daniel Brett: brought it back to digital scholarship. That was, there you go. Good. Safe. Good. Safe. All right. Now we're gonna get a little bit more serious or very more serious because the main topic of discussion today. Is going to be about fear.
+
+Tim Ribaric: Bum buba. 
+
+Daniel Brett: . All right, so today we're gonna be talking about fear in learning and fear of learning. So fear of the unknown. and lack of confidence can stop people from trying new things. This is something I'm sure everyone's experienced either in their childhood or later in life. But what I'm gonna focus on specifically for the relevance to the DSL is technology.
+
+So quite often we're faced with a new piece of technology that is either. very intimidating and it makes us nervous or uncomfortable or just so other, so unknown that you can't even begin to think, how would I use this, let alone, why should I learn this? And that can definitely lead to fear, frustration, and a feeling of just general uncomfortableness.
+
+we want to talk about how these feelings can cause people to avoid new technologies and how we might overcome this fear. So we run a lot of tutorials. We want to be running workshops on all sorts of new and innovative technologies at the dsl, and I think it'll be very important for us to have in our minds, how are we gonna get people through that?
+
+and have them feel comfortable for the entire time not perfectly comfortable baby them until they, they feel like they're happily swaddled in, in their knowledge of the technology. But we want them to be willing, at the very least, to try something new and maybe change the way they do the work that they do by integrating a new technology into that.
+
+This can be very difficult because some technologies have developed a reputation that when people hear, for example, the command line. . When somebody hears the command line, people like Tim perk up . They go, oh, the command line. I love this. But that's my best friend. Yeah, us, us Plebeians. The ones that that have no extreme experience with it or no experience at all using the command line, to us, it is terrifying.
+
+It is just this black. With a black background that you type words into and stuff happens, and quite often you don't get to see the result of it. It's just the line is blinking again. Did it work? I don't know. How do you know? So things like that are what we're going to discuss and then how to overcome those issues.
+
+Tim Ribaric: So Daniel, can I can I mention something here? Absolutely. So you're framing this idea of. And particularly fear of technology or fear of types of technology, I should say. Wouldn't be fair to say across the board sort of fear. What immediately came to mind when I was reading the show notes for today was was a quote I think that informs my understanding of fear that came from the book.
+
+Doom. Any chance you guys have read Dune? I have. Dune. Okay. Dune is this really if you watch the Cronenberg movie from the eighties, it's this really trippy, psychedelic thing. However, if you read the book, it's a little bit more grounded, let's say. It's still tripping. Psychedelic . In any case, there's a character in that book I think is, is untranslated name is Paul, and I forget what his actual character's name is in the traditional language, spoken in the novel.
+
+Anyways, he's this prophetic figure. He's a messiah and he's going to free the enslaved people of this planet. But the one thing he has like prophetic visions of the future and the sort of offshoot of all these prophetic visions is that he starts to see visions of the future where evil and bad things happen.
+
+And then at what point he talks to himself about fear, and fear being the. Okay. I read this book probably at a seminal age. I'm sure I was like 12 or 13, and just getting into my punkish high school years as much as I was at Punkish High School or, anyways, let me just read it a bit From doing that characterizes my understanding of fear and the way I look at fear.
+
+We'll dub this in. So it sounds Frank Herbert . I don't know how he sounds. . I must not fear. Fear is the mind killer. Fear is the little death that brings total oblation. I will face my fear, I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path.
+
+When the fear has gone, there will be nothing. Only I will remain. So when you talk about. in my mind, the ban the zenko that I per, repeat to myself, is that fear is the mind killer and you never let fear get in your way of anything. But easy for me to say . So let's see what questions you have for us here, Daniel.
+
+Daniel Brett: Okay. So when faced with these new technologies, there are often barriers that both the learner and the teacher in these situations have to over. So quite often the people that are trying to promote or teach these technologies are experts. They know this technology back to front. For example, if somebody asked Tim here to teach Python, he is a Python guru.
+
+He loves it so much and he has expressed that love quite often. in many different discussions but sometimes being an. for so long can cause you to lose sight of how difficult that technology is to learn initially, that initial learning curve to get up to that point where you're just grabbing any new additions to that tool instead of learning the entirety of it from the start.
+
+My question for you, Tim, is have you ever felt like you were losing listeners while you were talking about something that they were familiar with? 
+
+Tim Ribaric: Oh boy. I was looking at the show notes as I mentioned a few times already thinking about my answers or what I can say in these situations.
+
+And I need to say that, it goes with the territory of working in an academic institution. So I hate to pull rank on you guys, but I've been here for a few more years than you have, and I've gone through the paces. Of being involved in tutorials that haven't gone well and being involved in tutorials that have gone very well.
+
+And I think the idea of losing people in the room is part of the gig. If you ever particularly at a conference or something that has a multi track program, and if you sit down , right before I start speaking and getting into the bulk of what I get into, I always say, feel free to stand up and leave at any time.
+
+I will not be offended, and if this isn't your thing or you got what you needed to please get up and leave. So I think, or what I like to do is approach it always with the fact that it might happen and not to be fearful of that. Yeah, I. . I'm, I bet you if you ask these two guys here, I've gone on some polemics about certain things, or I'm sure I've lost the audience, but everyone was just politely looking at me like everything was fine.
+
+Ah-huh. All jokes aside yeah, I think it's very difficult and I think when I was in grad school here that's when I was on the receiving end of that. There was a lot of times where The lecture would get into some high level, let's just say abstract algebra, using a lot of notation lot of shortcuts and understanding that I just could not keep up with.
+
+And I think the the skill I developed in that is just having a tentative grasp of what's happening and just enough to figure out, but I must say it. Particularly discouraging to have that situation happen to you when someone gets going and reving and starts using their slang and their terminology and you just are lost in the weeds.
+
+A decade ago this was particularly difficult, but now with Twitter in your pocket, all you need to do is get your phone out and you can pay attention to something else. But yeah, good question, Daniel. I wish I had a more insightful answer 
+
+Daniel Brett: for you though. No, that was very good. Is there any.
+
+strategies that you use to mitigate that fear. So when you have people coming in to learn something that they have never touched before, when you're running a workshop on something completely new, what do you think in your head? What do you prepare so that they can be as comfortable as possible or do you want them to be comfortable?
+
+Do you want them to have a little bit of that fear so that they can have that drive to overcome it? 
+
+Tim Ribaric: That's an interesting question. I think I'm a joker, so I always hope to have a joke or break the ice by making people giggle or laugh in some respect to put them at ease. But I never thought of your your strategy of wanting them to be scared.
+
+I dunno. What do you think, Alicia? 
+
+Alicia Floyd: No, I agree. I've been in situations where I've led workshops and I always, when I first started doing workshops, I always felt like you had to be that teacher that stands at the front of the room. Follows your PowerPoint presentation and you do not stray. But as I grew and had done more and more, I felt that just bringing it down on a human level where you're maybe not teaching, but interacting with each other.
+
+Ask questions, get feedback. Make it about a conversation rather than a, I'm going to share my brain knowledge with you. It's way better, a way better way of connecting with the people that are just human like you. They're trying to learn. 
+
+Daniel Brett: I quite like that. . So that was very very insightful. I am very happy with how that went.
+
+So let's look at it from the other perspective. Alicia, I know you've been learning a lot of new technologies this last month. True. New users can sometimes feel nervous and sometimes even stupid when faced with new technologies. And often this is a result of a misunder. About a simple term or a simple topic, one little thing like they, the terminology of the program, it, they decided that they needed words that mean one thing, even though there's a colloquial word that means something like the exact same thing, but on a more direct question route.
+
+Have you ever felt like you were lesser or stupid for not understanding something that somebody thought was obvious? 
+
+Alicia Floyd: This is a very interesting question, Daniel, to be quite frank, my answer is unequivocally no. Okay. Have I struggled in learning things before? Absolutely. Who hasn't? Give me a book to read in an essay to write.
+
+No problem. Give me some kind of weird math equation with. You've lost me. With that being said, I don't think that anyone should ever feel inadequate simply because they are not instantly comprehending what is being taught to them. The learning process and engaging in learning is something to take pride in, and I feel that everyone here at this institution, that's what they're doing.
+
+They're taking a leap. The thing is, for many people, learning new technologies may be a huge leap outside of their comfort. . Taking that first step is the first step in personal growth, in my opinion. I also feel that good teachers know that even though they're experts, their students aren't, so nothing should ever be considered obvious.
+
+Even the most obvious things in learning something new, there's always going to be stumbling blocks. And you touched on some of that with what you just said. Technology terminologies can make things very confusing for beginners. . I know a lot of different technologies, but coming into this environment, you're right.
+
+I've had a lot of new things I've needed to learn. One example is GI and GitHub, which yes, is very foreign for me. So I'm gonna give you an example of something that is just one word that threw me for a loop. Commit. Commit. I'm going to commit. What does that mean? You know what it. Save. I'm going to save this.
+
+That's all it means. So it took me not just saving , I just had to wrap my brain around the fact that these different terminologies are going to throw me for little bit of loop and I need to translate that and then I'll understand. The next example I had is king branching and cloning . Those all mean coffee in different ways.
+
+Yes. It's basically copy. It's a way for me personally to understand, so do I feel lesser because I need to have some sort of a translation? No. It's just the way that I'm going to learn it. So I think for a new user it might initially be difficult to grasp some of the things that we're offering in the dsl.
+
+And finding these things difficult doesn't make them lesser, it just makes them a. overcoming a fear of learning something outside of one's comfort zone and being ready to tackle inevitable stumbling blocks is just part of learning. And one of my goals in my role here at the DSL is to make sure that students feel welcome to explore everything that we're offering.
+
+And the staff and experts at the DSL are aware that it's a patrons are going to be working with these new. that they're not comfortable with, but that's part of, I think, why we're so excited. We're excited to share these new innovative resources that we too are learning right Along with the users. 
+
+Daniel Brett: I really like you mentioned that, that first step towards learning where people need to, they need to take that leap into wanting to learn, and I feel like that's gonna be a big part of what we're doing at the DSL, is we want to be the place where people who.
+
+Who feel the desire to take that leap can come and take it safely. We can be their safety net to take that first leap into learning and then help them land on whatever path that they want to be heading down. And I really like that that idea. Awesome. Awesome.
+
+I was gonna say something. You look like you got something you want to say , but it's, no, 
+
+Tim Ribaric: it's not fair for me to actually I was gonna harken back to the thing I've mentioned to Daniel a million times already, and I'm sure Alicia, a few hundred thousand times, not quite a million. The idea of empathy with learning these tools and the fact that I'm so far gone down the path that I have no credible sense of empathy for the learning process with respect to this.
+
+I'll apologize to Alicia for fine. When she said commit is the same as save because you know it in the mental model of, all these different bits and pieces. Yeah. Commit is equal to save is a pretty good analogy and it makes sense. Just because I have a persnickety old Linux gray beard, understanding of get the tool doesn't mean, in fact, I'm not demonstrating empathy.
+
+You need to say, but you two guys clearly are sharing on a wavelength here where you understand that empathy is required. And I hope to learn that from both of you. 
+
+Alicia Floyd: But see, I don't feel lesser just because commit is really not exactly saved, but I'm getting there. 
+
+Tim Ribaric: There we go. I always find it like when my parents something is broken I swear the people at Skype just sit around a table and say, okay, we need to make a new version of.
+
+Just so Joe and Carol can't use Skype anymore, and they have to call Tim and he has to triage over the phone . And then Microsoft says, yes, let's make a billion dollars doing that. My parents and, probably others of their generation are so nervous around technology that it's almost it's almost frightening to watch them thinking that they'll burn down their computer if they click the wrong thing in Skype.
+
+So I, I think I, I need to learn some. Particularly when I talk to my parents about Skype and fixing it. But that same lesson applies to everyone else that comes from the door of dsl. Good call guys. 
+
+Daniel Brett: Yeah, I think that's a really important thing to, to acknowledge in yourself, and it would be great if all experts in all fields had that same.
+
+acknowledgement that they have lost that empathy that you have, because a lot of them don't and you'll, if you have ever gone to a university, you've very likely run into a professor here or there where they clearly have lost that and luckily, university setting. Then you have people around you who you can help.
+
+They can help you decipher all of these. , these strange terminologies. And nowadays we've got the internet where it's just oh, what did he mean by that? Instant Google. Or just ask your Siri, Hey Siri, tell me what does this obscure film terminology mean? And then she'll just, here's Google. This is the answer.
+
+So it, it's less now, but it also requires more more attention. From the learner, they have to really want to learn now as opposed to in the past where they they either did or they didn't. You either get it or you don't, or you go read a book about it. Now you actually have to actively search for the answers which I think is, it's very good because it means we.
+
+Advance to more complex things, a lot quicker than having to go look for a book on moving forwards. But yeah, I 
+
+Tim Ribaric: think the great part of the world we find ourself in is that the answers to the easy questions are all around us. So as you say, we don't have to take time doing the easy stuff. We can spend our effort doing the tough stuff that takes some effort, that takes some time, that has a nice payoff, yeah, I agree with you a hundred percent There. 
+
+Daniel Brett: Yeah. Going back to the idea of how to reduce fear and discomfort and that that frustration that sometimes comes along with being in a workshop or tutorial or in a learning situation. I recently have been looking at the instructor training for software carpentry.
+
+We mentioned them last on the last podcast. Because I'm gonna be taking the course to become a certified software carpentry instructor in the next couple weeks. And in there they mention strategies for how not to demotivate your class and then how to motivate them. And a lot of it focuses on what language you are using in those situations.
+
+So they have this list that I really like of. Words and phrases that can change a conversation. And those words are if could yes, together. Thank you. Choose to and because, and willing and then also the person's name. These are motivating words and phrases that can shift mindsets. So very simple words, but using them in a conversation makes it feel like you.
+
+Actively having a conversation and not talking at someone. And I feel like that is a really big step in terms of changing the way that person feels about the situation that they're in, whether they are being taught at or they're being taught to. And then they also list the they call it the four dirty words, the words that you should never use while you are.
+
+Being an instructor. And those are need must can't easy, and then they have an additional just only and fast. So these words can separate you from your audience. So these are words. you would use if you were talking at somebody. You need to do this. You can't do that. It's easy if you just do it this way.
+
+If we just quickly do this, then it's fine. These are words that experts often find themselves using when talking to new people. And these are words that we need to be conscious. And consciously avoid when having these sort of conversations where we are teaching to and we should keep an eye out for when we are being taught to just to see scale how how the instructor is doing what my question for the table, what other.
+
+Phrases or even body language have the effect of making the listener feel uncomfortable. 
+
+Tim Ribaric: Oh boy, that's a good one. I know you shouldn't cross your arms in front of a room. That kind of puts people off, though. I get real comfortable when I cross my arms. It's something I have to conscientiously make sure I'm not doing.
+
+What do you think? 
+
+Alicia Floyd: I think the thing I've struggled with, maybe when I was younger, especially if I was being taught something, is almost the silence. If you get silence instead of anything. So if you ask a question and the person doesn't answer, even if I'm trying to learn something remotely and I send an email because I have a legitimate question and I don't get an answer, I think it's that whole silence where they don't feel they need to respond.
+
+That's the thing I struggle with most. 
+
+Daniel Brett: That's a really interesting idea of it's either they look at it and deem it not important. Or it's just something that they're like, oh, that's so obvious they'll figure it out. Exactly. No need to respond.
+
+Yeah. I never thought about that. On the flip side, what are things that you've seen or ideas, concepts, body language You feel connects you with somebody who is instructing or teaching or as a listener, what do you want to see? 
+
+Tim Ribaric: Oh, boy. I another problem that I have I call it a problem, but I'm always on the hunt for authenticity and so I always frame my understanding of things and how authentic they are and the intention of the person coming across or attempting.
+
+Teach in this case. So I think what is important to me is that getting the sense, and this is a very ethereal thing to describe, but getting the sense of authenticity from the sense of, from the side of the teacher or the instructor, whoever's presenting the information to get past the fact that this is a lesson plan that they're trying to deliver and that there's a checklist.
+
+Alicia said earlier, brain knowledge, I think was her term. , I'm pouring my brain knowledge into your brain knowledge. I think once, if you can make a connection with your, with the room and the people in your room where it gets past sort of a rote description or a rote sort of regurgitation and connect with a person, I don't know how that accomplished, how you accomplish that.
+
+And I've had admittedly more success in one-on-one situations with that when I, in my role as a library. Teach people how to do stuff and help them do research and things. I've had that, look of serendipitous or the look of, oh, I understand this now in a smaller group setting or one-on-one, it's a bit tougher when you're in front of, like just in September I was in front of a room of 300 people giving a lecture about, how to use library.
+
+To do research and I was trying my best to be authentic, but I think it just, it didn't pan out. But even if there was one or two kids in that class that sort of got that I'll be happy about it to be honest. But yeah. I, to answer the question again after mumbling for a bit, was that sense of authenticity of the instructor and then how that's delivered, I guess varies or is is something that can be quantified in a.
+
+straightforward senses suppose 
+
+Daniel Brett: makes sense. What do you think, Daniel? I think an important thing on top of connecting is the body language of instructors. I went to university here. I did four years of sitting in front of lecturers and being lectured at, and the ones that I found most interest. and most inspiring.
+
+I wanted to learn from these people, or I was interested in what they were saying. Were the ones who a connected with the audience, either by jokes or just some sort of interactive, Hey, you can put up your hand, ask questions, or here's something on the screen that you can interact with your phones.
+
+But on top of that, it was eye contact. So above all things, I've had professors who in a lecture. 300 students, you feel that you are getting that eye contact with that professor, and I have no idea how they do it. They stand up there and they look at 300 people and all of those people feel like they are looking into their eyes and it's just yes, I am talking to you.
+
+You are the person that I am trying to. Express this concept too, and that feeling of connecting and that eye contact I feel is a really important thing. Even in smaller group settings, if you are in front of 10 people, making sure that you make that eye contact with every single person in that room and check, cuz you can look at somebody's face, especially in a smaller group, and get an idea of how they're feeling.
+
+So you'll be able to tell very quickly if they have that glazed expression of someone who's misunderstanding or who's lost. And then you can focus on them and just talk at them and make sure that they know you are part of what we are doing here. I feel like that is a very important aspect of connecting with your audience.
+
+Tim Ribaric: I find it very remarkable that we started this segment talking about fear, and we're getting close to ending it. when we're all smiling and full of sunshine about the great and positive things that happen when we teach and when we learn, and when we learn new technologies. That's pretty cool. And, I'll say it again.
+
+Fear is the mind killer.
+
+Daniel Brett: some very good discussions here. Lots of addressing what fears there are, as well as how to mitigate a lot of those. . So we've sailed far enough for today. Let's drop the anchor here and call it for now,
+
+thank you for listening to Steering the Digital Scholarship. And remember, if you have any questions, concerns, comments or if you just wanna chat drop us a line on Twitter, Facebook Macedon email. stop by 
+
+Tim Ribaric: what? Tb TBD 
+
+Daniel Brett: on the stop by. If you run into us in the hallways and see our name tags and we're like, Hey, aren't you that guy from that ship?
+
+Yeah,
+
+Tim Ribaric: The other thing that we'll brag about is that this podcast is now on iTunes as well as Spotify. So we're hitting the big leagues and nd and blue Ribbon. Give us a call. We can chill your stuff, just let us know. Sorry. That's like people that sponsor podcasts generally, so I figured we could get in on that Action is what I.
+
+Daniel Brett: Yeah, never hurts to get a little extra funding. Oh yeah,
+
+All right. Thank you for listening and we'll see you in a couple weeks.
+
+Tim Ribaric: Our intro and outro is Digital Pedestrian Spy Blanket Music.
+

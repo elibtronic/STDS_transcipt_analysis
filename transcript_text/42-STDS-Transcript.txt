@@ -1,0 +1,339 @@
+Ep42
+===
+
+Tim Ribaric: Hello and welcome to episode 42 of Steering the Digital Scholarship. Today I will be acting captain and joining me, or I should say, Tim will be acting captain, who is me. And joining me today is Daniel. As well as Lily. 
+
+Lily Wang: Aye, aye, captain 
+
+Tim Ribaric: nautical puns. Just don't stop. We are here under pretty auspicious circumstances or let's pay homage to our episode number and it is, of course, number 40.
+
+Which is the answer to life, the universe and everything. Did you know about this Lily? It sounded like you heard of this before, right? Yeah. 42 is the answer to everything. Yeah. I like devoured 
+
+Lily Wang: those books as a 
+
+Tim Ribaric: kid. Very cool. Daniel, the books, I didn't realize those were books. Oh boy.
+
+They were watched the movie. Yeah, there was a bunch of stuff. So the Douglas Adams. Wrote a book series about, the Hitchhikers guy to the Galaxy, what day it was turned into a video game. It was turned into a TV series. It was turned into a television show, it was turned into a radio play, a whole bunch of stuff, right?
+
+Certainly it certainly shows up a lot in culture unpopular culture anyways yeah. And then, the story is that in the Hitchhiker's Guide to the Galaxy, a group of people put together. And this is a lovely digital scholarship tie. I just, I wanted to give a hat tip towards this.
+
+It's a computation, right? It's a good use of HPC or high performance computing. In computation, they created a computer called Deep Thought, and they asked that computer what is the answer to life, the universe and everything. And then the computer said, please hold for, a period of 7.5 million.
+
+And then at the end of that time period, it said, 42. And all the humans that were around listening to it were perplexed because they didn't know what the heck that was supposed to mean. And it only dawned on them that what they should have asked was, what? The question was not necessarily just the answer.
+
+And then deep thought the computer that provided them the answer said I won't be able to answer that for you. However, I can help you make another computer that might be able to a answer that question, but it's gonna take you, 10 million years to come up with the question.
+
+And, the story sort of goes along that the computer ended up being the planet Earth. It's, the reason why this planet is here is to help calculate and find what the answer to, or the question to this. In Jeopardy style. So all told, I think this is a perfect parable about where we are.
+
+42 is the magical answer, but the question is yet to be determined. And the other thing I'll mention is that later this year I turned 42. So this is like a really weird coincidence, or at least I think so what do you think. About you 
+
+Lily Wang: turning 
+
+Tim Ribaric: 42, but this is a coincidence or if this is some sort of cosmic sign.
+
+Lily Wang: Oh, that I think it's a 
+
+Tim Ribaric: coincidence. I suppose so. And Daniel and you haven't read, like you've mentioned, you've seen the movie, so you haven't read these books, right? 
+
+Daniel Brett: No all I know is that towels have a far greater significance than I ever anticipated. 
+
+Tim Ribaric: Yes, that is absolutely true. How about you, Lilly?
+
+You said you, you've read the books. What's your, what was your big takeaway from them? 
+
+Lily Wang: I really like the part where he was like, flying is just falling, but you forget to land. And that was really, it was really profound to me as a 
+
+Tim Ribaric: 13 year old. Oh, very cool. Yeah, I'm a, I'm, I must say there's lots of interesting, I don't know, funny anecdotes, for lack of a better way to describe it over the course of the five books and Lilly, do you know the story about why the first book ends so abruptly?
+
+No, I have no idea. Okay. So Douglas Adams, the author, was writing away and he was taking his sweet time with it. And then his publisher kept, saying, when are you gonna be done with the manuscript? When are you gonna be done with the manuscript? And he is eventually.
+
+And then the publisher got so frustrated he said, I'm sending a courier over right now and I need your manuscript completed. Cuz he's gonna bring it back to the office. And then Douglas Adams, for lack of a better thing to do, just made the world explode. And that was the end of the book. So once again, this is another parable.
+
+This is another good tie to life and digital scholarship here at Brock because, the planet in some senses has just exploded with our life in the lab, but more details about that into in a future episode. Anyways, for this, at this point, we'll just tease that's gonna be coming up.
+
+Some discussion along those lines is gonna be coming. Some point soon. All right, so 42, A big thing was that people were getting on Douglas Adams case about, why did you come up with 42? You can, attribute the number 42 to a lot of different weird things and it's the psalm of a couple different values and if you multiply certain things together that have significance, you end up with 42.
+
+But Douglas Adams gave a definitive answer back in 1993 when he posted something to a news group. He said the answer, I'm quoting him here. The answer to this is very simple. It was a. It was, it had to be a number, an ordinary smallish number, and I chose that one. Binary representations base 13 Tibet monks are all complete nonsense.
+
+I sat at my desk staring into the garden and thought 42 will do. I typed it out, end of story. So there you go. There's the most profound part of the, the answer to the life, answer to life universe and everything is just literally something some dude cooked. So with that stage set, let's take a deep philosophical look and Daniel, I'll ask you the question, what is the ultimate answer to everything?
+
+It's, 
+
+Daniel Brett: I'm sure this has been considered and investigated by humanity for centuries, of course. So any comments that we make here will probably just be drops in a bucket on this topic. But I think. Living. Just be happy. Don't don't be bad. Be good. Unless you wanna be bad, then do that. Just do what you want and then die.
+
+I think that's the ultimate answer to everything. 
+
+Tim Ribaric: Interesting. Morbid, interesting take. Lilly, what do you think about Daniel's answer here? 
+
+Lily Wang: I think, nihilism is cool, 
+
+Daniel Brett: no, that is nihilism. 
+
+Tim Ribaric: There's something reassuring about nihilism. You don't have to look too deep into things and things happen and then they stop happening and that's it.
+
+I think that's pretty profound, to be honest. 
+
+Lily Wang: Yeah. I like it. That's good. 
+
+Tim Ribaric: Daniel has set the bar. Okay. Now Lily, I'll ask you the same question. What is the ultimate answer to everything? 
+
+Lily Wang: I think if we have infinite power, right? You can create infinite energy by taping buttered bread to the back of the cat and then you drop it and then it spins because the toast wants the land butter side down and the cat wants the land on its feet, so you can use it like a turbine and generate infinite energy and.
+
+Make life better. 
+
+Tim Ribaric: Wow. 
+
+Daniel Brett: What if the cat dies? 
+
+Lily Wang: Oh. I mean there's more cats. I guess it's not infinite energy cuz cats do have a lifespan. 
+
+Daniel Brett: Holes in your infinite energy theory. 
+
+Lily Wang: Darn. Okay. All right. 
+
+Tim Ribaric: It's I love the solution, Molly, cuz it's, it addresses climate change by creating a clean source of energy for humanity.
+
+And yeah, a cat dies, we just replace it. It's I dunno if you two have seen the movie Snow Piercer, they they grow people on this train because they can't manufacture parts anymore. So there's humans that literally do the role of machine because machines don't exist.
+
+Yeah. So I feel 
+
+Lily Wang: like that's a spoiler and I haven't, 
+
+Tim Ribaric: oh, that's a big one. Darn. 
+
+Daniel Brett: I'm not familiar with this, I assume book. 
+
+Tim Ribaric: Oh gosh. I thought Daniel for sure, you would've been keen on Snow Piercer. Anyways, it was a Korean film, which is about a train that is on a track, and it just runs around the world infinitely because we've been plunged into another ice age and it's been adapted into a television, like a series on Netflix.
+
+I suggest both of you check it out, but Daniel, there's a, there's like a statute of limitation on spoilers, right? We've talked about this before. How long is Yeah, I thought 
+
+Daniel Brett: We determined that it was 20 years. 
+
+Tim Ribaric: 20 years. Really? That long 
+
+Lily Wang: for popular Snow Piercer has not been out for 20 years.
+
+Tim Ribaric: No. The movie. I was gonna say no. I that's 
+
+Daniel Brett: statute limit. I'll have to check our, check. Our previous podcasts. Dig back into the archive. Yeah. That 
+
+Lily Wang: was 2013 so a solid 90. 
+
+Tim Ribaric: All right. So I'm gonna, oh boy. I'm going to get in trouble now. I thought there's 
+
+Daniel Brett: maybe, there's tiers of spoilers.
+
+There's like major plot points, minor plot points, and each of those could have a different statute of limitations. That's 
+
+Lily Wang: fair. But I think that one was like a big 
+
+Daniel Brett: reveal. Yeah. I feel like books are different than. As well. Wait. This is a movie I forgot. Yeah. And the book, I think, is it a book? I think so.
+
+Then you can just say you're spoiling the book. I feel like books then they're, the statute of limitations is a lot 
+
+Tim Ribaric: shorter. Okay, perfect. I'm gonna hide behind that answer, but it doesn't, okay. It's very interesting. We started off with a conversation of attaching toast to cats and now we're on about statute of limitations on spoilers.
+
+I I like how that progression.
+
+Okay. 
+
+Lily Wang: Yeah. Tim what do you think about this what's your ultimate answer to everything 
+
+Tim Ribaric: here? I'm gonna appeal to another piece of popular culture. Have either one of you or either one of you familiar with Monty Python or have heard of that a little bit 
+
+Daniel Brett: group, unfortunately. Yeah. 
+
+Tim Ribaric: So then Daniel, have you watched the meaning of life their, one of their, motion pictures?
+
+That is not really a motion. 
+
+Daniel Brett: I'm not a fan of Monty Python, but my wife very much is. She sing, sings a song about spam all the time. It's, there's a lot of references that go over my head, but I, at one point or another, I've been exposed tangentially to all of the movies. Okay. So I know snippets, so you may or may not be speaking of a snippet.
+
+I have happened to walk 
+
+Tim Ribaric: by on. Okay. So there's couple of scenes in this movie that'll appeal to, so at one it's just it's piani python madness. So there's a lot of non-sequitur and things jump between different skits that don't seem to have any real cohesion or connections between them.
+
+But in one scene, they follow this French waiter who he takes people on this long walk to come back to the shack where he grew up and then, he starts getting defensive about what, the meaning of life is and what his purpose is and how well his life turned out.
+
+And he starts swearing and cussing. So that's part one. And then right at the very end of the movie, as it's concluding, they have this sort of weird chat show set up and they're interviewing one person, I think it's Terry Gill. No, I don't know. One of the, and they're like, oh yeah.
+
+So by the way, yeah, the meaning of life. What exactly is that? I don't know. Have some fun, read a good book every now and then exercise a bit, and, and then that's it. So to bring that all back to this conversation and the question. That was asked, that's how I would answer. What's the ultimate answer to everything.
+
+It'll be that dialogue from the end of Monty Python's, meaning of life where they talk about, reading a good book having a good meal every once in a while, and, having some friends. That's what I'll say my answer to the question is that sounds idyllic. For one.
+
+Oh my gosh. Everyone, check your watch. This is the one time that Daniel went negative and Tim win positive. Just, I just want that on the record. Fair enough. I don't 
+
+Daniel Brett: know that nihilism is necessarily negative. It's just neutral. 
+
+Tim Ribaric: Nice. How pose, I suppose you got me there. All right. Okay, so then let's twist our outlook here or change what our perspective is.
+
+A little touch. Now let me ask the question, what is the ultimate question to everything? So we had the answer just like we know, just like we saw in Hitchhikers. We came up with the answer, but now we gotta work backwards and find what the question is. Maybe I started with you, Daniel last time.
+
+Lily, what do you think? What is the ultimate question to everything? 
+
+Lily Wang: Okay. I, I. This is actually thought. Thought this one through. I think we got where we are as a species by asking what if, what if we could harness lightning? What if we could split this atom? What if the worth is actually a supercomputer?
+
+So science, literature, all that. It's It's like the basis for our development. So it's like a combination of curiosity and pattern recognition. Like when you pick up a new programming language, you're like, what if I do this in tax this way? What if I try combining these concepts? And then it explodes, it gives you a million bugs and you're like, oh okay then.
+
+And then. When you cook, it's what if I try putting these flavors together and my brother is oh, you should not have put chocolate in fried rice. So it is really weird. But it's a learning experience, and that's where I'm at. 
+
+Tim Ribaric: Cool. I can tell if I didn't know you, I could tell immediately that you came from a computer science background with the answer that you just shared.
+
+Where the computer science mine tries to, turn a mod, turn everything into a model that can be developed and algorithmed and turned into software and situated and stuff like that. So that's pretty neat. I'll ask you a question though. Have you ever read the Three Body Problem, 
+
+Lily Wang: By or.
+
+Yeah, I'm actually working my way 
+
+Tim Ribaric: through it right now. Oh, cool. Okay. So you'll know exactly when I'm talking about it at one point. There's a lot of I'm 
+
+Lily Wang: really at the really beginning. No, no spoilers. 
+
+Tim Ribaric: Okay. I was just gonna say, hearkening back to our conversation from before, Daniel would kick me under the table here that I'm about to drop a big spoiler, even though it is for a book that is still I doubt it's past the statute of limitations.
+
+Okay. So I won't. I'll encourage you to read the book and then tell me if there is some connection to what we're talking about here. Sure. With what you're saying. Okay. All right. And then that's a challenge I'll give to the reader as well, or to the listener I should say, not a reader. Check out that book for a more, philosophical take on the purpose of humanity.
+
+Because I'm sure it's in there somewhere. I don't think I'm mis. All right, so spoiler averted Fu Daniel, I'll ask you the question then. What is the ultimate question to everything? 
+
+Daniel Brett: I know something that I thought about briefly with my buddies once while just like shooting the poop around the table was what is the ultimate limitation?
+
+Of life of specifically humans, but more broadly, just like any sort of evolution based creature at which point do we hit the end of our evolution and we just stop changing? And what would that look like? And that's the conversation that, that I had before that I still think back on sometimes.
+
+And we came up with a lot of crazy theories, but. A lot of them ended up with just like the people from Wally the Jello people on the ship where robots handle everything. I was just like, ah, it's, that's the sort of the darkest timeline end point of at least humanity. But yeah, there, there's a lot of thought that could go into that question.
+
+I'd be very curious for a definitive answer. Although again, I like most of these theory crafted answers. I don't think there is a definitive. 
+
+Tim Ribaric: Absolutely. There's no definitive answer. Or if not, if so, we'd be making millions of dollars telling people what it was. We wouldn't be in this digital scholarship game, tell you that.
+
+Daniel Brett: What if digital scholarship is the end point of life? What 
+
+Tim Ribaric: galaxy We are 
+
+Daniel Brett: the pinnacle of existence.
+
+Tim Ribaric: That's it. All right, everyone hang up and start. Throw your computer in the ocean. We're done. We figured it all out. Just live a life of luxury now. Everything has been taken care of, so we're good. And listener, no more episodes of this show because we've clearly, we've done it all. We're finished. We've solved it.
+
+Exactly. And it didn't take us 7.5 million years to come up with the answer either. I suppose we're on the question part. So we're, we didn't need to go through 10 million years of calculation. We found the question technic. 
+
+Daniel Brett: We have gone through more than that. We've gone through 65 million, 65 million years of evolution plus.
+
+Tim Ribaric: Yeah, I suppose like how old is the galaxy or space and time. It's like 15 billion years or something, right? Yeah. 
+
+Daniel Brett: just grabbed the random dinosaur number. That's not even close to the beginning. 
+
+Tim Ribaric: No. Here's a, here's how I like to remember it. If you like, you stretch your arms.
+
+From one tip of your one finger all the way to the other, tip of the other finger. If you imagine that's how long the galaxy has been around, the width of your fingernail on your one hand is how long humans have been on the planet. Then it comes back to, I, I suppose all of this and the, this narrative I'm trying to come up with, right?
+
+42 is the answer. What's the question? There's a lot of computation involved and yeah, it really does come down to, I think, Daniel, you said it nicely, digital scholarship and computation and inquiry is the ultimate question, and that's exactly what the meaning of life is. So you heard it here first, everyone.
+
+All right, so that was a, a. Waxing philosophical moment. I appreciate both of you putting up with that. And let's let's take a look at what our future holds for us.
+
+Okay. We've had a discussion about the universe, life and everything, and solve the world's problem. So let's now take a look at what we're going to be doing upcoming in the lab and what our life immediately is gonna look like. So what's coming up This. Daniel, what's coming up this summer for life in the lab or more generally what's coming up in life?
+
+Daniel Brett: Boy, oh boy. Do I have an exciting next week for you? Are you ready? For the shameless plug that we have to shoehorn into every single one of these podcasts,
+
+I spent a little bit of time writing four workshops on a cool tool you may have heard called GitHub. And next week, Monday to Thursday, one per day, four workshops on GitHub. Learning all about the cool things you can do. It'll be run again later on in the summer as well. Okay. Shameless plug over. 
+
+Lily Wang: And I wanna hear more about this shameless plug, though.
+
+Like what are some of the things that we're gonna be doing with the GitHub? 
+
+Daniel Brett: The first one is going to be introducing repositories, the idea of storing data for free on GitHub. The next one's gonna be all about collaboration and how to share things with other people and work on things, so version control, all that fun stuff.
+
+Third one's gonna be on hosting a free website using GitHub pages, and a little bit of talk about the higher functions you can do with that later on, involving things like JE Hugo. So very exciting stuff there. And then the last one, big innovation, GitHub actions. So setting up automated workflows that do really cool things all in GitHub, that you actually get to spin up free little processing and environments on GitHub.
+
+Most people I talk to don't know that it has this capability. But yeah, you can just spin up a, like a little Linux box, run some commands, do some stuff, and then have your output dumped into your repository and then close it back down again. It's really, 
+
+Tim Ribaric: That is really cool. So earlier before we started recording, I was saying that, Daniel loves Miro so much and that, mural boards, I should say, and he was such, a fanboy.
+
+But then I realize as he is talking about Git, that I am an uncontrollable GitHub fanboy. So I, yeah, I can no longer say anything bad about Daniel's, fascination with Murro because I hold the same one for GitHub. And yeah, I'm looking forward to sitting in on those sessions. Cause I want to see people's brains expand when you tell them you can, do this stuff for free.
+
+And it's, pretty awesome in terms of what features it has, which is awesome. Yep. So yeah, 
+
+Lily Wang: beans, I've always. Into webpage hosting and having GitHub pages is wow, that takes so much of it off of my plate. It's so nice. 
+
+Tim Ribaric: Yeah, for sure. And 
+
+Daniel Brett: you can host your websites completely for free with no overhead and no like time limits.
+
+It'll be there forever until you take it down. 
+
+Tim Ribaric: Or until GitHub starts charging money, there's that possibility too. But yeah, for the 
+
+Daniel Brett: most part, as long as they don't get bought out by some sort of giant in the industry. 
+
+Tim Ribaric: Yeah. Yeah. That'll never happen though. For sure. Right on. What else do we have looking forward to? So we got a, a workshop series. What else do we have looking forward to this? Oh, just 
+
+Daniel Brett: absolute relaxation. It's gonna be so peaceful this summer. We're just gonna hang out. We're gonna go outside and eat freezes. We're just gonna be chilling.
+
+No. Difficult work here in the dsl. 
+
+Tim Ribaric: I love it. That's great. And by 
+
+Daniel Brett: that I mean we're going to be developing collaborations with other units on campus. We're going to be enhancing our workshop offerings and we're gonna be developing all sorts of new tools to support. 
+
+Tim Ribaric: Whoa. Super. Whoa. So Lily, I'll ask you the same question right off right after Daniel's lovely sales pitch there about a bright future, what's coming up this summer?
+
+Lily Wang: So we're, we are actually developing some of our asynchronous content, which is very exciting. So we're going to be hiring for that. If you are a proc student drop us a line and keep an eye out on. Our various career boards for that position. And Tim, you got some fancy new grants, didn't you?
+
+Tim Ribaric: Yeah. Thanks for mentioning that. So a couple of things to look forward to this summer, which will be their own episodes of the show, I'm sure. So I won't give away too many details, but we run, we won an internal Brock grant to hire an undergrad student for a few hundred hours to develop some.
+
+And what we're gonna do is develop some software that helps us do web analysis via computational notebooks using, nice visualizations and text analysis tools. So we hope that'll pan out our colleague and our colleague and collaborator Cal is got a similar grant with a faculty member.
+
+The same grant for a different student, I should say. And they're gonna be looking at ab testing effectively of notebooks used for web archive analysis. So that's pretty awesome. And yeah, Lilly, as you mentioned, we have a, I guess I'll call it a grant to hire a student for a few hundred hours to develop our asynchronous content.
+
+And then Archives unleashed. Grant enters into a second year. So we have our RA from last year who's gonna stay on board and we're gonna use his efforts and time into developing that web analysis software that we're putting together. So there's a future looks bright in a lot of ways cuz we have a lot of we're fortunate enough to get a lot of resources to bring on people and work on some pretty interesting projects, which is what I'm looking forward.
+
+But Daniel, sorry to say. Yeah, I'm gonna, I'm gonna go negative for a bit. Is that okay? I 
+
+Daniel Brett: suppose if you must, 
+
+Lily Wang: it's just 
+
+Tim Ribaric: a return to for, yeah, there you go. You know the story about the scorpion and the frog, right? Yes. 
+
+Daniel Brett: Yes. Did they eat each other? I'm not 
+
+Tim Ribaric: familiar with this. Okay, so the good, this allows me to tell the story quickly.
+
+So scorpion and a frog are stuck on one side of a piece of water. And you know this, they're both like, oh, we gotta cross this water. The frog says, oh, I can do it. No problem. It's, I'm a frog, it's my nature. Just hop on my back, scorpion. And then they cross the pond. And at the other end, the scorpion sticks his stinger into the frog and kills it.
+
+Then the scorpion says sorry, frog. I'm a scorpion. That's my nature. So anyways I'm like the scorpion. I'm returning to my true nature here by going negative. It'll go negative and then I'll end it on a positive. How about that? Okay. So I don't think we've specifically addressed it here, but the future of the digital scholarship lab space is in a bit of oh, what's the most polite way to describe this?
+
+Flux there. Perfect. That's value neutral, so flux. And we need to go through a reflective process this summer, speaking with a lot of our collaborators in different units on campus to think through what the future of the space, the lab space is gonna look like. So that's gonna be, I think, a challenging conversation to go through and try to get to the bottom of, and we'll certainly touch upon this more in a future episode of the.
+
+But as I said though, I'll end on a happy note and I hope it'll be happy. I hope it'll pan out. We've interviewed. For the head of the research lifecycle department, which I think we've alluded to before, the sort of organizational setup we're in change to touch, and then we're gonna end up with new management in the department.
+
+So our hope goal slash joy will be to have this person start at some point in the summer or perhaps the fall. So I guess the one thing we can look forward to and as the high note that I'll send, I'll leave it. Is that, we'll be getting a new person in the department who will be the head of the department, and we shall certainly bring them on to a future episode of the show to get to the bottom of what they have in mind for us and what they think the future of digital scholarship will look like.
+
+All right, so I see the boat is getting close to the shore. There's the harbor just over the horizon. But before we drop, anchor, and adjourn for the day, I'll just ask both of you a quick question. What what's what are you immediately looking forward to later on this summer? Lilly, 
+
+Lily Wang: Next week I'm going on a fun adventure.
+
+And that'll be my summer vacation. We're just gonna go on a crazy bar, crawl across Toronto, and then eat brunch every single day. 
+
+Tim Ribaric: Whoa, that sounds 
+
+Lily Wang: awesome. That's the meaning of life, man. 
+
+Tim Ribaric: There it is. Yep. Right there. Crazy brunch. I hope you're getting t-shirts that all say crazy brunch on them and then you would.
+
+All good at me. Right on. And then Daniel, I'll ask you the same question as we're pulling into harbor here right before we get our short leave. What are you looking forward to the most? 
+
+Daniel Brett: I'm not sure I've mentioned it much or at all on the podcast. It's been a while. I have a child now, so I'm likely going to be enjoying the fun things that babies get into this summer as he slowly learns to crawl and hopefully eventually.
+
+That, that's gonna be my chaotic, but enjoyable, I'm sure. Summertime, I think. 
+
+Tim Ribaric: Oh, that sounds lovely. You too. Yeah. The family and I were heading out east in June for a bit of a vacation. I'm looking forward to that. We're going to the land of Joel Plaskitt, Halifax, and Dartmouth, and I'm going to eat a donaire.
+
+I dunno if you two have ever heard of a donaire, but it's like a with a sweet sauce. Yeah. 
+
+Daniel Brett: Yeah. That. Form of currency. 
+
+Tim Ribaric: Excellent. So good. It saves me from having to do a, another stupid explainer and Tim with his stories. Yeah, you both know what a Dona Donaire is and I'm looking forward to eating authentic East Coast Halifax Donaire.
+
+And that will be, and spending time with my family. I think those are gonna be the things I'm looking forward to the most. All right, so thanks for joining me in this conversation in this trip. Now I see the shore, we'll drop anchor.
+
+And we'll go off on shore leave and enjoy our time in the sun.
+

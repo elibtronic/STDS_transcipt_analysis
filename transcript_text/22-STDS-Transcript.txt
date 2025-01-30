@@ -1,0 +1,423 @@
+Ep22
+===
+
+Tim Ribaric: Hello and welcome to Steering the Digital Scholarship. Today is our lucky number. 22. 22 is a lucky number Daniel? Certain countries 
+
+Daniel Brett: find the number two lucky, so I guess two, twice would be doubly 
+
+Tim Ribaric: lucky. There we go. That works for me. How about you, Alicia? Is it 22? A lucky? Sounds good to me. All right, so I was trying to come up with what today's episode should be about and the first thing that came to mind was Taylor Swift.
+
+What do you guys think? Is that a good idea or not? 
+
+Daniel Brett: I think I've heard a song by this musician before. 
+
+Alicia Floyd: Yeah, she's got a lot going on wanting access to her own music. So it's a good, it's a timely subject. 
+
+Tim Ribaric: Yeah. I can tell you I've not felt 22 for at least a few decades I thought perhaps that might not resonate with our audience all that much.
+
+So I decided to swing things into a bit of a different art in a different direction. But before we get down to business, let's do it around the microphone and check in with everyone. So Daniel, how are you doing these days? 
+
+Daniel Brett: I'm good. Adapting to married life. It's going well. 
+
+Tim Ribaric: I'm happy. Is it, we haven't recorded since you got married, right?
+
+Daniel Brett: I don't think so. Yeah. Actually, the last one I was about to get married now, and I'm pretty sure it's been a while. We had our hiatus. Our impromptu hiatus. Yeah. So things are going 
+
+Tim Ribaric: well. Then professionally speaking, how's life in the DSL treating you? 
+
+Daniel Brett: Excellent. Excellent. I feel like I'm getting into the swing of.
+
+I am looking forward to that space opening. Ah, 
+
+Tim Ribaric: Too soon, Daniel, too soon. It was supposed to go on Friday. 
+
+Daniel Brett: I'm really enjoying the new workshops I've been running. I really like the R for text analysis when I learned a lot making it and people seem to enjoy it, so that was really 
+
+Tim Ribaric: fun.
+
+Very good. How about you, Alicia? How's life treating you these. Things 
+
+Alicia Floyd: are going well. I'm in excited for Christmas mode, so that's where my head's at thinking about decorating and Christmas shopping. But work related the students are doing really great work and are progressing well. So I've been checking in with them each day and we have some planning, brainstorming meetings coming up that I'm preparing for and I'm pretty excited 
+
+Tim Ribaric: about.
+
+Very. Yeah. Similarly, I'm looking forward to the end of the year. It coincidentally is also Christmas time, so I guess that's a reason to be excited. But I'm looking for that week plus break. That's gonna be fun. I'm by myself on that one. I see. All right. Everyone loves working so much. That's great. Love to hear.
+
+It works pretty great. Perfect. Let's get into our first activity.
+
+As everyone in listening knows, I live and die by Twitter for most things, and there's something that's been taking over Twitter for the past few weeks that I want to spend some time digging into. And it's the whole, there's the decade is almost done. What have you accomplished with your life?
+
+Have you seen heads or tails of this, either one of you? 
+
+Alicia Floyd: I haven't seen that on Twitter at all. I must be following the. Thanks. 
+
+Daniel Brett: Oh, okay. What's Twitter? Oh, 
+
+Tim Ribaric: you wounded me, sir. The, it's actually prompted some blog posts on different, content mills, but effectively, here's what, here's the tweet that set it off.
+
+So it's a fella, his name is Tony, is Twitter handles, S T F U. Tony, very classy Tony. And he wrote, there's one month left in the decade, what have you? And that was the tweet that sent the world to Twittering. Do you think is that cause for concern or is it something people use Twitter for? You know what I'm trying to say, right?
+
+Daniel Brett: Is this an exciting topic? There you go. That's what I mean. I feel like this is a very exciting topic. There's a lot that happened in this decade, and I feel like nowadays a decade holds a lot more in it than it used to a hundred years ago. So there's just so much to unpack. 
+
+Tim Ribaric: Wow. A decade holds more in it than it used to.
+
+What does that mean? Do are decades longer now cuz they're metric as opposed to imperial or 
+
+Daniel Brett: something? No. The advancement of technology and just society as a whole has been steadily increasing for the past a hundred hundred 50 years. So 150 years ago. A war happened in a decade or one major breakthrough, a computer was invented.
+
+But nowadays, 10 years, we've gone through that would be about 15 generations of most modern technologies. Oh gosh. So a lot more happens in a decade nowadays in terms. Sheer mass, not necessarily in terms of importance than it used to. 
+
+Tim Ribaric: So you're conjuring Moore's Law? Is that how you come up with the 15 iterations?
+
+I'm not sure 
+
+Daniel Brett: what Moore's law is. Oh, I just read this on Facebook. 
+
+Tim Ribaric: Oh good prep. You had me thrown off 
+
+Alicia Floyd: there. This is why I should be on Facebook more frequently. That's 
+
+Tim Ribaric: a good answer. No one should be on Facebook more frequently. Yeah, 
+
+Daniel Brett: They say that it's every eight months. A piece of technology becomes obsolete and the newer version replaces it.
+
+So that's approximately 15. I'm not the 
+
+Tim Ribaric: best at math. Okay, so that's a bit of a riff on Moore's Law. Moore was a scientist in the seventies. I think any came up with it to say that every 18 months, the amount of semiconductors you can fit on a chip will double effectively doubling the ability. Processing power.
+
+There's some empirical evidence that supports his, statement. However, we're hitting the wall in terms of creating that level, that amount of gains, because we're hitting like limits based on physics, it can traces on computers are getting so small that they can't cram anymore in without a lot of heat and other things happening.
+
+Moore's Law, look it up. What do you think, Alicia? Is this a good thing to waste our time with? I think 
+
+Alicia Floyd: it's a good topic. I don't have such a brilliant answer as Daniel here. I always like to go back and see what's happened when I'm thinking it's usually it's the past year, like what happened at the beginning of the year.
+
+It'd be interesting to see, to Google a list and see everything that happened in the world. That's, a big deal in the past 10 years and it probably see everything seems so. So far off, 
+
+Tim Ribaric: but yeah, a lot. Yeah, I'm sure the more you think of it, the more crazy stuff will happen. Would've happened.
+
+Will have happened. Did happen is what I'm trying to say. Over the course of 10 years. So with the spirit of that tweet in mind, what we're gonna do is play a game called the end of the decade, dun. So I'm gonna read you some tweet. And you tell me if they were legit responses to this question.
+
+The one that we talked about earlier. There's only one month left in the decade. That one there. Okay. Or if it was just something that I made up. Okay. You ready? You both of you 
+
+Alicia Floyd: ready? Each are we against each other or no? This 
+
+Tim Ribaric: is all for fun. I didn't have enough, 
+
+Alicia Floyd: so 
+
+Tim Ribaric: no competition. I didn't think about putting a scoreboard together.
+
+Okay, here we go. Here's the first one as an example. I have taken many excellent naps. Was that a response to that question or is that something I just made up? I think 
+
+Alicia Floyd: that's a true response. 
+
+Daniel Brett: It's difficult because you are a Twitter person and you are, the way you speak very much relates. To the way people speak on Twitter.
+
+So it would be very difficult to discern the difference between a Twitter comment and you, because you speak in Twitter comments. Ah-ha. 
+
+Tim Ribaric: I see 
+
+Alicia Floyd: you speak in Twitter comment 
+
+Tim Ribaric: language, 280 characters at a time. 
+
+Daniel Brett: Yeah I don't think that's real. I think you probably made 
+
+Tim Ribaric: that up. Ah, I see. Thank you for playing devil's advocate.
+
+It is in fact something from. Woohoo. Daniel Jose Alder. DJ Alder is the the handle on November 13th. Two days afterwards, he said, I've taken many excellent naps. I also would've expected someone to say, Tim, you were talking about yourself because I take prodi naps. All right, so now that we have the rules of the game put together, let's try our second example.
+
+Is this a real tweet or not? Left? My controlling family. Became friends with a young chef, discovered that I can hide in the chef's hat and help him make a famous, help him become a famous chef. Took down an evil chef, convinced a bitter food critic that even though I'm a rat, anyone can cook. That's what do you think?
+
+A plot of tui? Yep. Okay. 
+
+Daniel Brett: Which again is something very internet answer. Sure. We'll say it's a real one then, because that's a little, I can't imagine you watching Ratta Tui. Your kids are 
+
+Tim Ribaric: older than that. Okay. Interesting answer. How about you, Alicia? What do you it's 
+
+Alicia Floyd: not ratta tui, but based on your affinity for ramen noodles, I'm gonna say you made that up.
+
+I feel like you were inspired by your lunches. 
+
+Tim Ribaric: No, that is indeed a tweet I found. Oh, man, I, in response to this by Michael Tanenbaum, I am Tanenbaum is the Twitter handle that was also on the 13th, two days after the original question. All right, so let me dig deep into my list of responses here. Okay, let me try this one on.
+
+On the two of you. Not to be sincerely cheesy, but maybe the greatest achievement of our decade was the friends we made along the. What do you think?
+
+Daniel Brett: I don't think you can make a friend in 10 years. It takes longer than that. Wow. What 
+
+Alicia Floyd: Are you saying we're not friends? 
+
+Daniel Brett: No, we are strong acquaintances. Very firm in our acquaintances. Wow. Give it another eight years and we'll be there or 
+
+Alicia Floyd: so. Do you think he made it up or do you think 
+
+Daniel Brett: it's real? Oh, I think he made it up.
+
+That sounds too cheesy for the. 
+
+Tim Ribaric: Oh, 
+
+Alicia Floyd: okay. Interest. I don't think it's interesting. Too cheesy for the internet at all, but I think he's trying to throw us a curve ball because I can't picture you using, ever commenting that on Twitter. So I think you made it 
+
+Tim Ribaric: up too. Oh, I'm sorry. That is in fact an actual response.
+
+Alicia Floyd: Oh, we're trying to outsmart yet is not working. 
+
+Tim Ribaric: Twitter User, j h Holloway Bones. Snail is it handle also, oh. Yeah, no, I got it sorry. I just have so many responses here. I've gotta keep track of them all. All right. So yes, that was in fact an actual comment someone made on Twitter. Should probably be careful 
+
+Daniel Brett: about that 10 years thing, cuz I only met my wife eight years ago.
+
+Oh, you're in the 
+
+Alicia Floyd: dog house tonight? 
+
+Daniel Brett: Yeah. We're not quite friends yet, but we're married. 
+
+Tim Ribaric: Oh gosh. The other thing that's going as a briefest aside, the other thing that's going around is like people taking pictures of themself from 10 years ago along with a. To, to prove that they've aged or something in posting that to Twitter, boy, that would be disastrous for me and be like, who's that old man?
+
+Who's that young youngster? Full of promise and cheer? Pretty sure I was 
+
+Daniel Brett: a baby 10 years ago. That would be embarrassing. I'd dye blonde 
+
+Tim Ribaric: hair. Oh gosh. All right, back to the questions here. Let me dig up a good one. Okay, here we go. Started the decade leaving primary. Ending the decade having started university, still don't know what I want to do with my life, but at least I survived the worst of the teenage years.
+
+What do you think?
+
+This is a real brain scratcher. You can see the steam coming from the ears of my co-host. 
+
+Alicia Floyd: I think that 
+
+Tim Ribaric: one's. 
+
+Daniel Brett: You think it's real? I don't think it's real. You spend enough time around students just coming into university that you probably could make something like that 
+
+Tim Ribaric: up. Oh, okay. All right. I'm sorry to tell you that it isn't in fact real Twitter user too tall for this universe.
+
+Too tall for this universe. Yeah. Username lack and sad came up with that. It actually had a picture with it too. I can't, I won't attempt to describe the picture, but it was very sad. Interesting teenage mos guess angst. What? Yeah, angst. 
+
+Daniel Brett: Be angst. Okay. 
+
+Tim Ribaric: I missed the angst. I missed the angst.
+
+Those are the good years. Oh my gosh. Good years. Oh my gosh. Okay, here we go. Here's another one. Now I'm gonna challenge you to put your thinking caps on this. On this one. The last year of the decade is 2020, not 2019, because the calendar starts in the year one, not in the year. So the 10 years in the decade are 20 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+
+Stop. Hashtag stop being idiots. 
+
+Alicia Floyd: That's totally yours. I don't 
+
+Tim Ribaric: know. 
+
+Daniel Brett: I don't think he would write that because as far as Tim's concerned, zero is the first number thanks to Python. 
+
+Tim Ribaric: Oh, I see. That's an angle I didn't even consider 
+
+Daniel Brett: because in Python zeros first, whereas in reasonable languages, then one is first.
+
+Ooh. So them's 
+
+Tim Ribaric: fighting words too, in. So what you're saying, Daniel, can I get a clear response 
+
+Daniel Brett: from you? It's unlikely that you did that unless you just forgot about your favorite programming language and the way it I see computers work. 
+
+Tim Ribaric: Oh I hate to burst at least one of your bubbles, but it is in fact a real response.
+
+I 
+
+Daniel Brett: thought so. 
+
+Alicia Floyd: So far you haven't made any up. 
+
+Daniel Brett: That's the trick. Twitter user, 
+
+Tim Ribaric: you didn't make any a 9 86. All right, so let me see. Alright, last one 
+
+Daniel Brett: last. Now he's gonna give us a fake one to throw us off. 
+
+Tim Ribaric: Last one. Okay, here we go. Track down. Woman who murdered my business. Partner reconnected with old girlfriend who I'd lost Tuss, touched with after invasion of France.
+
+Ran charter fishing boat in Martinique Pro prospected for Golden Mexico with mixed success. What do you think?
+
+Daniel Brett: I don't know. Too many commas to be real. It's gotta be you. 
+
+Tim Ribaric: Yeah. Okay. What do you think, Alicia? I think it's real. I think it's real. Oh my gosh. It is in fact real. So telling up the scores, which I promised I wouldn't do we have a dead even tie. And for those listening at. We will have discovered that everything I said was actually a tweet I grabbed from Twitter.
+
+So of the five, is it five that I asked you? All of them were real. Now, what does this prove to you, Alicia? 
+
+Alicia Floyd: That Twitter is a magical universe full of interesting knowledge. 
+
+Tim Ribaric: Don't sugar coat it. Okay. Daniel, what do you, what does it tell you about. 
+
+Daniel Brett: Maybe I should look at it and see what it's all about. 
+
+Alicia Floyd: I really the hashtag stop being Idiots.
+
+Daniel Brett: I feel like if it works the same as like Mastodon, if you clicked on that, you'd probably got a lot of weird stuff. 
+
+Tim Ribaric: I would imagine so. Yeah. 
+
+Alicia Floyd: So how many responses. To that? 
+
+Tim Ribaric: That's a good question. The original tweet has been deleted, so it's a little bit difficult to find. Oh, really Interesting.
+
+I think Tony couldn't stand the the sudden acclaim and fame. And there was at least a few hundred. I remember I was looking through it this morning trying to generate some interesting responses, and there were a few hundred there. Most of them were more sincere than the Redit two E one.
+
+I must say. People were getting pretty honest about what they'd accomplished in a decade. All right That was end of the decade, a Twitter game will never play again.
+
+So this brings us to another por, our next portion of pod, which I was thinking of coming up with something very interesting, a list of things. And then I would've asked the two of you if it existed here in this library a decade ago. And then we would've had a lot of fun coming up with yes or nos, however I didn't get around to it and I don't have good enough memory to be able to tell if something is within the past 10 years or not.
+
+So I'm gonna ask the flip. You two will say stuff about this library, ask me questions about this library, and I can tell you if it was here 10 years ago or not. This is gonna be an interesting experiment because I'm not sure exactly if I'll be able to answer anything in a coherent. So what do you think between the two of you?
+
+Do you have a question for me about if something that's been in the library in the past decade or not, does it have 
+
+Daniel Brett: to be a yes or no? Could we ask 
+
+Tim Ribaric: for details? It'd be better if it was more elaborate than we can talk about it for sure. 
+
+Daniel Brett: Okay. How many different names has the ASCAs Desk had? Oh, in the last 10 years.
+
+Stereo go. 
+
+Tim Ribaric: That's a good one. 
+
+Daniel Brett: Excellent. Because I know it's at least three and I want to know if there's more. 
+
+Tim Ribaric: At least three. When I started in 2006, we had three desks. If you believe it or not, there was a circulation desk where you got your, did your books and stuff. There was a reference. And then there was also a reserves desk when you went to if you needed to have a reserves processed, that was a separate desk.
+
+Oh my gosh. When did that change? I think probably when the learning commons, so that's our ground floor. When that renovation happened in 2008, 2009, and then it became a combined desk. The. The reserves desk got removed. That moved to the circulation desk is part of the same function. It does, and then the reference desk was butted up against it.
+
+So there was one desk with two service points on it. At some point in the past, let's say five years, it morphed into the Ask US desk where there was no longer a distinction between reference desk and circulation. I think. What names? Do you know the desk gas? There was 
+
+Daniel Brett: the library desk. Then there was the one over by the doors.
+
+Tim Ribaric: Oh, yep, 
+
+Daniel Brett: that's right. That one had a different name. And then there was the Ask Gas desk, and that was just while I was here. And that was all, that wasn't like a full-time years. That was like the last eight. 
+
+Tim Ribaric: That's right. Yeah, there is in fact a welcome desk, which was part of the library space, though not staffed all the time by library workers.
+
+There was mostly students there, but you couldn't do any library business there, could you? I don't think so. You just had a smiling face looking at you. You couldn't check out books or ask any research questions or 
+
+Daniel Brett: anything? No, but it was still a library desk with a different name and. I thought there was another name before the Ask us desk, or it like stopped being the Ask us desk and then became something else, and then was Ask us again.
+
+What was it called when I was a student here? It's hard to remember. 
+
+Tim Ribaric: What, how about you, Alicia? What is your memory of the desk? You've been here for some time, haven't you? 
+
+Alicia Floyd: I have the same memory of where there were the three separate desks, the reserves desk, the reference. And I can't remember the circulation desk where it was, or I just remember always being at the reserves desk and the quantity of reserves, which was like thousands and thousands of reserves.
+
+And now the reserves shelf is like one row. Yeah. So it's really gone digital, which is a big 
+
+Tim Ribaric: difference. Go. This is a pretty good demonstration of how much can change in a. We used to have three service points bustling with a lot of shuffling paper around. Now we're down to one service point that has almost next to no paper at it.
+
+That's something else. Very good. Very good question, Daniel. It's almost as if I told you to come up with that one, but in fact I didn't. It 
+
+Daniel Brett: was actually a question. I had my wife here yesterday for lunch, and she worked in the library as a student. So she was saying, oh, it, it's called the Ask us Desk now.
+
+Wasn't it called? And I forget what she said and it, while we were here, it had a different name than Ask us and I don't remember what it was. Ah, but so she was surprised cuz she remembered it changing. 
+
+Tim Ribaric: I, if the two of you remember the reference collection that used to be on the main floor as well?
+
+Is it even there anymore? No. It's outright gone, right? I think so. We used to have piles and piles of encyclopedias and books and. And the reference collection for all you youngsters. That's basically what happened before Wikipedia was a thing, but yeah, that most of the main floor was taken up with the reference collection.
+
+Then it got shrunk down to one range, and then in the past few years it's been removed outright. So yeah, there's no books on the main floor except for the thematic book display and the popular reading collection. Paper is dis dried up in this place. All right, so not to make a big challenge for you, Alicia, but can you come up with another question about what has changed 10 years in this place?
+
+Alicia Floyd: Once again, my question is not nearly as wonderful as Daniel's, but when I went to school here you had to put money onto a printing card. Yeah. Or you could put cash into change. These machines and there were these silver cards and now everything's operated digitally with your student card. So I'm wondering if that change happened in the last 10 years or if it was before 
+
+Tim Ribaric: that.
+
+Good. That's a definitely a great question. I believe that one. Happened in 2012 or 2011, so not that long ago. That 
+
+Daniel Brett: is the silver cards. Were still here when I was here. Yeah, when I started in 2011. Okay. 
+
+Tim Ribaric: So yeah, I do remember like when I was in high school and if you in high school, is that. 15 years ago, 20 years ago, I don't even know if you got accepted in the Brock, they would send you a package of paperwork and inside of the paperwork was one of those gray cards for the print machine with I think a dollar or two on it already.
+
+Yeah, it definitely was around in 98, 99 and then all the way up as Daniel's, you're saying 2011. So 
+
+Daniel Brett: that's when we started, and it was definitely there for the first year. I don't know if it got cycled out during that first year. 
+
+Tim Ribaric: Wow. Yeah. And there used to, actually, here's a peek behind the curtain.
+
+There was two cards, one with red lettering on it, which was the regular rate, and one with green lettering on it, which was the staff rate. So you could save like a penny or two on each of your prints. But I heard about the green card. I've never, I never saw one. And there was, yeah, there was much lore about the fact that it existed.
+
+Alicia Floyd: Did you try to get your hands on one? Oh 
+
+Tim Ribaric: yeah. Back then, you were printing everything. You didn't have a laptop, so you had to bring a stack of papers everywhere you went. It was really trying, but wow, good one. Yeah, that was definitely something less than a decade ago. And I, I I will predict that within a year or two, we won't be doing any money at the desk anymore whatsoever.
+
+Yeah, 
+
+Daniel Brett: they just implemented the flex system now. Yeah. So that's really, a lot of students are switching immediately over to that just cause it's easier 
+
+Tim Ribaric: For sure. Yeah. You got all your other stuff in that system, might as well do your library slash printing things as well. Wow. Great questions both.
+
+Do you have any other questions about, cuz I think it'd be unfair if I asked the question because I'm clearly, I haven't I've worked here that time, so I should have an unfair advantage. So I'm not gonna exercise that unfair advantage. I have a 
+
+Alicia Floyd: question that's a follow up for the desk question.
+
+And I don't remember how this worked when I was a student here. But now the library runs on that liaison model where the librarians are all located up on the 11th floor. Ah, and you would make appointments to see them, or you can drop in. But there's no librarians that work at the ASCAs desk specifically or at a reference location, which you were alluded to earlier.
+
+So I was just wonder. When there was a reference desk separate from a library circulation desk, was it staffed by librarians specifically, or library staff? And then when did that change happen? 
+
+Tim Ribaric: Great question. Yeah. On the main floor, Behind where the reference desk used to be was a little corridor with small set of offices in it where the, at that point there were subject specialist librarians were housed, and that cadre of staff were the only ones that staffed the reference desk.
+
+And it was very, Fluid in that if you were at that desk and someone asked a question and it wasn't your subject specialty, you could just go around the corner and pick your colleague up and ask them to help out, and they were right there. So yeah, that was in fact the case and when it changed was similarly.
+
+In 2009, 2010. So just hitting that decade mark, when we had the first renovation for the library space on the main floor, which I think was around that era, at that point, the offices got moved up to 11 and there were no sort of office space left over on the main floor for the most part. Good question.
+
+Interesting. You, Daniel, do you have a final question for us before we wrap up about the history of this? 
+
+Daniel Brett: How long did those sleep pods last? Oh gosh. Because they came in and then they broke and then they left and I was. Really sad. I never got to play in them. Sleep in them or do work in them, whatever.
+
+Yeah. Use them for their, 
+
+Tim Ribaric: Intended purpose. Yeah. Those, I don't think those, I believe have been here and gone since you've started working with us. They 
+
+Daniel Brett: were, there was broken ones here 
+
+Tim Ribaric: when I started. Yeah. I think the Buse, so the student union brought those. Without any plan about what comes next.
+
+And they were used until they fell apart. And then I imagine they're maybe in someone's dorm room right now. Someone came in and stole them and put them away. I don't know. I'm just guessing, but yeah, good question. 
+
+Alicia Floyd: Yeah. They only lasted a couple months. They broke pretty quickly. A couple months.
+
+Yeah. 
+
+Tim Ribaric: It's some aggressive napping. Yeah. Oof. 
+
+Alicia Floyd: That's the whole napping in a public place thing is weird to me anyways. But it's 
+
+Daniel Brett: not a public place. You're in a. 
+
+Alicia Floyd: People still see your 
+
+Tim Ribaric: legs. It's true. It's a bit 
+
+Alicia Floyd: unnerving. I'm sure if you have restless leg syndrome, the whole world's gonna know. 
+
+Tim Ribaric: I'd be worried about my stuff too.
+
+We, you'd have to like sleep on it. Yeah. Or have your backpack, like front wise and your arms wrapped around it so that no one could pinch anything from it could be. There should 
+
+Daniel Brett: be a better design for a sleep pod with a little code box underneath it for your stuff and. 
+
+Alicia Floyd: In that Google movie, they had some cool, like egg.
+
+They did podd, those egg ones. 
+
+Daniel Brett: Yeah, those would be neat. Oh, those were 
+
+Tim Ribaric: pretty neat. Or like a first class flight, you get that little foldy out thingy, that would be pretty cool. That's a airplane that's, I've never been on 
+
+Daniel Brett: a first class flight. Where have 
+
+Tim Ribaric: I, oh, talking about, I've only 
+
+Alicia Floyd: seen pictures.
+
+I was gonna say, have you done this before? Or have you only seen it 
+
+Tim Ribaric: in movies? Just pretend. I'm sure it doesn't really exist. It's all just I think we've come full circle here. The first question I asked was about naps and we're spending some time talking about napping pods. So I think that's a perfect alpha Omega for our episode here.
+
+So we're gonna take a moment to drop the anchor and thank you for listening, and please join us next time. Hopefully next time we reconvene and meet, we'll have our winter. Workshop schedule all up and ready and we can brag and talk about how much interesting, fun stuff we'll have for you. Available then.
+
+Until next time, thanks for listening.
+

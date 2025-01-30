@@ -1,0 +1,611 @@
+ep13
+===
+
+Tim Ribaric: Welcome to episode 13 of Steering the Digital Scholarship. This is Tim, year, captain for today, and the theme of today's episode is the Nature of Work. We'll be discussing ideas about. Probably something most people will have to do at some point in their life. We'll also be hearing an interview with Martin Chandler, who is our GIS and geospatial librarian here at Brock, and a frequent contributor to DSL activities.
+
+So to start things off let's take a look at jobs that had before. So I'll ask the question. What has been your best job before this one? You notice I say before this one, cuz I don't want you to have to worry about this being the most awesome job ever. Of course. So it's clearly the best job. , how about you Daniel?
+
+How about you go first? 
+
+Daniel Brett: My best job before this one, it's tough. I've had some interesting jobs. I've had a lot of different jobs. Most of them lasted a few months. Or weeks. But my best job was 
+
+Tim Ribaric: actually, oh, wait a minute. Is that something we should be concerned about, ? 
+
+Daniel Brett: No, 
+
+Tim Ribaric: it was sorry, continue on my bad high school 
+
+Daniel Brett: jobs.
+
+Oh, gotcha. Yeah, they were all very temporary. Oh. My best job was the one I had before this one. I spent about two years working for fire monitoring of Canada, which is a dispatch service. Fire monitoring. Effectively they installed and monitored fire protection for buildings and businesses and it was very intimidating, , especially at the beginning because there's literal lives on the line in certain situations, and in other situations it's people's livelihoods.
+
+Entire warehouses can go up in flames in minutes. . The reason I liked it is because from when I went in to when I came out, I had gained so much confidence in myself, and the big thing that they teach you is Snap decision making. Being able to get a signal on your screen or get a call on the phone and have to make a decision based on criteria and knowledge that you've been taught that can potentially save lives.
+
+in a moment's notice. You have to get information, hang up, call the fire department, get all of that going, all in the right order, all within 30 seconds. It was pretty intense, but as a result, I feel like I've gained a lot more confidence and the ability to make decisions more quickly and more educatedly.
+
+Tim Ribaric: Interesting. How about you, Alicia? How would you answer the. , 
+
+Alicia Floyd: Ironically mine is totally opposite of Daniels . I, when I first was thinking about this question, my initial answer was a job I had right before this, which was the archivist at the St. Catherine's Museum in Dwell and Canal Center.
+
+There's so many great things that happen at museums, and it's cool and there's old stuff and I really like old stuff. But I was really trying to think about the place that I worked, that I was the happiest and. So my answer is actually the city of St. Catherine's Parks and Recreation Department. So when I was 15, I got my first job with this department working for the municipality, and it just ballooned into this catchall job where I did all the, so many of the children's programs.
+
+I coached T-Ball for three to five year olds. I ran day camps. I did drop. activities. I did craft days. It's, I can't even tell you. There was a million different programs and activities that I was a part of and I worked there all the way through high school and university and it was just so much fun. And the reasons that I have are that firstly, kids are, in my opinion, the happiest creatures on earth, , they're just awesome.
+
+Martin Chandler: Most 
+
+Tim Ribaric: kids most of the time. Awesome. Not all kids all the 
+
+Alicia Floyd: time. . No. Even when they're cranky, it. At least they're honest about it, so that's why I really like kids. And I got paid to play sports and make crafts and be completely ridiculous and play my favorite childhood games and get dirty. And it's so easy to please a kid.
+
+Just spending time with them and talking to them makes them super happy. So it's not like you're working really hard with, coworkers or the community where you have to. Do all these different things and think outside the box, it's just easy. And it was super gratifying because I feel like at almost every shift there would be a parent that was happy or thankful that you spent that time making their child's day a little extra special.
+
+And Daniel just touched on all the things he learned, which I wasn't even thinking about. I was just thinking about my cheer joy. I definitely learned a lot from this job. I learned patience and I, I learned how to, act like a kid one second, and then talk to adults the next second.
+
+And there's a lot of organization involved and supervision and you learn how to talk to people. And overall, it was just a super amazing experience that I feel really grateful that 
+
+Tim Ribaric: I got to have. Interesting. I'll tell you my favorite job before this one. Of course, caveats. I actually, for a summer I worked with my dad at the Ford plant where he worked.
+
+So I was building cars for the summer. It was exhausting long work, and it was really far away. The plant was in Oakville, so we needed to wake up at four 30 in the morning. And catch a shuttle bus effectively down to the plant, which was like an hour and a half away. Production starts at seven, so you gotta be there super early.
+
+And it was great because all you had to do was the same thing over and over and over again. I was putting a piece of weather stripping on a corridor, and it was eight hours of mind numbing, boredom. And this was before the podcast thing was really popular, so I didn't even have podcasts to listen to, but my gosh was the money.
+
+Great. And expectations were very, , you put the car together and then at the end of the day you walk away. And it was great because that's all you needed to do. And the money was really good. I don't know if I mentioned that. And the hours were not the best. But outside of that job was amazing because it was just doing a thing and not thinking about it.
+
+Which, as a 19 year old boy that appealed to me really strongly for some reason. anyways, so let's turn the page here. And now let's think about our least favorite job, and particularly, once again, I'm giving you the caveat, the least favorite job before this job. . I'm not one to say perhaps this is your least favorite nor best, but any case, Daniel, what's your answer to your least favorite job before this one?
+
+Daniel Brett: If we can't say this, John , then I'm kidding. Of course. My least favorite job. . I worked for a counting service that went into various businesses with a little scanner gun and counted their inventory. So we would go into grocery stores like Zers and we would count everything on the shelves, and then we would scan the barcode and say there was 12.
+
+And then we would scan the barcode of the next can of soup and be like, there are 14 cans. In this, of this type on this shelf, and so on and so forth for days, , , and oh boy. You say mind numbing, repetitive things. It's nice. The problem with this one was, it was mind numbing, repetitive, and you required manual dexterity and speed.
+
+They expected you to do an entire. In a very short amount of time and I couldn't get my fingers to do the gun properly. And my backwards thumbs, they just don't press buttons The way that everyone was like, why don't you just do this? Was your thumb was just like, ah, by thumb it is backwards. This does not function.
+
+Tim Ribaric: for the homeless. Daniel's demonstrating his thumbs pointing back that point back at his face, not towards the rest of his fingers. 
+
+Daniel Brett: Fingers, they're hard. Call the hitchhiker's thumb. It's a perfectly normal thing. , 
+
+. 
+
+But yeah, that. There was that whole aspect of it, which was the work itself was unenjoyable, but also the hours were inconsistent.
+
+And I did not enjoy the people I worked 
+
+Martin Chandler: with. Interesting. That was, that's the full extent, . 
+
+Tim Ribaric: And how about you, Alicia? What was your least favorite job before this one? 
+
+Alicia Floyd: So I had this brilliant idea when I started university that I should make more money because university costs. and I wasn't living at home.
+
+And so aside from working in that parks and rec department, I decided I wanted to make tips somewhere. So my plain and simple answer that I think most people would agree with was bartending. So bartending is a horrific experience. So every single thing that you would expect to happen to a female working as a bartender is exactly what happened.
+
+Oh dear. And it's just that simple. Okay. 
+
+Martin Chandler: Alright. Stay away from bartending . Oh, 
+
+Tim Ribaric: dear. Enough said. Yeah. Surprising absolutely no one, I'm gonna say that my worst, favorite job is the same as my most favorite job. , the position at Ford was great, but as I mentioned, it was my numbing and bad.
+
+But the the thing that puts it over the edge was the animosity. management and the staff. So like you had the union employees and then the management, and they were just goading each other constantly. And the there was no sort of common ground between the two groups. And that made for a lot of trouble because people were following the letter and the letter of the law and it was almost.
+
+It's very difficult to navigate in a unionized environment and respect like that where you're doing production, where the parts that go onto the car cannot be touched by management because those are the rules. So you have to get an intermediary to resolve differences, which was frustrating.
+
+But also as no. I am a very large labor advocate. So the things that I found and experienced in my life at Ford obviously didn't dissuade me from being interested in labor because I'm super into labor stuff here as a librarian and in the profession generally. In contrast, the land is full of contrast or no, wait, in conclusion, this land is full of contrast. That's what I mean to say, . So your best job can also be your worst. now. The reason why I thought to this conversation today about jobs would be interesting is that nowadays things seem to have changed a lot. So back when I was a youngster, perhaps different for Daniel, but probably in Alicia's era as well jobs were traditionally it was easier to describe a person's job and what they did, and it connotated some things when they told you something.
+
+So if someone said police officer or teacher, you understood what. what they meant and what their role was. But nowadays this is getting more difficult. I remember some time ago, probably five or six years ago, I think it was still early part of my career here there, there was a startup whose mission it was to like, explain your job to your parents so you can give them some money, I guess is how it worked.
+
+And then they would explain to your parents what kind of work you did and then that would make you feel better about your parents' relation, your relationship with your parents, or something along those lines. As far as I can tell, the company went. . But, I had this same task with my children, right?
+
+So my daughters will often ask me, they're nine and seven what do you do? And I'll try to, describe some stuff. I don't think they're really interested in the terminology of what digital scholarship is or scholarly communication life cycles or what open access is. So I generally just say I work with computers.
+
+But I know at some point their curiosity's gonna not be satisfied with that answer, and I'm gonna have trouble answering their question about what I do. So to that end, I'm hoping to help, I'm hoping that both of you can help me get to the bottom of this by providing me some examples of how you would go about this task.
+
+Can you describe your job to a nine year old, or how would you describe your job to a nine year old? And Alicia, I'll ask you this one. . 
+
+Alicia Floyd: All right, so this is a pretty good question because I've never had a job that was more difficult to explain than this one. It's so difficult to explain, and the minute that I say the word scholarship, everybody gets all excited and it's oh, you give out free money
+
+And I'm like, no, that's not it. So it's really hard to explain and to describe a job, my job to a nine year old would be tricky. I would probably cheat and do what I've always done with my son, which is bring him into the place I work and show him everything. So when I worked at the museum, I brought him in all the time, showed him all the cool stuff I was working on enrolled him in the activities, this and that.
+
+Here I've already brought him into Brock twice and shown him around, shown to him the maker space where the digital scholarship lab's going to be, the stacks, all the places you can hang out, but if I had to say it in words, here's what I would say. . And then I also realized that, sorry, I also realized that I forget what it.
+
+for a nine year old. Really, like I'm not talking to a four year old here, and I'm not talking to a 12 year old. It's a nine year old, so they still can understand some stuff. So it makes it a little tricky. So I would say I work at a big university that maybe, or hopefully you'll be attending one day. I work with really smart people who help students and their teachers learn new things together, usually using computers.
+
+I also do a lot of things to tell people all about what we can do to help them learn. 
+
+Tim Ribaric: . Very good. That's insightful. Clear , clearly I, that, that blows the, I work with computers right outta the water. , this is my solution. You're welcome, . So Adelaide I know you're gonna listen to this probably 10 years from now and be very embarrassed that your dad had a podcast, but I'm directing this part of the podcast to you and your sister Karina, who I'm sure will turn nine one day in a couple years and have the exact same question.
+
+What do you do at work all day? How about you? Daniel, how would you answer the question? 
+
+Daniel Brett: Okay, so it's not nearly as good as Alicia's, but it's not quite, I work with computers . So I said that I teach people to use technology to do cool things that they want to do. For example, there's this cool tool called Voy.
+
+That reads books for you and tells you the important bits. 
+
+Martin Chandler: Whoa, , uhoh, . 
+
+Tim Ribaric: Wow. So that's 
+
+Daniel Brett: good. I decided to do one chunk, which is a super vague description and then an example that would catch their attention and make them remember, because every nine year old wants something to read their books for them. 
+
+Alicia Floyd: I feel like you should never say that to another film like I have.
+
+I never told. Okay. There used to be a. Tim's daughters, if you're listening, there used to be a thing called Cole's Notes. And Cole's notes was like a very brief summary of, it's called Spark Notes now. Yes. And you would buy this little thing and you could read an entire book in 10 minutes, and now it's, yeah.
+
+Spark Notes online. Don't use it. It's cheating. It's not cheating. And Connor, who, Connor is my son, he still doesn't know. So nobody let him hear this podcast. I make him read all of his books. Oh, . 
+
+Daniel Brett: It's Spark Notes. It's the best. I used it all through high school. . 
+
+Tim Ribaric: You can tell our value what values we have based on, and I'm gonna project like the education we have.
+
+Alicia has spent time reading novels professionally in school, so they have a higher caliber of, she has a higher caliber of respect for them. Daniel and I clearly don't care a lick about novels. I have read 
+
+Daniel Brett: multiple books in my life. 
+
+Tim Ribaric: Oh, sure. I read books, don't get me wrong, but I would never not take a shortcut if I had to write a paper about Hamlet and only found myself the night before.
+
+Cracking the spine on it plays are a whole 
+
+Daniel Brett: different thing. I read plays cover. I 
+
+Alicia Floyd: love plays. I'm such a nerd. I've been sneaking Connor's English books at night while he sleeps, so I can read along with him. , oh dear. 
+
+Daniel Brett: Different folks, different 
+
+Martin Chandler: strokes. 
+
+Tim Ribaric: Oh boy. Wow. Yeah. Geez. . So in commemoration, let's take a little bit of a pivot.
+
+No, as I don't have an answer to this question, so I won't offer one up. Y'all, y'all heard my answer and it was, I work with computers, which is clearly not satisfying enough, nor I'm gonna take the best parts of what Alicia said and what Daniel said, and maybe convince my daughter that I do something important at work.
+
+But let's take a little bit of a pivot from this and to commemorate our 13th episode. What we're gonna do is, Attempt the same exercise with a little bit of economy in mind. So the task is each one of you has 13 words to describe what your job is, and I'm gonna ask Daniel for you to describe your job in under 13 words.
+
+Daniel Brett: All right? After many revisions, I have it in 11 words. Oh, geez. Because I'm a go-getter. I got it. I gotta cut out all the ands 
+
+Martin Chandler: and twos. , 
+
+Tim Ribaric: y'all came to play, boy. Oh boy. All right. Let's 
+
+Daniel Brett: hear it. My job. , I connect researchers to tools and training to accomplish 
+
+Martin Chandler: their 
+
+Tim Ribaric: goals. Nice. Wow. Very good. Very good.
+
+That's as concise as it gets. You could have probably synchronized or some short form some of the words to save a couple syllables, but I don't think you could make it in any less words. All right, Alicia. 
+
+Alicia Floyd: See, I was trying to get exactly 13, so I was gonna say I beat Daniel cause I got exactly 13.
+
+But if it's, if we're playing closest to 13, if it's the smallest amount of words, I don't win. But, okay. So my 13 words are, I coordinate, communicate, and educate people about the digital scholarship lab at Brock. 
+
+Tim Ribaric: Wow. Very cool. I like 
+
+Daniel Brett: that. I didn't even 
+
+Martin Chandler: mention the do . 
+
+Daniel Brett: Too many 
+
+Tim Ribaric: words clearly. Both of you have some skills with putting words and sentences that are of certain length which is great, and describing things to nine year olds.
+
+I am gonna claim Mia Culpa here, and I don't have an answer for this question either, because I would flop around and talk forever until someone says, Tim, you've used 13 words. So I'm gonna stop it right there and congratulate you two for your concise and well thought out answers. So the other thing I was thinking about when you're.
+
+As being a nine year old and being interested in jobs, you have this idea of what your dream job would be. So I'll ask this question, and I do have an answer for this one, dear our listener. So after my colleagues here have answered, I can give you mine. And the question is, what was your dream job when you were nine years old?
+
+Alicia, I'll ask you the question. 
+
+Alicia Floyd: I wanted to be a teacher 
+
+Tim Ribaric: as a dream job. 
+
+Alicia Floyd: Interest. . I used to teach stuffed animals when I was a kid. Okay. I was very nerdy, . 
+
+Tim Ribaric: All right. Daniel, how about you? What was your dream job when you were nine? I wanted to be a veterinarian, a vet? Oh. I thought I was expecting like superhero and space ranger and I grew up on a farm rocket 
+
+Daniel Brett: pilot, and the vet was the coolest person.
+
+Oh, okay. Like we had hundreds of animals and they just walked up and they would just look at the animals. That animal's sick. We're like, what though? It's not. He's that animal's sick. Let me show you. And then they showed us, we're like, oh man, that animal's sick. It was, they were like rock stars.
+
+When you're a farm kid they just show up and they just know everything and they just take control. Oh yeah. Vet was the coolest. I wanted to be a vet so bad, and then I learned that you needed, did your vet wear a cape? He didn't, but he had, or sheep 
+
+Tim Ribaric: a sm on that was sheep. The guts and stuff 
+
+Daniel Brett: off of her.
+
+It was, I think it was a lady vet, but I just remember their coat that they had and it was really cool. 
+
+Tim Ribaric: Neat. Okay, as I promised, I haven't answer to this question and it's gonna sound juvenile when compared to the lofty and ambitious jobs that you two were hopefully could embark upon. And my job was dream job was to be.
+
+Nice. Every I think every boy I imagine most do have a ninja face. And in nine years old, I was deep into my ninja face. Daniel's skin. Did you have an outfit? Did 
+
+Alicia Floyd: you have a ninja outfit? 
+
+Tim Ribaric: Not a whole outfit, but I had a square piece of black cloth that I knew how to tie up as a ninja mask.
+
+Nice. And that was pretty cool. And I asked my dad to make some nunchucks for me, and he did. And then he said, what are you gonna do with these? I'm like I don't know. I'll let. I probably just injured myself more than anything else. . So anyways, ninja dream job when I was nine. Okay, let's fast forward a few more years now.
+
+What's your dream job presently? If I were to ask you the same question without the age restriction, how about you, Alicia? How would you answer? Oh, can I go 
+
+Alicia Floyd: second? Okay. Okay, go Daniel. You got it 
+
+Tim Ribaric: Daniel, because I'm sure you've got the answer. You're gonna say veterinarian again. 
+
+Martin Chandler: No. I 
+
+Daniel Brett: learned very quickly that to be a vet you need to like biology.
+
+I do not like biology. What is my dream job now? astronaut lazy philanthropist, . Oh, 
+
+Tim Ribaric: probably. 
+
+Daniel Brett: It's an awful thing to say, but I would love to just sit around and watch my money grow. That'd be the best job ever. , I know it's not ambitious or, Provoking in way, but that would be so nice. That's good.
+
+I like that wine taster 
+
+Martin Chandler: professionally. A 
+
+Daniel Brett: sommelier? No. That requires you to actually have knowledge. Okay. I sit and I drink bottles of wine . 
+
+Martin Chandler: Okay. So 
+
+Alicia Floyd: a alcoholic philanthropist, . 
+
+Daniel Brett: This one does get you 
+
+Martin Chandler: drunk. 
+
+Tim Ribaric: An amateur level. Yeah. Amateur level booze taster. Yeah, 
+
+Martin Chandler: sure. 
+
+Daniel Brett: Oh I, that probably sounds awful, but that, that, that's the.
+
+That is my dream. Oh, hey, 
+
+Tim Ribaric: dreams are dreams. No one's property except your own. All right, Alicia, you 
+
+Alicia Floyd: stalled enough? Okay, I'm ready. I'm ready. So I, whenever you ask these questions, I wanna say something funny like Daniel, and I'm never funny. I'm always the want to be a teacher person, but I don't know.
+
+I always had, I got a BA in English Lit here at Brock and I really enjoyed it. And then of course I went on and did other things because you go the whole way to, if you wanna do something, with that. And I always wanted to maybe go back and get my PhD and I know I wanted to be a teacher when I was a kid, but I always have this dream of actually being a faculty member and teaching English Lit
+
+So of course then you graduate university and you get a job and you start making money, and then you have a family. And that's not an excuse, but that's why I think a lot of people don't go all the way. And now that I'm here and immersed in this culture it's hard to not have that dream come back.
+
+So who knows? Who knows? Maybe that one day, 
+
+Martin Chandler: I don't 
+
+Tim Ribaric: know. Interesting. It should surprise absolutely no one. That ninja is still really top in my list of dream jobs, even as an adult. I watched enter the Ninja a few years ago and it really reinvigorated my love of Ninja. the ninja lifestyle if such a thing exists.
+
+But to answer the question in a more serious way, because ninja is not a serious answer, my answer would be very similar to Daniel's and that would be just a professional layabout. Just flopping around on my demand watching TV and reading stuff and maybe going outside for a bike ride if the weather's not too hot.
+
+But in all honesty if the Layabout wouldn't work, maybe I would get tired of that after a while. I'd care to be an author. I'm chewing on the greatest Canadian time travel novel, and I just need to write it. So that's the only thing that needs to happen. I just need to write it and then, I'll be popular.
+
+To a very small subset of humans in this country. So that would be my dream job. Yeah. 
+
+Alicia Floyd: I have no idea why I didn't say a writer. That's also my dream job. I was thinking of like an actual professional job. See, there I am with boring again. But no, I've always wanted to write a novel for sure. 
+
+Martin Chandler: If we had to 
+
+Daniel Brett: get like professional with it, I think I'd want to be like a traveling hype man.
+
+Tim Ribaric: Like a flavor of some 
+
+Daniel Brett: sort. No, he's somebody that. 
+
+Martin Chandler: you hype. 
+
+Alicia Floyd: I don't know what that means. Talk 
+
+Daniel Brett: up. Yeah. A hype man is somebody that goes on stage before like flavor fla and then talks up whoever's about to come on. Just like flavor fla. No, he has a hype man for him, and then he hypes up everybody else.
+
+Tim Ribaric: You're part of ecosystem. You find yourself in a chain of hyping. 
+
+Daniel Brett: Exactly. So I want to be somewhere around mid-tier hype. 
+
+Alicia Floyd: Do you wanna wear a giant. 
+
+Daniel Brett: No, that's his thing. You don't steal somebody else's thing. If you wear a big cloth, people like, oh, you ripping out fla flame. 
+
+Tim Ribaric: No. I . I think Daniel would have a poke ball or something on a chain around his hand.
+
+What are be talking about? 
+
+Daniel Brett: I'm not like some 
+
+Tim Ribaric: sort of poke nerd. Oh no. It would be something to do with magic The gathering, I am 
+
+Daniel Brett: a bit of a matter man, nerd. I can't say 
+
+Martin Chandler: anything. 
+
+Tim Ribaric: All right. Okay. Let's, 
+
+Daniel Brett: Professional magic play. That's a bad job, by the way. I wouldn't want that. Too much stress. Let's 
+
+Tim Ribaric: let Daniel stop digging himself in this hole and we'll take a look now to interview I had with Thrive Underground.
+
+We'll throw it now to an interview that I've had with with Martin Chandler, who's our GIS and geospatial librarian here. And he answers very similar set of.
+
+Joining me today is Martin Chandler as his pronun preferred pronunciation. He's told me, and he's the geospatial and GIS services librarian here at Brock University. Martin, why don't you just take a moment to introduce yourself anything you'd like the audience to know about you. 
+
+Martin Chandler: Sure. So I said I'm Martin Chandler.
+
+Or as I was saying to Tim earlier, handler is a, is another fun pronunciation. The Geospatial GIS services librarian. I'm also the newest librarian here at Brock. So I'm holding on to my new person Cap at least until somebody else comes in. Before that I was a student at U of T. Before that, I was a music teacher and before that a musician.
+
+So I've done a few. already before getting into this whole library 
+
+Tim Ribaric: world, which is great because the the theme of our episode this week is the nature of work and jobs and people having jobs and people changing jobs and such. You've come from a very colorful background with lots of work experience outside of the library environment, as you mentioned.
+
+And then if I'll ask, I can ask you. What I'll ask you is what has been your favorite job before this? 
+
+Martin Chandler: So I was trying to think about this one. I think it's a toss, toss up between I was a music teacher for a while, so I was teaching high school music and that was a very enjoyable one.
+
+There was a lot of kind of rewarding things about that. And then another point in time I was a an actor, musician server. Less on the serving side, but the acting musician side was quite a lot of fun. 
+
+Tim Ribaric: That's pretty cool. I guess there's. , if you're acting, you're always slash something else, right?
+
+At least in this world, an environment and perhaps this country. 
+
+Martin Chandler: Yeah, and I was a, I studied classical saxophone when I was doing my undergraduate degree. So in that case, no matter what you're doing, something else, , whether it's another instrument or another job of some kind. In the creative arts, they have what's called a JO job, which is your day-to-day thing that earns you enough money to live aside.
+
+Creative 
+
+Tim Ribaric: passion. That's very interesting. And what about all the people named Joe and the jobs that they have? Are they by de facto all Joe Jobs? That, 
+
+Martin Chandler: that, that's a whole other bit of research that we would have to do in using our digital scholarship and or other 
+
+Tim Ribaric: means. I see what you did there, bringing it back full circle.
+
+Martin Chandler: Okay. Then the things I learned in my acting 
+
+Tim Ribaric: music life, I promise we didn't pre-rehearsed any of this. This, Martin is such a consummate professional. He's just, he can roll with it and comes up with all the stuff off the top of his head. So classical saxophone we delve into that a little bit.
+
+Why, what compelled you to learn the saxophone? 
+
+Martin Chandler: In elementary school we had the option to go into band as many public school students do. And we were tested on what we. perform well on a lot of music teachers do that. So to just to give you the best start that you can.
+
+And one of the instruments I tested was saxophone. I also tested well on clarinet. And I had some of the background knowledge for percussion, but my brother was a percussionist and my parents did not want another drummer in the house, cuz at that point he was, he had a drum set that he would pound away at through the night.
+
+And I think just having two. Hitting things all the time would've been a nightmare. So my mother told me, no drums you have to choose one of the other ones. So saxophone I was decent at. So I said, okay, I'll do that. Interesting. 
+
+Tim Ribaric: Brief follow-up question. How does contemporary saxophone compare to classical saxophone?
+
+Martin Chandler: Oh that's, Contemporary what? Saxophone, what sort of, oh, good question. Genre, because there's contemporary jazz, contemporary pop which would be a very small group now. And then contemporary classical, which would be the 21st century composition. So things that are being written in the past few years would be contemporary classical sex form.
+
+Tim Ribaric: Interesting. I'm clearly out of my depth here. My musical knowledge is pressing play on the mp3. Which is, the extent of what I'm capable of. Very interesting to hear. Can you elaborate a little bit perhaps on your acting career is stuff you enjoyed or had fun with? Yes. We're talking about, dream jobs.
+
+For many, I would say acting is a dream job. 
+
+Martin Chandler: Yes, but I think that sort of might not necessarily know the details of the acting world. So my brother is an actor, so I still have those. ties into the acting world and it's a difficult life. At the time, I was only doing it just as a summer job while I was in university.
+
+. So I was doing dinner theater in Nova Scotia and Prince Rhode Island and doing dinner theater There. You're an actor and a musician and a server, so you have to serve all the food while in character, which Oh, wow. Which does end up being part of the fund is that you get to improv with.
+
+in between acts of the show while keeping the show moving forward and keeping everything. stable, 
+
+Tim Ribaric: . Very interesting. I w I wish I had a previous job experience that would be that compelling to talk about. Un unfortunately, I think everything I've done before this job has been pretty let's say uneventful and uninspired.
+
+Martin Chandler: Please elaborate on that. What's uneventful, uninspired things? 
+
+Tim Ribaric: Oh, no, I've just, I've worked in retail, of course, everyone's premier sort of job out the gate. I was a paper delivery person when I was a youngster. I did that once. Yeah. Which taught me the value of money and collecting.
+
+So that was good. I, I. . I imagine children these days delivering newspapers don't have that problem. I doubt anyone touches money anymore. But it was interesting cuz you'd have to go around and muscle the people that you delivered papers to and make sure they pay you back, which was excellent. And then the other two jobs I've had before this one, one was at a Ford plant as an assembler, which was eye-opening in its own respect.
+
+And then I was also. ? No. I had mentioned I worked in another library at Western University in their science library. So I had a bit of librarian experience before taking on this role. So the the uneventful part is the Ford Assembler. You make one part what you make one car, you do one thing to a car every.
+
+and then you do that repeat for eight hours a day. And then when production was going really well, it would be a 10 hour day. And this was before podcast, mind you. So I didn't even have podcasts to listen to, to take out my time. If nothing else, consequently the only nightmares I have is waking up and being in retail or working like my Ford Drop again.
+
+So it goes without saying. I don't remember those instances fondly. . All right. So then since we're delving into the darker world already here, I'll ask you what has been your least favorite job before this one? 
+
+Martin Chandler: That's a difficult one to answer. So for a period of time, I was a temp worker.
+
+So this was between my time as a music teacher and my time. Library student. I did some temp work. And that was, it was interesting. It gets you around into different workplaces to see how things are. And one of the temp jobs I had was to go through PDFs that had been created of various how to say this without giving too much away subject matter, or.
+
+Company assets, and it was to go through and make sure the PDFs, these large chunks of documents put together and scanned all were of the same subject or what have you. And so it would just be sitting there and clicking the. The forward button to go through each page of the PDF and find, okay, yes, the right thing.
+
+And that was for eight hours a day. Oh golly. Thankfully it was only a three hour or three, three week position. So at the end of the three weeks I said, okay, this was very fun. Thank you very much. If you have other work that you need done, let me know because I need to pay for my housing . But I was glad to be done that one.
+
+probably the other one was I was one of the fabled sandwich artists Oh. Of Subway, which I actually put that in my bio when I was an actor but didn't mention the, the Hitler company and just said I was a sandwich artist. And people would ask, oh, you did your train somewhere special or , all this kind of thing.
+
+And I, that was always a good laugh, was like, no, I just I know how to do the ucu and the hinge. Oh, wow. 
+
+Tim Ribaric: These 
+
+Martin Chandler: have names. It's true. I was right on the border of the switch from the U to the hinge cut. 
+
+Tim Ribaric: So you'll perhaps you have some inside track on this. And this has befuddled me. Why don't they tessellate the cheese anymore?
+
+I 
+
+Martin Chandler: could not tell you. Ah, I have no, I had no view into the inner workings at that point. It was, I was just a low. This was, again, a summer job between high school and university. So I could open the bags of lettuce that came in plastic bags and I could put the tomatoes through the slicer without cutting my hands off, which I think is basically the big, the requirements for being.
+
+A subway person is, don't cut your hands off and open a bag of lettuce. 
+
+Tim Ribaric: You've been listening to Subway Talk . Thanks for joining us in this week's episode. Very interesting. Sponsored 
+
+Martin Chandler: by, yeah, no, yeah. , 
+
+Tim Ribaric: Quiz noses. Get your hot subs at quiz noses. Still around. Who knows? Maybe somewhere . Boy.
+
+Yeah I was always a big fan of the Tesla elated cheese, and I was always curious. I'm sure there's some corporate business logic that required the cheese to be laid out, point to point instead of muscle than nicely. Perhaps there's less cheese used. I think, yeah, 
+
+Martin Chandler: you could probably put more cheese slices or make it look like you have more cheese without.
+
+Putting any more on, 
+
+Tim Ribaric: ah, geez. The artist, the artistry in subway or in submarine sandwich making is really lost. It's not it wasn't the Renaissance era. You're guessing 
+
+Martin Chandler: Renaissance subs, . 
+
+Tim Ribaric: I was. I was also gonna try to go there with the Hitchhikers Guide to the Galax. I forget what book in the series, but it's one where, what's the main character's name?
+
+Tim? Arthur Dent. Arthur Dent. Thank you. Where he goes? There is a, no, there's a Ford in there. No. Is there Tim? I don't know. I can't remember. Where he goes to a mythical planet where all he does is make sandwiches and everyone is in awe, his meditative sandwich making. And anytime I think about, the artistry of sandwich, I also, I always think about 42 and thank you for all the fish kind of thing.
+
+But 
+
+Martin Chandler: Ford I think is the guy who gets dent off of Earth before Earth is destroyed by a 
+
+Tim Ribaric: new freeway. Gotcha. Mostly. All right. So the other thing when we're talking about jobs and jobs in the new era, I often think about how I describe my job to people in my life. So my it's great. My partner also works at Rock University, so I don't have to explain anything to her about my job.
+
+My mom is just very proud of me no matter what. So it's, it's ineffective to describe anything to her, but the one thing. Increasingly having trouble with, and that I seem to come across all the time these days is my eldest, she's about nine now, and she asks me every once in a while what I do and I never have a satisfying answer.
+
+I say, daddy usually works with computers. And then she says why do you have so many laptops and how come you go to conferences so much? And then I try to describe about like how important my work is that necessitates more laptops than hands, and that travel is necessary for a person that works with computers that presumably does a lot of electronic communication.
+
+So anyways, having stated my problem and my attempted solution, I'll ask you the same question. Martin, how do you describe your job or how could you describe your job to a nine year old? 
+
+Martin Chandler: To a nine year old? I think a lot of people have a sense of what a librarian is, even if it's a stereotyped sense or it doesn't really capture what we do there.
+
+There's, there is that sense of, if you say I'm a librarian, then they go, oh yeah, okay, I, I get that. Without kind of knowing all the under things, just like not everyone knows all the underlying stuff of anything else. As a classical saxophonist with your question about contemporary saxophone, what is that?
+
+There's a whole underlying world there that not everyone would understand or know about. Which is getting away from your real question, . So to a nine year old, I would say that I help other people. Usually researchers or I might say scientists, to create maps about what they are researching or 
+
+Tim Ribaric: ing.
+
+Oh, science. What if they were social science? 
+
+Martin Chandler: That's still a science. It's got the 
+
+Tim Ribaric: science right in the name. What if they were humanities in human humanity? 
+
+Martin Chandler: I don't know if they were humanities. 
+
+Tim Ribaric: And I 
+
+Martin Chandler: would say it's still, I would still be helping them to do research. Using maps or using geospatial data. But geospatial might be a bit much for a nine year old, although it depends on the nine year old. But 
+
+Tim Ribaric: see, I'm giving you grief because you have a nice tangible output from your job that is associated with your title and sort of the work you do.
+
+I'm in a touch way jealous because you have that connection to a tangible thing. I, unfortunately, even you. , all of my iterations working at Brock University. I find it very difficult to describe what my actual job is, just cause. 
+
+Martin Chandler: But if I were to try and say oh I collect and provide access to s spatial data what are all of those things gonna be saying to a nine year old?
+
+What is spatial data? It's, it's data that has to do with a place or a location or an area or there's a lot of different things that you could use in there. , that would be a bit much. So I'm really giving the kind of explain like I'm nine version . 
+
+Tim Ribaric: Yeah. tell me, oh yeah, what is it on Reddit?
+
+Explain it to me like a five. Okay. So we're almost double that. So you gotta, you're allowed to have a much larger vocabulary I guess, right? Yeah. Very cool. Interesting. As you may or may not know, this is the 13th episode of the podcast. So to commemorate the 13th episode of the podcast, I gave you the challenge of sort of reduc.
+
+The description of your job into a really abstract way that a nine year old would be able to understand. So I'm gonna give you an even further complicated challenge and ask you to describe your job in under 13 words 
+
+Martin Chandler: to a nine year old or just in general? 
+
+Tim Ribaric: Oh. Take your, follow your heart.
+
+Martin Chandler: Okay. In under 13 words. Oh. Oh, , geez. It doesn't help that you provided me with these only. Five minutes before this 
+
+Tim Ribaric: started. It's the attempt at pretending to be spontaneous, yet being structured enough that we're not just vamping for half hour trying to come up with something, but, 
+
+Martin Chandler: So providing the tools and the providing the tools and components to allow spatial analysis and.
+
+of research. All right. 13 words. Exactly. . 
+
+Tim Ribaric: Impressive. And you used each of those 13 words very effectively. . All right. So you didn't think I could do that, did you? Yeah. I'm very interested to see what happens when I asked someone, thirteen's a pretty arbitrary number. I thought the first question would've been, why 13?
+
+But I set up the the stage enough that it wasn't a question for you. Maybe 
+
+Martin Chandler: every future episode should be that episode number, and you can describe in that, in any words, some sort of thing, 
+
+Tim Ribaric: eh, I guess by 
+
+Martin Chandler: episode. 26 people will start to have an easier time. 
+
+Tim Ribaric: When we hit like the 400 s and 500 s, it might be very tricky.
+
+People would have to come prepared with a, short answer submission and, few page essay to, to answer the questions, but monologue, yeah. There you go. 
+
+Martin Chandler: Writer. And I am Beck Penter, please. 
+
+Tim Ribaric: All right. 
+
+Martin Chandler: I have late, but therefore I know not to begun mapping things. . 
+
+Tim Ribaric: That's quality pod
+
+Alright we started off or we had mentioned a few minutes ago about this idea of about a nine year old and their understanding of work and jobs. So I'll ask you the same question with two frames of mine. So I'll ask you, what was your dream job when you were nine? 
+
+Martin Chandler: Let's see, when I was nine, I would've been in grade three, I think grade two or grade three.
+
+Grade two, I think I was doing some writing, so I wanted to be a writer. Ah, grade three, we had a pretty hefty component on whale, and I was really interested in whale, so I guess an oceanographer without understanding what that word was or meant. I went through different iterations too, archeologist, of course, for finding dinosaurs because every young child wants to be an archeologist to find.
+
+and astronaut came along at one point. . Okay. Very 
+
+Tim Ribaric: briefly. I was worried there. You had all grounded mature examples, but I'm happy to hear you're get, you're getting into the abstract a little bit. 
+
+Martin Chandler: When I was in, in my later elementary days, like grade five, so I wanted to be a mathematician.
+
+Oh. Cause I was enjoying the math stuff. And then subsequently, in junior high and high school, went entirely in the other direction. Went into the arts. didn't really take any other math courses after high school. . 
+
+Tim Ribaric: Interesting. So the the contrast to that, what would be your dream job nowadays?
+
+Astronaut, mathematician, still. That's, it, we're overlooking the fact that the jobs we have right now are our dream jobs. Yeah. We're assuming some other position. Yes, exactly. So we're in the realm of anything is possible and we want to cook up what our dream job would be without any kind of restrictions whatsoever.
+
+Martin Chandler: Whew. That one's a tough one. If I could be someone who oversees the means. production, advancing good in the world or the means of production, I guess you could say Both are interrelated in some ways, but I guess it would be like a philanthropist in a way, but one that could do more than what philanthropy does, if that makes sense.
+
+Could. Could direct things, in, in the ways that they need to advance both immediate and long term Good. 
+
+Tim Ribaric: So philanthropy plus are some are ahead of the UN or no, 
+
+Martin Chandler: not the un. The UN has a very particular goal, which is very much related to good, but is not broad enough for my.
+
+I wonder, basically I want to do more than the un. 
+
+Tim Ribaric: Oh. Do you have a hidden mountain layer that you'd be conducting this business from? 
+
+Martin Chandler: Unfortunately, I don't. Oh, okay. But I am aware of a couple of deepen bunkers that are in various states of use, so I think will. There's more than one bunker.
+
+There are. There are. Oh. Because at any point in time, the government could be in various places, so Oh, gotcha. As much as there's, the bunker in Ottawa I know there's one in De Burt, which is just outside of Truro, Nova Scotia. Oh, okay. Which is about an hour north of Halifax. Where's there another one in the prairies?
+
+I think there's one in Manitoba and. I'm not sure where else they would be. 
+
+Tim Ribaric: Oh wow. Okay. I'm, I've been misinformed on the quantity and quality of deepen bunkers across this country. I was just familiar with the one in Ottawa on account of the, they have tours there. And such. So you have to check on 
+
+Martin Chandler: that Manitoba one cause I'm not a hundred percent sure of that.
+
+Tim Ribaric: Interesting. Maybe there's a conspiracy involved here and maybe that could be the dream job is, investigating the DEA bunkers, I dunno, . 
+
+Martin Chandler: We're preparing them 
+
+Tim Ribaric: for the inevitability? Yeah. Of of what happens when class classical saxophonists don't have, I don't know. We'll need classical saxophones in those bunkers to provide us music when you know we're using them so that life will have meaning.
+
+I guess I thought you were taking 
+
+Martin Chandler: that in a direction of like classical saxophonists. They're gonna bring about the con of the, of course thrill. And I don't know how that would 
+
+Tim Ribaric: happen because I think they. Enjoy and love humanity too much to be a kid wolf of something. 
+
+Martin Chandler: Yeah. And they don't have enough money either.
+
+Yeah, exactly. There's no, I don't know. Any classical saxophone is too, has enough to do something like that. 
+
+Tim Ribaric: Yeah. Yep. I gotcha. They all, they're all, spending those time at those Joe jobs. . All right, Martin, thanks for joining us today. Look forward to seeing you around in the DSL in the upcoming months.
+
+Any final shout outs or things you. Mentioned to our listening audience. 
+
+Martin Chandler: I was trying to think of someplace that I could bring it in, but I didn't get to bring in the fact that my very first job was as a potato peeler. Wow. I peeled potatoes for a chip truck or fried truck, and I was below the legal age for being employed.
+
+So I will not disclose who or where or when this was, but as we're talking about, Potato peeling kit 
+
+Tim Ribaric: did. Oh, I thought you would have a potato descaling technician or something along those lines and really trumped up to job title. It was 
+
+Martin Chandler: A machine that we use. So you basically, it's this kind of metal tub that you put your potatoes into and you put some water in and you put some or what did I have to do first?
+
+I had to make the water with a particular chemical solution. And soak the potatoes in that. And then I would put them in the metal tub and it would spin the potatoes around and you poured water on top and then put a little bucket underneath it cuz the sludge would come out. And if you forget at the, forget the bucket, then the sludge comes out all over the lawn and it's a terrible thing.
+
+, you never forget the bucket. And then you have to rinse the potatoes off. Of course, afterwards you have to put them into water to get rid of all the chemical stuff. 
+
+Tim Ribaric: Interesting. I was gonna say and keep them from Browning as well. I had this image in my mind of a little lad sitting with a potato knife in his hand.
+
+Peeling one of these at a time, probably whistling a jaunty tune as he did his job. But apparently you can do potato peeling on scale using technology. I should have known robots. I've 
+
+Martin Chandler: been taking away our jobs for. Decades. 
+
+Tim Ribaric: All right. So thank you for listening to fast Food Cast. Remember to have a submarine sandwich and to enjoy your chippy, your local chippy.
+
+You never know what kind of underage employee might be benefiting from your purchase of potatoes. A fried in the French Way, Scott Turk . All right, thanks everyone.
+
+All right. That was illuminating. Let's end off today's episode by talking about some upcoming events and we're choco block with new stuff coming up. So we had a little bit of a. I wouldn't even say hiatus. We are just in a crouching down an attack pose, getting ready for different events. And lo and behold, we have three on the calendar so far.
+
+June 24th, our introduction to data science using Cy Hub data will be held in the library on June 3rd. Daniel will be running a session, the introduction to R, which is something to do with pirates as far as I can understand. Third, isn't it July 3rd? I apologize if I said that June 3rd was 
+
+Daniel Brett: that was yesterday.
+
+That was 
+
+Tim Ribaric: yesterday. . Oh, mama. Okay. July 3rd. Daniel will be doing his introduction to r and on July 17th Alicia will be running her introduction to data visualization workshop again. And the great thing is you can find all the details about our workshops and various other services we offer on brocky.ca/library/ds.
+
+And any other kind of social media platform you can imagine. So we'll take the opportunity now to drop the anchor, and thanks for joining this week. Thanks for joining us this week.
+
