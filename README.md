@@ -7,7 +7,7 @@ Topic 4 is the most popular. Episode 9, 18, 19, 25 & 40 are extreme outliers.
 ![heatmap](heatmap.png)
 
 ## LDA output
-[LDA Topic Explorer]("STDS_topics.html)
+[LDA Topic Explorer](STDS_topics.html)
 
 
 ## Topic keywords
@@ -45,3 +45,7 @@ Topic  10
 Topic  11
 ['really', 'evan_williamson', 'metadata', 'template', 'devin_becker', 'collection', 'olivia_wikle', 'work', 'sheet'] 
 ```
+
+## Colab Notebook
+
+[STDS_Transcipt_Analysis.ipynb](STDS_Transcipt_Analysis.ipynb)
