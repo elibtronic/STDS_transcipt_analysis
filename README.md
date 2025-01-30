@@ -45,12 +45,12 @@ Topic  11
 
 ## Colab Notebook
 
-[STDS_Transcipt_Analysis.ipynb](STDS_Transcipt_Analysis.ipynb)
+[STDS\_Transcipt\_Analysis.ipynb](STDS\_Transcipt\_Analysis.ipynb)
 
 
 ## LDA model
 
-
+<html>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bmabey/pyLDAvis@3.4.0/pyLDAvis/js/ldavis.v1.0.0.css">
 
 
@@ -91,3 +91,4 @@ if(typeof(LDAvis) !== "undefined"){
          });
 }
 </script>
+</html>
